@@ -205,4 +205,4 @@ Esse site, baseado em ASP.NET, reforça a adaptabilidade da solução, já que u
 ---
 # Autor
 
-Christian Delucca – candidato a vaga de estágio
+Christian Delucca

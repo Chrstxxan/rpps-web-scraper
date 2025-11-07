@@ -1,0 +1,408 @@
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111002
+Segmento: Investimentos no Exterior Tipo de ativo: Fundo de Ações BDR Nível 1 - Art. 9º-A, III
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 17.502.937/0001-68 - FUNDO DE INVESTIMENTO EM ACOES CAIXA INSTITUCIONAL
+BDR NIVEL I
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 30/11/2021 Data da liquidação: 30/11/2021
+Quantidade antes: 2.051.872,4875790700 Quantidade após: 2.418.716,8063635100
+Quantidade: 366.844,3187844400 Valor: R$ 6,74
+Valor da operação: R$ 2.470.929,80
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 3.764.762.598,77
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação no Fundo de Investimento FIA CAIXA INSTITUCIONAL BDR NÍVEL I, proveniente do aporte
+para equacionamento do déficit atuarial.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 032/2021, visa buscar uma descorrelação com o cenário
+doméstico, pois mesmo com o dólar apreciado, uma queda do câmbio, só viria em um cenário de
+diminuição de riscos, e caso ocorra, a posição de bolsa tanto externa quanto Brasil devem compensar
+o efeito da carteira.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:04
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:13
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94530&crc=3AB6AE19, informando o Código Verificador: 94530 e o
+Código CRC: 3AB6AE19.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111001
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 14.386.926/0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 09/11/2021 Data da liquidação: 09/11/2021
+Quantidade antes: 16.041.994,0562880000 Quantidade após: 16.188.571,4993080000
+Quantidade: 146.577,4430200000 Valor: R$ 2,45
+Valor da operação: R$ 358.871,71
+Ag./Conta: 0726 / 494-0 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.172.737.583,72
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação no Fundo de Investimento FI CAIXA BRASIL IDKA IPCA 2A TÍTULOS PÚBLICOS RF LP,
+proveniente da compensação previdenciária.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 031/2021, visa usufruir do carrego de inflação projetada
+combinado com a curva de juros reais e por se tratar de Fundo com vencimentos mais curtos, se
+torna menos volátil podendo ser resgatado para fazer frente às despesas com a folha de pagamento
+dos aposentados e pensionistas.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:04
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:14
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=93869&crc=3BD14982, informando o Código Verificador: 93869 e o
+Código CRC: 3BD14982.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111003
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 05/11/2021 Data da liquidação: 05/11/2021
+Quantidade antes: 1.476.827,5002400000 Quantidade após: 4.221.815,1905690000
+Quantidade: 2.744.987,6903290000 Valor: R$ 1,50
+Valor da operação: R$ 4.116.476,87
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 1.517.880.931,86
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação no Fundo de Investimento FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI,
+provenientes da contribuição do servidor e patronal referente a competência outubro/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação tem por objetivo a formação de caixa para fazer frente ao pagamento da folha de
+benefícios. Aprovada pelo Comitê de Investimentos ATA nº031/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:46
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:46
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:13
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94943&crc=FD359274, informando o Código Verificador: 94943 e o
+Código CRC: FD359274.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111004
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 10/11/2021 Data da liquidação: 10/11/2021
+Quantidade antes: 766.627,2013090000 Quantidade após: 4.221.815,1905690000
+Quantidade: 3.455.187,9892600000 Valor: R$ 1,50
+Valor da operação: R$ 5.186.202,62
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 1.539.724.025,88
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação no Fundo de Investimento FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI,
+proveniente de desinvestimento do FI CAIXA BRASIL IMA-B TÍTULOS PÚBLICOS RF LP.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação tem por objetivo a formação de caixa para fazer frente ao pagamento da folha de
+benefícios. Aprovada pelo Comitê de Investimentos ATA nº031/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:46
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:46
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:13
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94951&crc=BAF08E75, informando o Código Verificador: 94951 e o
+Código CRC: BAF08E75.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111005
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 10/11/2021 Data da liquidação: 10/11/2021
+Quantidade antes: 4.211.832,2126680000 Quantidade após: 4.221.815,1905690000
+Quantidade: 9.982,9779010000 Valor: R$ 1,50
+Valor da operação: R$ 14.984,35
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 1.539.724.025,88
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação no Fundo de Investimento FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI,
+proveniente da parcela referente ao contrato com a Caixa Econômica Federal para operacionalização
+da Folha de Pagamento de benefícios.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação tem por objetivo a formação de caixa para fazer frente ao pagamento da folha de
+benefícios. Aprovada pelo Comitê de Investimentos ATA nº031/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:46
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:46
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:14
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94953&crc=64BBB800, informando o Código Verificador: 94953 e o
+Código CRC: 64BBB800.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111006
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 26/11/2021 Data da liquidação: 26/11/2021
+Quantidade antes: 5.762.305,5184480000 Quantidade após: 4.221.815,1905690000
+Quantidade: 1.540.490,3278790000 Valor: R$ 1,51
+Valor da operação: R$ 2.320.000,00
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 1.539.211.033,46
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate no Fundo de Investimento FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI, para
+pagamento da folha de benefícios do mês de novembro/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 032/2021 por se trata de Fundo com pouca volatilidade
+sendo compatível para movimentação de caixa.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:46
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:46
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:14
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94961&crc=3AF587D9, informando o Código Verificador: 94961 e o
+Código CRC: 3AF587D9.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111007
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 29/11/2021 Data da liquidação: 29/11/2021
+Quantidade antes: 4.669.668,3296110000 Quantidade após: 4.221.815,1905690000
+Quantidade: 447.853,1390420000 Valor: R$ 1,51
+Valor da operação: R$ 674.679,11
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 1.525.415.296,60
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate no Fundo de Investimento FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI, para
+pagamento da folha de benefícios do mês de novembro/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 032/2021 por se trata de Fundo com pouca volatilidade
+sendo compatível para movimentação de caixa.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:34:11
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:34:10
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:13
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94972&crc=B1CCCB64, informando o Código Verificador: 94972 e o
+Código CRC: B1CCCB64.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111000
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 10.740.658/0001-93 - FUNDO DE INVESTIMENTO CAIXA BRASIL IMA-B TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 09/11/2021 Data da liquidação: 09/11/2021
+Quantidade antes: 9.873.420,9839890000 Quantidade após: 8.420.013,9148010000
+Quantidade: 1.453.407,0691880000 Valor: R$ 3,57
+Valor da operação: R$ 5.186.202,62
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 4.867.557.643,92
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate no Fundo de Investimento FI CAIXA BRASIL IMA-B TÍTULOS PÚBLICOS RF LP e aplicação
+concomitante no FUNDO DE INVESTIMENTO CAIXA BRASIL MATRIZ RENDA FI.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 031/2021, a operação tem por objetivo a disponibilidade de
+recursos em ativos que sejam menos voláteis podendo ser regatados para o pagamento da folha de
+benefícios.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:03
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:14
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=93931&crc=F94801FA, informando o Código Verificador: 93931 e o
+Código CRC: F94801FA.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2111001
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 11.060.913/0001-10 - FUNDO DE INVESTIMENTO CAIXA BRASIL IMA-B 5 TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 26/11/2021 Data da liquidação: 26/11/2021
+Quantidade antes: 10.445.656,9030510000 Quantidade após: 8.410.041,1916930000
+Quantidade: 2.035.615,7113580000 Valor: R$ 3,33
+Valor da operação: R$ 6.783.903,10
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.895.067.224,48
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate no Fundo de Investimento FI CAIXA BRASIL IMA-B 5 TÍTULOS PÚBLICOS RF LP, para
+pagamento da folha de benefícios do mês de novembro/2021 e parcela do décimo terceiro 2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 032/2021, em virtude de que entre os Fundos investidos na
+conta 492-4 neste momento tem-se a oportunidade de Resgate total do Fundo Brasil IMA-B 5,
+aproveitando a rentabilidade do mês e reduzindo a volatilidade dos recursos para pagamento de
+folha.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 22/12/2021 11:33:04
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 22/12/2021 11:33:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 22/12/2021 11:36:14
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=94254&crc=60EAE680, informando o Código Verificador: 94254 e o
+Código CRC: 60EAE680.

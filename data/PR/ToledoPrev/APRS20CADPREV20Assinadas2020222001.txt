@@ -1,0 +1,434 @@
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201067
+Segmento: InvestimentosEstruturados
+Tipodeativo: FundosdeInvestimentoMultimercado(FIM)-Art.10,I
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 42.813.674/0001-55-RIOBRAAAVOPROTECAOFUNDODEINVESTIMENTO
+MULLLTIMERCADO
+OPERAÇÃO
+Tipodeoperação: Aplicação
+Datadaoperação: 27/01/2022 Datadaliquidação: 27/01/2022
+Quantidadeantes: 0,0000000000 Quantidadeapós: 3.994.451,7065795000
+Quantidade: 3.994.451,7065795000 Valor: R$1,00
+Valordaoperação: R$4.000.000,00
+Ag./Conta: 0726/708-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$84.056.597,18
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+AplicaçãoNACONTTTA708-7novalordeR$4.000.000,00(quatromilhõesdereais),noFundode
+InvestimentoRIOBRAAAVOPROTEÇÃOFIMULLLTIMERCADO.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA004/2022,porpermitirretornoscompatíííveisaoderenda
+variávelcomproteçãodocapitalinvestido,poismesmoqueabolsatenhadesempenhonegativono
+períodooretornoparaacarteiraserápositivopoiscontacomlastroemtítulospúblicosfederaise
+parâmetroscondizentescomosobjetivosparaacarteiradoTOLEDOPREV
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:44:33
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:44:33
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171382&crc=8001F2BA,informandooCódigoVerificador:171382eo
+CódigoCRC:8001F2BA.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201062
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimentoemRendaFixa-Geral-Art.7º,III,a
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 23.215.008/0001-70-CAIXABRASILMAAATRIZFIRENDAFIXA
+OPERAÇÃO
+Tipodeoperação: Resgate
+Datadaoperação: 27/01/2022 Datadaliquidação: 27/01/2022
+Quantidadeantes: 14.222.080,9167290000 Quantidadeapós: 10.301.312,8965190000
+Quantidade: 3.920.768,0202100000 Valor: R$1,53
+Valordaoperação: R$5.999.092,65
+Ag./Conta: 0726/492-4-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$1.726.156.664,93
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Resgatenaconta492-4novalordeR$5.999.092,65(cincomilhões,novecentosenoventaenovemile
+noventaedoisreaisesessentaecincocentavos),noFundodeInvestimentoFUNDODE
+INVESTIMENTOCAIXABRASILMAAATRIZRENDAFI,paraopagamentodebenefíciosdomêsde
+janeiro/2022.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA005/2022,aopçãoderesgatedesteFundoconsiderouo
+cenárioeconômicoatual,porsetratardeumFundolíquidoepoucovolátilécompatííívelcoma
+movimentaçãodecaixa.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:44:33
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:44:33
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171367&crc=D77986A5,informandooCódigoVerificador:171367eo
+CódigoCRC:D77986A5.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201058
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimento-100%TítulosPúblicosSELIC-Art.7º,I,b
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 14.386.926/0001-71-FUNDODEINVESTIMENTOCAIXABRASILIDKKKAIPCA2ATITULOS
+PUBLICOSRENDAFIXALONGOPRAZO
+OPERAÇÃO
+Tipodeoperação: Aplicação
+Datadaoperação: 11/01/2022 Datadaliquidação: 11/01/2022
+Quantidadeantes: 14.206.025,3793900000 Quantidadeapós: 14.349.552,5837650000
+Quantidade: 143.527,2043750000 Valor: R$2,50
+Valordaoperação: R$359.108,51
+Ag./Conta: 0726/494-0-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$10.986.662.866,94
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Aplicaçãonaconta494-0novalordeR$359.108,51(trezentosecinquentaenovemilecentoeoito
+reaisecinquentaeumcentavos),noFundodeInvestimentoFICAIXABRASILIDKKKAIPCA2ATÍTULOS
+PÚBLICOSRFLPPP,0provenientedacompensaçãoprevidenciária.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+:OperaçãoaprovadapeloCIconformeAAATTTA002/2022,visausufruirdocarregodeinflaçãoprojetada
+combinadocomacurvadejurosreaiseporsetratardeFundocomvencimentosmaiscurtos,setorna
+menosvolátil.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:42:16
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:43:04
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171327&crc=744EF424,informandooCódigoVerificador:171327eo
+CódigoCRC:744EF424.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201058
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimento-100%TítulosPúblicosSELIC-Art.7º,I,b
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 11.060.913/0001-10-FUNDODEINVESTIMENTOCAIXABRASILIMA-B5TITULOS
+PUBLICOSRENDAFIXALONGOPRAZO
+OPERAÇÃO
+Tipodeoperação: Aplicação
+Datadaoperação: 14/01/2022 Datadaliquidação: 14/01/2022
+Quantidadeantes: 8.410.041,1916930000 Quantidadeapós: 8.583.978,6587190000
+Quantidade: 173.937,4670260000 Valor: R$3,37
+Valordaoperação: R$585.862,96
+Ag./Conta: 0726/496-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$12.356.337.866,93
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Aplicaçãonaconta496-7novalordeR$585.862,96(quinhentoseoitentaecincomileoitocentose
+sessentaedoisreaisenoventaeseiscentavos),noFundodeInvestimentoFICAIXABRASILIMA-B5
+TÍTULOSPÚBLICOSRFLPPP,provenientededesinvestimentonoFundoCaixaAlocaçãoMacro
+MultimercadoLPPP.
+ibilid d d li ã b i õ f d
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA003/2022,comointuitodenãocomprometerolimitedo
+segmentoMultimercadoeevitarumpossíííveldesenquadramentopassivo,considerandoaindauma
+possííívelpioradoambientefiscaltendendoapressionarainflação,apropostadealocaçãofoioFundo
+CaixaBrasilIMA-B5TítulosPúblicosRFLPPP,portratar-sedeativoqueacompanhaavariaçãodoIPCA.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:43:04
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:43:04
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171335&crc=E0384A88,informandooCódigoVerificador:171335eo
+CódigoCRC:E0384A88.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201056
+Segmento: InvestimentosEstruturados
+Tipodeativo: FundosdeInvestimentoMultimercado(FIM)-Art.10,I
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 08.070.841/0001-87-CAIXAALOCAÇÃOMACROFICMULLLTIMERCADOLP
+OPERAÇÃO
+Tipodeoperação: Resgate
+Datadaoperação: 11/01/2022 Datadaliquidação: 11/01/2022
+Quantidadeantes: 166.311,4807800000 Quantidadeapós: 0,0000000000
+Quantidade: 166.311,4807800000 Valor: R$3,52
+Valordaoperação: R$585.862,96
+Ag./Conta: 0726/496-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$3.349.626.526,22
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Resgatenaconta496-7novalordeR$585.862,96(quinhentoseoitentaecincomileoitocentose
+sessentaedoisreaisenoventaeseiscentavos),noFundodeInvestimentoFICCAIXAALOCACAO
+MACROMULLLTIMERCADOLPPP,provenientededesinvestimentoeaplicaçãoconcomitantenoFundoCaixa
+BrasilIMA-B5.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA002/2022,aopçãodedesinvestimentodecorredofatode
+queoFundonãovemapresentandoperformancecompatííívelcomametaatuarialecomo
+desinvestimentoabremargemparaoportunidadesemestratégiascomperformancemaisaderentes
+aocenárioatual.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:43:04
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:43:04
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171330&crc=CD24024D,informandooCódigoVerificador:171330eo
+CódigoCRC:CD24024D.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201057
+Segmento: InvestimentosEstruturados
+Tipodeativo: FundosdeInvestimentoMultimercado(FIM)-Art.10,I
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 08.070.841/0001-87-CAIXAALOCAÇÃOMACROFICMULLLTIMERCADOLP
+OPERAÇÃO
+Tipodeoperação: Resgate
+Datadaoperação: 11/01/2022 Datadaliquidação: 11/01/2022
+Quantidadeantes: 1.121.496,8270510000 Quantidadeapós: 0,0000000000
+Quantidade: 1.121.496,8270510000 Valor: R$3,52
+Valordaoperação: R$3.950.680,05
+Ag./Conta: 0726/708-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$3.349.626.526,22
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Resgatenaconta708-7novalordeR$3.950.680,05(trêsmilhões,novecentosecinquentamile
+seiscentoseoitentareaisecincocentavos),noFundodeInvestimentoFICCAIXAALOCACAOMACRO
+MULLLTIMERCADOLPPP,provenientededesinvestimentoeaplicaçãoconcomitantenoFundoCaixaMatriz
+RFenquantoaguardajaneladeinvestimentonoFundoRioBravoProteçãoFIMultimercado.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA002/2022,aopçãodedesinvestimentodecorredofatode
+queoFundonãovemapresentandoperformancecompatííívelcomametaatuarialecomo
+desinvestimentoabremargemparaoportunidadesemestratégiascomperformancemaisaderentes
+aocenárioatual.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:43:04
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:43:04
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171332&crc=C19F2F2E,informandooCódigoVerificador:171332eo
+CódigoCRC:C19F2F2E.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201059
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimentoemRendaFixa-Geral-Art.7º,III,a
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 23.215.008/0001-70-CAIXABRASILMAAATRIZFIRENDAFIXA
+OPERAÇÃO
+Tipodeoperação: Aplicação
+Datadaoperação: 14/01/2022 Datadaliquidação: 14/01/2022
+Quantidadeantes: 7.709.197,0508540000 Quantidadeapós: 10.301.312,8965190000
+Quantidade: 2.592.115,8456650000 Valor: R$1,52
+Valordaoperação: R$3.950.680,05
+Ag./Conta: 0726/708-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$1.681.561.535,63
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Aplicaçãonaconta708-7novalordeR$3.950.680,05(trêsmilhões,novecentosecinquentamile
+seiscentoseoitentareaisecincocentavos),noFundodeInvestimentoFUNDODEINVESTIMENTO
+CAIXABRASILMAAATRIZRENDAFI,
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA003/2022,compatííívelparamovimentaçãodecaixa,atéa
+tomadadedecisãoquantosuarealocação.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:43:04
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:43:04
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171336&crc=C71B5A2E,informandooCódigoVerificador:171336eo
+CódigoCRC:C71B5A2E.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201061
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimentoemRendaFixa-Geral-Art.7º,III,a
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 23.215.008/0001-70-CAIXABRASILMAAATRIZFIRENDAFIXA
+OPERAÇÃO
+Tipodeoperação: Aplicação
+Datadaoperação: 27/01/2022 Datadaliquidação: 27/01/2022
+Quantidadeantes: 8.309.062,0156840000 Quantidadeapós: 10.301.312,8965190000
+Quantidade: 1.992.250,8808350000 Valor: R$1,53
+Valordaoperação: R$3.048.305,22
+Ag./Conta: 0726/708-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$1.726.156.664,93
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Aplicaçãonaconta708-7novalordeR$3.048.305,22(trêsmilhões,quarentaeoitomiletrezentose
+cincoreaisevinteedoiscentavos),noFundodeInvestimentoFUNDODEINVESTIMENTOCAIXA
+BRASILMAAATRIZRENDAFI,provenientedoaportefinanceiroparaequacionamentododéficitatuarial.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+OperaçãoaprovadapeloCIconformeAAATTTA005/2022,apósasconsideraçõessobreasoportunidadesde
+investimentonarendafixa,considerandoodesempenhodoFundoBrasilMatrizRFdiantedaaltada
+taxadejuros,aopçãofoideaproveitaraoportunidadedeinvestimentoscomretornocompatííívela
+metaatuarialsemriscoadicionalacarteiradeinvestimentos.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:44:33
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:44:33
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:13
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171373&crc=4E304C3B,informandooCódigoVerificador:171373eo
+CódigoCRC:4E304C3B.
+SECRETTTARIADEPREVIDÊNCIA-SPREV
+CADPREV
+AUTORIZAÇÃODEAPLICAÇÃOERESGAAATE-APR
+ENTE: 76.205.806/0001-88-Toledo UF: PR :
+Número: A2201060
+Segmento: RendaFixa
+Tipodeativo: FundosdeInvestimentoemRendaFixa-Geral-Art.7º,III,a
+Fundoconstituííído: ---
+Carteiraadministrada: ---
+Foiobservadaacompatibilidadedosativosinvestidoscomosprazosetaxasdasobrigações
+presentesefuturasdoRPPS:
+Sim
+IDENTIFICAÇÃO DO AAATIVO
+Identificação: 23.215.008/0001-70-CAIXABRASILMAAATRIZFIRENDAFIXA
+OPERAÇÃO
+Tipodeoperação: Resgate
+Datadaoperação: 26/01/2022 Datadaliquidação: 26/01/2022
+Quantidadeantes: 12.893.428,7421840000 Quantidadeapós: 10.301.312,8965190000
+Quantidade: 2.592.115,8456650000 Valor: R$1,53
+Valordaoperação: R$3.964.856,33
+Ag./Conta: 0726/708-7-104CaixaEconômicaFederal
+Patrimôniolíííquidodofundo: R$1.744.368.268,04
+DADOSDAOPERAÇÃO
+Descriçãodaoperação:
+Resgatenaconta708-7novalordeR$3.964.856,33(trêsmilhões,novecentosesessentaequatromile
+oitocentosecinquentaeseisreaisetrintaetrêscentavos),noFundodeInvestimentoFUNDODE
+INVESTIMENTOCAIXABRASILMAAATRIZRENDAFI,comaplicaçãoconcomitantenoFundoRioBravo
+ProteçãoFIMultimercado.
+CompatibilidadedaaplicaçãocomasobrigaçõespresentesefuturasdoRPPS:
+---
+Análise/Parecerdoconselhodeliberativoecomitêdeinvestimentos,conffformenalegislaçãodo
+RPPS:
+:OperaçãoaprovadapeloCIconformeAAATTTA005/2022,trata-sederealocaçãoderecursosResgatados
+doFundoCaixaAlocaçãoMacroMultimercado.
+Outrasobservações:
+---
+AssinaturadoDocumento
+CPF Nome Cargo AssinaturaDigital
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA GestordeRecursos 05/04/202208:43:04
+Rep.LegaldaUnidade
+627.600.339-53 ROSELIFFFABRISDALLACOSTTTA 05/04/202208:44:33
+Gestora
+049.650.929-29 MARTTTAFFFAAATH Liquidante 05/04/202208:46:12
+Aautenticidadedestedocumentopodeserconferidanosite
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=171353&crc=A06F3581,informandooCódigoVerificador:171353eo
+CódigoCRC:A06F3581.

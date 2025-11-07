@@ -1,0 +1,2799 @@
+Relat(cid:243)rio de DiligŒncias
+2” Semestre 2024
+Toledo/PR, 31/12/2024
+SumÆrio
+1. INTRODU˙ˆO ...................................................................................................... 1
+2. CREDENCIAMENTO ............................................................................................. 2
+3. FUNDOS DE INVESTIMENTOS ............................................................................... 5
+3.1. Verifica(cid:231)ªo dos ativos ................................................................................ 5
+3.2. Fundos de Investimento em Participa(cid:231)ªo (FIP) ....................................... 5
+3.3. AnÆlise de Rating dos Ativos ...................................................................... 6
+3.4. Avalia(cid:231)ªo de Im(cid:243)veis ................................................................................. 7
+4. COMPOSI˙ˆO DA CARTEIRA DE INVESTIMENTOS DO FAPES .......................... 7
+4.1. Enquadramento da Carteira de Investimentos do FAPES .................... 10
+4.2. Meta de Rentabilidade ............................................................................ 12
+4.3. AnÆlise de Liquidez ................................................................................... 12
+4.4. Controle de Risco de Mercado ............................................................... 13
+4.5. Composi(cid:231)ªo da Carteira de Ativos ........................................................ 14
+5. ESTUDO DE ALM (cid:150) Asset Liability Management .............................................. 15
+6. ENVIO DO DAIR ................................................................................................. 19
+7. CONCLUSˆO ..................................................................................................... 20
+ANEXOS ..................................................................................................................... 21
+1. INTRODU˙ˆO
+Com o objetivo de proporcionar transparŒncia (cid:224) gestªo dos
+recursos do Fundo de Aposentadorias e Pensıes dos Servidores Pœblicos
+Municipais de Toledo (cid:150) FAPES/TOLEDOPREV e de adotar as melhores
+prÆticas relacionadas ao Programa de Certifica(cid:231)ªo Institucional e
+Moderniza(cid:231)ªo da Gestªo dos Regimes Pr(cid:243)prios de PrevidŒncia Social (cid:150)
+Pr(cid:243)-Gestªo RPPS, apresentamos os resultados dos processos de diligŒncia
+realizados no segundo semestre de 2024.
+O principal objetivo deste Relat(cid:243)rio de DiligŒncia Ø assegurar o
+controle e o acompanhamento dos recursos financeiros, visando (cid:224)
+preven(cid:231)ªo de impactos negativos sobre o patrim(cid:244)nio l(cid:237)quido do FAPES.
+Este trabalho envolve a consulta aos extratos bancÆrios e a anÆlise do
+relat(cid:243)rio mensal de investimentos, com foco na avalia(cid:231)ªo de
+rentabilidades, anÆlise de riscos, verifica(cid:231)ªo da aderŒncia da carteira ao
+estudo de ALM (Asset Liability Management), e no alinhamento (cid:224) Pol(cid:237)tica
+de Investimentos e (cid:224) legisla(cid:231)ªo aplicÆvel aos Regimes Pr(cid:243)prios de
+PrevidŒncia Social.
+Entre os procedimentos destacados, serÆ apresentada a prÆtica
+de credenciamento de institui(cid:231)ıes financeiras como uma ferramenta
+essencial de boa gestªo previdenciÆria, pois permite a obten(cid:231)ªo de
+informa(cid:231)ıes fiscais, previdenciÆrias e patrimoniais das institui(cid:231)ıes
+interessadas na administra(cid:231)ªo e gestªo dos recursos do FAPES.
+Ademais, por meio do relat(cid:243)rio de abertura das carteiras
+elaborado pela consultoria de investimentos, Ø poss(cid:237)vel verificar os ativos
+que compıem o patrim(cid:244)nio dos fundos de investimentos, incluindo t(cid:237)tulos
+e valores mobiliÆrios aplicados pelo FAPES. O relat(cid:243)rio tambØm apresenta
+o rating dos ativos no caso de fundos de renda fixa, com exce(cid:231)ªo
+daqueles que aplicam exclusivamente em t(cid:237)tulos pœblicos.
+Importante ressaltar que nªo compıem a carteira do FAPES os
+seguintes tipos de investimentos: Fundos de Investimentos em
+Participa(cid:231)ıes (FIP), aplica(cid:231)ıes diretas em ativos financeiros de renda fixa,
+Fundos de Investimentos em Direitos Credit(cid:243)rios (FIDIC), Fundos de Renda
+1
+Fixa (cid:150) CrØdito Privado, Fundos de DebŒntures de Infraestrutura e Fundos
+de Investimento ImobiliÆrios.
+Este relat(cid:243)rio foi elaborado pela Coordena(cid:231)ªo de PrevidŒncia e
+submetido (cid:224) aprecia(cid:231)ªo do ComitŒ de Investimentos, bem como dos
+Conselhos de Administra(cid:231)ªo e Fiscal do TOLEDOPREV.
+2. CREDENCIAMENTO
+O credenciamento de todos os prestadores de servi(cid:231)os dos ativos
+que compıem a carteira de investimentos do FAPES Ø realizado
+previamente (cid:224) aloca(cid:231)ªo de recursos. O processo Ø padronizado,
+conforme descrito no Edital de credenciamento do FAPES/TOLEDOPREV,
+dispon(cid:237)vel no site oficial do TOLEDOPREV, no endere(cid:231)o eletr(cid:244)nico:
+https://toledoprev.toledo.pr.gov.br/investimentos/credenciamentos, e
+deve ser atualizado a cada 24 meses (Portaria MTP n” 1.467/2022).
+As informa(cid:231)ıes sobre as Institui(cid:231)ıes sªo verificadas por meio dos
+seguintes banco de dados:
+- Banco data (https://bancodata.com.br/);
+- Comissªo de Valores ImobiliÆrios (cid:150) CVM (https://sistemas.cvm.gov.br/);
+- ANBIMA (https://www.anbima.com.br/pt_br/institucional/cadastro-
+anbima-deinstituicoes-e-profissionais-de-investimento.htm).
+O credenciamento de todos os gestores e administradores dos ativos que
+compıem a carteira de investimentos do FAPES encontra-se vigente,
+conforme demonstrado na tabela abaixo:
+2
+ADMINISTRADORES DE FUNDOS DE INVESTIMENTOS
+DATA DA
+N” TERMO CNPJ INSTITUI˙ˆO FINANCEIRA VALIDADE
+AN`LISE
+008/2024 01.522.368/0001-82 Banco BNP Paribas Brasil S.A. 13/05/2024 12/05/2026
+005/2024 30.822.936/0001-69 BB Gestªo de Recursos - Distribuidora de T(cid:237)tulos e Valores MobiliÆrios S.A. 15/04/2024 14/04/2026
+011/2024 00.066.670/0001-00 BEM Distribuidora de T(cid:237)tulos e Valores MobiliÆrios Ltda 19/07/2024 18/07/2026
+006/2024 00.380.305/0001-04 Caixa Econ(cid:244)mica Federal 13/05/2024 12/05/2026
+001/2023 60.701.190/0001-04 Itaœ Unibanco S.A. 11/10/2023 10/10/2025
+GESTORAS DE FUNDOS DE INVESTIMENTOS
+005/2024 30.822.936/0001-69 BB Gestªo de Recursos - Distribuidora de T(cid:237)tulos e Valores MobiliÆrios S.A. 15/04/2024 14/04/2026
+001/2024 42.040.639/0001-40 Caixa Distribuidora de T(cid:237)tulos e Valores MobiliÆrios 05/01/2024 04/01/2026
+010/2024 40.130.971/0001-96 Itaœ Unibanco Asset Management Ltda 19/07/2024 18/07/2026
+001/2023 03.864.607/0001-08 Rio Bravo Investimentos Ltda 11/09/2023 10/09/2025
+009/2024 02.332.886/0001-04 XP Allocation Asset Management Ltda 13/05/2024 12/05/2026
+DISTRIBUIDORES E ASSESSORES DE INVESTIMENTOS DE FUNDOS DE INVESTIMENTOS
+005/2024 00.000.000/0001-91 Banco do Brasil S.A. 15/04/2024 14/04/2026
+001/2023 60.701.190/0001-04 Itaœ Unibanco S.A. 11/10/2023 10/10/2025
+001/2024 42.040.639/0001-40 Caixa Distribuidora de T(cid:237)tulos e Valores MobiliÆrios 05/01/2024 04/01/2026
+002/2024 00.840.515/0001-08 Privatiza Agentes Aut(cid:244)nomos de Investimentos SS 15/02/2024 14/02/2026
+001/2023 72.600.026/0001-81 Rio Bravo Investimentos - Dist. de T(cid:237)tulos e Valores MobiliÆrios 11/09/2023 10/09/2025
+001/2023 02.332.886/0001-04 XP Investimentos Corretora de C(cid:226)mbio, T(cid:237)tulos e Valores MobiliÆrios S.A. 15/03/2023 14/03/2025
+3
+INSTITUI˙(cid:213)ES PARA COMPRA E VENDA DE T˝TULOS P(cid:218)BLICOS FEDERAIS
+005/2024 00.000.000/0001-91 Banco do Brasil S.A. 15/04/2024 14/04/2026
+006/2024 00.380.305/0001-04 Caixa Econ(cid:244)mica Federal 13/05/2024 12/05/2026
+002/2023 33.862.244/0001-32 BGC Liquidez 29/03/2023 28/03/2025
+003/2023 62.287.735/0001-03 Renascen(cid:231)a Distribuidora de T(cid:237)tulos e Valores 26/04/2023 25/04/2025
+001/2023 02.332.886/0001-04 XP Investimentos Corretora de C(cid:226)mbio, T(cid:237)tulos e Valores MobiliÆrios S.A. 15/03/2023 14/03/2025
+INSTITUI˙ˆO CUSTODIANTE
+001/2023 02.332.886/0001-04 XP Investimentos Corretora de C(cid:226)mbio, T(cid:237)tulos e Valores MobiliÆrios S.A. 15/03/2023 14/03/2025
+A lista completa das Institui(cid:231)ıes Financeiras (administrador, gestor, distribuidor, custodiante) e Fundos de
+Investimentos credenciados Ø constantemente atualizada no site do TOLEDOPREV, e pode ser consultada no endere(cid:231)o
+eletr(cid:244)nico: https://toledoprev.toledo.pr.gov.br/investimentos/instituicoes-credenciadas.
+4
+3. FUNDOS DE INVESTIMENTOS
+3.1. Verifica(cid:231)ªo dos ativos
+Para a verifica(cid:231)ªo dos ativos que compıem o patrim(cid:244)nio dos
+fundos de investimentos, incluindo os t(cid:237)tulos e valores mobiliÆrios
+aplicados pelo FAPES, estÆ sendo realizada a abertura mensal das
+carteiras dos fundos de investimentos, conforme apresentado no
+Relat(cid:243)rio de Abertura das Carteiras, disponibilizado no ANEXO 1 com
+posi(cid:231)ªo 31 de dezembro de 2024.
+3.2. Fundos de Investimento em Participa(cid:231)ªo
+(FIP)
+O objetivo de um FIP Ø investir em empresas em fase de
+desenvolvimento, seja na gestªo da empresa ou na constru(cid:231)ªo. Trata-se
+de um fundo fechado de longo prazo (10 a 12 anos), contemplando uma
+primeira fase de investimento, a qual o capital subscrito Ø internalizado
+ao fundo por meio de chamadas de capital, conforme ocorrem as
+aquisi(cid:231)ıes de participa(cid:231)ıes em empresas, e uma segunda fase de
+desinvestimento, na qual ocorre a venda ou abertura de capital das
+empresas ap(cid:243)s o desenvolvimento do projeto, originando a expectativa
+de lucro.
+O presente relat(cid:243)rio de diligŒncia nªo inclui o acompanhamento e
+a anÆlise da situa(cid:231)ªo patrimonial, fiscal e comercial das empresas
+investidas, por meio de Fundos de investimentos em Participa(cid:231)ıes (cid:150) FIP,
+tendo em vista que o FAPES nªo realizou investimentos nesse segmento
+atØ o final do 2” semestre de 2024.
+5
+3.3. AnÆlise de Rating dos Ativos
+A anÆlise do rating dos ativos financeiros e crØdito privado que
+compıem a carteira dos fundos de investimentos de renda fixa tem
+como objetivo principal avaliar a qualidade e a seguran(cid:231)a dos
+investimentos. Especificamente, essa anÆlise busca:
+(cid:216) Avalia(cid:231)ªo do Risco: Identificar e avaliar os riscos associados
+aos ativos financeiros e de crØdito privado, garantindo que
+os fundos mantenham um perfil de risco adequado (cid:224)s
+pol(cid:237)ticas de investimento estabelecidas.
+(cid:216) Conformidade: Verificar se os investimentos estªo em
+conformidade com as diretrizes regulat(cid:243)rias e internas,
+assegurando que os ativos selecionados cumprem os critØrios
+de elegibilidade e qualidade.
+(cid:216) Rentabilidade: Analisar a potencial rentabilidade dos ativos,
+considerando a rela(cid:231)ªo risco-retorno para maximizar os
+ganhos dos investidores.
+(cid:216) Diversifica(cid:231)ªo: Assegurar que a carteira de investimentos
+estÆ diversificada de forma apropriada para minimizar riscos
+espec(cid:237)ficos e setoriais.
+(cid:216) TransparŒncia: Fornecer informa(cid:231)ıes claras e detalhadas
+sobre a composi(cid:231)ªo e o desempenho dos ativos,
+promovendo transparŒncia e confian(cid:231)a entre os
+investidores.
+Atualmente o FAPES, possui aloca(cid:231)ªo de recursos nos Fundos
+CAIXA Brasil Matriz Renda FI e CAIXA Brasil Renda Fixa Referenciado DI LP,
+que nªo investem exclusivamente em t(cid:237)tulos pœblicos. O
+acompanhamento e a anÆlise do rating dos ativos financeiros e de
+crØdito privado aplicados por esses fundos sªo realizados juntamente
+com a abertura mensal das carteiras dos fundos, conforme apresentado
+no Relat(cid:243)rio de Abertura das Carteiras, dispon(cid:237)vel no ANEXO 1, com
+posi(cid:231)ªo em 31 de dezembro de 2024.
+O presente relat(cid:243)rio de diligŒncia nªo inclui a anÆlise do Relat(cid:243)rio
+de Rating para Aplica(cid:231)ıes em Fundos de Investimentos em Direitos
+Credit(cid:243)rios (FIDC), Fundos de Renda Fixa de CrØdito Privado e Fundos de
+6
+DebŒntures de Infraestrutura, pois o FAPES nªo realizou investimentos
+nesses segmentos atØ o final do 2” semestre de 2024.
+3.4. Avalia(cid:231)ªo de Im(cid:243)veis
+O presente relat(cid:243)rio de diligŒncia nªo inclui a anÆlise do Relat(cid:243)rio
+de Avali(cid:231)ªo de Im(cid:243)veis, pois o FAPES nªo possui investimentos neste
+seguimento atØ o final do 2” semestre de 2024.
+4. COMPOSI˙ˆO DA CARTEIRA DE
+INVESTIMENTOS DO FAPES
+O FAPES encerrou o segundo semestre de 2024 com um valor total
+de R$ 645.545.927,95 investidos no mercado financeiro, dos quais 81,83%
+estªo alocados no segmento de Renda Fixa, 3,40% em Renda VariÆvel,
+7,35% em Investimentos no Exterior e 7,42% em Investimentos Estruturados.
+Apresentamos a planilha com todos os produtos de investimentos
+da carteira:
+7
+%
+ATIVOS - CARTEIRA FAPES CNPJ Valor (R$) PL do Fundo (R$) % Fundo
+Carteira
+Renda Fixa
+T(cid:237)tulo Pœblico Federal
+NTN-B 150828 (6,720000%) 20.562.020,59 3,19
+NTN-B 150828 (6,760000%) 20.506.525,76 3,18
+NTN-B 150830 (6,460000%) 10.218.059,48 1,58
+NTN-B 150535 (6,130000%) 16.566.854,51 2,57
+NTN-B 150535 (6,275000%) 20.549.750,71 3,18
+BB PREV RF ALOCA˙ˆO ATIVA RETORNO TOTAL FIC FI 35.292.588/0001-89 28.050.706,30 4,35 5.307.578.902,09 0,53
+FI CAIXA BRASIL IDKA IPCA 2A T˝TULOS P(cid:218)BLICOS RF LP 14.386.926/0001-71 6.131.633,92 0,95 3.604.057.716,61 0,17
+FI CAIXA BRASIL IMA B 5 T˝TULOS P(cid:218)BLICOS RF LP 11.060.913/0001-10 39.967.627,62 6,19 6.393.295.147,70 0,63
+FI CAIXA BRASIL IRF M 1 T˝TULOS P(cid:218)BLICOS RF 10.740.670/0001-06 21.555.505,81 3,34 8.167.774.869,09 0,26
+FI CAIXA BRASIL T˝TULOS P(cid:218)BLICOS RF LP 05.164.356/0001-84 108.112.705,99 16,75 11.311.864.366,70 0,96
+FIC DE FI CAIXA BRASIL GESTˆO ESTRAT(cid:201)GICA RF 05.164.356/0001-84 19.609.532,12 3,04 3.670.341.424,26 0,53
+ITAU INSTITUCIONAIS LEGEND RF LP FIC FI 29.241.799/0001-90 47.028.841,47 7,29 1.418.390.421,52 3,32
+FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 40.459.038,38 6,27 6.711.585.180,95 0,6
+FI CAIXA BRASIL RENDA FIXA REFERENCIADO DI LP 03.737.206/0001-97 101.140.392,60 15,67 18.901.575.347,13 0,54
+RIO BRAVO ESTRAT(cid:201)GICO IMA-B FI RENDA FIXA 49.232.373/0001-87 16.420.155,31 2,54 138.204.664,31 11,88
+RIO BRAVO ESTRAT(cid:201)GICO IPCA FI RF 50.533.505/0001-90 11.365.614,63 1,76 254.955.294,43 4,46
+8
+Renda VariÆvel
+FIA CAIXA CONSTRU˙ˆO CIVIL 10.551.375/0001-01 957.174,04 0,15 142.554.166,01 0,67
+FIA CAIXA CONSUMO 10.577.512/0001-79 690.417,17 0,11 77.739.777,95 0,89
+FIA CAIXA SMALL CAPS ATIVO 15.154.220/0001-47 1.152.476,51 0,18 480.746.975,23 0,24
+FIC FIA CAIXA EXPERT VINCI VALOR DIVIDENDOS RPPS 15.154.441/0001-15 4.898.294,71 0,76 971.373.998,81 0,5
+FIC FIA CAIXA MULTIGESTOR 30.068.224/0001-04 7.097.470,98 1,1 434.246.813,13 1,63
+ITA(cid:218) A˙(cid:213)ES DUNAMIS FIF CIC RESPONSABILIDADE
+LIMITADA 24.571.992/0001-75 5.175.427,79 0,8 1.188.970.075,54 0,44
+ITA(cid:218) A˙(cid:213)ES MOMENTO 30 II FIC DE FI 42.318.981/0001-60 1.958.768,94 0,3 100.926.721,87 1,94
+Investimentos no Exterior
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO
+EXTERIOR FI 17.413.636/0001-68 12.533.356,17 1,94 1.785.616.944,88 0,7
+MS GLOBAL OPPORTUNITIES ADVISORY FIC FIA IE 33.913.562/0001-85 6.374.195,72 0,99 897.724.614,38 0,71
+FIA CAIXA INSTITUCIONAL BDR N˝VEL I 17.502.937/0001-68 28.534.887,18 4,42 3.298.833.640,03 0,86
+Investimentos Estruturados
+FI CAIXA INDEXA BOLSA AMERICANA MULTIMERCADO
+LP 30.036.235/0001-02 33.257.129,07 5,15 2.100.762.128,65 1,58
+RIO BRAVO PROTE˙ˆO FI MULTIMERCADO 42.813.674/0001-55 4.262.503,93 0,66 126.928.689,65 3,36
+RIO BRAVO PROTE˙ˆO PORTF(cid:211)LIO FI FINANCEIRO
+MULTIMERCADO - RESPONSABILIDADE LIMITADA 55.274.339/0001-78 10.408.860,54 1,61 285.107.733,70 3,65
+Total 645.545.927,95 100
+9
+4.1. Enquadramento da Carteira de
+Investimentos do FAPES
+A Resolu(cid:231)ªo CMN 4.963/2021 traz as regras a serem seguidas pelo
+RPPS para os limites de aloca(cid:231)ªo de recursos nas diversas classes de
+ativos. Portanto, para a anÆlise de enquadramento da carteira de
+investimentos, a referida Resolu(cid:231)ªo Ø utilizada como referŒncia em
+conjunto com a Pol(cid:237)tica de Investimentos do FAPES em vigŒncia.
+A planilha acima mostra que as aplica(cid:231)ıes em um mesmo fundo
+de investimento nªo atingem o percentual de 20% do total das
+aplica(cid:231)ıes dos recursos, conforme disciplina a Resolu(cid:231)ªo CMN
+4.963/2021, em seu artigo18.
+(cid:201) poss(cid:237)vel observar ainda que nenhum fundo de investimento
+excede o percentual de 15% de recurso investido em rela(cid:231)ªo ao
+Patrim(cid:244)nio L(cid:237)quido do Fundo de Investimento, conforme determina o
+artigo 19 da Resolu(cid:231)ªo CMN 4.963/2021.
+A planilha abaixo apresenta os percentuais de aloca(cid:231)ªo da
+carteira de investimentos do FAPES em compara(cid:231)ªo aos limites definidos
+na Pol(cid:237)tica Anual de Investimentos e aos limites estabelecidos na
+Resolu(cid:231)ªo CMN 4.963/2021, considerando o n(cid:237)vel II do Programa de
+Certifica(cid:231)ªo de boas prÆticas de gestªo - Pr(cid:243)-Gestªo.
+(cid:201) poss(cid:237)vel verificar que todos os segmentos de aplica(cid:231)ªo (Renda
+Fixa, Renda VariÆvel, Investimentos no Exterior e Investimentos
+Estruturados estªo devidamente enquadrados entre os limites m(cid:237)nimos e
+mÆximos, tanto em rela(cid:231)ªo (cid:224) Pol(cid:237)tica Anual de Investimentos quanto aos
+limites da Resolu(cid:231)ªo CMN 4.963/2021.
+10
+11
+4.2. Meta de Rentabilidade
+A carteira de investimentos do FAPES para o ano de 2024 teve
+como principal objetivo alcan(cid:231)ar uma rentabilidade compat(cid:237)vel com a
+meta atuarial, estabelecida em INPC + 4,90%.
+Conforme mostrado na tabela e no grÆfico abaixo, no segundo
+semestre de 2024, a carteira de investimentos apresentou rentabilidade
+inferior a meta atuarial nos meses de setembro, outubro e dezembro.
+Contudo, no acumulado do ano, a rentabilidade da carteira alcan(cid:231)ou
+10,53%, superando a meta atuarial de 9,92%.
+Rentabilidades da Carteira de investimentos FAPES versus Meta Atuarial
+Acumulado
+2” Semestre 2024 Jul (%) Ago (%) Set (%) Out (%) Nov (%) Dez (%)
+2024 (%)
+Carteira FAPES 1,13 1,27 0,36 0,97 1,37 0,34 10,53
+Meta Atuarial (INPC + 4,90%) 0,7 0,28 0,88 1,05 0,69 0,88 9,92
+4.3. AnÆlise de Liquidez
+A gestªo do risco de indisponibilidade de recursos para
+pagamento de obriga(cid:231)ıes esta diretamente ligada ao planejamento
+estratØgico dos investimentos do plano. A aquisi(cid:231)ªo de t(cid:237)tulos ou valores
+mobiliÆrios com prazos ou fluxos incompat(cid:237)veis com as necessidades do
+plano pode resultar em um descasamento financeiro. Para mitigar esse
+risco o FAPES realizou um estudo de ALM (Asset Liability Management),
+com o objetivo de fundamentar e alinhar os investimentos (cid:224)s
+necessidades atuariais do Fundo. A tabela abaixo evidencia que a
+composi(cid:231)ªo da carteira estÆ em conformidade com o estipulado pela
+12
+Pol(cid:237)tica de Investimentos.
+AnÆlise de Liquidez
+Per(cid:237)odo Valor (R$) (%) Valor Acumulado (R$) (%) Acum.
+de 0 a 30 dias 495.555.620,07 76,77 495.555.620,07 76,77
+de 31 dias a 365 dias 46.915.732,36 7,27 542.471.352,43 84,03
+acima de 365 dias 103.074.575,52 15,97 645.545.927,95 100
+4.4. Controle de Risco de Mercado
+O acompanhamento do risco de mercado pelo FAPES Ø realizado
+por meio do cÆlculo do VaR (Value at Risk) que estima, com base nos
+dados hist(cid:243)ricos de volatilidade dos ativos presentes na carteira
+analisada, a perda mÆxima esperada, em um horizonte definido de 21
+dias, com um intervalo de confian(cid:231)a de 95%. Seguem abaixo os limites
+estabelecidos na Pol(cid:237)tica de Investimentos de 2024 por segmento de
+aplica(cid:231)ªo e os valores de risco obtidos pela carteira de investimentos do
+FAPES:
+Segmento Limite Carteira FAPES
+Renda Fixa 5% 0,18%
+Renda VariÆvel 20% 7,12%
+Investimentos no Exterior 20% 7,43%
+Investimentos Estruturados 20% 4,13%
+Os dados mostram que os riscos de mercado da carteira de
+investimentos do FAPES estªo bem controlados, apresentando valores
+bastante inferiores aos limites estabelecidos.
+13
+4.5. Composi(cid:231)ªo da Carteira de Ativos
+A identifica(cid:231)ªo de cada ativo que integra a carteira de
+investimentos do FAPES Ø poss(cid:237)vel por meio do envio mensal dos arquivos,
+em formato xml, (cid:224) Consultoria Financeira, que promove a abertura da
+carteira de investimentos.
+Conforme apresentado pela figura abaixo, a carteira do FAPES Ø
+composta por 64,36% de T(cid:237)tulos Pœblicos Federais, papØis de menor risco
+dispon(cid:237)vel no mercado (Risco Soberano), emitidos pela Secretaria do
+Tesouro Nacional. A carteira possui ainda 9,76% em CrØdito Privado, 5,69%
+em a(cid:231)ıes e 23,39% em cotas de outros fundos de investimento.
+14
+No ANEXO I, apresentamos o Relat(cid:243)rio de Abertura das Carteira,
+que detalha os emissores e os tipos de papØis presentes na carteira, alØm
+do Relat(cid:243)rio de Ativos e rating dos t(cid:237)tulos de crØdito privado.
+Destacamos que o FAPES, nªo possui investimentos em aquisi(cid:231)ıes
+diretas de ativos financeiros de renda fixa como Letras Financeiras.
+5. ESTUDO DE ALM (cid:150) Asset Liability
+Management
+O ALM, ou estudo de casamento entre ativo e passivo, tem como
+objetivo principal avaliar a solvŒncia do plano de benef(cid:237)cios do RPPS.
+Para isso, considera premissas e hip(cid:243)teses baseadas em fluxos de caixa
+atuariais e cenÆrios macroecon(cid:244)micos, propondo composi(cid:231)ıes de
+carteiras de investimentos que suportem e prolonguem a
+sustentabilidade do plano. Essas carteiras buscam a melhor rela(cid:231)ªo entre
+o resultado esperado e o risco de dØficit, considerando as combina(cid:231)ıes
+poss(cid:237)veis de variÆveis de mercado (como CDI, INPC, IPCA, IGP-M, Bolsa
+de Valores, etc.) e os cenÆrios simulados para o fluxo de caixa l(cid:237)quido de
+benef(cid:237)cios.
+Com base no modelo de sele(cid:231)ªo de carteiras de Markowitz, Ø
+poss(cid:237)vel, a partir da defini(cid:231)ªo das classes de ativos dispon(cid:237)veis e seus
+retornos e riscos hist(cid:243)ricos, identificar a aloca(cid:231)ªo ideal que maximize o
+retorno esperado com o menor risco poss(cid:237)vel. Assim, obtØm-se a
+chamada Fronteira Eficiente de Markowitz, composta por 13 pontos
+representando carteiras otimizadas, cada uma associada a um n(cid:237)vel
+espec(cid:237)fico de risco (volatilidade anual) e retorno (real).
+O grÆfico abaixo apresenta a Fronteira Eficiente de Markowitz,
+desenvolvida como referŒncia para a Pol(cid:237)tica de Investimentos de 2024
+do FAPES:
+15
+Cada ponto representado no grÆfico corresponde a uma carteira
+com um n(cid:237)vel espec(cid:237)fico de risco e o respectivo retorno real. Para o FAPES,
+cuja meta de rentabilidade real para 2024 foi definida em 4,90%,
+alinhada (cid:224) meta atuarial, a carteira sugerida encontra-se no 3” ponto.
+Esse ponto reflete uma simula(cid:231)ªo de retorno de 4,97% ao ano.
+A tabela abaixo apresenta as composi(cid:231)ıes das 13 carteiras
+poss(cid:237)veis, com as combina(cid:231)ıes de aloca(cid:231)ªo em cada um dos
+benchmarks. A 3“ composi(cid:231)ªo Ø a recomendada para o FAPES:
+16
+Considerando o patrim(cid:244)nio do Plano PrevidenciÆrio do FAPES em
+28/04/2023, no valor de R$ 481.116.032,75, a propor(cid:231)ªo sugerida dos
+(cid:237)ndices de referŒncia para a composi(cid:231)ªo da carteira em 2024 Ø
+apresentada a seguir:
+Na data de elabora(cid:231)ªo do estudo de ALM, em 2023, o cenÆrio era
+marcado por expectativas de que o Banco Central poderia iniciar cortes
+na Selic no segundo semestre, dependendo da aprova(cid:231)ªo de um novo
+arcabou(cid:231)o fiscal e da evolu(cid:231)ªo das proje(cid:231)ıes de infla(cid:231)ªo. O Estudo
+indicava uma redu(cid:231)ªo na exposi(cid:231)ªo a ativos de renda fixa e renda
+variÆvel, com um aumento na aloca(cid:231)ªo de investimentos no exterior e
+em investimentos estruturados.
+Com base na aloca(cid:231)ªo sugerida pelo modelo Markowitz, foram
+realizados os seguintes diagn(cid:243)sticos e propostas para a elabora(cid:231)ªo da
+Pol(cid:237)tica de Investimentos de 2024:
+Renda Fixa:
+- Diminuir a aloca(cid:231)ªo em fundos de investimentos que nªo sejam
+atrelados ao IMA-B, do artigo 7”, I, b, num total de R$ 12.912.464,79
+(2,68%);
+- Diminuir a aloca(cid:231)ªo em fundos atrelados a SELIC/CDI, num total
+de R$ 15.609.850,13 (3,24%);
+17
+- No total, diminuir a aloca(cid:231)ªo em renda fixa num total de R$
+28.522.314,92 (5,93%).
+Renda variÆvel:
+- Diminuir a aloca(cid:231)ªo em fundos de a(cid:231)ıes do artigo 8”, I, num total
+de R$ 9.527.702,08 (1,98%).
+Investimento no Exterior:
+- Aumentar a aloca(cid:231)ªo em fundos do artigo 9” II ou III, num total de
+R$ 22.326.334,70 (4,64%).
+Investimentos estruturados:
+- Aumentar a aloca(cid:231)ªo em fundos multimercados atrelados ao
+S&P500, do artigo 10, I, num total de R$ 15.723.682,31 (3,27%).
+Fundos ImobiliÆrios:
+- Nªo efetuar aloca(cid:231)ªo.
+A tabela abaixo mostra a evolu(cid:231)ªo das estratØgias de
+investimentos adotadas no segundo semestre de 2024:
+18
+6. ENVIO DO DAIR
+O Demonstrativo das Aplica(cid:231)ıes e Investimentos dos Recursos
+(DAIR), Ø um documento que apresenta mensalmente as informa(cid:231)ıes
+sobre a carteira de investimentos do RPPS, alØm de dados cadastrais do
+ente federativo, da unidade gestora do RPPS e seus respectivos
+responsÆveis, dos membros de colegiados (Conselhos Administrativo e
+Fiscal, e ComitŒ de Investimentos), do credenciamento de fundos e de
+institui(cid:231)ıes financeiras, formas de gestªo, assim como o registro de todas
+as APRs ocorridas no mŒs de referŒncia.
+O envio do DAIR, via CADPREV (Sistema de Informa(cid:231)ıes dos
+Regimes Pœblicos de PrevidŒncia Social), Ø um dos critØrios para a
+emissªo do CRP, e deve o correr atØ o œltimo dia de cada mŒs,
+relativamente (cid:224)s informa(cid:231)ıes das aplica(cid:231)ıes do mŒs anterior, segundo
+a Portaria n(cid:176) 1.467/2022 do antigo MinistØrio do Trabalho e PrevidŒncia
+Como demonstrado na figura abaixo, todos os demonstrativos do
+segundo semestre de 2024 foram entregues tempestivamente e podem
+ser consultados no site do TOLEDOPREV, por meio do endere(cid:231)o:
+https://toledoprev.toledo.pr.gov.br/transparencia/demonstrativos-
+cadprev.
+19
+7. CONCLUSˆO
+Este Relat(cid:243)rio de DiligŒncias apresentou a carteira de investimentos
+do FAPES, incluindo a metodologia utilizada para o acompanhamento
+dos ativos investidos, da rentabilidade, do enquadramento e das anÆlises
+de riscos de mercado, crØdito e liquidez. AlØm disso, foram descritos o
+processo de credenciamento das Institui(cid:231)ıes Financeiras e sua
+conformidade com os princ(cid:237)pios de gestªo adotados no programa Pr(cid:243)-
+Gestªo, conforme o item 3.2.6 do manual do programa.
+TambØm foi exposto o resumo do Estudo de ALM (Asset Liability
+Management) do FAPES, que define as diretrizes de investimentos com
+base na gestªo integrada de ativos e passivos, propondo uma revisªo
+gradativa da aloca(cid:231)ªo das aplica(cid:231)ıes financeiras. Destaca-se que o
+ALM apresenta sugestıes baseadas no cenÆrio econ(cid:244)mico vigente (cid:224)
+Øpoca de sua elabora(cid:231)ªo, utilizando proje(cid:231)ıes de expectativas futuras
+de mercado. No entanto, considerando a din(cid:226)mica e a sensibilidade do
+cenÆrio econ(cid:244)mico a diversos fatores, eventualmente poderÆ ser
+necessÆrio um direcionamento da carteira do FAPES distinto do proposto
+no ALM, de forma a preservar o patrim(cid:244)nio e mitigar potenciais preju(cid:237)zos,
+como evidenciado neste relat(cid:243)rio.
+Conclui-se, portanto, que o acompanhamento cont(cid:237)nuo da
+carteira de investimentos Ø fundamental, abrangendo todo o processo
+de constru(cid:231)ªo e revisªo, com o objetivo de mitigar impactos negativos
+sobre o patrim(cid:244)nio do FAPES. Essa prÆtica Ø essencial para alcan(cid:231)ar o
+principal objetivo do RPPS, que Ø garantir o equil(cid:237)brio financeiro e atuarial.
+Este relat(cid:243)rio foi elaborado pela Coordena(cid:231)ªo de PrevidŒncia e
+apresentado ao ComitŒ de Investimentos, bem como aos Conselhos
+Administrativo e Fiscal do TOLEDOPREV.
+Assinado de forma digital por
+ROSELI FABRIS DALLA
+ROSELI FABRIS DALLA
+COSTA:62760033953 COSTA:62760033953
+Dados: 2025.02.14 12:51:38 -03'00'
+ROSELI FABRIS DALLA COSTA
+Diretor Executiva do TOLEDOPREV
+20
+ANEXOS
+21
+ABERTURA DE CARTEIRA
+DEZEMBRO 2024
+RELAT(cid:211)RIO DE DILIG˚NCIAS 2” SEMESTRE/2024
+AO INSTITUTO DE PREVID˚NCIA
+Prezados (as) Senhores(as),
+Este documento tem por objetivo apresentar a verifica(cid:231)ªo dos ativos que compıem o patrim(cid:244)nio
+dos fundos de investimentos, incluindo os t(cid:237)tulos e valores mobiliÆrios aplicados pelo RPPS,
+conforme solicita(cid:231)ªo do cliente, na inten(cid:231)ªo de ajudÆ-los na diligŒncia e acompanhamento da
+carteira de investimentos.
+As informa(cid:231)ıes contidas neste documento se destinam somente (cid:224) orienta(cid:231)ªo de carÆter geral e
+fornecimento de informa(cid:231)ıes sobre o tema de interesse. Nosso relat(cid:243)rio Ø baseado na abertura
+de carteira dos fundos de investimentos recebidos atravØs dos arquivos XML versªo 4.01. Dado
+que as opiniıes nascem de julgamentos e estimativas, estªo sujeitas a mudan(cid:231)as. Nossos
+relat(cid:243)rios nªo representam oferta de negocia(cid:231)ªo de valores mobiliÆrios ou outros instrumentos
+financeiros.
+O presente relat(cid:243)rio apresenta informa(cid:231)ıes qualitativas dispon(cid:237)veis nos arquivos recebidos com
+data em 31/12/2024.
+Nªo Ø permitido a divulga(cid:231)ªo e a utiliza(cid:231)ªo deste e de seu respectivo conteœdo por pessoas nªo
+autorizadas pela LDB CONSULTORIA FINANCEIRA.
+Permanecemos (cid:224) disposi(cid:231)ªo para quaisquer esclarecimentos que se fizerem necessÆrios e muito
+obrigado,
+Equipe LDB Empresas
+1 de 65
+POSI˙ˆO:31/12/2024
+Patrim(cid:244)nio L(cid:237)quido: 645.545.927,95
+FUNDOS ANALISADOS
+1.TOLEDO 645.545.927,95
+2.BB PREV RF ALOCA˙ˆO ATIVA RETORNO TOTAL FIC FI 28.050.706,30
+3.FI CAIXA BRASIL IDKA IPCA 2A T˝TULOS P(cid:218)BLICOS RF LP 6.131.633,92
+4.FI CAIXA BRASIL IMA B 5 T˝TULOS P(cid:218)BLICOS RF LP 39.967.627,62
+5.FI CAIXA BRASIL IRF M 1 T˝TULOS P(cid:218)BLICOS RF 21.555.505,81
+6.FI CAIXA BRASIL MATRIZ RENDA FI 40.459.038,38
+7.FI CAIXA BRASIL RENDA FIXA REFERENCIADO DI LP 101.140.392,60
+8.FI CAIXA BRASIL T˝TULOS P(cid:218)BLICOS RF LP 108.112.705,99
+9.FI CAIXA INDEXA BOLSA AMERICANA MULTIMERCADO LP 33.257.129,07
+10.FIA CAIXA CONSTRU˙ˆO CIVIL 957.174,04
+11.FIA CAIXA CONSUMO 690.417,17
+12.FIA CAIXA INSTITUCIONAL BDR N˝VEL I 28.534.887,18
+13.FIA CAIXA SMALL CAPS ATIVO 1.152.476,51
+14.FIC DE FI CAIXA BRASIL GESTˆO ESTRAT(cid:201)GICA RF 19.609.532,12
+15.FIC FIA CAIXA EXPERT VINCI VALOR DIVIDENDOS RPPS 4.898.294,71
+16.FIC FIA CAIXA MULTIGESTOR 7.097.470,98
+17.ITAU INSTITUCIONAIS LEGEND RF LP FIC FI 47.028.841,47
+18.ITA(cid:218) A˙(cid:213)ES DUNAMIS FIF CIC RESPONSABILIDADE LIMITADA 5.175.427,79
+19.ITA(cid:218) A˙(cid:213)ES MOMENTO 30 II FIC DE FI 1.958.768,94
+20.MS GLOBAL OPPORTUNITIES ADVISORY FIC FIA IE 6.374.195,72
+21.RIO BRAVO ESTRAT(cid:201)GICO IMA-B FI RENDA FIXA 16.420.155,31
+22.RIO BRAVO ESTRAT(cid:201)GICO IPCA FI RF 11.365.614,63
+23.RIO BRAVO PROTE˙ˆO FI MULTIMERCADO 4.262.503,93
+24.RIO BRAVO PROTE˙ˆO PORTF(cid:211)LIO FI FINANCEIRO MULTIMERCADO - RESPONSABILIDADE
+10.408.860,54
+LIMITADA
+25.FUNDO DE INVESTIMENTO CAIXA MASTER CONSERVADOR REN 475.611,74
+26.ITAU CAIXA ACOES FI 17.643,18
+27.ITAU DUNAMIS MASTER FUNDO DE INVESTIMENTO EM ACOES 5.177.776,64
+28.ITAU MOMENTO ACOES FUNDO DE INVESTIMENTO 1.958.271,54
+29.MS GLOBAL OPPORTUNITIES ADVISORY FIA - INVESTIMENTO NO EXTERIOR 6.372.977,25
+30.BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI 12.617.166,44
+`RVORE (N˝VEIS)
+TOLEDO
+FI CAIXA BRASIL MATRIZ RENDA FI
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI
+2 de 65
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO EXTERIOR FI
+ISIN: LU0248001728 - CNPJ: null
+ISIN: LU0248001728 - CNPJ: null
+ISIN: LU0248001728 - CNPJ: null
+ISIN: LU0248001728 - CNPJ: null
+ISIN: LU0248001728 - CNPJ: null
+RIO BRAVO ESTRAT(cid:201)GICO IPCA FI RF
+MS GLOBAL OPPORTUNITIES ADVISORY FIC FIA IE
+MS GLOBAL OPPORTUNITIES ADVISORY FIA - INVESTIMENTO NO EXTERIOR
+XP CASH B1 FUNDO INVESTIMENTO COTAS RENDA FIXA SIMPLES
+Morgan Stanley Investment Funds - Global Opportunity Fund Z
+XP CASH B1 FUNDO INVESTIMENTO COTAS RENDA FIXA SIMPLES
+RIO BRAVO PROTE˙ˆO PORTF(cid:211)LIO FI FINANCEIRO MULTIMERCADO - RESPONSABILIDADE LIMITADA
+RIO BRAVO PROTE˙ˆO FI MULTIMERCADO
+FIC FIA CAIXA MULTIGESTOR
+BRASIL CAPITAL 30 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM A˙(cid:213)ES
+AZ QUEST SMALL MID CAPS FIC DE FIA
+PRINCIPAL CLARITAS VALOR FEEDER FIC FIA
+FUNDO DE INVESTIMENTO CAIXA MASTER TPF RENDA FIXA
+OCEANA SELECTION 30 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM
+A˙(cid:213)ES
+SHARP EQUITY VALUE INSTITUCIONAL FUNDO DE INVESTIMENTO DE A˙(cid:213)ES
+NAVI INSTITUCIONAL II FIC FIA
+MOAT CAIXA A˙(cid:213)ES FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM A˙(cid:213)ES
+CONSTANCIA FUNDAMENTO FI DE ACOES
+TRUXT C VALOR INSTITUCIONAL FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM A˙(cid:213)ES
+TRIGONO DELPHOS INCOME FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM
+ACOES
+OCCAM FIC FIA
+REAL INVESTOR INSTITUCIONAL FIC FIA
+GUEPARDO A˙(cid:213)ES INSTITUCIONAL FI DE A˙(cid:213)ES
+ALASKA BLACK INSTITUCIONAL FIA
+FI CAIXA BRASIL IDKA IPCA 2A T˝TULOS P(cid:218)BLICOS RF LP
+FIC FIA CAIXA EXPERT VINCI VALOR DIVIDENDOS RPPS
+FUNDO DE INVESTIMENTO CAIXA MASTER TPF RENDA FIXA
+CAIXA VINCI VALOR DIVIDENDOS FIA
+FI CAIXA BRASIL T˝TULOS P(cid:218)BLICOS RF LP
+FIA CAIXA SMALL CAPS ATIVO
+FUNDO DE INVESTIMENTO CAIXA MASTER CONSERVADOR REN
+ITA(cid:218) A˙(cid:213)ES DUNAMIS FIF CIC RESPONSABILIDADE LIMITADA
+ITAU CAIXA ACOES FI
+ITAU DUNAMIS MASTER FUNDO DE INVESTIMENTO EM ACOES
+ISIN: KYG4976W2941 - CNPJ: null
+FI CAIXA BRASIL IRF M 1 T˝TULOS P(cid:218)BLICOS RF
+BB PREV RF ALOCA˙ˆO ATIVA RETORNO TOTAL FIC FI
+BB TOP RENDA FIXA JUROS BRASIL FUNDO DE INVESTIMENTO LONGO PRAZO
+FI CAIXA BRASIL IMA B 5 T˝TULOS P(cid:218)BLICOS RF LP
+3 de 65
+FIA CAIXA CONSUMO
+FUNDO DE INVESTIMENTO CAIXA MASTER CONSERVADOR REN
+FI CAIXA INDEXA BOLSA AMERICANA MULTIMERCADO LP
+FIA CAIXA CONSTRU˙ˆO CIVIL
+FUNDO DE INVESTIMENTO CAIXA MASTER CONSERVADOR REN
+RIO BRAVO ESTRAT(cid:201)GICO IMA-B FI RENDA FIXA
+FIA CAIXA INSTITUCIONAL BDR N˝VEL I
+FUNDO DE INVESTIMENTO CAIXA MASTER CONSERVADOR REN
+FI CAIXA BRASIL RENDA FIXA REFERENCIADO DI LP
+ITAU INSTITUCIONAIS LEGEND RF LP FIC FI
+ITAU VERSO A RENDA FIXA REFERENCIADO DI LP FI
+ITA(cid:218) LEGEND INSTITUCIONAL RENDA FIXA LONGO PRAZO FUNDO DE INVESTIMENTO
+FIC DE FI CAIXA BRASIL GESTˆO ESTRAT(cid:201)GICA RF
+FUNDO INVESTIMENTO CAIXA MASTER SOBERANO RENDA FIXA LONGO PRAZO
+ITA(cid:218) A˙(cid:213)ES MOMENTO 30 II FIC DE FI
+ITAU CAIXA ACOES FI
+ITAU MOMENTO ACOES FUNDO DE INVESTIMENTO
+4 de 65
+CARTEIRATOLEDO
+Ativo Financeiro % P.L.
+Futuro 0,00 0,00
+Op(cid:231)ªo 3.414,70 0,00
+Caixa 108.372,94 0,02
+Disponibilidades Financeiras 704.902,63 0,11
+A(cid:231)ªo 36.746.205,51 5,69
+T(cid:237)t. Privado 63.033.009,99 9,76
+T(cid:237)t. Pœblico (Curva) 88.403.211,05 13,69
+Cota 151.023.473,39 23,39
+T(cid:237)t. Pœblico 327.067.221,51 50,67
+5 de 65
+ATIVOS E RATINGS
+Ativo Emissor AgŒncia Rating Financeiro
+DEB˚NTURE 37.919,86
+LETRA FINANCEIRA 22.432,10
+DEB˚NTURE ALGAR TELECOM SA S&P AAA 170.086,19
+DEB˚NTURE ATACADAO SA 45.566,97
+DEB˚NTURE B3 SA - BRASIL, BOLSA, BALCAO 214.116,20
+CDB BANCO INDUSTRIAL BRASIL SA 522.542,55
+DPGE - Garantia FGC BANCO AGIBANK S.A. 214.273,07
+BANCO C6 CONSIGNADO S.A. 216.128,46
+CDB BANCO C6 CONSIGNADO S.A. 144.344,68
+LETRA FINANCEIRA BANCO RCI BRASIL SA 83.946,14
+LETRA FINANCEIRA BANCO VOTORANTIM S.A. 2.966.317,51
+LETRA FINANCEIRA BANCO XP S.A 692.843,01
+CDB BCO ABC BRASIL SA 171.462,25
+LETRA FINANCEIRA BCO ABC BRASIL SA 1.777.019,72
+CDB BCO ALFA INVEST SA (EX BCO REAL INVEST SA) 579.163,19
+LETRA FINANCEIRA BCO BRADESCO SA AUSTIN AAA 410.143,63
+LETRA FINANCEIRA BCO BRADESCO SA S&P AAA 277.648,66
+LETRA FINANCEIRA BCO BRADESCO SA 4.801.164,90
+LETRA FINANCEIRA BCO BRASIL SA 3.208.757,50
+LETRA FINANCEIRA BCO BTG PACTUAL SA 526.069,64
+LETRA FINANCEIRA BCO BTG PACTUAL SA MOODY’S AAA 136.609,69
+LETRA FINANCEIRA BCO CITIBANK SA S&P AAA 499.171,84
+LETRA FINANCEIRA BCO CNH CAPITAL SA 677.795,44
+LETRA FINANCEIRA BCO COOPERATIVO SICREDI SA BANSICREDI 597.649,36
+LETRA FINANCEIRA BCO DAYCOVAL SA 1.837.715,95
+LETRA FINANCEIRA BCO DAYCOVAL SA MOODY’S AA 78.503,09
+DPGE - Garantia FGC BCO FIBRA SA FITCH BBB+ 41.186,66
+CDB BCO FIDIS INVEST SA (EX BCO FIAT SA) 314.038,57
+LETRA FINANCEIRA BCO FIDIS INVEST SA (EX BCO FIAT SA) 451.818,50
+CDB BCO GMAC SA 167.374,81
+LETRA FINANCEIRA BCO GMAC SA 242.000,65
+LETRA FINANCEIRA BCO GMAC SA FITCH AAA 100.363,34
+LETRA FINANCEIRA BCO ITAU SA FITCH AAA 3.901.136,52
+LETRA FINANCEIRA BCO JOHN DEERE SA FITCH AAA 42.948,83
+BCO MERCANTIL BRASIL SA 25.047,19
+DPGE - Garantia FGC BCO MERCANTIL BRASIL SA 178.372,73
+CDB BCO MERCEDES BENZ BRASIL SA 130.870,00
+LETRA FINANCEIRA BCO MERCEDES BENZ BRASIL SA 148.346,48
+LETRA FINANCEIRA BCO RABOBANK INTERNATIONAL BRASIL SA 235.280,18
+BCO SAFRA SA 1.539.170,28
+6 de 65
+Ativo Emissor AgŒncia Rating Financeiro
+LETRA FINANCEIRA BCO SAFRA SA 1.288.852,15
+CDB BCO SANTANDER (BRASIL) SA 395.093,15
+LETRA FINANCEIRA BCO SANTANDER (BRASIL) SA S&P AAA 1.318.499,53
+LETRA FINANCEIRA BCO SANTANDER (BRASIL) SA 1.184.232,74
+CDB BCO VOLKSWAGEN SA 494.077,30
+LETRA FINANCEIRA BCO VOLKSWAGEN SA 323.208,21
+LETRA FINANCEIRA BCO VOLKSWAGEN SA S&P AAA 407.871,91
+CDB CAIXA ECONOMICA FEDERAL CEF 10.289.199,72
+LETRA FINANCEIRA CAIXA ECONOMICA FEDERAL CEF 3.558.359,34
+LETRA FINANCEIRA CAIXA ECONOMICA FEDERAL CEF MOODY’S AAA 162.337,74
+DEB˚NTURE CIA ENERGETICA PERNAMBUCO CELPE 172.319,23
+DEB˚NTURE CIA ENERGETICA RIO GRANDE NORTE COSERN S&P AAA 362.723,52
+DEB˚NTURE CIA PAULISTA FORCA LUZ FITCH AAA 229.310,85
+DEB˚NTURE CIA SANEAMENTO MINAS GERAIS COPASA MG FITCH AA+ 5.095,45
+DEB˚NTURE CIA SIDERURGICA NACIONAL 253.914,39
+DEB˚NTURE CIELO SA FITCH AAA 447.740,59
+DEB˚NTURE CIELO SA 198.112,58
+DEB˚NTURE CONCESSIONARIA SISTEMA ANHANGUERA 445.111,20
+BANDEIRANTES S/A
+CDB CONCORDIA BCO SA 106.043,71
+DEB˚NTURE COPEL DISTRIBUICAO SA 148.823,82
+DEB˚NTURE COPEL GERACAO TRANSMISSAO SA FITCH AAA 257.632,78
+NOTA COMERCIAL COPEL GERACAO TRANSMISSAO SA 143.429,79
+ESCRITURAL 1“
+EMISSˆO SERIE (cid:218)NICA
+DEB˚NTURE COSAN SA FITCH AAA 348.331,64
+DEB˚NTURE DIAGNOSTICOS AMERICA SA FITCH AAA 236.774,29
+DEB˚NTURE EDP SAO PAULO DISTRIBUIDORA ENERGIA S.A. 85.137,59
+DEB˚NTURE ELEKTRO REDES S.A. 147.538,36
+DEB˚NTURE ENERGISA SA FITCH AAA 117.383,60
+DEB˚NTURE EQUATORIAL PAR` DISTRIBUIDORA DE ENERGIA S. S&P AAA 18.032,53
+A.
+DEB˚NTURE ESTACIO PARTICIPACOES SA 342.626,51
+DEB˚NTURE FLEURY SA 305.769,01
+DEB˚NTURE GERDAU SA 200.689,28
+CDB GOLDMAN SACHS BRASIL BCO MULTIPLO 659.719,47
+DEB˚NTURE HAPVIDA PARTICIPACOES INVESTIMENTO SA FITCH AAA 416.223,93
+LETRA FINANCEIRA ITAU UNIBANCO HOLDING SA 376.280,43
+LETRA FINANCEIRA LLOYDS LEASING TSB SA ARREND MERCANTIL 239.028,96
+DEB˚NTURE LOCALIZA FLEET SA FITCH AAA 98.405,34
+DEB˚NTURE LOCALIZA RENT A CAR SA 787.813,96
+DEB˚NTURE LOJAS RENNER SA S&P AAA 79.058,52
+DEB˚NTURE MOVIDA PARTICIPACOES S&P AA+ 104.859,70
+7 de 65
+Ativo Emissor AgŒncia Rating Financeiro
+DEB˚NTURE MRS LOGISTICA SA FITCH AAA 28.074,32
+DEB˚NTURE MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS SA 96.226,83
+DEB˚NTURE NATURA COSMETICOS SA 201.727,94
+DEB˚NTURE NOVA TRANSPORTADORA SUDESTE SA - NTS FITCH AAA 436.483,07
+DEB˚NTURE NOVA TRANSPORTADORA SUDESTE SA - NTS 250.388,17
+CDB NU FINANCEIRA S.A. SOCIEDADE DE CREDITO 489.998,60
+FINANCIAMENTO E INVESTIMENTO
+CDB PARANA BCO SA 109.515,04
+DEB˚NTURE PETROLEO BRASILEIRO SA PETROBRAS FITCH AA 140.463,89
+NOTA COMERCIAL PETROLEO BRASILEIRO SA PETROBRAS 886.933,10
+ESCRITURAL 1“
+EMISSˆO 1“ SERIE
+DEB˚NTURE RAIA DROGASIL SA FITCH AAA 20.734,60
+DEB˚NTURE RAIA DROGASIL SA 129.727,95
+DEB˚NTURE REDE D OR SAO LUIZ SA 778.027,56
+DEB˚NTURE SABESP S&P AAA 96.591,49
+DEB˚NTURE SABESP 120.691,82
+DEB˚NTURE SABESP FITCH AAA 13.335,06
+LETRA FINANCEIRA SCANIA BANCO S.A. 164.156,53
+DEB˚NTURE SENDAS DISTRIBUIDORA S.A. FITCH AAA 332.921,97
+DEB˚NTURE SENDAS DISTRIBUIDORA S.A. 371.203,47
+DEB˚NTURE SUZANO S.A. 161.387,67
+DEB˚NTURE TELEFONICA BRASIL SA 299.212,79
+DEB˚NTURE TIM BRASIL SERVI˙OS E PARTICIPA˙(cid:213)ES S.A. 366.354,03
+DEB˚NTURE TRANSMISSORA ALIANCA ENERGIA ELETRICA SA FITCH AAA 43.777,48
+DEB˚NTURE TRANSMISSORA ALIANCA ENERGIA ELETRICA SA 34.536,98
+DEB˚NTURE TUPY SA 186.254,36
+DEB˚NTURE UNIPAR CARBOCLORO SA 455.720,09
+DEB˚NTURE USINAS SIDERURGICAS MINAS GERAIS SA 298.061,54
+USIMINAS
+DEB˚NTURE USINAS SIDERURGICAS MINAS GERAIS SA S&P AAA 51.793,15
+USIMINAS
+DEB˚NTURE VAMOS LOCACAO DE CAMINHOES, MAQUINAS E S&P AA+ 106.320,51
+EQUIPAMENTOS S.A.
+DEB˚NTURE VIBRA ENERGIA SA 541.991,81
+DEB˚NTURE VOTORANTIM CIMENTOS SA 295.124,85
+8 de 65
+TOLEDO
+Patrim(cid:244)nio L(cid:237)quido:
+Financeiro:645.545.927,95
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 2.063.907,67 0,32
+LFT 01/09/2025 2.224.871,50 0,34
+LFT 01/03/2026 5.234.726,91 0,81
+LFT 01/09/2026 19.964.446,42 3,09
+LFT 01/03/2027 29.631.745,55 4,59
+LFT 01/09/2027 25.692.750,72 3,98
+LFT 01/03/2028 11.152.457,89 1,73
+LFT 01/09/2028 9.019.168,27 1,40
+LFT 01/03/2029 2.152.705,63 0,33
+LFT 01/09/2029 4.983.797,71 0,77
+LFT 01/03/2030 33.878.879,63 5,25
+LFT 01/06/2030 25.693.844,75 3,98
+LFT 01/09/2030 39.469.812,66 6,11
+LFT 01/12/2030 7.734.529,40 1,20
+LTN 01/01/2025 4.944.240,53 0,77
+LTN 01/04/2025 17.664.801,13 2,74
+LTN 01/07/2025 11.989.553,84 1,86
+LTN 01/10/2025 1.386.383,96 0,21
+LTN 01/04/2026 3.660.983,09 0,57
+LTN 01/07/2026 7.666.478,64 1,19
+LTN 01/07/2027 6.495.342,44 1,01
+LTN 01/01/2030 3.158.372,94 0,49
+NTNB 15/05/2025 7.317.714,01 1,13
+NTNB 15/08/2026 14.249.964,96 2,21
+NTNB 15/05/2027 10.805.428,41 1,67
+NTNB 15/08/2028 51.096.683,14 7,92
+NTNB 15/05/2029 2.471.013,49 0,38
+NTNB 15/08/2030 10.218.059,48 1,58
+NTNB 15/05/2035 37.116.605,22 5,75
+NTNB 15/08/2060 287.504,85 0,04
+NTNF 01/01/2025 6.043.657,68 0,94
+CrØdito 402.616,12 0,06
+CrØdito ALGAR TELECOM SA DEB˚NTURE 170.086,19 0,03
+CrØdito ATACADAO SA DEB˚NTURE 45.566,97 0,01
+CrØdito B3 SA - BRASIL, BOLSA, BALCAO DEB˚NTURE 214.116,20 0,03
+CrØdito BANCO INDUSTRIAL BRASIL SA CDB 522.542,55 0,08
+CrØdito BANCO AGIBANK S.A. DPGE - Garantia FGC 214.273,07 0,03
+CrØdito BANCO C6 CONSIGNADO S.A. CDB 360.473,14 0,06
+9 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito BANCO RCI BRASIL SA LETRA FINANCEIRA 83.946,14 0,01
+CrØdito BANCO VOTORANTIM S.A. LETRA FINANCEIRA 2.966.317,51 0,46
+CrØdito BANCO XP S.A LETRA FINANCEIRA 692.843,01 0,11
+CrØdito BCO ABC BRASIL SA LETRA FINANCEIRA 1.948.481,97 0,30
+CrØdito BCO ALFA INVEST SA (EX BCO REAL INVEST SA) CDB 579.163,19 0,09
+CrØdito BCO BRADESCO SA LETRA FINANCEIRA 5.488.957,19 0,85
+CrØdito BCO BRASIL SA LETRA FINANCEIRA 3.208.757,50 0,50
+CrØdito BCO BTG PACTUAL SA LETRA FINANCEIRA 662.679,33 0,10
+CrØdito BCO CITIBANK SA LETRA FINANCEIRA 499.171,84 0,08
+CrØdito BCO CNH CAPITAL SA LETRA FINANCEIRA 677.795,44 0,10
+CrØdito BCO COOPERATIVO SICREDI SA BANSICREDI LETRA FINANCEIRA 597.649,36 0,09
+CrØdito BCO DAYCOVAL SA LETRA FINANCEIRA 1.916.219,03 0,30
+CrØdito BCO FIBRA SA DPGE - Garantia FGC 41.186,66 0,01
+CrØdito BCO FIDIS INVEST SA (EX BCO FIAT SA) CDB 765.857,07 0,12
+CrØdito BCO GMAC SA LETRA FINANCEIRA 509.738,79 0,08
+CrØdito BCO ITAU SA LETRA FINANCEIRA 3.901.136,52 0,60
+CrØdito BCO JOHN DEERE SA LETRA FINANCEIRA 42.948,83 0,01
+CrØdito BCO MERCANTIL BRASIL SA DPGE - Garantia FGC 203.419,92 0,03
+CrØdito BCO MERCEDES BENZ BRASIL SA LETRA FINANCEIRA 279.216,47 0,04
+CrØdito BCO RABOBANK INTERNATIONAL BRASIL SA LETRA FINANCEIRA 235.280,18 0,04
+CrØdito BCO SAFRA SA LETRA FINANCEIRA 2.828.022,43 0,44
+CrØdito BCO SANTANDER (BRASIL) SA LETRA FINANCEIRA 2.897.825,41 0,45
+CrØdito BCO VOLKSWAGEN SA LETRA FINANCEIRA 1.225.157,42 0,19
+CrØdito CAIXA ECONOMICA FEDERAL CEF CDB 14.009.896,80 2,17
+CrØdito CIA ENERGETICA PERNAMBUCO CELPE DEB˚NTURE 172.319,23 0,03
+CrØdito CIA ENERGETICA RIO GRANDE NORTE COSERN DEB˚NTURE 362.723,52 0,06
+CrØdito CIA PAULISTA FORCA LUZ DEB˚NTURE 229.310,85 0,04
+CrØdito CIA SANEAMENTO MINAS GERAIS COPASA MG DEB˚NTURE 5.095,45 0,00
+CrØdito CIA SIDERURGICA NACIONAL DEB˚NTURE 253.914,39 0,04
+CrØdito CIELO SA DEB˚NTURE 645.853,17 0,10
+CrØdito COMPANHIA SANEAMENTO BASICO ESTADO DEB˚NTURE 230.618,38 0,04
+SAO PAULO SABESP
+CrØdito CONCESSIONARIA SISTEMA ANHANGUERA DEB˚NTURE 445.111,20 0,07
+BANDEIRANTES S/A
+CrØdito CONCORDIA BCO SA CDB 106.043,71 0,02
+CrØdito COPEL DISTRIBUICAO SA DEB˚NTURE 148.823,82 0,02
+CrØdito COPEL GERACAO TRANSMISSAO SA DEB˚NTURE 401.062,56 0,06
+CrØdito COSAN SA DEB˚NTURE 348.331,64 0,05
+CrØdito DIAGNOSTICOS AMERICA SA DEB˚NTURE 236.774,29 0,04
+CrØdito EDP SAO PAULO DISTRIBUIDORA ENERGIA S.A. DEB˚NTURE 85.137,59 0,01
+CrØdito ELEKTRO REDES S.A. DEB˚NTURE 147.538,36 0,02
+CrØdito ENERGISA SA DEB˚NTURE 117.383,60 0,02
+10 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito EQUATORIAL PAR` DISTRIBUIDORA DE DEB˚NTURE 18.032,53 0,00
+ENERGIA S.A.
+CrØdito ESTACIO PARTICIPACOES SA DEB˚NTURE 342.626,51 0,05
+CrØdito FLEURY SA DEB˚NTURE 305.769,01 0,05
+CrØdito GERDAU SA DEB˚NTURE 200.689,28 0,03
+CrØdito GOLDMAN SACHS BRASIL BCO MULTIPLO CDB 659.719,47 0,10
+CrØdito HAPVIDA PARTICIPACOES INVESTIMENTO SA DEB˚NTURE 416.223,93 0,06
+CrØdito ITAU UNIBANCO HOLDING SA LETRA FINANCEIRA 376.280,43 0,06
+CrØdito LLOYDS LEASING TSB SA ARREND MERCANTIL LETRA FINANCEIRA 239.028,96 0,04
+CrØdito LOCALIZA FLEET SA DEB˚NTURE 98.405,34 0,02
+CrØdito LOCALIZA RENT A CAR SA DEB˚NTURE 787.813,96 0,12
+CrØdito LOJAS RENNER SA DEB˚NTURE 79.058,52 0,01
+CrØdito MOVIDA PARTICIPACOES DEB˚NTURE 104.859,70 0,02
+CrØdito MRS LOGISTICA SA DEB˚NTURE 28.074,32 0,00
+CrØdito MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS DEB˚NTURE 96.226,83 0,01
+SA
+CrØdito NATURA COSMETICOS SA DEB˚NTURE 201.727,94 0,03
+CrØdito NOVA TRANSPORTADORA SUDESTE SA - NTS DEB˚NTURE 686.871,23 0,11
+CrØdito NU FINANCEIRA S.A. SOCIEDADE DE CREDITO CDB 489.998,60 0,08
+FINANCIAMENTO E INVESTIMENTO
+CrØdito PARANA BCO SA CDB 109.515,04 0,02
+CrØdito PETROLEO BRASILEIRO SA PETROBRAS DEB˚NTURE 1.027.396,99 0,16
+CrØdito RAIA DROGASIL SA DEB˚NTURE 150.462,54 0,02
+CrØdito REDE D OR SAO LUIZ SA DEB˚NTURE 778.027,56 0,12
+CrØdito SCANIA BANCO S.A. LETRA FINANCEIRA 164.156,53 0,03
+CrØdito SENDAS DISTRIBUIDORA S.A. DEB˚NTURE 704.125,44 0,11
+CrØdito SUZANO S.A. DEB˚NTURE 161.387,67 0,03
+CrØdito TELEFONICA BRASIL SA DEB˚NTURE 299.212,79 0,05
+CrØdito TIM BRASIL SERVI˙OS E PARTICIPA˙(cid:213)ES S.A. DEB˚NTURE 366.354,03 0,06
+CrØdito TRANSMISSORA ALIANCA ENERGIA ELETRICA SA DEB˚NTURE 78.314,46 0,01
+CrØdito TUPY SA DEB˚NTURE 186.254,36 0,03
+CrØdito UNIPAR CARBOCLORO SA DEB˚NTURE 455.720,09 0,07
+CrØdito USINAS SIDERURGICAS MINAS GERAIS SA DEB˚NTURE 349.854,69 0,05
+USIMINAS
+CrØdito VAMOS LOCACAO DE CAMINHOES, MAQUINAS E DEB˚NTURE 106.320,51 0,02
+EQUIPAMENTOS S.A.
+CrØdito VIBRA ENERGIA SA DEB˚NTURE 541.991,81 0,08
+CrØdito VOTORANTIM CIMENTOS SA DEB˚NTURE 295.124,85 0,05
+Cotas 37.805.408,43 5,86
+Cotas ALASKA BLACK INSTITUCIONAL FIA 26.673.556/0001-32 334.694,61 0,05
+Cotas AZ QUEST SMALL MID CAPS FIC DE FIA 11.392.165/0001-72 347.391,45 0,05
+Cotas BB MULT GLOBAL SELECT EQUITY 17.413.636/0001-68 83.810,25 0,01
+INVESTIMENTO NO EXTERIOR FI
+Cotas BB TOP RENDA FIXA JUROS BRASIL FUNDO DE 49.964.068/0001-80 28.045.494,94 4,34
+11 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+INVESTIMENTO LONGO PRAZO
+Cotas BRASIL CAPITAL 30 FUNDO DE INVESTIMENTO 14.866.273/0001-28 322.906,68 0,05
+EM COTAS DE FUNDOS DE INVESTIMENTO EM
+A˙(cid:213)ES
+Cotas CAIXA VINCI VALOR DIVIDENDOS FIA 15.154.458/0001-72 4.875.657,97 0,76
+Cotas CONSTANCIA FUNDAMENTO FI DE ACOES 11.182.064/0001-77 663.509,56 0,10
+Cotas FUNDO DE INVESTIMENTO CAIXA MASTER TPF 05.164.353/0001-40 176.596,12 0,03
+RENDA FIXA
+Cotas FUNDO INVESTIMENTO CAIXA MASTER 10.948.555/0001-13 19.610.349,38 3,04
+SOBERANO RENDA FIXA LONGO PRAZO
+Cotas GUEPARDO A˙(cid:213)ES INSTITUCIONAL FI DE A˙(cid:213)ES 08.830.947/0001-31 644.492,49 0,10
+Cotas ITAU VERSO A RENDA FIXA REFERENCIADO DI 11.419.818/0001-60 80.036,31 0,01
+LP FI
+Cotas ITA(cid:218) LEGEND INSTITUCIONAL RENDA FIXA 50.109.947/0001-03 46.964.338,94 7,28
+LONGO PRAZO FUNDO DE INVESTIMENTO
+Cotas MOAT CAIXA A˙(cid:213)ES FUNDO DE INVESTIMENTO 35.502.481/0001-18 136.948,52 0,02
+EM COTAS DE FUNDOS DE INVESTIMENTO EM
+A˙(cid:213)ES
+Cotas Morgan Stanley Investment Funds - Global 6.336.823,95 0,98
+Opportunity Fund Z
+Cotas NAVI INSTITUCIONAL II FIC FIA 34.659.901/0001-01 776.657,54 0,12
+Cotas OCCAM FIC FIA 11.628.883/0001-03 494.227,45 0,08
+Cotas OCEANA SELECTION 30 FUNDO DE 31.533.338/0001-32 616.820,06 0,10
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM A˙(cid:213)ES
+Cotas PRINCIPAL CLARITAS VALOR FEEDER FIC FIA 11.403.850/0001-57 621.003,48 0,10
+Cotas REAL INVESTOR INSTITUCIONAL FIC FIA 52.070.019/0001-08 663.496,64 0,10
+Cotas SHARP EQUITY VALUE INSTITUCIONAL FUNDO 17.898.650/0001-07 583.191,81 0,09
+DE INVESTIMENTO DE A˙(cid:213)ES
+Cotas TRIGONO DELPHOS INCOME FUNDO DE 29.177.024/0001-00 608.071,69 0,09
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM ACOES
+Cotas TRUXT C VALOR INSTITUCIONAL FUNDO DE 38.248.976/0001-50 150.515,69 0,02
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM A˙(cid:213)ES
+Cotas XP CASH B1 FUNDO INVESTIMENTO COTAS 45.823.842/0001-81 81.029,43 0,01
+RENDA FIXA SIMPLES
+A(cid:231)ªo AZZA3 23.592,60 0,00
+A(cid:231)ªo ABBVIE INC ABBV 231.854,35 0,04
+A(cid:231)ªo ADOBE INC ADBE 150.557,61 0,02
+A(cid:231)ªo ADVANCE AUTO PARTS INC A1AP 2.055,10 0,00
+A(cid:231)ªo ADVANCED MICRO DEVICES INC A1MD 151.993,21 0,02
+A(cid:231)ªo AERIS IND(cid:218)STRIA E COM(cid:201)RCIO DE AERI3 896,59 0,00
+EQUIPAMENTOS PARA GERA˙ˆO DE ENERGIA S.
+A.
+A(cid:231)ªo AIRBNB INC AIRB34 43.839,99 0,01
+A(cid:231)ªo ALBEMARLE CORP A1LB34 7.632,09 0,00
+A(cid:231)ªo ALIBABA GROUP HOLDING LTD BABA 154.221,49 0,02
+12 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo ALLOS S.A. ALOS3 223.852,79 0,03
+A(cid:231)ªo ALPARGATAS SA ALPA4 6.345,91 0,00
+A(cid:231)ªo ALPHABET INC GOGL 1.686.610,59 0,26
+A(cid:231)ªo ALUPAR INVESTIMENTO S.A ALUP11 16.131,09 0,00
+A(cid:231)ªo AMAZON.COM, INC AMZO 1.785.675,69 0,28
+A(cid:231)ªo AMBEV S.A ABEV3 175.136,73 0,03
+A(cid:231)ªo AMBIPAR PARTICIPA˙(cid:213)ES E AMBP3 21.441,11 0,00
+EMPREENDIMENTOS S.A
+A(cid:231)ªo AMERICAN AIRLINES GROUP INC AALL 8.755,03 0,00
+A(cid:231)ªo AMERICAN EXPRESS COMPANY AXPB 16.205,63 0,00
+A(cid:231)ªo AMERICAN TOWER CORP T1OW34 63.879,17 0,01
+A(cid:231)ªo ANIMA HOLDING SA ANIM3 2.430,81 0,00
+A(cid:231)ªo APPLE INC. AAPL 2.904.791,44 0,45
+A(cid:231)ªo APPLIED MATERIALS INC A1MT 102.515,76 0,02
+A(cid:231)ªo ARCELOR MITTAL CI A ADS ARMT 14.747,34 0,00
+A(cid:231)ªo ARISTA NETWORKS INC A1NE34 106.475,88 0,02
+A(cid:231)ªo ARMAC LOCA˙ˆO, LOG˝STICA E SERVI˙OS S.A. ARML3 3.525,83 0,00
+A(cid:231)ªo ASML HOLDING NV ASML 211.747,16 0,03
+A(cid:231)ªo ASTRAZENECA PLC A1ZN34 154.189,45 0,02
+A(cid:231)ªo AT&T INC. ATTB 41.404,66 0,01
+A(cid:231)ªo ATACADAO SA CRFB3 5.719,99 0,00
+A(cid:231)ªo AUREA FUNDO INVEST MULTIMERCADO AURE3 17.882,82 0,00
+CREDITO PRIVADO
+A(cid:231)ªo AZEVEDO TRAVASSOS SA AZEV4 443,70 0,00
+A(cid:231)ªo AZUL SA AZUL4 4.618,15 0,00
+A(cid:231)ªo B3 SA - BRASIL, BOLSA, BALCAO B3SA3 314.023,35 0,05
+A(cid:231)ªo BAIDU INC BIDU 18.153,41 0,00
+A(cid:231)ªo BANCO PAN S.A BPAN4 7.737,63 0,00
+A(cid:231)ªo BANCO SANTANDER CHILE B1SA34 6.666,52 0,00
+A(cid:231)ªo BANCO SANTANDER S.A BCSA 53.114,33 0,01
+A(cid:231)ªo BANCOLOMBIA SA C2OL34 2.724,58 0,00
+A(cid:231)ªo BANK OF AMERICA CORPORATION BOAC 258.982,78 0,04
+A(cid:231)ªo BB SEGURIDADE PARTICIPACOES SA BBSE3 8.869,32 0,00
+A(cid:231)ªo BCO ABC BRASIL SA ABCB4 6.009,38 0,00
+A(cid:231)ªo BCO BRADESCO SA BBDC3 22.307,57 0,00
+A(cid:231)ªo BCO BRASIL SA BBAS3 25.843,77 0,00
+A(cid:231)ªo BCO BTG PACTUAL SA BPAC 304.592,70 0,05
+A(cid:231)ªo BCO ESTADO RIO GRANDE SUL SA BRSR6 8.230,08 0,00
+A(cid:231)ªo BCO SANTANDER (BRASIL) SA SANB11 30,30 0,00
+A(cid:231)ªo BEMOBI MOBILE TECH S.A. BMOB3 9.994,33 0,00
+A(cid:231)ªo BERKSHIRE HATHAWAY INC. BERK 37.219,40 0,01
+A(cid:231)ªo BEYOND MEAT INC B2YN34 188,68 0,00
+13 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo BILIBILI INC B1IL34 4.710,11 0,00
+A(cid:231)ªo BILL.COM HOLDINGS INC B2HI34 6.858,48 0,00
+A(cid:231)ªo BIONTECH SE B1NT34 20.145,10 0,00
+A(cid:231)ªo BLACKROCK INC BLAK 115.412,68 0,02
+A(cid:231)ªo BLAU FARMACEUTICA SA BLAU3 2.302,86 0,00
+A(cid:231)ªo BOA SAFRA SEMENTES S.A. SOJA3 2.856,85 0,00
+A(cid:231)ªo BOOKING HOLDINGS INC BKNG 127.119,55 0,02
+A(cid:231)ªo BP PLC B1PP34 60.621,04 0,01
+A(cid:231)ªo BRADESPAR SA BRAP4 16.636,85 0,00
+A(cid:231)ªo BRASILAGRO CIA BRAS PROPRIEDADES AGRO3 8.433,28 0,00
+AGRICOLAS
+A(cid:231)ªo BRASKEM SA BRKM5 12.417,01 0,00
+A(cid:231)ªo BRAVE FUNDO INVESTIMENTO MULTIMERCADO BRAV3 42.238,97 0,01
+CREDITO PRIVADO INVESTIMENTO EXTERIOR
+A(cid:231)ªo BRF SA BRFS3 48.537,00 0,01
+A(cid:231)ªo BRISTOL-MYERS SQUIBB COMPANY BMYB11 0,00 0,00
+A(cid:231)ªo BRITISH AMERICAN TOBACCO PLC B1TI34 61.203,97 0,01
+A(cid:231)ªo BROADCOM INC AVGO 838.669,70 0,13
+A(cid:231)ªo C&A MODAS S.A. CEAB3 10.088,12 0,00
+A(cid:231)ªo CAIXA SEGURIDADE PARTICIPA˙(cid:213)ES S.A. CXSE3 26,34 0,00
+A(cid:231)ªo CAMIL ALIMENTOS SA CAML3 3.335,32 0,00
+A(cid:231)ªo CATERPILLAR INC. CATP 133.916,96 0,02
+A(cid:231)ªo CCR SA CCRO3 35,98 0,00
+A(cid:231)ªo CELULOSE IRANI SA RANI3 2.921,62 0,00
+A(cid:231)ªo CENTRAIS ELETRICAS BRASILEIRA SA ELET3 158.047,58 0,02
+ELETROBRAS
+A(cid:231)ªo CHARTER COMMUNICATIONS INC CHCM 37.154,17 0,01
+A(cid:231)ªo CHEVRON CORPORATION CHVX 198.758,38 0,03
+A(cid:231)ªo CIA ENERGETICA MINAS GERAIS CEMIG CMIG4 7.995,14 0,00
+A(cid:231)ªo CIA FERRO LIGAS BAHIA FERBASA FESA4 5.228,42 0,00
+A(cid:231)ªo CIA PARANAENSE ENERGIA COPEL CPLE6 55.697,40 0,01
+A(cid:231)ªo CIA SANEAMENTO MINAS GERAIS COPASA MG CSMG3 21.341,19 0,00
+A(cid:231)ªo CIA SIDERURGICA NACIONAL CSNA3 23,28 0,00
+A(cid:231)ªo CISCO SYSTEMS, INC CSCO 181.116,10 0,03
+A(cid:231)ªo CITIGROUP INC. CTGP 101.909,67 0,02
+A(cid:231)ªo CLASSE A FUNDO INVEST ACOES CLSA3 7.626,34 0,00
+A(cid:231)ªo CM HOSPITALAR SA VVEO3 2.227,49 0,00
+A(cid:231)ªo COINBASE GLOBAL INC C2OI34 39.585,86 0,01
+A(cid:231)ªo COLGATE-PALMOLIVE COMPANY COLG 56.342,42 0,01
+A(cid:231)ªo COMCAST CORPORATION CMCS 109.142,10 0,02
+A(cid:231)ªo COMPANHIA BRASILEIRA DE ALUM˝NIO CBAV3 3.810,31 0,00
+A(cid:231)ªo COMPANHIA BRASILEIRA DISTRIBUICAO PCAR3 5.632,66 0,00
+A(cid:231)ªo COMPANHIA SANEAMENTO BASICO ESTADO SBSP3 297.261,57 0,05
+14 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+SAO PAULO SABESP
+A(cid:231)ªo COMPANHIA SANEAMENTO PARANA SANEPAR SAPR11 27.776,04 0,00
+A(cid:231)ªo CONOCOPHILLIPS COPH 85.335,86 0,01
+A(cid:231)ªo CONSTRUTORA TENDA SA TEND3 51.131,74 0,01
+A(cid:231)ªo COSAN SA CSAN3 33,89 0,00
+A(cid:231)ªo COSTCO WHOLESALE CORPORATION COWC 310.272,57 0,05
+A(cid:231)ªo CPFL ENERGIA SA CPFE3 21,23 0,00
+A(cid:231)ªo CROWDSTRIKE HOLDINGS INC C2RW34 61.827,73 0,01
+A(cid:231)ªo CSN MINERA˙ˆO S.A CMIN3 20,41 0,00
+A(cid:231)ªo CSX CORP CSXC 46.990,60 0,01
+A(cid:231)ªo CURY CONSTRUTORA E INCORPORADORA LTDA. CURY3 327.695,29 0,05
+A(cid:231)ªo CVC BRASIL OPERADORA AGENCIA VIAGENS S.A CVCB3 4.395,42 0,00
+A(cid:231)ªo CYRELA BRAZIL REALTY SA CYRE3 140.196,95 0,02
+EMPREENDIMENTOS PARTICIPACOES
+A(cid:231)ªo DANAHER CORPORATION DHER 125.376,21 0,02
+A(cid:231)ªo DEERE CO DEEC 88.885,51 0,01
+A(cid:231)ªo DELL TECHNOLOGIES INC D1EL34 26.962,64 0,00
+A(cid:231)ªo DEXCO SA DXCO3 7.294,86 0,00
+A(cid:231)ªo DIAGEO PLC DEOP 53.345,37 0,01
+A(cid:231)ªo DIAGNOSTICOS AMERICA SA DASA3 1.695,39 0,00
+A(cid:231)ªo DIMED SA (EX PANVEL SA DROGARIAS PNVL3 3.763,61 0,00
+FARMACIAS)
+A(cid:231)ªo DIRECIONAL ENGENHARIA SA DIRR3 154.764,67 0,02
+A(cid:231)ªo DOLLAR GENERAL CORP DGCO 12.591,73 0,00
+A(cid:231)ªo ECOPETROL SA E1CO34 11.964,47 0,00
+A(cid:231)ªo ECORODOVIAS INFRAESTRUTURA LOGISTICA SA ECOR3 5.727,47 0,00
+A(cid:231)ªo ELI LILLY AND COMPANY LILY 558.705,05 0,09
+A(cid:231)ªo EMBRAER SA EMBR3 34.193,62 0,01
+A(cid:231)ªo EMPREENDIMENTOS PAGUE MENOS SA PGMN3 3.401,55 0,00
+A(cid:231)ªo ENERGISA SA ENGI11 42,40 0,00
+A(cid:231)ªo ENEVA S.A ENEV3 29.930,53 0,00
+A(cid:231)ªo ENGIE BRASIL ENERGIA SA EGIE3 32,25 0,00
+A(cid:231)ªo EQUATORIAL ENERGIA SA EQTL3 322.065,92 0,05
+A(cid:231)ªo EQUINIX INC EQIX 67.472,91 0,01
+A(cid:231)ªo EQUINOR ASA E1QN34 49.598,25 0,01
+A(cid:231)ªo ESTACIO PARTICIPACOES SA YDUQ3 14.891,46 0,00
+A(cid:231)ªo EVEN CONSTRUTORA INCORPORADORA SA EVEN3 32.497,77 0,01
+A(cid:231)ªo EXXON MOBIL CORPORATION EXXO 358.527,22 0,06
+A(cid:231)ªo EZ TEC EMPREENDIMENTOS PARTICIPACOES SA EZTC3 33.190,11 0,01
+A(cid:231)ªo FIRST SOLAR INC FSLR34 14.390,58 0,00
+A(cid:231)ªo FLEURY SA FLRY3 33.565,51 0,01
+A(cid:231)ªo FORD MOTORS COMPANY FDMO 29.413,17 0,00
+15 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo FRANCO-NEVADA CORP F2NV34 17.157,77 0,00
+A(cid:231)ªo FRAS-LE SA FRAS3 12.718,43 0,00
+A(cid:231)ªo GAFISA SA GFSA3 3.549,91 0,00
+A(cid:231)ªo GENERAL ELECTRIC COMPANY GEOO 138.226,10 0,02
+A(cid:231)ªo GENERAL MOTORS COMPANY GMCO 45.981,97 0,01
+A(cid:231)ªo GERDAU SA GGBR4 8.527,90 0,00
+A(cid:231)ªo GOLDMAN SACHS GROUP INC. GSGI 137.867,56 0,02
+A(cid:231)ªo GPS PARTICIPACOES EMPREENDIMENTOS SA GGPS3 22.335,56 0,00
+A(cid:231)ªo GRENDENE SA GRND3 7.876,25 0,00
+A(cid:231)ªo GRUPO CASAS BAHIA S.A. BHIA3 1.584,04 0,00
+A(cid:231)ªo GRUPO MATEUS S.A GMAT3 5.947,44 0,00
+A(cid:231)ªo GRUPO SBF SA SBFG3 9.418,62 0,00
+A(cid:231)ªo GUARARAPES CONFECCOES SA (EX GUAR3 8.521,17 0,00
+CONFECCOES GUARARAPES SA)
+A(cid:231)ªo HAPVIDA PARTICIPACOES INVESTIMENTO SA HAPV3 43.451,46 0,01
+A(cid:231)ªo HEWLETT PACKARD COMPANY HPQB 24.494,88 0,00
+A(cid:231)ªo HIDROVIAS BRASIL SA HBSA3 8.421,88 0,00
+A(cid:231)ªo HOSPITAL MATER DEI S.A. MATD3 756,46 0,00
+A(cid:231)ªo HSBC HOLDINGS PLC H1SB34 139.249,31 0,02
+A(cid:231)ªo HYPERA S.A. HYPE3 14.615,85 0,00
+A(cid:231)ªo IGUATEMI S.A. IGTI11 108.466,44 0,02
+A(cid:231)ªo INDS ROMI SA ROMI3 1.693,84 0,00
+A(cid:231)ªo INTEL CORPORATION ITLC 64.554,73 0,01
+A(cid:231)ªo INTELBRAS SA IND TELECOMUNICACOES INTB3 5.903,75 0,00
+ELETRONICA BRASILEIRA
+A(cid:231)ªo INVESTO TEVA TESOURO SELIC ETF (cid:150) FUNDO LFTS11 23.243,15 0,00
+DE INVESTIMENTO DE ˝NDICE
+A(cid:231)ªo IOCHPE MAXION SA MYPK3 8.791,29 0,00
+A(cid:231)ªo IRB BRASIL RESSEGUROS SA IRBR3 19.378,13 0,00
+A(cid:231)ªo IT NOW IBOVESPA FUNDO INDICE BOVV 5.399,57 0,00
+A(cid:231)ªo ITAU UNIBANCO HOLDING SA ITUB4 343.267,30 0,05
+A(cid:231)ªo ITAUSA INVESTS ITAU SA ITSA4 144.390,25 0,02
+A(cid:231)ªo JALLES MACHADO S.A. JALL3 2.678,55 0,00
+A(cid:231)ªo JBS SA JBSS3 107.159,49 0,02
+A(cid:231)ªo JD.COM INC JDCO 35.261,88 0,01
+A(cid:231)ªo JHSF PARTICIPACOES SA JHSF3 33.914,99 0,01
+A(cid:231)ªo JOHNSON & JOHNSON JNJB 17.488,05 0,00
+A(cid:231)ªo JPMORGAN CHASE & CO. JPMC 520.264,92 0,08
+A(cid:231)ªo JSL SA JSLG3 1.389,00 0,00
+A(cid:231)ªo KEPLER WEBER SA KEPL3 6.637,52 0,00
+A(cid:231)ªo KINGSOFT CLOUD HOLDINGS LTD K2CG34 2.229,43 0,00
+A(cid:231)ªo KLABIN SA KLBN11 63,33 0,00
+A(cid:231)ªo KROTON EDUCACIONAL SA COGN3 12.032,00 0,00
+16 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo LAVVI EMPREENDIMENTOS IMOBILIARIOS S.A LAVV3 17.484,10 0,00
+A(cid:231)ªo LLOYDS BANKING GROUP PLC L1YG34 31.276,19 0,00
+A(cid:231)ªo LOCALIZA RENT A CAR SA RENT3 73.999,02 0,01
+A(cid:231)ªo LOCAWEB SERVI˙OS DE INTERNET S.A. LWSA3 5.510,15 0,00
+A(cid:231)ªo LOG COMMERCIAL PROPERTIES LOGG3 27.355,75 0,00
+PARTICIPACOES SA
+A(cid:231)ªo LOJAS QUERO-QUERO S.A. LJQQ3 2.684,43 0,00
+A(cid:231)ªo LOJAS RENNER SA LREN3 25.050,00 0,00
+A(cid:231)ªo LUMEN TECHNOLOGIES, INC L1MN34 4.117,77 0,00
+A(cid:231)ªo M DIAS BRANCO SA IND COM ALIMENTOS MDIA3 7.877,33 0,00
+A(cid:231)ªo MAGAZINE LUIZA SA MGLU3 13.645,36 0,00
+A(cid:231)ªo MAHLE METAL LEVE SA (EX METAL LEVE SA IND LEVE3 8.694,90 0,00
+COM)
+A(cid:231)ªo MARCOPOLO SA POMO4 24.940,67 0,00
+A(cid:231)ªo MARFRIG GLOBAL FOODS S.A MRFG3 35.742,38 0,01
+A(cid:231)ªo MASTERCARD INCORPORATED MSCD 367.951,93 0,06
+A(cid:231)ªo MC DONALDS CORP. MCDC 158.575,89 0,02
+A(cid:231)ªo MEDICAL PROPERTIES TRUST INC M2PW34 1.705,95 0,00
+A(cid:231)ªo MERCADOLIBRE INC MELI 66.749,29 0,01
+A(cid:231)ªo MERCK & CO., INC. MRCK 188.356,00 0,03
+A(cid:231)ªo META PLATFORMS, INC. M1TA34 991.473,57 0,15
+A(cid:231)ªo METALURGICA GERDAU SA GOAU4 27.416,44 0,00
+A(cid:231)ªo MICRON TECHNOLOGY INC MUTC 72.663,61 0,01
+A(cid:231)ªo MICROSOFT CORPORATION MSFT 2.446.477,46 0,38
+A(cid:231)ªo MICROSTRATEGY INC M2ST34 41.324,30 0,01
+A(cid:231)ªo MILLS ESTRUTURAS SERVICOS ENGENHARIA SA MILS3 5.988,73 0,00
+A(cid:231)ªo MINERVA SA BEEF3 7.936,52 0,00
+A(cid:231)ªo MITRE REALTY EMPREENDIMENTOS E MTRE3 5.465,66 0,00
+PARTICIPA˙(cid:213)ES S.A.
+A(cid:231)ªo MODERNA INC M1RN34 11.472,88 0,00
+A(cid:231)ªo MONSTER BEVERAGE CORP M1NS 38.673,83 0,01
+A(cid:231)ªo MORGAN STANLEY MSBR 30.652,22 0,00
+A(cid:231)ªo MOURA DUBEUX ENGENHARIA SA MDNE3 18.159,94 0,00
+A(cid:231)ªo MOVIDA PARTICIPACOES MOVI3 2.685,79 0,00
+A(cid:231)ªo MRV ENGENHARIA PARTICIPACOES SA MRVE3 62.312,94 0,01
+A(cid:231)ªo MULTILASER INDUSTRIAL S.A. MLAS3 1.678,40 0,00
+A(cid:231)ªo MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS MULT3 414.869,91 0,06
+SA
+A(cid:231)ªo M(cid:201)LIUZ S.A CASH3 731,24 0,00
+A(cid:231)ªo NASDAQ INC N1DA 33.987,54 0,01
+A(cid:231)ªo NATURA &CO HOLDING S.A. NTCO3 21.310,59 0,00
+A(cid:231)ªo NETFLIX, INC. NFLX 293.718,28 0,05
+A(cid:231)ªo NEW ORIENTAL EDUCATION & TECHNOLOGY E1DU34 7.797,62 0,00
+17 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+GROUP INC
+A(cid:231)ªo NEWMONT GOLDCORP CORP N1EM 32.824,99 0,01
+A(cid:231)ªo NEXTERA ENERGY INC NEXT 113.487,39 0,02
+A(cid:231)ªo NIKE INC NIKE 68.740,46 0,01
+A(cid:231)ªo NOVO NORDISK A/S N1VO34 221.093,75 0,03
+A(cid:231)ªo NU HOLDINGS LTD ROXO34 6.502,09 0,00
+A(cid:231)ªo NVIDIA CORP NVDC 2.583.435,84 0,40
+A(cid:231)ªo OCCIDENTAL PETROLEUM CORP OXYP 33.643,97 0,01
+A(cid:231)ªo OCEANPACT SERVICOS MARITIMOS S.A. OPCT3 2.722,72 0,00
+A(cid:231)ªo ODONTOPREV SA ODPV3 22.059,21 0,00
+A(cid:231)ªo ONCOCLINICAS BRASIL SERVICOS MEDICOS SA ONCO3 7.430,35 0,00
+A(cid:231)ªo ORACLE CORPORATION ORCL 350.293,10 0,05
+A(cid:231)ªo ORIZON VALORIZA˙ˆO DE RES˝DUOS S.A. ORVR3 37.844,25 0,01
+A(cid:231)ªo PAGSEGURO DIGITAL LTD PAGS34 983,24 0,00
+A(cid:231)ªo PALANTIR TECHNOLOGIES INC P2LT34 128.396,14 0,02
+A(cid:231)ªo PALO ALTO NETWORKS INC P2AN34 90.847,69 0,01
+A(cid:231)ªo PAYPAL HOLDINGS INC PYPL 66.506,10 0,01
+A(cid:231)ªo PBG SA PTBL3 805,45 0,00
+A(cid:231)ªo PEPSICO, INC. PEPB 10.522,22 0,00
+A(cid:231)ªo PET CENTER COM(cid:201)RCIO E PARTICIPA˙(cid:213)ES S.A. PETZ3 12.943,92 0,00
+A(cid:231)ªo PETRO RIO SA PRIO3 60.834,75 0,01
+A(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETR3 584.964,90 0,09
+A(cid:231)ªo PETRORECONCAVO S.A RECV3 17.817,48 0,00
+A(cid:231)ªo PFIZER INC. PFIZ 113.726,23 0,02
+A(cid:231)ªo PINDUODUO INC P1DD34 100.281,98 0,02
+A(cid:231)ªo PLANO & PLANO DESENVOLVIMENTO PLPL3 15.858,50 0,00
+IMOBILI`RIO LTDA.
+A(cid:231)ªo POSITIVO INFORMATICA SA POSI3 1.501,31 0,00
+A(cid:231)ªo PROCTER & GAMBLE COMPANY PGCO 300.002,40 0,05
+A(cid:231)ªo PROLOGIS INC P1LD34 73.426,08 0,01
+A(cid:231)ªo QUALCOMM INC. QCOM 131.708,35 0,02
+A(cid:231)ªo QUALICORP CONSULTORIA E CORRETORA DE QUAL3 2.511,03 0,00
+SEGUROS S.A.
+A(cid:231)ªo RAIA DROGASIL SA RADL3 339.498,18 0,05
+A(cid:231)ªo RAIZ PRODUCOES CINEMATOGRAFICAS LTDA RAIZ4 9,20 0,00
+A(cid:231)ªo RANDON SA IMPLEMENTOS PARTICIPACOES RAPT4 7.003,06 0,00
+A(cid:231)ªo REAL FUNDO INVEST QUOTAS FUNDOS INVEST PORT3 12.543,07 0,00
+RENDA FIXA PREMIUM MIX
+A(cid:231)ªo REALTY INCOME CORP R1IN 34.663,04 0,01
+A(cid:231)ªo RECRUSUL SA RCSL3 36,44 0,00
+A(cid:231)ªo REDE D OR SAO LUIZ SA RDOR3 118.594,68 0,02
+A(cid:231)ªo RIO TINTO PLC RIOT 56.653,15 0,01
+A(cid:231)ªo ROBLOX CORPORATION R2BL34 26.756,54 0,00
+18 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo RUMO SA RAIL3 73.490,23 0,01
+A(cid:231)ªo SALESFORCE COM INC SSFO 248.200,04 0,04
+A(cid:231)ªo SANTOS BRASIL PARTICIPACOES SA STBP3 50.591,16 0,01
+A(cid:231)ªo SAO MARTINHO SA SMTO3 19.939,53 0,00
+A(cid:231)ªo SEA LTD S2EA34 42.983,02 0,01
+A(cid:231)ªo SENDAS DISTRIBUIDORA S.A. ASAI3 45.452,22 0,01
+A(cid:231)ªo SER EDUCACIONAL S.A. SEER3 1.401,24 0,00
+A(cid:231)ªo SERENA ENERGIA S.A. SRNA3 9.348,69 0,00
+A(cid:231)ªo SERVICENOW INC N1OW34 167.964,92 0,03
+A(cid:231)ªo SHOPIFY INC S2HO34 98.665,35 0,02
+A(cid:231)ªo SIBANYE STILLWATER LTD S1BS34 1.752,30 0,00
+A(cid:231)ªo SIGMA LITHIUM CORP S2GM34 916,89 0,00
+A(cid:231)ªo SIMON PROPERTY GROUP INC SIMN 42.385,49 0,01
+A(cid:231)ªo SIMPAR S.A. SIMH3 3.246,27 0,00
+A(cid:231)ªo SL GREEN REALTY CORP S1LG34 3.217,08 0,00
+A(cid:231)ªo SLC AGRICOLA SA SLCE3 38.773,02 0,01
+A(cid:231)ªo SMARTFIT ESCOLA GINASTICA DANCA SA SMFT3 71.114,28 0,01
+A(cid:231)ªo SNOWFLAKE INC S2NW34 39.330,79 0,01
+A(cid:231)ªo SONY CORP SNEC 100.848,04 0,02
+A(cid:231)ªo SPOTIFY TECHNOLOGY SA S1PO 69.390,57 0,01
+A(cid:231)ªo SQUARE INC S2QU34 37.144,41 0,01
+A(cid:231)ªo STAG INDUSTRIAL INC S2TA34 4.649,13 0,00
+A(cid:231)ªo STARBUCKS CORPORATION SBUB 77.258,38 0,01
+A(cid:231)ªo SUN COMMUNITIES INC S2UI34 11.512,38 0,00
+A(cid:231)ªo SUZANO S.A. SUZB3 23.729,71 0,00
+A(cid:231)ªo TAIWAN SEMICONDUCTOR MANUFACTURING CO TSMC 793.489,65 0,12
+LTD
+A(cid:231)ªo TAKE-TWO INTERACTIVE SOFTWARE INC T1TW 24.664,68 0,00
+A(cid:231)ªo TAL EDUCATION GROUP T1AL34 3.597,45 0,00
+A(cid:231)ªo TAURUS ARMAS S.A. TASA4 2.252,65 0,00
+A(cid:231)ªo TEGMA GESTAO LOGISTICA SA TGMA3 9.011,59 0,00
+A(cid:231)ªo TELADOC HEALTH INC T2DH34 1.199,00 0,00
+A(cid:231)ªo TELEFONICA BRASIL SA VIVT3 115.486,35 0,02
+A(cid:231)ªo TELEF(cid:212)NICA SA TLNC 17.171,11 0,00
+A(cid:231)ªo TESLA INC TSLA 1.015.998,77 0,16
+A(cid:231)ªo TEXAS INSTRUMENTS INC TEXA 8.776,19 0,00
+A(cid:231)ªo THE CHARLES SCHWAB CORPORATION SCHW 98.156,04 0,02
+A(cid:231)ªo THE COCA-COLA COMPANY COCA 203.608,78 0,03
+A(cid:231)ªo THE HOME DEPOT INC. HOME 294.319,14 0,05
+A(cid:231)ªo THE KRAFT HEINZ COMPANY KHCB 6.973,84 0,00
+A(cid:231)ªo THE TRADE DESK INC T2TD34 40.537,95 0,01
+A(cid:231)ªo THE WALT DISNEY COMPANY DISB 10.302,91 0,00
+19 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo THERMO FISHER SCIENTIFIC INC TMOS 149.513,88 0,02
+A(cid:231)ªo TIM S.A. TIMS3 103.869,63 0,02
+A(cid:231)ªo TOTVS SA TOTS3 51,51 0,00
+A(cid:231)ªo TOYOTA MOTOR CORP. TMCO 235.629,25 0,04
+A(cid:231)ªo TRANSMISSORA ALIANCA ENERGIA ELETRICA SA TAEE11 28.809,57 0,00
+A(cid:231)ªo TRANSOCEAN LTD. RIGG 2.406,74 0,00
+A(cid:231)ªo TRES TENTOS AGROINDUSTRIAL S.A. TTEN3 14.714,15 0,00
+A(cid:231)ªo TRISUL SA TRIS3 9.943,38 0,00
+A(cid:231)ªo TUPY SA TUPY3 13.721,59 0,00
+A(cid:231)ªo UBER TECHNOLOGIES INC U1BE 97.097,16 0,02
+A(cid:231)ªo ULTRAPAR PARTICIPACOES SA UGPA3 6.678,34 0,00
+A(cid:231)ªo UNILEVER PLC ULEV 107.453,83 0,02
+A(cid:231)ªo UNIPAR CARBOCLORO SA UNIP6 9.821,22 0,00
+A(cid:231)ªo UNITED RENTALS INC U1RI34 35.356,29 0,01
+A(cid:231)ªo UNITEDHEALTH GROUP INCORPORATED UNHH 354.889,34 0,05
+A(cid:231)ªo UNITY SOFTWARE INC U2ST34 6.830,09 0,00
+A(cid:231)ªo UPSTART HOLDINGS INC U2PS34 4.324,88 0,00
+A(cid:231)ªo USINAS SIDERURGICAS MINAS GERAIS SA USIM5 118.133,90 0,02
+USIMINAS
+A(cid:231)ªo VALE SA VALE3 668.493,88 0,10
+A(cid:231)ªo VALID SOLU˙(cid:213)ES S.A. VLID3 13.235,19 0,00
+A(cid:231)ªo VAMOS LOCACAO DE CAMINHOES, MAQUINAS E VAMO3 13.853,49 0,00
+EQUIPAMENTOS S.A.
+A(cid:231)ªo VERIZON COMMUNICATIONS INC. VERZ 126.614,12 0,02
+A(cid:231)ªo VIBRA ENERGIA SA VBBR3 7.061,13 0,00
+A(cid:231)ªo VISA INC. VISA 26.781,79 0,00
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 167.095,04 0,03
+A(cid:231)ªo VODAFONE GROUP PUBLIC LTD COMPANY V1OD34 16.792,38 0,00
+A(cid:231)ªo VULCABRAS AZALEIA SA VULC3 9.012,53 0,00
+A(cid:231)ªo WAL MART STORES INC. WALM 556.301,59 0,09
+A(cid:231)ªo WALGREEN BA WGBA 6.113,77 0,00
+A(cid:231)ªo WARNER BROS. DISCOVERY, INC. W1BD34 19.498,81 0,00
+A(cid:231)ªo WEG SA WEGE3 763.834,44 0,12
+A(cid:231)ªo WELLS FARGO & COMPANY WFCO 181.685,09 0,03
+A(cid:231)ªo WIZ CO PARTICIPA˙(cid:213)ES E CORRETAGEM DE WIZC3 1.685,65 0,00
+SEGUROS S.A.
+A(cid:231)ªo ZAMPROGNA SA IMPORTACAO COM IND ZAMP3 1.861,34 0,00
+A(cid:231)ªo ZOETIS INC Z1TS 55.436,00 0,01
+A(cid:231)ªo ZOOM VIDEO COMMUNICATIONS INC Z1OM34 16.621,61 0,00
+Op(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETRA406 3.289,70 0,00
+Op(cid:231)ªo WEG SA WEGEA601 125,00 0,00
+Futuros WIN 0,00 0,00
+Futuros CONTRATO FUTURO DE CUPOM DI VERSUS IPCA DAP 0,00 0,00
+20 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Futuros CONTRATO FUTURO DE DI DE 1 DIA DI1 0,00 0,00
+Futuros CONTRATO FUTURO DE ROLAGEM DE DOLAR DAPQ26 0,00 0,00
+Caixa Caixa 360.303,79 0,06
+Caixa Cotas a Emitir -32.440,14 -0,01
+Caixa Cotas a Resgatar -100.254,75 -0,02
+Caixa Valor a Pagar -13.073.625,27 -2,03
+Caixa Valor a Receber 12.954.389,32 2,01
+Outros Outros 704.902,63 0,11
+21 de 65
+FI CAIXA BRASIL MATRIZ RENDA FIXA
+CNPJ:23.215.008/0001-70
+Patrim(cid:244)nio L(cid:237)quido: 6.711.585.180,95
+Financeiro:40.459.038,38
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 953.700,10 2,36
+LFT 01/03/2026 285.995,01 0,71
+LFT 01/09/2026 47.657,30 0,12
+LFT 01/03/2027 411.382,07 1,02
+LFT 01/09/2027 1.420.832,73 3,51
+LFT 01/03/2028 1.426.256,89 3,53
+LFT 01/09/2028 1.503.499,33 3,72
+LFT 01/03/2029 628.540,84 1,55
+LFT 01/09/2029 819.435,80 2,03
+LFT 01/03/2030 727.912,03 1,80
+LFT 01/06/2030 15.535.136,35 38,40
+LTN 01/07/2027 1.025.845,11 2,54
+CrØdito 191.404,90 0,47
+CrØdito B3 SA - BRASIL, BOLSA, BALCAO DEB˚NTURE 39.590,72 0,10
+CrØdito BANCO INDUSTRIAL BRASIL SA CDB 169.417,56 0,42
+CrØdito BANCO AGIBANK S.A. DPGE - Garantia FGC 148.078,24 0,37
+CrØdito BANCO C6 CONSIGNADO S.A. CDB 190.931,99 0,47
+CrØdito BANCO RCI BRASIL SA LETRA FINANCEIRA 26.921,10 0,07
+CrØdito BANCO VOTORANTIM S.A. LETRA FINANCEIRA 1.057.107,18 2,61
+CrØdito BANCO XP S.A LETRA FINANCEIRA 137.902,65 0,34
+CrØdito BCO ABC BRASIL SA LETRA FINANCEIRA 836.667,11 2,07
+CrØdito BCO ALFA INVEST SA (EX BCO REAL INVEST SA) CDB 252.628,14 0,62
+CrØdito BCO BRADESCO SA LETRA FINANCEIRA 540.865,64 1,34
+CrØdito BCO BRASIL SA LETRA FINANCEIRA 364.312,46 0,90
+CrØdito BCO BTG PACTUAL SA LETRA FINANCEIRA 452.304,22 1,12
+CrØdito BCO CNH CAPITAL SA LETRA FINANCEIRA 185.352,32 0,46
+CrØdito BCO COOPERATIVO SICREDI SA BANSICREDI LETRA FINANCEIRA 264.269,90 0,65
+CrØdito BCO DAYCOVAL SA LETRA FINANCEIRA 1.137.706,22 2,81
+CrØdito BCO FIDIS INVEST SA (EX BCO FIAT SA) CDB 199.778,71 0,49
+CrØdito BCO GMAC SA LETRA FINANCEIRA 64.509,53 0,16
+CrØdito BCO ITAU SA LETRA FINANCEIRA 1.289.901,71 3,19
+CrØdito BCO MERCANTIL BRASIL SA DPGE - Garantia FGC 137.874,28 0,34
+CrØdito BCO MERCEDES BENZ BRASIL SA LETRA FINANCEIRA 69.261,73 0,17
+CrØdito BCO RABOBANK INTERNATIONAL BRASIL SA LETRA FINANCEIRA 65.828,25 0,16
+CrØdito BCO SAFRA SA LETRA FINANCEIRA 996.751,63 2,46
+CrØdito BCO SANTANDER (BRASIL) SA LETRA FINANCEIRA 695.467,66 1,72
+CrØdito BCO VOLKSWAGEN SA LETRA FINANCEIRA 299.893,59 0,74
+22 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito CAIXA ECONOMICA FEDERAL CEF CDB 2.094.711,64 5,18
+CrØdito CIA ENERGETICA PERNAMBUCO CELPE DEB˚NTURE 91.432,53 0,23
+CrØdito CIA ENERGETICA RIO GRANDE NORTE COSERN DEB˚NTURE 84.671,96 0,21
+CrØdito CIA PAULISTA FORCA LUZ DEB˚NTURE 79.122,33 0,20
+CrØdito CIA SANEAMENTO MINAS GERAIS COPASA MG DEB˚NTURE 1.163,60 0,00
+CrØdito CIA SIDERURGICA NACIONAL DEB˚NTURE 81.114,19 0,20
+CrØdito CIELO SA DEB˚NTURE 184.834,86 0,46
+CrØdito COMPANHIA SANEAMENTO BASICO ESTADO DEB˚NTURE 35.681,71 0,09
+SAO PAULO SABESP
+CrØdito CONCESSIONARIA SISTEMA ANHANGUERA DEB˚NTURE 166.294,09 0,41
+BANDEIRANTES S/A
+CrØdito COPEL DISTRIBUICAO SA DEB˚NTURE 24.745,96 0,06
+CrØdito COPEL GERACAO TRANSMISSAO SA DEB˚NTURE 87.481,16 0,22
+CrØdito COSAN SA DEB˚NTURE 79.436,77 0,20
+CrØdito DIAGNOSTICOS AMERICA SA DEB˚NTURE 99.888,24 0,25
+CrØdito ENERGISA SA DEB˚NTURE 65.407,60 0,16
+CrØdito FLEURY SA DEB˚NTURE 25.514,53 0,06
+CrØdito GERDAU SA DEB˚NTURE 54.452,27 0,13
+CrØdito GOLDMAN SACHS BRASIL BCO MULTIPLO CDB 243.555,37 0,60
+CrØdito HAPVIDA PARTICIPACOES INVESTIMENTO SA DEB˚NTURE 76.503,85 0,19
+CrØdito ITAU UNIBANCO HOLDING SA LETRA FINANCEIRA 106.343,99 0,26
+CrØdito LLOYDS LEASING TSB SA ARREND MERCANTIL LETRA FINANCEIRA 73.077,98 0,18
+CrØdito LOCALIZA FLEET SA DEB˚NTURE 16.031,40 0,04
+CrØdito LOCALIZA RENT A CAR SA DEB˚NTURE 145.251,14 0,36
+CrØdito LOJAS RENNER SA DEB˚NTURE 14.039,50 0,03
+CrØdito MOVIDA PARTICIPACOES DEB˚NTURE 17.090,31 0,04
+CrØdito MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS DEB˚NTURE 96.226,83 0,24
+SA
+CrØdito NATURA COSMETICOS SA DEB˚NTURE 55.957,41 0,14
+CrØdito NOVA TRANSPORTADORA SUDESTE SA - NTS DEB˚NTURE 199.974,71 0,49
+CrØdito NU FINANCEIRA S.A. SOCIEDADE DE CREDITO CDB 84.637,92 0,21
+FINANCIAMENTO E INVESTIMENTO
+CrØdito PARANA BCO SA CDB 109.515,04 0,27
+CrØdito PETROLEO BRASILEIRO SA PETROBRAS DEB˚NTURE 282.485,92 0,70
+CrØdito RAIA DROGASIL SA DEB˚NTURE 20.734,60 0,05
+CrØdito REDE D OR SAO LUIZ SA DEB˚NTURE 202.729,94 0,50
+CrØdito SCANIA BANCO S.A. LETRA FINANCEIRA 45.714,02 0,11
+CrØdito SENDAS DISTRIBUIDORA S.A. DEB˚NTURE 169.178,63 0,42
+CrØdito TELEFONICA BRASIL SA DEB˚NTURE 42.994,03 0,11
+CrØdito TRANSMISSORA ALIANCA ENERGIA ELETRICA SA DEB˚NTURE 78.314,46 0,19
+CrØdito TUPY SA DEB˚NTURE 50.848,66 0,13
+CrØdito UNIPAR CARBOCLORO SA DEB˚NTURE 127.264,33 0,31
+CrØdito USINAS SIDERURGICAS MINAS GERAIS SA DEB˚NTURE 78.998,33 0,20
+23 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+USIMINAS
+CrØdito VAMOS LOCACAO DE CAMINHOES, MAQUINAS E DEB˚NTURE 22.104,64 0,05
+EQUIPAMENTOS S.A.
+CrØdito VIBRA ENERGIA SA DEB˚NTURE 156.150,36 0,39
+CrØdito VOTORANTIM CIMENTOS SA DEB˚NTURE 82.834,94 0,20
+Futuros CONTRATO FUTURO DE DI DE 1 DIA DI1 0,00 0,00
+Caixa Caixa 126,15 0,00
+Caixa Valor a Pagar -1.093,85 -0,00
+Caixa Valor a Receber 3,20 0,00
+24 de 65
+BB MM GL SLC EQ
+CNPJ:17.413.636/0001-68
+Patrim(cid:244)nio L(cid:237)quido: 1.785.616.944,88
+Financeiro:12.617.162,75
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/06/2030 53.255,58 0,42
+Cotas 36.914.421,40 292,57
+Cotas BB MULT GLOBAL SELECT EQUITY 17.413.636/0001-68 83.810,25 0,66
+INVESTIMENTO NO EXTERIOR FI
+Caixa Caixa 340.261,19 2,70
+Caixa Cotas a Resgatar -7.126,28 -0,06
+Caixa Valor a Pagar -12.522.584,81 -99,25
+Caixa Valor a Receber 12.448.549,94 98,66
+25 de 65
+RIO BRAVO ESTRATEGICO IPCA FI RENDA FIXA
+CNPJ:50.533.505/0001-90
+Patrim(cid:244)nio L(cid:237)quido: 254.955.294,43
+Financeiro:11.365.614,63
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/09/2026 98.679,26 0,87
+LFT 01/09/2027 35.187,76 0,31
+LTN 01/07/2025 10.065.912,77 88,56
+LTN 01/01/2030 22.311,71 0,20
+Caixa Caixa 44,58 0,00
+Caixa Valor a Pagar -9.850,08 -0,09
+Caixa Valor a Receber 16,79 0,00
+26 de 65
+MS GLOBAL OPPORTUNITIES ADVISORY FIC FIA IE
+CNPJ:33.913.562/0001-85
+Patrim(cid:244)nio L(cid:237)quido: 897.724.614,38
+Financeiro:6.374.195,72
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas XP CASH B1 FUNDO INVESTIMENTO COTAS 45.823.842/0001-81 13.424,22 0,21
+RENDA FIXA SIMPLES
+Caixa Caixa 21,30 0,00
+Caixa Cotas a Emitir -11.752,47 -0,18
+Caixa Cotas a Resgatar -20.942,74 -0,33
+Caixa Valor a Pagar -4.356,75 -0,07
+Caixa Valor a Receber 24.824,91 0,39
+27 de 65
+MS GLOBAL OPPORTUNITIES ADVISORY FIA - IE
+CNPJ:33.362.028/0001-28
+Patrim(cid:244)nio L(cid:237)quido: 996.183.742,88
+Financeiro:6.372.977,25
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas Morgan Stanley Investment Funds - Global 6.336.823,95 99,43
+Opportunity Fund Z
+Cotas XP CASH B1 FUNDO INVESTIMENTO COTAS 45.823.842/0001-81 67.605,21 1,06
+RENDA FIXA SIMPLES
+Caixa Caixa 93,98 0,00
+Caixa Cotas a Emitir -11.282,66 -0,18
+Caixa Cotas a Resgatar -19.086,45 -0,30
+Caixa Valor a Pagar -1.423,40 -0,02
+Caixa Valor a Receber 246,62 0,00
+28 de 65
+RIO BRAVO PROTECAO PORTFOLIO FIF MULT RESP LTDA
+CNPJ:55.274.339/0001-78
+Patrim(cid:244)nio L(cid:237)quido: 285.107.733,70
+Financeiro:10.408.860,54
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2026 35.218,49 0,34
+LFT 01/09/2026 28.862,45 0,28
+LFT 01/09/2027 34.004,70 0,33
+LTN 01/07/2026 7.666.478,64 73,65
+LTN 01/01/2030 156.124,60 1,50
+A(cid:231)ªo INVESTO TEVA TESOURO SELIC ETF (cid:150) FUNDO LFTS11 23.243,15 0,22
+DE INVESTIMENTO DE ˝NDICE
+Caixa Caixa 36,51 0,00
+Caixa Valor a Pagar -34.236,05 -0,33
+Caixa Valor a Receber 122,67 0,00
+29 de 65
+RIO BRAVO PROTECAO FIM
+CNPJ:42.813.674/0001-55
+Patrim(cid:244)nio L(cid:237)quido: 126.928.689,65
+Financeiro:4.262.503,93
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2026 13.276,75 0,31
+LFT 01/09/2026 32.920,44 0,77
+LTN 01/10/2025 13.314,88 0,31
+LTN 01/04/2026 3.660.983,09 85,89
+Caixa Caixa 67,16 0,00
+Caixa Valor a Pagar -5.230,66 -0,12
+Caixa Valor a Receber 10,79 0,00
+30 de 65
+FIC FIA CAIXA MULTIGESTOR
+CNPJ:30.068.224/0001-04
+Patrim(cid:244)nio L(cid:237)quido: 434.246.813,13
+Financeiro:7.097.470,98
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas ALASKA BLACK INSTITUCIONAL FIA 26.673.556/0001-32 334.694,61 4,72
+Cotas AZ QUEST SMALL MID CAPS FIC DE FIA 11.392.165/0001-72 347.391,45 4,89
+Cotas BRASIL CAPITAL 30 FUNDO DE INVESTIMENTO 14.866.273/0001-28 322.906,68 4,55
+EM COTAS DE FUNDOS DE INVESTIMENTO EM
+A˙(cid:213)ES
+Cotas CONSTANCIA FUNDAMENTO FI DE ACOES 11.182.064/0001-77 663.509,56 9,35
+Cotas FUNDO DE INVESTIMENTO CAIXA MASTER TPF 05.164.353/0001-40 150.405,10 2,12
+RENDA FIXA
+Cotas GUEPARDO A˙(cid:213)ES INSTITUCIONAL FI DE A˙(cid:213)ES 08.830.947/0001-31 644.492,49 9,08
+Cotas MOAT CAIXA A˙(cid:213)ES FUNDO DE INVESTIMENTO 35.502.481/0001-18 136.948,52 1,93
+EM COTAS DE FUNDOS DE INVESTIMENTO EM
+A˙(cid:213)ES
+Cotas NAVI INSTITUCIONAL II FIC FIA 34.659.901/0001-01 776.657,54 10,94
+Cotas OCCAM FIC FIA 11.628.883/0001-03 494.227,45 6,96
+Cotas OCEANA SELECTION 30 FUNDO DE 31.533.338/0001-32 616.820,06 8,69
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM A˙(cid:213)ES
+Cotas PRINCIPAL CLARITAS VALOR FEEDER FIC FIA 11.403.850/0001-57 621.003,48 8,75
+Cotas REAL INVESTOR INSTITUCIONAL FIC FIA 52.070.019/0001-08 663.496,64 9,35
+Cotas SHARP EQUITY VALUE INSTITUCIONAL FUNDO 17.898.650/0001-07 583.191,81 8,22
+DE INVESTIMENTO DE A˙(cid:213)ES
+Cotas TRIGONO DELPHOS INCOME FUNDO DE 29.177.024/0001-00 608.071,69 8,57
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM ACOES
+Cotas TRUXT C VALOR INSTITUCIONAL FUNDO DE 38.248.976/0001-50 150.515,69 2,12
+INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO EM A˙(cid:213)ES
+Caixa Caixa 0,00 0,00
+Caixa Cotas a Emitir -1,65 -0,00
+Caixa Cotas a Resgatar -10.737,94 -0,15
+Caixa Valor a Pagar -254.904,38 -3,59
+Caixa Valor a Receber 248.782,18 3,51
+31 de 65
+FUNDO INVEST CAIXA BRASIL IDKA IPCA
+CNPJ:14.386.926/0001-71
+Patrim(cid:244)nio L(cid:237)quido: 3.604.057.716,61
+Financeiro:6.131.633,92
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2029 18.734,54 0,31
+LFT 01/12/2030 40.029,31 0,65
+NTNB 15/08/2026 1.759.250,20 28,69
+NTNB 15/05/2027 4.313.814,29 70,35
+Futuros CONTRATO FUTURO DE CUPOM DI VERSUS IPCA DAP 0,00 0,00
+Futuros CONTRATO FUTURO DE ROLAGEM DE DOLAR DAPQ26 0,00 0,00
+Caixa Caixa 28,50 0,00
+Caixa Valor a Pagar -194,66 -0,00
+Caixa Valor a Receber 0,90 0,00
+32 de 65
+FUNDO INVEST COTAS FUNDOS INVEST ACOES CAIXA VALOR DIVIDENDOS RPPS
+CNPJ:15.154.441/0001-15
+Patrim(cid:244)nio L(cid:237)quido: 971.373.998,81
+Financeiro:4.898.294,71
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas CAIXA VINCI VALOR DIVIDENDOS FIA 15.154.458/0001-72 4.875.657,97 99,54
+Cotas FUNDO DE INVESTIMENTO CAIXA MASTER TPF 05.164.353/0001-40 26.191,03 0,53
+RENDA FIXA
+Caixa Caixa 0,00 0,00
+Caixa Valor a Pagar -25.845,45 -0,53
+Caixa Valor a Receber 22.291,17 0,46
+33 de 65
+FI CAIXA BRASIL TITULOS PUBLICOS RF LP
+CNPJ:05.164.356/0001-84
+Patrim(cid:244)nio L(cid:237)quido: 11.311.864.366,70
+Financeiro:108.112.705,99
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/09/2025 27.212,24 0,03
+LFT 01/03/2026 132.703,94 0,12
+LFT 01/09/2026 7.645.279,50 7,07
+LFT 01/03/2027 13.805.429,63 12,77
+LFT 01/09/2027 13.667.878,84 12,64
+LFT 01/03/2028 5.933.989,66 5,49
+LFT 01/09/2028 5.948.759,24 5,50
+LFT 01/03/2029 924.501,44 0,86
+LFT 01/09/2029 4.149.752,47 3,84
+LFT 01/03/2030 3.119.899,18 2,89
+LFT 01/06/2030 10.104.874,46 9,35
+LFT 01/09/2030 26.922.762,86 24,90
+LTN 01/01/2025 4.776.539,84 4,42
+LTN 01/07/2027 5.469.497,33 5,06
+LTN 01/01/2030 2.931.788,42 2,71
+NTNF 01/01/2025 2.504.839,19 2,32
+Futuros CONTRATO FUTURO DE DI DE 1 DIA DI1 0,00 0,00
+Caixa Caixa 127,72 0,00
+Caixa Valor a Pagar -2.756,50 -0,00
+Caixa Valor a Receber 10,14 0,00
+34 de 65
+FUNDO INVEST ACOES CAIXA SMALL CAPS ATIVO
+CNPJ:15.154.220/0001-47
+Patrim(cid:244)nio L(cid:237)quido: 480.746.975,23
+Financeiro:1.152.476,51
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo AZZA3 15.737,89 1,37
+A(cid:231)ªo AERIS IND(cid:218)STRIA E COM(cid:201)RCIO DE AERI3 896,59 0,08
+EQUIPAMENTOS PARA GERA˙ˆO DE ENERGIA S.
+A.
+A(cid:231)ªo ALLOS S.A. ALOS3 36.462,81 3,16
+A(cid:231)ªo ALPARGATAS SA ALPA4 4.252,27 0,37
+A(cid:231)ªo ALUPAR INVESTIMENTO S.A ALUP11 16.131,09 1,40
+A(cid:231)ªo AMBIPAR PARTICIPA˙(cid:213)ES E AMBP3 21.441,11 1,86
+EMPREENDIMENTOS S.A
+A(cid:231)ªo ANIMA HOLDING SA ANIM3 1.630,97 0,14
+A(cid:231)ªo ARMAC LOCA˙ˆO, LOG˝STICA E SERVI˙OS S.A. ARML3 3.525,83 0,31
+A(cid:231)ªo AUREA FUNDO INVEST MULTIMERCADO AURE3 17.873,67 1,55
+CREDITO PRIVADO
+A(cid:231)ªo AZEVEDO TRAVASSOS SA AZEV4 443,70 0,04
+A(cid:231)ªo AZUL SA AZUL4 4.614,01 0,40
+A(cid:231)ªo BANCO PAN S.A BPAN4 7.737,63 0,67
+A(cid:231)ªo BCO ABC BRASIL SA ABCB4 6.009,38 0,52
+A(cid:231)ªo BCO ESTADO RIO GRANDE SUL SA BRSR6 8.230,08 0,71
+A(cid:231)ªo BEMOBI MOBILE TECH S.A. BMOB3 9.994,33 0,87
+A(cid:231)ªo BLAU FARMACEUTICA SA BLAU3 1.532,07 0,13
+A(cid:231)ªo BOA SAFRA SEMENTES S.A. SOJA3 1.914,74 0,17
+A(cid:231)ªo BRADESPAR SA BRAP4 16.622,03 1,44
+A(cid:231)ªo BRASILAGRO CIA BRAS PROPRIEDADES AGRO3 5.663,33 0,49
+AGRICOLAS
+A(cid:231)ªo BRASKEM SA BRKM5 12.406,08 1,08
+A(cid:231)ªo BRAVE FUNDO INVESTIMENTO MULTIMERCADO BRAV3 42.200,08 3,66
+CREDITO PRIVADO INVESTIMENTO EXTERIOR
+A(cid:231)ªo C&A MODAS S.A. CEAB3 8.479,52 0,74
+A(cid:231)ªo CAMIL ALIMENTOS SA CAML3 2.240,64 0,19
+A(cid:231)ªo CELULOSE IRANI SA RANI3 2.921,62 0,25
+A(cid:231)ªo CIA FERRO LIGAS BAHIA FERBASA FESA4 5.228,42 0,45
+A(cid:231)ªo CIA SANEAMENTO MINAS GERAIS COPASA MG CSMG3 21.341,19 1,85
+A(cid:231)ªo CLASSE A FUNDO INVEST ACOES CLSA3 7.626,34 0,66
+A(cid:231)ªo CM HOSPITALAR SA VVEO3 1.497,41 0,13
+A(cid:231)ªo COMPANHIA BRASILEIRA DE ALUM˝NIO CBAV3 3.810,31 0,33
+A(cid:231)ªo COMPANHIA BRASILEIRA DISTRIBUICAO PCAR3 3.739,94 0,32
+A(cid:231)ªo COMPANHIA SANEAMENTO PARANA SANEPAR SAPR11 27.776,04 2,41
+A(cid:231)ªo CONSTRUTORA TENDA SA TEND3 11.493,11 1,00
+A(cid:231)ªo CURY CONSTRUTORA E INCORPORADORA LTDA. CURY3 14.624,56 1,27
+35 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo CVC BRASIL OPERADORA AGENCIA VIAGENS S.A CVCB3 2.954,95 0,26
+A(cid:231)ªo CYRELA BRAZIL REALTY SA CYRE3 17.893,77 1,55
+EMPREENDIMENTOS PARTICIPACOES
+A(cid:231)ªo DEXCO SA DXCO3 7.294,86 0,63
+A(cid:231)ªo DIAGNOSTICOS AMERICA SA DASA3 1.153,73 0,10
+A(cid:231)ªo DIMED SA (EX PANVEL SA DROGARIAS PNVL3 2.520,96 0,22
+FARMACIAS)
+A(cid:231)ªo DIRECIONAL ENGENHARIA SA DIRR3 17.042,41 1,48
+A(cid:231)ªo ECORODOVIAS INFRAESTRUTURA LOGISTICA SA ECOR3 5.727,47 0,50
+A(cid:231)ªo EMPREENDIMENTOS PAGUE MENOS SA PGMN3 2.273,36 0,20
+A(cid:231)ªo ESTACIO PARTICIPACOES SA YDUQ3 9.994,14 0,87
+A(cid:231)ªo EVEN CONSTRUTORA INCORPORADORA SA EVEN3 4.128,01 0,36
+A(cid:231)ªo EZ TEC EMPREENDIMENTOS PARTICIPACOES SA EZTC3 4.240,74 0,37
+A(cid:231)ªo FLEURY SA FLRY3 22.510,76 1,95
+A(cid:231)ªo FRAS-LE SA FRAS3 12.718,43 1,10
+A(cid:231)ªo GAFISA SA GFSA3 419,29 0,04
+A(cid:231)ªo GPS PARTICIPACOES EMPREENDIMENTOS SA GGPS3 22.335,56 1,94
+A(cid:231)ªo GRENDENE SA GRND3 5.296,14 0,46
+A(cid:231)ªo GRUPO CASAS BAHIA S.A. BHIA3 1.039,91 0,09
+A(cid:231)ªo GRUPO SBF SA SBFG3 6.324,44 0,55
+A(cid:231)ªo GUARARAPES CONFECCOES SA (EX GUAR3 7.523,61 0,65
+CONFECCOES GUARARAPES SA)
+A(cid:231)ªo HIDROVIAS BRASIL SA HBSA3 8.421,88 0,73
+A(cid:231)ªo IGUATEMI S.A. IGTI11 14.692,70 1,27
+A(cid:231)ªo INDS ROMI SA ROMI3 1.693,84 0,15
+A(cid:231)ªo INTELBRAS SA IND TELECOMUNICACOES INTB3 5.903,75 0,51
+ELETRONICA BRASILEIRA
+A(cid:231)ªo IOCHPE MAXION SA MYPK3 5.899,61 0,51
+A(cid:231)ªo IRB BRASIL RESSEGUROS SA IRBR3 19.365,65 1,68
+A(cid:231)ªo JALLES MACHADO S.A. JALL3 1.796,69 0,16
+A(cid:231)ªo JHSF PARTICIPACOES SA JHSF3 4.340,49 0,38
+A(cid:231)ªo JSL SA JSLG3 1.389,00 0,12
+A(cid:231)ªo KEPLER WEBER SA KEPL3 6.637,52 0,58
+A(cid:231)ªo KROTON EDUCACIONAL SA COGN3 8.044,69 0,70
+A(cid:231)ªo LAVVI EMPREENDIMENTOS IMOBILIARIOS S.A LAVV3 2.221,09 0,19
+A(cid:231)ªo LOCAWEB SERVI˙OS DE INTERNET S.A. LWSA3 5.505,18 0,48
+A(cid:231)ªo LOG COMMERCIAL PROPERTIES LOGG3 3.691,95 0,32
+PARTICIPACOES SA
+A(cid:231)ªo LOJAS QUERO-QUERO S.A. LJQQ3 1.817,29 0,16
+A(cid:231)ªo M DIAS BRANCO SA IND COM ALIMENTOS MDIA3 5.263,13 0,46
+A(cid:231)ªo MAGAZINE LUIZA SA MGLU3 9.114,19 0,79
+A(cid:231)ªo MAHLE METAL LEVE SA (EX METAL LEVE SA IND LEVE3 5.844,48 0,51
+COM)
+A(cid:231)ªo MARCOPOLO SA POMO4 24.940,67 2,16
+36 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo MARFRIG GLOBAL FOODS S.A MRFG3 25.589,34 2,22
+A(cid:231)ªo METALURGICA GERDAU SA GOAU4 27.392,25 2,38
+A(cid:231)ªo MILLS ESTRUTURAS SERVICOS ENGENHARIA SA MILS3 5.988,73 0,52
+A(cid:231)ªo MINERVA SA BEEF3 5.311,42 0,46
+A(cid:231)ªo MITRE REALTY EMPREENDIMENTOS E MTRE3 663,92 0,06
+PARTICIPA˙(cid:213)ES S.A.
+A(cid:231)ªo MOURA DUBEUX ENGENHARIA SA MDNE3 2.314,60 0,20
+A(cid:231)ªo MOVIDA PARTICIPACOES MOVI3 1.837,75 0,16
+A(cid:231)ªo MRV ENGENHARIA PARTICIPACOES SA MRVE3 8.004,18 0,69
+A(cid:231)ªo MULTILASER INDUSTRIAL S.A. MLAS3 1.678,40 0,15
+A(cid:231)ªo M(cid:201)LIUZ S.A CASH3 731,24 0,06
+A(cid:231)ªo OCEANPACT SERVICOS MARITIMOS S.A. OPCT3 2.722,72 0,24
+A(cid:231)ªo ODONTOPREV SA ODPV3 16.602,99 1,44
+A(cid:231)ªo ONCOCLINICAS BRASIL SERVICOS MEDICOS SA ONCO3 4.782,74 0,41
+A(cid:231)ªo ORIZON VALORIZA˙ˆO DE RES˝DUOS S.A. ORVR3 12.458,10 1,08
+A(cid:231)ªo PBG SA PTBL3 805,45 0,07
+A(cid:231)ªo PET CENTER COM(cid:201)RCIO E PARTICIPA˙(cid:213)ES S.A. PETZ3 10.477,89 0,91
+A(cid:231)ªo PETRORECONCAVO S.A RECV3 17.801,59 1,54
+A(cid:231)ªo PLANO & PLANO DESENVOLVIMENTO PLPL3 2.033,42 0,18
+IMOBILI`RIO LTDA.
+A(cid:231)ªo POSITIVO INFORMATICA SA POSI3 1.501,31 0,13
+A(cid:231)ªo QUALICORP CONSULTORIA E CORRETORA DE QUAL3 1.677,90 0,15
+SEGUROS S.A.
+A(cid:231)ªo RANDON SA IMPLEMENTOS PARTICIPACOES RAPT4 7.003,06 0,61
+A(cid:231)ªo REAL FUNDO INVEST QUOTAS FUNDOS INVEST PORT3 12.543,07 1,09
+RENDA FIXA PREMIUM MIX
+A(cid:231)ªo RECRUSUL SA RCSL3 36,44 0,00
+A(cid:231)ªo SANTOS BRASIL PARTICIPACOES SA STBP3 50.551,07 4,39
+A(cid:231)ªo SAO MARTINHO SA SMTO3 13.388,05 1,16
+A(cid:231)ªo SENDAS DISTRIBUIDORA S.A. ASAI3 30.409,16 2,64
+A(cid:231)ªo SER EDUCACIONAL S.A. SEER3 937,52 0,08
+A(cid:231)ªo SERENA ENERGIA S.A. SRNA3 9.348,69 0,81
+A(cid:231)ªo SIMPAR S.A. SIMH3 3.246,27 0,28
+A(cid:231)ªo SLC AGRICOLA SA SLCE3 13.589,46 1,18
+A(cid:231)ªo SMARTFIT ESCOLA GINASTICA DANCA SA SMFT3 22.551,74 1,96
+A(cid:231)ªo TAURUS ARMAS S.A. TASA4 2.252,65 0,20
+A(cid:231)ªo TEGMA GESTAO LOGISTICA SA TGMA3 9.011,59 0,78
+A(cid:231)ªo TRANSMISSORA ALIANCA ENERGIA ELETRICA SA TAEE11 28.784,03 2,50
+A(cid:231)ªo TRES TENTOS AGROINDUSTRIAL S.A. TTEN3 11.663,48 1,01
+A(cid:231)ªo TRISUL SA TRIS3 1.266,52 0,11
+A(cid:231)ªo TUPY SA TUPY3 13.721,59 1,19
+A(cid:231)ªo UNIPAR CARBOCLORO SA UNIP6 9.821,22 0,85
+A(cid:231)ªo USINAS SIDERURGICAS MINAS GERAIS SA USIM5 14.393,53 1,25
+37 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+USIMINAS
+A(cid:231)ªo VALID SOLU˙(cid:213)ES S.A. VLID3 13.235,19 1,15
+A(cid:231)ªo VAMOS LOCACAO DE CAMINHOES, MAQUINAS E VAMO3 9.314,56 0,81
+EQUIPAMENTOS S.A.
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 9.760,15 0,85
+A(cid:231)ªo VULCABRAS AZALEIA SA VULC3 6.060,96 0,53
+A(cid:231)ªo WIZ CO PARTICIPA˙(cid:213)ES E CORRETAGEM DE WIZC3 1.685,65 0,15
+SEGUROS S.A.
+A(cid:231)ªo ZAMPROGNA SA IMPORTACAO COM IND ZAMP3 1.241,98 0,11
+Caixa Caixa 0,00 0,00
+Caixa Cotas a Emitir -71,98 -0,01
+Caixa Cotas a Resgatar -480,90 -0,04
+Caixa Valor a Pagar -1.566,06 -0,14
+Caixa Valor a Receber 19.545,91 1,70
+38 de 65
+FUNDO INVESTIMENTO CAIXA MASTER CONSERVADOR RENDA FIXA REFERENCIADO DI LONGO
+PRAZO
+CNPJ:05.164.375/0001-00
+Patrim(cid:244)nio L(cid:237)quido: 12.913.111.624,91
+Financeiro:475.611,74
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 225,50 0,05
+LFT 01/09/2025 133,42 0,03
+LFT 01/03/2026 34.937,88 7,35
+LFT 01/09/2026 51.882,93 10,91
+LFT 01/03/2027 52.961,26 11,14
+LFT 01/09/2027 108.044,95 22,72
+LFT 01/03/2028 4.916,57 1,03
+LFT 01/09/2028 197.438,55 41,51
+LFT 01/03/2029 115,88 0,02
+LFT 01/09/2029 14.609,45 3,07
+LFT 01/03/2030 9.770,83 2,05
+LFT 01/06/2030 578,36 0,12
+Caixa Caixa 0,49 0,00
+Caixa Valor a Pagar -4,35 -0,00
+Caixa Valor a Receber 0,02 0,00
+39 de 65
+ITAU ACOES DUNAMIS FIC
+CNPJ:24.571.992/0001-75
+Patrim(cid:244)nio L(cid:237)quido: 1.188.970.075,54
+Financeiro:5.175.427,79
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Caixa Caixa 304,70 0,01
+Caixa Cotas a Resgatar -4.814,07 -0,09
+Caixa Valor a Pagar -94.339,57 -1,82
+Caixa Valor a Receber 82.798,49 1,60
+40 de 65
+ITAU CAIXA ACOES FI
+CNPJ:07.096.546/0001-37
+Patrim(cid:244)nio L(cid:237)quido: 251.970.241,12
+Financeiro:17.643,18
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 475,23 2,69
+LFT 01/09/2025 1.629,26 9,23
+LFT 01/03/2026 1.344,29 7,62
+NTNB 15/08/2028 1.757,91 9,96
+A(cid:231)ªo AMOB3 46,64 0,26
+A(cid:231)ªo ALLOS S.A. ALOS3 32,42 0,18
+A(cid:231)ªo ALPARGATAS SA ALPA4 3,79 0,02
+A(cid:231)ªo AMBEV S.A ABEV3 184,01 1,04
+A(cid:231)ªo ATACADAO SA CRFB3 10,30 0,06
+A(cid:231)ªo AUREA FUNDO INVEST MULTIMERCADO AURE3 9,15 0,05
+CREDITO PRIVADO
+A(cid:231)ªo AZUL SA AZUL4 4,14 0,02
+A(cid:231)ªo B3 SA - BRASIL, BOLSA, BALCAO B3SA3 202,83 1,15
+A(cid:231)ªo BB SEGURIDADE PARTICIPACOES SA BBSE3 82,33 0,47
+A(cid:231)ªo BCO BRADESCO SA BBDC3 267,78 1,52
+A(cid:231)ªo BCO BRASIL SA BBAS3 244,95 1,39
+A(cid:231)ªo BCO BTG PACTUAL SA BPAC 124,94 0,71
+A(cid:231)ªo BCO SANTANDER (BRASIL) SA SANB11 30,30 0,17
+A(cid:231)ªo BRADESPAR SA BRAP4 14,82 0,08
+A(cid:231)ªo BRASKEM SA BRKM5 10,93 0,06
+A(cid:231)ªo BRAVE FUNDO INVESTIMENTO MULTIMERCADO BRAV3 38,89 0,22
+CREDITO PRIVADO INVESTIMENTO EXTERIOR
+A(cid:231)ªo BRF SA BRFS3 73,71 0,42
+A(cid:231)ªo CAIXA SEGURIDADE PARTICIPA˙(cid:213)ES S.A. CXSE3 26,34 0,15
+A(cid:231)ªo CCR SA CCRO3 35,98 0,20
+A(cid:231)ªo CENTRAIS ELETRICAS BRASILEIRA SA ELET3 253,06 1,43
+ELETROBRAS
+A(cid:231)ªo CIA ENERGETICA MINAS GERAIS CEMIG CMIG4 73,61 0,42
+A(cid:231)ªo CIA PARANAENSE ENERGIA COPEL CPLE6 54,78 0,31
+A(cid:231)ªo CIA SIDERURGICA NACIONAL CSNA3 23,28 0,13
+A(cid:231)ªo COMPANHIA BRASILEIRA DISTRIBUICAO PCAR3 3,45 0,02
+A(cid:231)ªo COMPANHIA SANEAMENTO BASICO ESTADO SBSP3 215,79 1,22
+SAO PAULO SABESP
+A(cid:231)ªo COSAN SA CSAN3 33,89 0,19
+A(cid:231)ªo CPFL ENERGIA SA CPFE3 21,23 0,12
+A(cid:231)ªo CSN MINERA˙ˆO S.A CMIN3 20,41 0,12
+A(cid:231)ªo CVC BRASIL OPERADORA AGENCIA VIAGENS S.A CVCB3 2,59 0,01
+A(cid:231)ªo CYRELA BRAZIL REALTY SA CYRE3 16,00 0,09
+EMPREENDIMENTOS PARTICIPACOES
+41 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo EMBRAER SA EMBR3 147,17 0,83
+A(cid:231)ªo ENERGISA SA ENGI11 42,40 0,24
+A(cid:231)ªo ENEVA S.A ENEV3 67,91 0,38
+A(cid:231)ªo ENGIE BRASIL ENERGIA SA EGIE3 32,25 0,18
+A(cid:231)ªo EQUATORIAL ENERGIA SA EQTL3 121,68 0,69
+A(cid:231)ªo ESTACIO PARTICIPACOES SA YDUQ3 8,86 0,05
+A(cid:231)ªo EZ TEC EMPREENDIMENTOS PARTICIPACOES SA EZTC3 3,79 0,02
+A(cid:231)ªo FLEURY SA FLRY3 19,97 0,11
+A(cid:231)ªo GERDAU SA GGBR4 80,39 0,46
+A(cid:231)ªo HAPVIDA PARTICIPACOES INVESTIMENTO SA HAPV3 38,01 0,22
+A(cid:231)ªo HYPERA S.A. HYPE3 26,35 0,15
+A(cid:231)ªo IGUATEMI S.A. IGTI11 13,01 0,07
+A(cid:231)ªo IRB BRASIL RESSEGUROS SA IRBR3 12,48 0,07
+A(cid:231)ªo IT NOW IBOVESPA FUNDO INDICE BOVV 5.399,57 30,60
+A(cid:231)ªo ITAU UNIBANCO HOLDING SA ITUB4 488,25 2,77
+A(cid:231)ªo ITAUSA INVESTS ITAU SA ITSA4 181,96 1,03
+A(cid:231)ªo JBS SA JBSS3 147,83 0,84
+A(cid:231)ªo KLABIN SA KLBN11 63,33 0,36
+A(cid:231)ªo KROTON EDUCACIONAL SA COGN3 7,28 0,04
+A(cid:231)ªo LOCALIZA RENT A CAR SA RENT3 112,37 0,64
+A(cid:231)ªo LOCAWEB SERVI˙OS DE INTERNET S.A. LWSA3 4,97 0,03
+A(cid:231)ªo LOJAS RENNER SA LREN3 45,28 0,26
+A(cid:231)ªo MAGAZINE LUIZA SA MGLU3 8,18 0,05
+A(cid:231)ªo MARFRIG GLOBAL FOODS S.A MRFG3 18,36 0,10
+A(cid:231)ªo METALURGICA GERDAU SA GOAU4 24,19 0,14
+A(cid:231)ªo MINERVA SA BEEF3 4,74 0,03
+A(cid:231)ªo MRV ENGENHARIA PARTICIPACOES SA MRVE3 7,10 0,04
+A(cid:231)ªo MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS MULT3 23,85 0,14
+SA
+A(cid:231)ªo NATURA &CO HOLDING S.A. NTCO3 38,69 0,22
+A(cid:231)ªo PET CENTER COM(cid:201)RCIO E PARTICIPA˙(cid:213)ES S.A. PETZ3 4,47 0,03
+A(cid:231)ªo PETRO RIO SA PRIO3 114,42 0,65
+A(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETR3 915,90 5,19
+A(cid:231)ªo PETRORECONCAVO S.A RECV3 15,89 0,09
+A(cid:231)ªo RAIA DROGASIL SA RADL3 100,38 0,57
+A(cid:231)ªo RAIZ PRODUCOES CINEMATOGRAFICAS LTDA RAIZ4 9,20 0,05
+A(cid:231)ªo REDE D OR SAO LUIZ SA RDOR3 103,80 0,59
+A(cid:231)ªo RUMO SA RAIL3 77,34 0,44
+A(cid:231)ªo SANTOS BRASIL PARTICIPACOES SA STBP3 40,08 0,23
+A(cid:231)ªo SAO MARTINHO SA SMTO3 11,73 0,07
+A(cid:231)ªo SENDAS DISTRIBUIDORA S.A. ASAI3 27,08 0,15
+A(cid:231)ªo SLC AGRICOLA SA SLCE3 12,15 0,07
+42 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo SUZANO S.A. SUZB3 138,80 0,79
+A(cid:231)ªo TELEFONICA BRASIL SA VIVT3 67,78 0,38
+A(cid:231)ªo TIM S.A. TIMS3 41,66 0,24
+A(cid:231)ªo TOTVS SA TOTS3 51,51 0,29
+A(cid:231)ªo TRANSMISSORA ALIANCA ENERGIA ELETRICA SA TAEE11 25,54 0,14
+A(cid:231)ªo ULTRAPAR PARTICIPACOES SA UGPA3 61,71 0,35
+A(cid:231)ªo USINAS SIDERURGICAS MINAS GERAIS SA USIM5 9,77 0,06
+USIMINAS
+A(cid:231)ªo VALE SA VALE3 830,94 4,71
+A(cid:231)ªo VAMOS LOCACAO DE CAMINHOES, MAQUINAS E VAMO3 8,22 0,05
+EQUIPAMENTOS S.A.
+A(cid:231)ªo VIBRA ENERGIA SA VBBR3 65,08 0,37
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 8,63 0,05
+A(cid:231)ªo WEG SA WEGE3 238,69 1,35
+Futuros WIN 0,00 0,00
+Caixa Caixa 7,72 0,04
+Caixa Valor a Pagar -186,40 -1,06
+Caixa Valor a Receber 281,88 1,60
+43 de 65
+ITAU DUNAMIS MASTER FUNDO DE INVESTIMENTO EM ACOES
+CNPJ:18.138.837/0001-67
+Patrim(cid:244)nio L(cid:237)quido: 1.364.461.895,51
+Financeiro:5.177.776,64
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2027 419,62 0,01
+LFT 01/09/2027 239,63 0,00
+NTNB 15/08/2060 287.504,85 5,55
+Cotas 890.987,03 17,21
+A(cid:231)ªo AMBEV S.A ABEV3 53.460,28 1,03
+A(cid:231)ªo B3 SA - BRASIL, BOLSA, BALCAO B3SA3 274.131,94 5,29
+A(cid:231)ªo BCO BTG PACTUAL SA BPAC 247.720,56 4,78
+A(cid:231)ªo CENTRAIS ELETRICAS BRASILEIRA SA ELET3 80.298,95 1,55
+ELETROBRAS
+A(cid:231)ªo COMPANHIA SANEAMENTO BASICO ESTADO SBSP3 162.429,66 3,14
+SAO PAULO SABESP
+A(cid:231)ªo CURY CONSTRUTORA E INCORPORADORA LTDA. CURY3 248.761,60 4,80
+A(cid:231)ªo EQUATORIAL ENERGIA SA EQTL3 179.869,69 3,47
+A(cid:231)ªo ITAU UNIBANCO HOLDING SA ITUB4 291.950,62 5,64
+A(cid:231)ªo MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS MULT3 131.988,61 2,55
+SA
+A(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETR4 398.261,64 7,69
+A(cid:231)ªo RAIA DROGASIL SA RADL3 273.226,86 5,28
+A(cid:231)ªo TELEFONICA BRASIL SA VIVT3 108.262,76 2,09
+A(cid:231)ªo TIM S.A. TIMS3 103.827,97 2,01
+A(cid:231)ªo USINAS SIDERURGICAS MINAS GERAIS SA USIM5 103.730,60 2,00
+USIMINAS
+A(cid:231)ªo VALE SA VALE3 521.647,58 10,07
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 127.859,81 2,47
+A(cid:231)ªo WEG SA WEGE3 633.866,20 12,24
+Op(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETRA406 3.289,70 0,06
+Op(cid:231)ªo WEG SA WEGEA601 125,00 0,00
+Caixa Caixa 7.891,17 0,15
+Caixa Cotas a Resgatar -5.377,53 -0,10
+Caixa Valor a Pagar -836,73 -0,02
+Caixa Valor a Receber 52.238,58 1,01
+44 de 65
+FUNDO INVEST CAIXA BRASIL IRF M 1 TITULOS PUBLICOS RENDA FIXA
+CNPJ:10.740.670/0001-06
+Patrim(cid:244)nio L(cid:237)quido: 8.167.774.869,09
+Financeiro:21.555.505,81
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 626.277,92 2,91
+LFT 01/09/2030 12.547.049,81 58,21
+LTN 01/01/2025 167.700,69 0,78
+LTN 01/04/2025 1.379.504,68 6,40
+LTN 01/07/2025 1.923.641,07 8,92
+LTN 01/10/2025 1.373.069,08 6,37
+NTNF 01/01/2025 3.538.818,49 16,42
+Futuros CONTRATO FUTURO DE DI DE 1 DIA DI1 0,00 0,00
+Caixa Caixa 41,66 0,00
+Caixa Valor a Pagar -587,38 -0,00
+Caixa Valor a Receber 1,40 0,00
+45 de 65
+BB Prev RF Alc Atv Ret Total
+CNPJ:35.292.588/0001-89
+Patrim(cid:244)nio L(cid:237)quido: 5.307.578.902,09
+Financeiro:28.050.706,30
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas BB TOP RENDA FIXA JUROS BRASIL FUNDO DE 49.964.068/0001-80 28.045.494,94 99,98
+INVESTIMENTO LONGO PRAZO
+Caixa Caixa 5.972,73 0,02
+Caixa Valor a Pagar -765,81 -0,00
+Caixa Valor a Receber 4,46 0,00
+46 de 65
+FUNDO INVEST CAIXA BRASI IMA B 5 TITULOS PUBLICOS RENDA FIXA LONGO PRZ
+CNPJ:11.060.913/0001-10
+Patrim(cid:244)nio L(cid:237)quido: 6.393.295.147,70
+Financeiro:39.967.627,62
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/09/2025 9.789,67 0,02
+LFT 01/09/2026 73.342,63 0,18
+LFT 01/03/2030 49.100,42 0,12
+LFT 01/12/2030 1.039.089,66 2,60
+NTNB 15/05/2025 7.317.714,01 18,31
+NTNB 15/08/2026 12.490.714,76 31,25
+NTNB 15/05/2027 6.491.614,11 16,24
+NTNB 15/08/2028 10.026.378,88 25,09
+NTNB 15/05/2029 2.471.013,49 6,18
+Futuros CONTRATO FUTURO DE CUPOM DI VERSUS IPCA DAP 0,00 0,00
+Caixa Caixa 85,48 0,00
+Caixa Valor a Pagar -1.153,82 -0,00
+Caixa Valor a Receber 3,31 0,00
+47 de 65
+FI ACOES CAIXA CONSUMO
+CNPJ:10.577.512/0001-79
+Patrim(cid:244)nio L(cid:237)quido: 77.739.777,95
+Financeiro:690.417,17
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo AZZA3 7.808,08 1,13
+A(cid:231)ªo ALPARGATAS SA ALPA4 2.089,85 0,30
+A(cid:231)ªo AMBEV S.A ABEV3 101.934,59 14,76
+A(cid:231)ªo ANIMA HOLDING SA ANIM3 799,83 0,12
+A(cid:231)ªo ATACADAO SA CRFB3 5.709,69 0,83
+A(cid:231)ªo BLAU FARMACEUTICA SA BLAU3 770,79 0,11
+A(cid:231)ªo BOA SAFRA SEMENTES S.A. SOJA3 942,11 0,14
+A(cid:231)ªo BRASILAGRO CIA BRAS PROPRIEDADES AGRO3 2.769,95 0,40
+AGRICOLAS
+A(cid:231)ªo BRF SA BRFS3 40.740,81 5,90
+A(cid:231)ªo C&A MODAS S.A. CEAB3 1.608,59 0,23
+A(cid:231)ªo CAMIL ALIMENTOS SA CAML3 1.094,68 0,16
+A(cid:231)ªo CM HOSPITALAR SA VVEO3 730,07 0,11
+A(cid:231)ªo COMPANHIA BRASILEIRA DISTRIBUICAO PCAR3 1.889,27 0,27
+A(cid:231)ªo CONSTRUTORA TENDA SA TEND3 2.987,52 0,43
+A(cid:231)ªo CURY CONSTRUTORA E INCORPORADORA LTDA. CURY3 4.589,91 0,66
+A(cid:231)ªo CVC BRASIL OPERADORA AGENCIA VIAGENS S.A CVCB3 1.437,88 0,21
+A(cid:231)ªo CYRELA BRAZIL REALTY SA CYRE3 8.842,44 1,28
+EMPREENDIMENTOS PARTICIPACOES
+A(cid:231)ªo DIAGNOSTICOS AMERICA SA DASA3 541,66 0,08
+A(cid:231)ªo DIMED SA (EX PANVEL SA DROGARIAS PNVL3 1.242,65 0,18
+FARMACIAS)
+A(cid:231)ªo DIRECIONAL ENGENHARIA SA DIRR3 5.747,67 0,83
+A(cid:231)ªo EMPREENDIMENTOS PAGUE MENOS SA PGMN3 1.128,19 0,16
+A(cid:231)ªo ESTACIO PARTICIPACOES SA YDUQ3 4.888,46 0,71
+A(cid:231)ªo EVEN CONSTRUTORA INCORPORADORA SA EVEN3 2.050,21 0,30
+A(cid:231)ªo EZ TEC EMPREENDIMENTOS PARTICIPACOES SA EZTC3 2.071,77 0,30
+A(cid:231)ªo FLEURY SA FLRY3 11.034,79 1,60
+A(cid:231)ªo GAFISA SA GFSA3 205,10 0,03
+A(cid:231)ªo GRENDENE SA GRND3 2.580,11 0,37
+A(cid:231)ªo GRUPO CASAS BAHIA S.A. BHIA3 544,13 0,08
+A(cid:231)ªo GRUPO MATEUS S.A GMAT3 5.947,44 0,86
+A(cid:231)ªo GRUPO SBF SA SBFG3 3.094,19 0,45
+A(cid:231)ªo GUARARAPES CONFECCOES SA (EX GUAR3 997,56 0,14
+CONFECCOES GUARARAPES SA)
+A(cid:231)ªo HAPVIDA PARTICIPACOES INVESTIMENTO SA HAPV3 20.988,19 3,04
+A(cid:231)ªo HOSPITAL MATER DEI S.A. MATD3 756,46 0,11
+A(cid:231)ªo HYPERA S.A. HYPE3 14.589,50 2,11
+48 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo IOCHPE MAXION SA MYPK3 2.891,67 0,42
+A(cid:231)ªo JALLES MACHADO S.A. JALL3 881,86 0,13
+A(cid:231)ªo JBS SA JBSS3 81.769,75 11,84
+A(cid:231)ªo JHSF PARTICIPACOES SA JHSF3 2.109,57 0,31
+A(cid:231)ªo KROTON EDUCACIONAL SA COGN3 3.980,03 0,58
+A(cid:231)ªo LAVVI EMPREENDIMENTOS IMOBILIARIOS S.A LAVV3 1.090,92 0,16
+A(cid:231)ªo LOCALIZA RENT A CAR SA RENT3 62.024,56 8,98
+A(cid:231)ªo LOJAS QUERO-QUERO S.A. LJQQ3 867,14 0,13
+A(cid:231)ªo LOJAS RENNER SA LREN3 25.004,72 3,62
+A(cid:231)ªo M DIAS BRANCO SA IND COM ALIMENTOS MDIA3 2.614,20 0,38
+A(cid:231)ªo MAGAZINE LUIZA SA MGLU3 4.523,00 0,66
+A(cid:231)ªo MAHLE METAL LEVE SA (EX METAL LEVE SA IND LEVE3 2.850,42 0,41
+COM)
+A(cid:231)ªo MARFRIG GLOBAL FOODS S.A MRFG3 10.134,67 1,47
+A(cid:231)ªo MINERVA SA BEEF3 2.620,35 0,38
+A(cid:231)ªo MITRE REALTY EMPREENDIMENTOS E MTRE3 327,09 0,05
+PARTICIPA˙(cid:213)ES S.A.
+A(cid:231)ªo MOURA DUBEUX ENGENHARIA SA MDNE3 1.131,81 0,16
+A(cid:231)ªo MOVIDA PARTICIPACOES MOVI3 848,04 0,12
+A(cid:231)ªo MRV ENGENHARIA PARTICIPACOES SA MRVE3 3.925,40 0,57
+A(cid:231)ªo NATURA &CO HOLDING S.A. NTCO3 21.271,90 3,08
+A(cid:231)ªo ODONTOPREV SA ODPV3 5.456,22 0,79
+A(cid:231)ªo ONCOCLINICAS BRASIL SERVICOS MEDICOS SA ONCO3 2.647,61 0,38
+A(cid:231)ªo PET CENTER COM(cid:201)RCIO E PARTICIPA˙(cid:213)ES S.A. PETZ3 2.461,56 0,36
+A(cid:231)ªo PLANO & PLANO DESENVOLVIMENTO PLPL3 993,57 0,14
+IMOBILI`RIO LTDA.
+A(cid:231)ªo QUALICORP CONSULTORIA E CORRETORA DE QUAL3 833,14 0,12
+SEGUROS S.A.
+A(cid:231)ªo RAIA DROGASIL SA RADL3 55.419,36 8,03
+A(cid:231)ªo REDE D OR SAO LUIZ SA RDOR3 57.320,05 8,30
+A(cid:231)ªo SAO MARTINHO SA SMTO3 6.539,75 0,95
+A(cid:231)ªo SENDAS DISTRIBUIDORA S.A. ASAI3 15.015,98 2,17
+A(cid:231)ªo SER EDUCACIONAL S.A. SEER3 463,71 0,07
+A(cid:231)ªo SLC AGRICOLA SA SLCE3 6.702,01 0,97
+A(cid:231)ªo SMARTFIT ESCOLA GINASTICA DANCA SA SMFT3 10.990,71 1,59
+A(cid:231)ªo TRES TENTOS AGROINDUSTRIAL S.A. TTEN3 3.050,67 0,44
+A(cid:231)ªo TRISUL SA TRIS3 622,74 0,09
+A(cid:231)ªo VAMOS LOCACAO DE CAMINHOES, MAQUINAS E VAMO3 4.530,71 0,66
+EQUIPAMENTOS S.A.
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 4.769,83 0,69
+A(cid:231)ªo VULCABRAS AZALEIA SA VULC3 2.951,57 0,43
+A(cid:231)ªo ZAMPROGNA SA IMPORTACAO COM IND ZAMP3 619,36 0,09
+Caixa Caixa 0,00 0,00
+49 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Caixa Cotas a Emitir -0,80 -0,00
+Caixa Cotas a Resgatar -422,64 -0,06
+Caixa Valor a Pagar -4.563,70 -0,66
+Caixa Valor a Receber 9.840,27 1,43
+50 de 65
+FUNDO DE INVESTIMENTO CAIXA BOLSA AMERICANA MULTIM
+CNPJ:30.036.235/0001-02
+Patrim(cid:244)nio L(cid:237)quido: 2.100.762.128,65
+Financeiro:33.257.129,07
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 475.864,01 1,43
+LFT 01/09/2025 2.186.106,91 6,57
+LFT 01/03/2026 2.708.830,86 8,15
+LFT 01/09/2026 8.770.835,07 26,37
+LFT 01/03/2027 6.792.424,07 20,42
+LFT 01/09/2027 4.964.655,75 14,93
+LFT 01/03/2028 1.041.761,31 3,13
+LFT 01/12/2030 6.655.410,43 20,01
+Futuros ISP 0,00 0,00
+Caixa Caixa 367,99 0,00
+Caixa Cotas a Resgatar -14.882,29 -0,04
+Caixa Valor a Pagar -2.923,56 -0,01
+Caixa Valor a Receber 8,39 0,00
+51 de 65
+FI ACOES CAIXA CONSTRUCAO CIVIL
+CNPJ:10.551.375/0001-01
+Patrim(cid:244)nio L(cid:237)quido: 142.554.166,01
+Financeiro:957.174,04
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo ALLOS S.A. ALOS3 187.357,55 19,57
+A(cid:231)ªo CONSTRUTORA TENDA SA TEND3 36.651,11 3,83
+A(cid:231)ªo CURY CONSTRUTORA E INCORPORADORA LTDA. CURY3 59.719,23 6,24
+A(cid:231)ªo CYRELA BRAZIL REALTY SA CYRE3 113.444,74 11,85
+EMPREENDIMENTOS PARTICIPACOES
+A(cid:231)ªo DIRECIONAL ENGENHARIA SA DIRR3 75.115,38 7,85
+A(cid:231)ªo EVEN CONSTRUTORA INCORPORADORA SA EVEN3 26.319,55 2,75
+A(cid:231)ªo EZ TEC EMPREENDIMENTOS PARTICIPACOES SA EZTC3 26.873,80 2,81
+A(cid:231)ªo GAFISA SA GFSA3 2.925,53 0,31
+A(cid:231)ªo IGUATEMI S.A. IGTI11 93.760,73 9,80
+A(cid:231)ªo JHSF PARTICIPACOES SA JHSF3 27.464,93 2,87
+A(cid:231)ªo LAVVI EMPREENDIMENTOS IMOBILIARIOS S.A LAVV3 14.172,09 1,48
+A(cid:231)ªo LOG COMMERCIAL PROPERTIES LOGG3 23.663,80 2,47
+PARTICIPACOES SA
+A(cid:231)ªo MITRE REALTY EMPREENDIMENTOS E MTRE3 4.474,65 0,47
+PARTICIPA˙(cid:213)ES S.A.
+A(cid:231)ªo MOURA DUBEUX ENGENHARIA SA MDNE3 14.713,53 1,54
+A(cid:231)ªo MRV ENGENHARIA PARTICIPACOES SA MRVE3 50.376,25 5,26
+A(cid:231)ªo MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS MULT3 170.647,38 17,83
+SA
+A(cid:231)ªo PLANO & PLANO DESENVOLVIMENTO PLPL3 12.831,52 1,34
+IMOBILI`RIO LTDA.
+A(cid:231)ªo TRISUL SA TRIS3 8.054,13 0,84
+Caixa Caixa 0,00 0,00
+Caixa Cotas a Emitir -316,70 -0,03
+Caixa Cotas a Resgatar -1.201,82 -0,13
+Caixa Valor a Pagar -1.741,60 -0,18
+Caixa Valor a Receber 8.419,96 0,88
+52 de 65
+RIO BRAVO ESTRATEGICO IMA-B FI RF
+CNPJ:49.232.373/0001-87
+Patrim(cid:244)nio L(cid:237)quido: 138.204.664,31
+Financeiro:16.420.155,31
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/09/2027 95.657,15 0,58
+LTN 01/04/2025 16.285.296,45 99,18
+LTN 01/01/2030 48.148,21 0,29
+Caixa Caixa 118,81 0,00
+Caixa Valor a Pagar -15.123,87 -0,09
+Caixa Valor a Receber 38,17 0,00
+53 de 65
+FUNDO INVEST ACOES CAIXA INSTITUCIONAL BDR NIVEL I
+CNPJ:17.502.937/0001-68
+Patrim(cid:244)nio L(cid:237)quido: 3.298.833.640,03
+Financeiro:28.534.887,18
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo ABBVIE INC ABBV 231.854,35 0,81
+A(cid:231)ªo ADOBE INC ADBE 150.557,61 0,53
+A(cid:231)ªo ADVANCE AUTO PARTS INC A1AP 2.055,10 0,01
+A(cid:231)ªo ADVANCED MICRO DEVICES INC A1MD 151.993,21 0,53
+A(cid:231)ªo AIRBNB INC AIRB34 43.839,99 0,15
+A(cid:231)ªo ALBEMARLE CORP A1LB34 7.632,09 0,03
+A(cid:231)ªo ALIBABA GROUP HOLDING LTD BABA 154.221,49 0,54
+A(cid:231)ªo ALPHABET INC GOGL 1.686.610,59 5,91
+A(cid:231)ªo AMAZON.COM, INC AMZO 1.785.675,69 6,26
+A(cid:231)ªo AMERICAN AIRLINES GROUP INC AALL 8.755,03 0,03
+A(cid:231)ªo AMERICAN EXPRESS COMPANY AXPB 16.205,63 0,06
+A(cid:231)ªo AMERICAN TOWER CORP T1OW34 63.879,17 0,22
+A(cid:231)ªo APPLE INC. AAPL 2.904.791,44 10,18
+A(cid:231)ªo APPLIED MATERIALS INC A1MT 102.515,76 0,36
+A(cid:231)ªo ARCELOR MITTAL CI A ADS ARMT 14.747,34 0,05
+A(cid:231)ªo ARISTA NETWORKS INC A1NE34 106.475,88 0,37
+A(cid:231)ªo ASML HOLDING NV ASML 211.747,16 0,74
+A(cid:231)ªo ASTRAZENECA PLC A1ZN34 154.189,45 0,54
+A(cid:231)ªo AT&T INC. ATTB 41.404,66 0,15
+A(cid:231)ªo BAIDU INC BIDU 18.153,41 0,06
+A(cid:231)ªo BANCO SANTANDER CHILE B1SA34 6.666,52 0,02
+A(cid:231)ªo BANCO SANTANDER S.A BCSA 53.114,33 0,19
+A(cid:231)ªo BANCOLOMBIA SA C2OL34 2.724,58 0,01
+A(cid:231)ªo BANK OF AMERICA CORPORATION BOAC 258.982,78 0,91
+A(cid:231)ªo BERKSHIRE HATHAWAY INC. BERK 37.219,40 0,13
+A(cid:231)ªo BEYOND MEAT INC B2YN34 188,68 0,00
+A(cid:231)ªo BILIBILI INC B1IL34 4.710,11 0,02
+A(cid:231)ªo BILL.COM HOLDINGS INC B2HI34 6.858,48 0,02
+A(cid:231)ªo BIONTECH SE B1NT34 20.145,10 0,07
+A(cid:231)ªo BLACKROCK INC BLAK 115.412,68 0,40
+A(cid:231)ªo BOOKING HOLDINGS INC BKNG 127.119,55 0,45
+A(cid:231)ªo BP PLC B1PP34 60.621,04 0,21
+A(cid:231)ªo BRISTOL-MYERS SQUIBB COMPANY BMYB11 0,00 0,00
+A(cid:231)ªo BRITISH AMERICAN TOBACCO PLC B1TI34 61.203,97 0,21
+A(cid:231)ªo BROADCOM INC AVGO 838.669,70 2,94
+A(cid:231)ªo CATERPILLAR INC. CATP 133.916,96 0,47
+A(cid:231)ªo CHARTER COMMUNICATIONS INC CHCM 37.154,17 0,13
+54 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo CHEVRON CORPORATION CHVX 198.758,38 0,70
+A(cid:231)ªo CISCO SYSTEMS, INC CSCO 181.116,10 0,63
+A(cid:231)ªo CITIGROUP INC. CTGP 101.909,67 0,36
+A(cid:231)ªo COINBASE GLOBAL INC C2OI34 39.585,86 0,14
+A(cid:231)ªo COLGATE-PALMOLIVE COMPANY COLG 56.342,42 0,20
+A(cid:231)ªo COMCAST CORPORATION CMCS 109.142,10 0,38
+A(cid:231)ªo CONOCOPHILLIPS COPH 85.335,86 0,30
+A(cid:231)ªo COSTCO WHOLESALE CORPORATION COWC 310.272,57 1,09
+A(cid:231)ªo CROWDSTRIKE HOLDINGS INC C2RW34 61.827,73 0,22
+A(cid:231)ªo CSX CORP CSXC 46.990,60 0,16
+A(cid:231)ªo DANAHER CORPORATION DHER 125.376,21 0,44
+A(cid:231)ªo DEERE CO DEEC 88.885,51 0,31
+A(cid:231)ªo DELL TECHNOLOGIES INC D1EL34 26.962,64 0,09
+A(cid:231)ªo DIAGEO PLC DEOP 53.345,37 0,19
+A(cid:231)ªo DOLLAR GENERAL CORP DGCO 12.591,73 0,04
+A(cid:231)ªo ECOPETROL SA E1CO34 11.964,47 0,04
+A(cid:231)ªo ELI LILLY AND COMPANY LILY 558.705,05 1,96
+A(cid:231)ªo EQUINIX INC EQIX 67.472,91 0,24
+A(cid:231)ªo EQUINOR ASA E1QN34 49.598,25 0,17
+A(cid:231)ªo EXXON MOBIL CORPORATION EXXO 358.527,22 1,26
+A(cid:231)ªo FIRST SOLAR INC FSLR34 14.390,58 0,05
+A(cid:231)ªo FORD MOTORS COMPANY FDMO 29.413,17 0,10
+A(cid:231)ªo FRANCO-NEVADA CORP F2NV34 17.157,77 0,06
+A(cid:231)ªo GENERAL ELECTRIC COMPANY GEOO 138.226,10 0,48
+A(cid:231)ªo GENERAL MOTORS COMPANY GMCO 45.981,97 0,16
+A(cid:231)ªo GOLDMAN SACHS GROUP INC. GSGI 137.867,56 0,48
+A(cid:231)ªo HEWLETT PACKARD COMPANY HPQB 24.494,88 0,09
+A(cid:231)ªo HSBC HOLDINGS PLC H1SB34 139.249,31 0,49
+A(cid:231)ªo INTEL CORPORATION ITLC 64.554,73 0,23
+A(cid:231)ªo JD.COM INC JDCO 35.261,88 0,12
+A(cid:231)ªo JOHNSON & JOHNSON JNJB 17.488,05 0,06
+A(cid:231)ªo JPMORGAN CHASE & CO. JPMC 520.264,92 1,82
+A(cid:231)ªo KINGSOFT CLOUD HOLDINGS LTD K2CG34 2.229,43 0,01
+A(cid:231)ªo LLOYDS BANKING GROUP PLC L1YG34 31.276,19 0,11
+A(cid:231)ªo LUMEN TECHNOLOGIES, INC L1MN34 4.117,77 0,01
+A(cid:231)ªo MASTERCARD INCORPORATED MSCD 367.951,93 1,29
+A(cid:231)ªo MC DONALDS CORP. MCDC 158.575,89 0,56
+A(cid:231)ªo MEDICAL PROPERTIES TRUST INC M2PW34 1.705,95 0,01
+A(cid:231)ªo MERCADOLIBRE INC MELI 66.749,29 0,23
+A(cid:231)ªo MERCK & CO., INC. MRCK 188.356,00 0,66
+A(cid:231)ªo META PLATFORMS, INC. M1TA34 991.473,57 3,47
+A(cid:231)ªo MICRON TECHNOLOGY INC MUTC 72.663,61 0,25
+55 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo MICROSOFT CORPORATION MSFT 2.446.477,46 8,57
+A(cid:231)ªo MICROSTRATEGY INC M2ST34 41.324,30 0,14
+A(cid:231)ªo MODERNA INC M1RN34 11.472,88 0,04
+A(cid:231)ªo MONSTER BEVERAGE CORP M1NS 38.673,83 0,14
+A(cid:231)ªo MORGAN STANLEY MSBR 30.652,22 0,11
+A(cid:231)ªo NASDAQ INC N1DA 33.987,54 0,12
+A(cid:231)ªo NETFLIX, INC. NFLX 293.718,28 1,03
+A(cid:231)ªo NEW ORIENTAL EDUCATION & TECHNOLOGY E1DU34 7.797,62 0,03
+GROUP INC
+A(cid:231)ªo NEWMONT GOLDCORP CORP N1EM 32.824,99 0,12
+A(cid:231)ªo NEXTERA ENERGY INC NEXT 113.487,39 0,40
+A(cid:231)ªo NIKE INC NIKE 68.740,46 0,24
+A(cid:231)ªo NOVO NORDISK A/S N1VO34 221.093,75 0,77
+A(cid:231)ªo NU HOLDINGS LTD ROXO34 6.502,09 0,02
+A(cid:231)ªo NVIDIA CORP NVDC 2.583.435,84 9,05
+A(cid:231)ªo OCCIDENTAL PETROLEUM CORP OXYP 33.643,97 0,12
+A(cid:231)ªo ORACLE CORPORATION ORCL 350.293,10 1,23
+A(cid:231)ªo PAGSEGURO DIGITAL LTD PAGS34 983,24 0,00
+A(cid:231)ªo PALANTIR TECHNOLOGIES INC P2LT34 128.396,14 0,45
+A(cid:231)ªo PALO ALTO NETWORKS INC P2AN34 90.847,69 0,32
+A(cid:231)ªo PAYPAL HOLDINGS INC PYPL 66.506,10 0,23
+A(cid:231)ªo PEPSICO, INC. PEPB 10.522,22 0,04
+A(cid:231)ªo PFIZER INC. PFIZ 113.726,23 0,40
+A(cid:231)ªo PINDUODUO INC P1DD34 100.281,98 0,35
+A(cid:231)ªo PROCTER & GAMBLE COMPANY PGCO 300.002,40 1,05
+A(cid:231)ªo PROLOGIS INC P1LD34 73.426,08 0,26
+A(cid:231)ªo QUALCOMM INC. QCOM 131.708,35 0,46
+A(cid:231)ªo REALTY INCOME CORP R1IN 34.663,04 0,12
+A(cid:231)ªo RIO TINTO PLC RIOT 56.653,15 0,20
+A(cid:231)ªo ROBLOX CORPORATION R2BL34 26.756,54 0,09
+A(cid:231)ªo SALESFORCE COM INC SSFO 248.200,04 0,87
+A(cid:231)ªo SEA LTD S2EA34 42.983,02 0,15
+A(cid:231)ªo SERVICENOW INC N1OW34 167.964,92 0,59
+A(cid:231)ªo SHOPIFY INC S2HO34 98.665,35 0,35
+A(cid:231)ªo SIBANYE STILLWATER LTD S1BS34 1.752,30 0,01
+A(cid:231)ªo SIGMA LITHIUM CORP S2GM34 916,89 0,00
+A(cid:231)ªo SIMON PROPERTY GROUP INC SIMN 42.385,49 0,15
+A(cid:231)ªo SL GREEN REALTY CORP S1LG34 3.217,08 0,01
+A(cid:231)ªo SNOWFLAKE INC S2NW34 39.330,79 0,14
+A(cid:231)ªo SONY CORP SNEC 100.848,04 0,35
+A(cid:231)ªo SPOTIFY TECHNOLOGY SA S1PO 69.390,57 0,24
+A(cid:231)ªo SQUARE INC S2QU34 37.144,41 0,13
+56 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo STAG INDUSTRIAL INC S2TA34 4.649,13 0,02
+A(cid:231)ªo STARBUCKS CORPORATION SBUB 77.258,38 0,27
+A(cid:231)ªo SUN COMMUNITIES INC S2UI34 11.512,38 0,04
+A(cid:231)ªo TAIWAN SEMICONDUCTOR MANUFACTURING CO TSMC 793.489,65 2,78
+LTD
+A(cid:231)ªo TAKE-TWO INTERACTIVE SOFTWARE INC T1TW 24.664,68 0,09
+A(cid:231)ªo TAL EDUCATION GROUP T1AL34 3.597,45 0,01
+A(cid:231)ªo TELADOC HEALTH INC T2DH34 1.199,00 0,00
+A(cid:231)ªo TELEF(cid:212)NICA SA TLNC 17.171,11 0,06
+A(cid:231)ªo TESLA INC TSLA 1.015.998,77 3,56
+A(cid:231)ªo TEXAS INSTRUMENTS INC TEXA 8.776,19 0,03
+A(cid:231)ªo THE CHARLES SCHWAB CORPORATION SCHW 98.156,04 0,34
+A(cid:231)ªo THE COCA-COLA COMPANY COCA 203.608,78 0,71
+A(cid:231)ªo THE HOME DEPOT INC. HOME 294.319,14 1,03
+A(cid:231)ªo THE KRAFT HEINZ COMPANY KHCB 6.973,84 0,02
+A(cid:231)ªo THE TRADE DESK INC T2TD34 40.537,95 0,14
+A(cid:231)ªo THE WALT DISNEY COMPANY DISB 10.302,91 0,04
+A(cid:231)ªo THERMO FISHER SCIENTIFIC INC TMOS 149.513,88 0,52
+A(cid:231)ªo TOYOTA MOTOR CORP. TMCO 235.629,25 0,83
+A(cid:231)ªo TRANSOCEAN LTD. RIGG 2.406,74 0,01
+A(cid:231)ªo UBER TECHNOLOGIES INC U1BE 97.097,16 0,34
+A(cid:231)ªo UNILEVER PLC ULEV 107.453,83 0,38
+A(cid:231)ªo UNITED RENTALS INC U1RI34 35.356,29 0,12
+A(cid:231)ªo UNITEDHEALTH GROUP INCORPORATED UNHH 354.889,34 1,24
+A(cid:231)ªo UNITY SOFTWARE INC U2ST34 6.830,09 0,02
+A(cid:231)ªo UPSTART HOLDINGS INC U2PS34 4.324,88 0,02
+A(cid:231)ªo VERIZON COMMUNICATIONS INC. VERZ 126.614,12 0,44
+A(cid:231)ªo VISA INC. VISA 26.781,79 0,09
+A(cid:231)ªo VODAFONE GROUP PUBLIC LTD COMPANY V1OD34 16.792,38 0,06
+A(cid:231)ªo WAL MART STORES INC. WALM 556.301,59 1,95
+A(cid:231)ªo WALGREEN BA WGBA 6.113,77 0,02
+A(cid:231)ªo WARNER BROS. DISCOVERY, INC. W1BD34 19.498,81 0,07
+A(cid:231)ªo WELLS FARGO & COMPANY WFCO 181.685,09 0,64
+A(cid:231)ªo ZOETIS INC Z1TS 55.436,00 0,19
+A(cid:231)ªo ZOOM VIDEO COMMUNICATIONS INC Z1OM34 16.621,61 0,06
+Caixa Caixa 0,00 0,00
+Caixa Cotas a Emitir -9.013,89 -0,03
+Caixa Cotas a Resgatar -12.117,77 -0,04
+Caixa Valor a Pagar -16.748,25 -0,06
+Caixa Valor a Receber 12.404,65 0,04
+57 de 65
+FUNDO INVESTIMENTO CAIXA BRASIL RENDA FIXA REFERENCIADO DI LONGO PRAZO
+CNPJ:03.737.206/0001-97
+Patrim(cid:244)nio L(cid:237)quido: 18.901.575.347,13
+Financeiro:101.140.392,60
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 7.364,91 0,01
+LFT 01/03/2026 2.022.419,69 2,00
+LFT 01/09/2026 3.214.986,85 3,18
+LFT 01/03/2027 8.536.512,23 8,44
+LFT 01/09/2027 5.366.249,22 5,31
+LFT 01/03/2028 2.745.533,47 2,71
+LFT 01/09/2028 1.369.471,15 1,35
+LFT 01/03/2029 580.812,93 0,57
+LFT 01/03/2030 29.935.795,36 29,60
+CrØdito LETRA FINANCEIRA 211.211,21 0,21
+CrØdito ALGAR TELECOM SA DEB˚NTURE 170.086,19 0,17
+CrØdito ATACADAO SA DEB˚NTURE 45.566,97 0,05
+CrØdito B3 SA - BRASIL, BOLSA, BALCAO DEB˚NTURE 174.525,48 0,17
+CrØdito BANCO INDUSTRIAL BRASIL SA CDB 353.124,99 0,35
+CrØdito BANCO AGIBANK S.A. DPGE - Garantia FGC 66.194,83 0,07
+CrØdito BANCO C6 CONSIGNADO S.A. 169.541,15 0,17
+CrØdito BANCO RCI BRASIL SA LETRA FINANCEIRA 57.025,04 0,06
+CrØdito BANCO VOTORANTIM S.A. LETRA FINANCEIRA 1.909.210,33 1,89
+CrØdito BANCO XP S.A LETRA FINANCEIRA 554.940,35 0,55
+CrØdito BCO ABC BRASIL SA LETRA FINANCEIRA 1.111.814,85 1,10
+CrØdito BCO ALFA INVEST SA (EX BCO REAL INVEST SA) CDB 326.535,05 0,32
+CrØdito BCO BRADESCO SA LETRA FINANCEIRA 4.948.091,55 4,89
+CrØdito BCO BRASIL SA LETRA FINANCEIRA 2.844.445,04 2,81
+CrØdito BCO BTG PACTUAL SA LETRA FINANCEIRA 210.375,11 0,21
+CrØdito BCO CITIBANK SA LETRA FINANCEIRA 499.171,84 0,49
+CrØdito BCO CNH CAPITAL SA LETRA FINANCEIRA 492.443,12 0,49
+CrØdito BCO COOPERATIVO SICREDI SA BANSICREDI LETRA FINANCEIRA 333.379,46 0,33
+CrØdito BCO DAYCOVAL SA LETRA FINANCEIRA 778.512,81 0,77
+CrØdito BCO FIBRA SA DPGE - Garantia FGC 41.186,66 0,04
+CrØdito BCO FIDIS INVEST SA (EX BCO FIAT SA) CDB 566.078,36 0,56
+CrØdito BCO GMAC SA LETRA FINANCEIRA 445.229,26 0,44
+CrØdito BCO ITAU SA LETRA FINANCEIRA 2.611.234,81 2,58
+CrØdito BCO JOHN DEERE SA LETRA FINANCEIRA 42.948,83 0,04
+CrØdito BCO MERCANTIL BRASIL SA DPGE - Garantia FGC 65.545,64 0,06
+CrØdito BCO MERCEDES BENZ BRASIL SA CDB 209.954,75 0,21
+CrØdito BCO RABOBANK INTERNATIONAL BRASIL SA LETRA FINANCEIRA 169.451,92 0,17
+CrØdito BCO SAFRA SA LETRA FINANCEIRA 1.831.270,80 1,81
+58 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito BCO SANTANDER (BRASIL) SA LETRA FINANCEIRA 2.202.357,75 2,18
+CrØdito BCO VOLKSWAGEN SA LETRA FINANCEIRA 925.263,84 0,91
+CrØdito CAIXA ECONOMICA FEDERAL CEF LETRA FINANCEIRA 11.915.185,17 11,78
+CrØdito CIA ENERGETICA PERNAMBUCO CELPE DEB˚NTURE 80.886,70 0,08
+CrØdito CIA ENERGETICA RIO GRANDE NORTE COSERN DEB˚NTURE 278.051,57 0,27
+CrØdito CIA PAULISTA FORCA LUZ DEB˚NTURE 150.188,51 0,15
+CrØdito CIA SANEAMENTO MINAS GERAIS COPASA MG DEB˚NTURE 3.931,85 0,00
+CrØdito CIA SIDERURGICA NACIONAL DEB˚NTURE 172.800,21 0,17
+CrØdito CIELO SA DEB˚NTURE 461.018,31 0,46
+CrØdito COMPANHIA SANEAMENTO BASICO ESTADO DEB˚NTURE 194.936,67 0,19
+SAO PAULO SABESP
+CrØdito CONCESSIONARIA SISTEMA ANHANGUERA DEB˚NTURE 278.817,10 0,28
+BANDEIRANTES S/A
+CrØdito CONCORDIA BCO SA CDB 106.043,71 0,10
+CrØdito COPEL DISTRIBUICAO SA DEB˚NTURE 124.077,87 0,12
+CrØdito COPEL GERACAO TRANSMISSAO SA DEB˚NTURE 313.581,40 0,31
+CrØdito COSAN SA DEB˚NTURE 268.894,87 0,27
+CrØdito DIAGNOSTICOS AMERICA SA DEB˚NTURE 136.886,05 0,14
+CrØdito EDP SAO PAULO DISTRIBUIDORA ENERGIA S.A. DEB˚NTURE 85.137,59 0,08
+CrØdito ELEKTRO REDES S.A. DEB˚NTURE 147.538,36 0,15
+CrØdito ENERGISA SA DEB˚NTURE 51.976,01 0,05
+CrØdito EQUATORIAL PAR` DISTRIBUIDORA DE DEB˚NTURE 18.032,53 0,02
+ENERGIA S.A.
+CrØdito ESTACIO PARTICIPACOES SA DEB˚NTURE 342.626,51 0,34
+CrØdito FLEURY SA DEB˚NTURE 280.254,49 0,28
+CrØdito GERDAU SA DEB˚NTURE 146.237,01 0,14
+CrØdito GOLDMAN SACHS BRASIL BCO MULTIPLO CDB 416.164,11 0,41
+CrØdito HAPVIDA PARTICIPACOES INVESTIMENTO SA DEB˚NTURE 339.720,07 0,34
+CrØdito ITAU UNIBANCO HOLDING SA LETRA FINANCEIRA 269.936,45 0,27
+CrØdito LLOYDS LEASING TSB SA ARREND MERCANTIL LETRA FINANCEIRA 165.950,99 0,16
+CrØdito LOCALIZA FLEET SA DEB˚NTURE 82.373,94 0,08
+CrØdito LOCALIZA RENT A CAR SA DEB˚NTURE 642.562,83 0,64
+CrØdito LOJAS RENNER SA DEB˚NTURE 65.019,02 0,06
+CrØdito MOVIDA PARTICIPACOES DEB˚NTURE 87.769,39 0,09
+CrØdito MRS LOGISTICA SA DEB˚NTURE 28.074,32 0,03
+CrØdito NATURA COSMETICOS SA DEB˚NTURE 145.770,53 0,14
+CrØdito NOVA TRANSPORTADORA SUDESTE SA - NTS DEB˚NTURE 486.896,52 0,48
+CrØdito NU FINANCEIRA S.A. SOCIEDADE DE CREDITO CDB 405.360,67 0,40
+FINANCIAMENTO E INVESTIMENTO
+CrØdito PETROLEO BRASILEIRO SA PETROBRAS DEB˚NTURE 744.911,07 0,74
+CrØdito RAIA DROGASIL SA DEB˚NTURE 129.727,95 0,13
+CrØdito REDE D OR SAO LUIZ SA DEB˚NTURE 575.297,63 0,57
+CrØdito SCANIA BANCO S.A. LETRA FINANCEIRA 118.442,51 0,12
+59 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito SENDAS DISTRIBUIDORA S.A. DEB˚NTURE 534.946,81 0,53
+CrØdito SUZANO S.A. DEB˚NTURE 161.387,67 0,16
+CrØdito TELEFONICA BRASIL SA DEB˚NTURE 256.218,77 0,25
+CrØdito TIM BRASIL SERVI˙OS E PARTICIPA˙(cid:213)ES S.A. DEB˚NTURE 366.354,03 0,36
+CrØdito TUPY SA DEB˚NTURE 135.405,70 0,13
+CrØdito UNIPAR CARBOCLORO SA DEB˚NTURE 328.455,76 0,32
+CrØdito USINAS SIDERURGICAS MINAS GERAIS SA DEB˚NTURE 270.856,36 0,27
+USIMINAS
+CrØdito VAMOS LOCACAO DE CAMINHOES, MAQUINAS E DEB˚NTURE 84.215,87 0,08
+EQUIPAMENTOS S.A.
+CrØdito VIBRA ENERGIA SA DEB˚NTURE 385.841,46 0,38
+CrØdito VOTORANTIM CIMENTOS SA DEB˚NTURE 212.289,91 0,21
+Caixa Caixa 60,30 0,00
+Caixa Valor a Pagar -2.587,13 -0,00
+Caixa Valor a Receber 2,84 0,00
+60 de 65
+ITAU INSTITUCIONAIS LEGEND RF LP FIC FI
+CNPJ:29.241.799/0001-90
+Patrim(cid:244)nio L(cid:237)quido: 1.418.390.421,52
+Financeiro:47.028.841,47
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas ITAU VERSO A RENDA FIXA REFERENCIADO DI 11.419.818/0001-60 80.036,31 0,17
+LP FI
+Cotas ITA(cid:218) LEGEND INSTITUCIONAL RENDA FIXA 50.109.947/0001-03 46.964.338,94 99,86
+LONGO PRAZO FUNDO DE INVESTIMENTO
+Caixa Caixa 2.320,95 0,00
+Caixa Valor a Pagar -17.872,31 -0,04
+Caixa Valor a Receber 17,57 0,00
+61 de 65
+FUNDO INVESTIMENTO COTAS FUNDOS INVESTIMENTO CAIXA BRASIL GESTAO ESTRATEGICA
+RENDA FIXA
+CNPJ:23.215.097/0001-55
+Patrim(cid:244)nio L(cid:237)quido: 3.670.341.424,26
+Financeiro:19.609.532,12
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Cotas FUNDO INVESTIMENTO CAIXA MASTER 10.948.555/0001-13 19.610.349,38 100,00
+SOBERANO RENDA FIXA LONGO PRAZO
+Caixa Caixa 0,00 0,00
+Caixa Valor a Pagar -820,09 -0,00
+Caixa Valor a Receber 2,83 0,00
+62 de 65
+ITAU ACOES MOMENTO 30 II FIC
+CNPJ:42.318.981/0001-60
+Patrim(cid:244)nio L(cid:237)quido: 100.926.721,87
+Financeiro:1.958.768,94
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+Caixa Caixa 970,39 0,05
+Caixa Valor a Pagar -4.420,81 -0,23
+Caixa Valor a Receber 6,24 0,00
+63 de 65
+ITAU MOMENTO ACOES FUNDO DE INVESTIMENTO
+CNPJ:10.263.612/0001-20
+Patrim(cid:244)nio L(cid:237)quido: 263.662.932,18
+Financeiro:1.958.271,54
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2027 32.616,68 1,67
+LFT 01/03/2030 36.401,82 1,86
+A(cid:231)ªo AMBEV S.A ABEV3 19.557,85 1,00
+A(cid:231)ªo B3 SA - BRASIL, BOLSA, BALCAO B3SA3 39.688,58 2,03
+A(cid:231)ªo BB SEGURIDADE PARTICIPACOES SA BBSE3 8.786,99 0,45
+A(cid:231)ªo BCO BRADESCO SA BBDC4 22.039,79 1,13
+A(cid:231)ªo BCO BRASIL SA BBAS3 25.598,82 1,31
+A(cid:231)ªo BCO BTG PACTUAL SA BPAC 56.747,21 2,90
+A(cid:231)ªo BRF SA BRFS3 7.722,48 0,39
+A(cid:231)ªo CENTRAIS ELETRICAS BRASILEIRA SA ELET3 77.495,57 3,96
+ELETROBRAS
+A(cid:231)ªo CIA ENERGETICA MINAS GERAIS CEMIG CMIG4 7.921,53 0,40
+A(cid:231)ªo CIA PARANAENSE ENERGIA COPEL CPLE3 55.642,62 2,84
+A(cid:231)ªo COMPANHIA SANEAMENTO BASICO ESTADO SBSP3 134.616,12 6,87
+SAO PAULO SABESP
+A(cid:231)ªo DIRECIONAL ENGENHARIA SA DIRR3 56.859,21 2,90
+A(cid:231)ªo EMBRAER SA EMBR3 34.046,45 1,74
+A(cid:231)ªo ENEVA S.A ENEV3 29.862,62 1,52
+A(cid:231)ªo EQUATORIAL ENERGIA SA EQTL3 142.074,55 7,26
+A(cid:231)ªo GERDAU SA GGBR4 8.447,51 0,43
+A(cid:231)ªo HAPVIDA PARTICIPACOES INVESTIMENTO SA HAPV3 22.425,26 1,15
+A(cid:231)ªo ITAU UNIBANCO HOLDING SA ITUB4 50.828,42 2,60
+A(cid:231)ªo ITAUSA INVESTS ITAU SA ITSA4 144.208,29 7,36
+A(cid:231)ªo JBS SA JBSS3 25.241,91 1,29
+A(cid:231)ªo LOCALIZA RENT A CAR SA RENT3 11.862,09 0,61
+A(cid:231)ªo MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS MULT3 112.210,07 5,73
+SA
+A(cid:231)ªo ORIZON VALORIZA˙ˆO DE RES˝DUOS S.A. ORVR3 25.386,14 1,30
+A(cid:231)ªo PETRO RIO SA PRIO3 60.720,32 3,10
+A(cid:231)ªo PETROLEO BRASILEIRO SA PETROBRAS PETR4 185.787,35 9,49
+A(cid:231)ªo RAIA DROGASIL SA RADL3 10.751,58 0,55
+A(cid:231)ªo REDE D OR SAO LUIZ SA RDOR3 61.170,83 3,12
+A(cid:231)ªo RUMO SA RAIL3 73.412,89 3,75
+A(cid:231)ªo SLC AGRICOLA SA SLCE3 18.469,41 0,94
+A(cid:231)ªo SMARTFIT ESCOLA GINASTICA DANCA SA SMFT1 37.571,83 1,92
+A(cid:231)ªo SUZANO S.A. SUZB3 23.590,91 1,20
+A(cid:231)ªo TELEFONICA BRASIL SA VIVT3 7.155,80 0,37
+A(cid:231)ªo ULTRAPAR PARTICIPACOES SA UGPA3 6.616,64 0,34
+64 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+A(cid:231)ªo VALE SA VALE3 146.015,36 7,46
+A(cid:231)ªo VIBRA ENERGIA SA VBBR3 6.996,05 0,36
+A(cid:231)ªo VIVARA PARTICIPA˙(cid:213)ES S.A VIVA3 24.696,61 1,26
+A(cid:231)ªo WEG SA WEGE3 129.729,55 6,62
+Caixa Caixa 1.354,29 0,07
+Caixa Cotas a Resgatar -3.064,32 -0,16
+Caixa Valor a Pagar -44.907,24 -2,29
+Caixa Valor a Receber 23.915,05 1,22
+65 de 65
+FUNDO INVESTIMENTO CAIXA BRASIL RENDA FIXA REFERENCIADO DI LONGO PRAZO
+CNPJ:03.737.206/0001-97
+Patrim(cid:244)nio L(cid:237)quido: 18.901.575.347,13
+Financeiro:101.140.392,60
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 7.364,91 0,01
+LFT 01/03/2026 2.022.419,69 2,00
+LFT 01/09/2026 3.214.986,85 3,18
+LFT 01/03/2027 8.536.512,23 8,44
+LFT 01/09/2027 5.366.249,22 5,31
+LFT 01/03/2028 2.745.533,47 2,71
+LFT 01/09/2028 1.369.471,15 1,35
+LFT 01/03/2029 580.812,93 0,57
+LFT 01/03/2030 29.935.795,36 29,60
+CrØdito LETRA FINANCEIRA 211.211,21 0,21
+CrØdito ALGAR TELECOM SA DEB˚NTURE 170.086,19 0,17
+CrØdito ATACADAO SA DEB˚NTURE 45.566,97 0,05
+CrØdito B3 SA - BRASIL, BOLSA, BALCAO DEB˚NTURE 174.525,48 0,17
+CrØdito BANCO INDUSTRIAL BRASIL SA CDB 353.124,99 0,35
+CrØdito BANCO AGIBANK S.A. DPGE - Garantia FGC 66.194,83 0,07
+CrØdito BANCO C6 CONSIGNADO S.A. 169.541,15 0,17
+CrØdito BANCO RCI BRASIL SA LETRA FINANCEIRA 57.025,04 0,06
+CrØdito BANCO VOTORANTIM S.A. LETRA FINANCEIRA 1.909.210,33 1,89
+CrØdito BANCO XP S.A LETRA FINANCEIRA 554.940,35 0,55
+CrØdito BCO ABC BRASIL SA LETRA FINANCEIRA 1.111.814,85 1,10
+CrØdito BCO ALFA INVEST SA (EX BCO REAL INVEST SA) CDB 326.535,05 0,32
+CrØdito BCO BRADESCO SA LETRA FINANCEIRA 4.948.091,55 4,89
+CrØdito BCO BRASIL SA LETRA FINANCEIRA 2.844.445,04 2,81
+CrØdito BCO BTG PACTUAL SA LETRA FINANCEIRA 210.375,11 0,21
+CrØdito BCO CITIBANK SA LETRA FINANCEIRA 499.171,84 0,49
+CrØdito BCO CNH CAPITAL SA LETRA FINANCEIRA 492.443,12 0,49
+CrØdito BCO COOPERATIVO SICREDI SA BANSICREDI LETRA FINANCEIRA 333.379,46 0,33
+CrØdito BCO DAYCOVAL SA LETRA FINANCEIRA 778.512,81 0,77
+CrØdito BCO FIBRA SA DPGE - Garantia FGC 41.186,66 0,04
+CrØdito BCO FIDIS INVEST SA (EX BCO FIAT SA) CDB 566.078,36 0,56
+CrØdito BCO GMAC SA LETRA FINANCEIRA 445.229,26 0,44
+CrØdito BCO ITAU SA LETRA FINANCEIRA 2.611.234,81 2,58
+CrØdito BCO JOHN DEERE SA LETRA FINANCEIRA 42.948,83 0,04
+CrØdito BCO MERCANTIL BRASIL SA DPGE - Garantia FGC 65.545,64 0,06
+CrØdito BCO MERCEDES BENZ BRASIL SA CDB 209.954,75 0,21
+CrØdito BCO RABOBANK INTERNATIONAL BRASIL SA LETRA FINANCEIRA 169.451,92 0,17
+CrØdito BCO SAFRA SA LETRA FINANCEIRA 1.831.270,80 1,81
+58 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito BCO SANTANDER (BRASIL) SA LETRA FINANCEIRA 2.202.357,75 2,18
+CrØdito BCO VOLKSWAGEN SA LETRA FINANCEIRA 925.263,84 0,91
+CrØdito CAIXA ECONOMICA FEDERAL CEF LETRA FINANCEIRA 11.915.185,17 11,78
+CrØdito CIA ENERGETICA PERNAMBUCO CELPE DEB˚NTURE 80.886,70 0,08
+CrØdito CIA ENERGETICA RIO GRANDE NORTE COSERN DEB˚NTURE 278.051,57 0,27
+CrØdito CIA PAULISTA FORCA LUZ DEB˚NTURE 150.188,51 0,15
+CrØdito CIA SANEAMENTO MINAS GERAIS COPASA MG DEB˚NTURE 3.931,85 0,00
+CrØdito CIA SIDERURGICA NACIONAL DEB˚NTURE 172.800,21 0,17
+CrØdito CIELO SA DEB˚NTURE 461.018,31 0,46
+CrØdito COMPANHIA SANEAMENTO BASICO ESTADO DEB˚NTURE 194.936,67 0,19
+SAO PAULO SABESP
+CrØdito CONCESSIONARIA SISTEMA ANHANGUERA DEB˚NTURE 278.817,10 0,28
+BANDEIRANTES S/A
+CrØdito CONCORDIA BCO SA CDB 106.043,71 0,10
+CrØdito COPEL DISTRIBUICAO SA DEB˚NTURE 124.077,87 0,12
+CrØdito COPEL GERACAO TRANSMISSAO SA DEB˚NTURE 313.581,40 0,31
+CrØdito COSAN SA DEB˚NTURE 268.894,87 0,27
+CrØdito DIAGNOSTICOS AMERICA SA DEB˚NTURE 136.886,05 0,14
+CrØdito EDP SAO PAULO DISTRIBUIDORA ENERGIA S.A. DEB˚NTURE 85.137,59 0,08
+CrØdito ELEKTRO REDES S.A. DEB˚NTURE 147.538,36 0,15
+CrØdito ENERGISA SA DEB˚NTURE 51.976,01 0,05
+CrØdito EQUATORIAL PAR` DISTRIBUIDORA DE DEB˚NTURE 18.032,53 0,02
+ENERGIA S.A.
+CrØdito ESTACIO PARTICIPACOES SA DEB˚NTURE 342.626,51 0,34
+CrØdito FLEURY SA DEB˚NTURE 280.254,49 0,28
+CrØdito GERDAU SA DEB˚NTURE 146.237,01 0,14
+CrØdito GOLDMAN SACHS BRASIL BCO MULTIPLO CDB 416.164,11 0,41
+CrØdito HAPVIDA PARTICIPACOES INVESTIMENTO SA DEB˚NTURE 339.720,07 0,34
+CrØdito ITAU UNIBANCO HOLDING SA LETRA FINANCEIRA 269.936,45 0,27
+CrØdito LLOYDS LEASING TSB SA ARREND MERCANTIL LETRA FINANCEIRA 165.950,99 0,16
+CrØdito LOCALIZA FLEET SA DEB˚NTURE 82.373,94 0,08
+CrØdito LOCALIZA RENT A CAR SA DEB˚NTURE 642.562,83 0,64
+CrØdito LOJAS RENNER SA DEB˚NTURE 65.019,02 0,06
+CrØdito MOVIDA PARTICIPACOES DEB˚NTURE 87.769,39 0,09
+CrØdito MRS LOGISTICA SA DEB˚NTURE 28.074,32 0,03
+CrØdito NATURA COSMETICOS SA DEB˚NTURE 145.770,53 0,14
+CrØdito NOVA TRANSPORTADORA SUDESTE SA - NTS DEB˚NTURE 486.896,52 0,48
+CrØdito NU FINANCEIRA S.A. SOCIEDADE DE CREDITO CDB 405.360,67 0,40
+FINANCIAMENTO E INVESTIMENTO
+CrØdito PETROLEO BRASILEIRO SA PETROBRAS DEB˚NTURE 744.911,07 0,74
+CrØdito RAIA DROGASIL SA DEB˚NTURE 129.727,95 0,13
+CrØdito REDE D OR SAO LUIZ SA DEB˚NTURE 575.297,63 0,57
+CrØdito SCANIA BANCO S.A. LETRA FINANCEIRA 118.442,51 0,12
+59 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito SENDAS DISTRIBUIDORA S.A. DEB˚NTURE 534.946,81 0,53
+CrØdito SUZANO S.A. DEB˚NTURE 161.387,67 0,16
+CrØdito TELEFONICA BRASIL SA DEB˚NTURE 256.218,77 0,25
+CrØdito TIM BRASIL SERVI˙OS E PARTICIPA˙(cid:213)ES S.A. DEB˚NTURE 366.354,03 0,36
+CrØdito TUPY SA DEB˚NTURE 135.405,70 0,13
+CrØdito UNIPAR CARBOCLORO SA DEB˚NTURE 328.455,76 0,32
+CrØdito USINAS SIDERURGICAS MINAS GERAIS SA DEB˚NTURE 270.856,36 0,27
+USIMINAS
+CrØdito VAMOS LOCACAO DE CAMINHOES, MAQUINAS E DEB˚NTURE 84.215,87 0,08
+EQUIPAMENTOS S.A.
+CrØdito VIBRA ENERGIA SA DEB˚NTURE 385.841,46 0,38
+CrØdito VOTORANTIM CIMENTOS SA DEB˚NTURE 212.289,91 0,21
+Caixa Caixa 60,30 0,00
+Caixa Valor a Pagar -2.587,13 -0,00
+Caixa Valor a Receber 2,84 0,00
+60 de 65
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:2)(cid:5)(cid:7)(cid:8)(cid:9)(cid:10)(cid:2) (cid:11)(cid:12)(cid:13) (cid:14)(cid:2)(cid:2)(cid:6)(cid:15)(cid:16)(cid:17) (cid:18)(cid:9)(cid:8)(cid:19)(cid:20)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:2)(cid:5)(cid:1)(cid:6)(cid:7)(cid:8) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:1)(cid:8)(cid:16)(cid:1)(cid:4)(cid:7)(cid:17)(cid:18)(cid:19)(cid:6)(cid:20) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:1)(cid:21)(cid:20)(cid:22)(cid:2)(cid:1)(cid:17) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:23) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:1)(cid:24)(cid:7)(cid:2)(cid:1)(cid:17)(cid:25)(cid:4)(cid:6)(cid:10)(cid:1) (cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:3)(cid:27)(cid:4)(cid:3)(cid:22)(cid:17)(cid:6)(cid:7)(cid:24)(cid:17)(cid:1)(cid:28)(cid:22) (cid:1)(cid:9)(cid:10)(cid:11)(cid:12) (cid:9) (cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:28)(cid:22)(cid:4)(cid:2)(cid:5)(cid:1)(cid:6)(cid:7)(cid:8) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:24)(cid:29)(cid:1)(cid:3)(cid:4)(cid:6)(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:5)(cid:3)(cid:7) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:6)(cid:19)(cid:24)(cid:21)(cid:5)(cid:22) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:18)(cid:22)(cid:8)(cid:25)(cid:6)(cid:30)(cid:1)(cid:24)(cid:19)(cid:17) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:18)(cid:22)(cid:20)(cid:22)(cid:5)(cid:1)(cid:17)(cid:20)(cid:7)(cid:29) (cid:9) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:1)(cid:17)(cid:3)(cid:22)(cid:4)(cid:31) (cid:4)(cid:6)(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:3)(cid:22)(cid:4)(cid:7)(cid:17)(cid:28)(cid:21)(cid:6)(cid:20)(cid:5)(cid:7)(cid:1)(cid:8)(cid:4)(cid:28)(cid:22)(cid:4)(cid:2)(cid:5) (cid:9) (cid:1)(cid:1)(cid:9)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:2)(cid:3)(cid:22)(cid:4)(cid:29)(cid:19)(cid:5)(cid:3)(cid:19)(cid:28)(cid:19)(cid:6)(cid:4)(cid:2)(cid:19)(cid:17)! (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:5)(cid:1)(cid:28)(cid:19)(cid:6)(cid:3)(cid:22) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:2)(cid:20)(cid:24) (cid:4)(cid:2)(cid:1)(cid:17)(cid:3)(cid:22) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:1)(cid:7)(cid:31)(cid:1)(cid:4)(cid:19)(cid:3)(cid:22)(cid:17)(cid:22)(cid:29)(cid:7)(cid:3)(cid:1)(cid:4)(cid:16)(cid:19)(cid:28)(cid:19)(cid:5)(cid:1)(cid:8) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:1)(cid:5)(cid:5)(cid:19)(cid:16)(cid:22)(cid:21)(cid:5)(cid:4)(cid:2)(cid:5) (cid:9) (cid:9) (cid:9)
+(cid:3)(cid:19)(cid:8) (cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:19)(cid:8) (cid:19) (cid:9) (cid:9) (cid:9)
+(cid:3)"(cid:7)(cid:17)(cid:1)(cid:4)(cid:20)"(cid:5)(cid:19)(cid:19) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:3)(cid:7)(cid:19)(cid:8)(cid:22) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:7)(cid:20)(cid:7)(cid:2)(cid:1)(cid:17)(cid:25)(cid:4)(cid:6)(cid:10)(cid:1)(cid:10) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:17)"(cid:3)(cid:1) (cid:7)(cid:20)(cid:1)(cid:8)(cid:2)(cid:29) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:22) (cid:1)(cid:6)(cid:1) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:22) (cid:19)(cid:8) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:22) (cid:19)(cid:8)(cid:4)(cid:24)(cid:19)(cid:5)(cid:1)(cid:3)(cid:1)(cid:22)(cid:4)(cid:19)(cid:4)(cid:20)(cid:5)(cid:1)(cid:17)(cid:6)(cid:29)(cid:7)(cid:6)(cid:6)(cid:1)(cid:22)(cid:4)(cid:6)(cid:10)(cid:1)(cid:10) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:22)(cid:6)(cid:1)(cid:17) (cid:9) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:3)(cid:22)(cid:6)(cid:19)(cid:5)(cid:17) (cid:9) (cid:9) (cid:9)
+(cid:3)(cid:20)(cid:2)(cid:3)(cid:4)(cid:20)(cid:19)(cid:8)(cid:19)(cid:3)(cid:22) (cid:9) (cid:9) (cid:9)
+(cid:28)(cid:1)(cid:6)(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:28)(cid:1)#(cid:3)(cid:22)(cid:18)(cid:1)(cid:8)(cid:2)(cid:29) (cid:9) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:19)(cid:2)(cid:19) (cid:17)(cid:5) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:19)(cid:8)(cid:19)(cid:25)(cid:20)(cid:5)(cid:22) (cid:9) (cid:9) (cid:9)
+(cid:19)(cid:17)(cid:19)(cid:5)(cid:24)(cid:7)(cid:6)(cid:1) (cid:9) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:19)(cid:6)(cid:20)(cid:1)(cid:3)(cid:7)(cid:22)(cid:4) (cid:1)(cid:5)(cid:20) (cid:9) (cid:9) (cid:9)
+(cid:16)(cid:7)(cid:2)(cid:5)(cid:1)(cid:4)(cid:6)(cid:10)(cid:1)(cid:10) (cid:2)(cid:2)(cid:2)(cid:26)(cid:10)(cid:11)(cid:12) (cid:30)(cid:5)(cid:10)(cid:11)(cid:12) (cid:2)(cid:2)(cid:2)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:16)(cid:7)(cid:28)(cid:7)(cid:6) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:16)(cid:8)(cid:19)(cid:21)(cid:5)# (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:24)(cid:19)(cid:5)(cid:28)(cid:1)(cid:21) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:24)(cid:22)(cid:8)(cid:28)(cid:29)(cid:1)(cid:17)(cid:4)(cid:6)(cid:1)(cid:3)"(cid:6) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+"(cid:1) (cid:18)(cid:7)(cid:28)(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+"(cid:6)(cid:2)(cid:3)(cid:2)(cid:29) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:9)
+(cid:7)(cid:20)(cid:1)(cid:21)(cid:4)(cid:6)(cid:10)(cid:1)(cid:10) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:7)(cid:20)(cid:1)(cid:21)(cid:21)(cid:17)(cid:7)(cid:2)(cid:1)(cid:17)(cid:3)(cid:22) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+$(cid:22)"(cid:17)(cid:28)(cid:19)(cid:19)(cid:5)(cid:19)(cid:2)(cid:29) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:8)(cid:22)(cid:3)(cid:1)(cid:8)(cid:7)!(cid:1) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:8)(cid:22)$(cid:1)(cid:6)(cid:4)(cid:5)(cid:19)(cid:17)(cid:17)(cid:19)(cid:5) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:9)
+(cid:29)(cid:19)(cid:5)(cid:3)(cid:4)(cid:2)(cid:5)(cid:1)(cid:6)(cid:7)(cid:8) (cid:1)(cid:1)(cid:9)(cid:10)(cid:11)(cid:12) (cid:9) (cid:9)
+(cid:29)(cid:22)(cid:18)(cid:7)(cid:28)(cid:1) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:29)(cid:5)(cid:6)(cid:4)(cid:8)(cid:22)(cid:24)(cid:7)(cid:6)(cid:20) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:17)(cid:1)(cid:20)(cid:21)(cid:5)(cid:1) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:17)(cid:22)(cid:18)(cid:1)(cid:17)(cid:20)(cid:6) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:17)(cid:21)(cid:2)(cid:1)(cid:17)(cid:25) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:1)(cid:3)(cid:3)(cid:1)(cid:5)(cid:2)(cid:29) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:9)
+(cid:1)(cid:21)(cid:8)(cid:4)(cid:16)(cid:4)(cid:8)(cid:21)! (cid:17)(cid:5) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:19)(cid:20)(cid:5)(cid:22)(cid:2)(cid:5)(cid:1)(cid:6) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:5)(cid:1)(cid:2)(cid:22)(cid:2)(cid:1)(cid:17)(cid:25)(cid:2)(cid:29) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:5)(cid:1)(cid:7)(cid:1)(cid:28)(cid:5)(cid:22)(cid:24)(cid:1)(cid:6)(cid:7)(cid:8) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:6)(cid:1)(cid:2)(cid:19)(cid:6) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:6)(cid:1)(cid:16)(cid:5)(cid:1)(cid:4)(cid:6)(cid:10)(cid:1)(cid:10) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:6)(cid:1)(cid:17)(cid:20)(cid:1)(cid:17)(cid:28)(cid:19)(cid:5)(cid:4)(cid:2)(cid:5) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:6)(cid:1)(cid:22)(cid:8)(cid:21)(cid:7)! (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:6)(cid:3)(cid:1)(cid:17)(cid:7)(cid:1)(cid:2)(cid:29) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:6)(cid:19)(cid:17)(cid:28)(cid:1)(cid:6) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:6)(cid:7)(cid:3)(cid:5)(cid:19)(cid:28)(cid:7)(cid:2)(cid:29) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:6)(cid:7)(cid:28)(cid:4)(cid:17)(cid:1)(cid:3)(cid:7)(cid:22)(cid:17)(cid:1)(cid:8) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:6)(cid:21)!(cid:1)(cid:17)(cid:22)(cid:4) (cid:1) (cid:19)(cid:8) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:20)(cid:19)(cid:8)(cid:19)(cid:16)(cid:4)(cid:2)(cid:5)(cid:1)(cid:6)(cid:7)(cid:8) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:20)(cid:7)(cid:29)(cid:2)(cid:5)(cid:1)(cid:6)(cid:7)(cid:8) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:20)(cid:22)(cid:20)(cid:1)(cid:8)(cid:4)(cid:16)(cid:8)(cid:19)(cid:19)(cid:20)(cid:4)(cid:6)%(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:20)(cid:21) #(cid:4)(cid:29)(cid:1)(cid:20)(cid:5)(cid:7)! (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:21)(cid:17)(cid:7) (cid:1)(cid:5) (cid:9) (cid:9) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:21)(cid:6)(cid:7)(cid:29)(cid:7)(cid:17)(cid:1)(cid:6) (cid:9) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:18)(cid:1)(cid:29)(cid:22)(cid:6) (cid:1)(cid:1)(cid:26)(cid:10)(cid:11)(cid:12) (cid:9) (cid:1)(cid:1)(cid:26)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+(cid:18)(cid:7)(cid:2)(cid:5)(cid:1) (cid:9) (cid:1)(cid:1)(cid:1)(cid:10)(cid:11)(cid:12) (cid:9)
+(cid:18)(cid:22)(cid:20)(cid:22)(cid:5)(cid:1)(cid:17)(cid:20)(cid:7)(cid:29)(cid:4)(cid:3)(cid:7)(cid:29)(cid:19)(cid:17)(cid:20)(cid:22)(cid:6)(cid:4)(cid:6)%(cid:1) (cid:9) (cid:9) (cid:1)(cid:1)(cid:1)(cid:4)(cid:13)(cid:11)(cid:12)(cid:14)(cid:15)
+FI CAIXA BRASIL MATRIZ RENDA FIXA
+CNPJ:23.215.008/0001-70
+Patrim(cid:244)nio L(cid:237)quido: 6.711.585.180,95
+Financeiro:40.459.038,38
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+LFT 01/03/2025 953.700,10 2,36
+LFT 01/03/2026 285.995,01 0,71
+LFT 01/09/2026 47.657,30 0,12
+LFT 01/03/2027 411.382,07 1,02
+LFT 01/09/2027 1.420.832,73 3,51
+LFT 01/03/2028 1.426.256,89 3,53
+LFT 01/09/2028 1.503.499,33 3,72
+LFT 01/03/2029 628.540,84 1,55
+LFT 01/09/2029 819.435,80 2,03
+LFT 01/03/2030 727.912,03 1,80
+LFT 01/06/2030 15.535.136,35 38,40
+LTN 01/07/2027 1.025.845,11 2,54
+CrØdito 191.404,90 0,47
+CrØdito B3 SA - BRASIL, BOLSA, BALCAO DEB˚NTURE 39.590,72 0,10
+CrØdito BANCO INDUSTRIAL BRASIL SA CDB 169.417,56 0,42
+CrØdito BANCO AGIBANK S.A. DPGE - Garantia FGC 148.078,24 0,37
+CrØdito BANCO C6 CONSIGNADO S.A. CDB 190.931,99 0,47
+CrØdito BANCO RCI BRASIL SA LETRA FINANCEIRA 26.921,10 0,07
+CrØdito BANCO VOTORANTIM S.A. LETRA FINANCEIRA 1.057.107,18 2,61
+CrØdito BANCO XP S.A LETRA FINANCEIRA 137.902,65 0,34
+CrØdito BCO ABC BRASIL SA LETRA FINANCEIRA 836.667,11 2,07
+CrØdito BCO ALFA INVEST SA (EX BCO REAL INVEST SA) CDB 252.628,14 0,62
+CrØdito BCO BRADESCO SA LETRA FINANCEIRA 540.865,64 1,34
+CrØdito BCO BRASIL SA LETRA FINANCEIRA 364.312,46 0,90
+CrØdito BCO BTG PACTUAL SA LETRA FINANCEIRA 452.304,22 1,12
+CrØdito BCO CNH CAPITAL SA LETRA FINANCEIRA 185.352,32 0,46
+CrØdito BCO COOPERATIVO SICREDI SA BANSICREDI LETRA FINANCEIRA 264.269,90 0,65
+CrØdito BCO DAYCOVAL SA LETRA FINANCEIRA 1.137.706,22 2,81
+CrØdito BCO FIDIS INVEST SA (EX BCO FIAT SA) CDB 199.778,71 0,49
+CrØdito BCO GMAC SA LETRA FINANCEIRA 64.509,53 0,16
+CrØdito BCO ITAU SA LETRA FINANCEIRA 1.289.901,71 3,19
+CrØdito BCO MERCANTIL BRASIL SA DPGE - Garantia FGC 137.874,28 0,34
+CrØdito BCO MERCEDES BENZ BRASIL SA LETRA FINANCEIRA 69.261,73 0,17
+CrØdito BCO RABOBANK INTERNATIONAL BRASIL SA LETRA FINANCEIRA 65.828,25 0,16
+CrØdito BCO SAFRA SA LETRA FINANCEIRA 996.751,63 2,46
+CrØdito BCO SANTANDER (BRASIL) SA LETRA FINANCEIRA 695.467,66 1,72
+CrØdito BCO VOLKSWAGEN SA LETRA FINANCEIRA 299.893,59 0,74
+22 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+CrØdito CAIXA ECONOMICA FEDERAL CEF CDB 2.094.711,64 5,18
+CrØdito CIA ENERGETICA PERNAMBUCO CELPE DEB˚NTURE 91.432,53 0,23
+CrØdito CIA ENERGETICA RIO GRANDE NORTE COSERN DEB˚NTURE 84.671,96 0,21
+CrØdito CIA PAULISTA FORCA LUZ DEB˚NTURE 79.122,33 0,20
+CrØdito CIA SANEAMENTO MINAS GERAIS COPASA MG DEB˚NTURE 1.163,60 0,00
+CrØdito CIA SIDERURGICA NACIONAL DEB˚NTURE 81.114,19 0,20
+CrØdito CIELO SA DEB˚NTURE 184.834,86 0,46
+CrØdito COMPANHIA SANEAMENTO BASICO ESTADO DEB˚NTURE 35.681,71 0,09
+SAO PAULO SABESP
+CrØdito CONCESSIONARIA SISTEMA ANHANGUERA DEB˚NTURE 166.294,09 0,41
+BANDEIRANTES S/A
+CrØdito COPEL DISTRIBUICAO SA DEB˚NTURE 24.745,96 0,06
+CrØdito COPEL GERACAO TRANSMISSAO SA DEB˚NTURE 87.481,16 0,22
+CrØdito COSAN SA DEB˚NTURE 79.436,77 0,20
+CrØdito DIAGNOSTICOS AMERICA SA DEB˚NTURE 99.888,24 0,25
+CrØdito ENERGISA SA DEB˚NTURE 65.407,60 0,16
+CrØdito FLEURY SA DEB˚NTURE 25.514,53 0,06
+CrØdito GERDAU SA DEB˚NTURE 54.452,27 0,13
+CrØdito GOLDMAN SACHS BRASIL BCO MULTIPLO CDB 243.555,37 0,60
+CrØdito HAPVIDA PARTICIPACOES INVESTIMENTO SA DEB˚NTURE 76.503,85 0,19
+CrØdito ITAU UNIBANCO HOLDING SA LETRA FINANCEIRA 106.343,99 0,26
+CrØdito LLOYDS LEASING TSB SA ARREND MERCANTIL LETRA FINANCEIRA 73.077,98 0,18
+CrØdito LOCALIZA FLEET SA DEB˚NTURE 16.031,40 0,04
+CrØdito LOCALIZA RENT A CAR SA DEB˚NTURE 145.251,14 0,36
+CrØdito LOJAS RENNER SA DEB˚NTURE 14.039,50 0,03
+CrØdito MOVIDA PARTICIPACOES DEB˚NTURE 17.090,31 0,04
+CrØdito MULTIPLAN EMPREENDIMENTOS IMOBILIARIOS DEB˚NTURE 96.226,83 0,24
+SA
+CrØdito NATURA COSMETICOS SA DEB˚NTURE 55.957,41 0,14
+CrØdito NOVA TRANSPORTADORA SUDESTE SA - NTS DEB˚NTURE 199.974,71 0,49
+CrØdito NU FINANCEIRA S.A. SOCIEDADE DE CREDITO CDB 84.637,92 0,21
+FINANCIAMENTO E INVESTIMENTO
+CrØdito PARANA BCO SA CDB 109.515,04 0,27
+CrØdito PETROLEO BRASILEIRO SA PETROBRAS DEB˚NTURE 282.485,92 0,70
+CrØdito RAIA DROGASIL SA DEB˚NTURE 20.734,60 0,05
+CrØdito REDE D OR SAO LUIZ SA DEB˚NTURE 202.729,94 0,50
+CrØdito SCANIA BANCO S.A. LETRA FINANCEIRA 45.714,02 0,11
+CrØdito SENDAS DISTRIBUIDORA S.A. DEB˚NTURE 169.178,63 0,42
+CrØdito TELEFONICA BRASIL SA DEB˚NTURE 42.994,03 0,11
+CrØdito TRANSMISSORA ALIANCA ENERGIA ELETRICA SA DEB˚NTURE 78.314,46 0,19
+CrØdito TUPY SA DEB˚NTURE 50.848,66 0,13
+CrØdito UNIPAR CARBOCLORO SA DEB˚NTURE 127.264,33 0,31
+CrØdito USINAS SIDERURGICAS MINAS GERAIS SA DEB˚NTURE 78.998,33 0,20
+23 de 65
+Ativo/Tipo Vencimento/Emissor C(cid:243)digo R$ %
+USIMINAS
+CrØdito VAMOS LOCACAO DE CAMINHOES, MAQUINAS E DEB˚NTURE 22.104,64 0,05
+EQUIPAMENTOS S.A.
+CrØdito VIBRA ENERGIA SA DEB˚NTURE 156.150,36 0,39
+CrØdito VOTORANTIM CIMENTOS SA DEB˚NTURE 82.834,94 0,20
+Futuros CONTRATO FUTURO DE DI DE 1 DIA DI1 0,00 0,00
+Caixa Caixa 126,15 0,00
+Caixa Valor a Pagar -1.093,85 -0,00
+Caixa Valor a Receber 3,20 0,00
+24 de 65
+Nome do Ativo S&P Moody’s Fitch
+ABC BRASIL - AAA.br AAA (bra)
+ALFA INVEST - AAA.br -
+AUTOBAN - AAA.br -
+B3 - AAA.br AAA (bra)
+BANCO AGIBANK S.A A.br A+.br A+ (bra)
+BANCO C6 CONSIGNADO A-.br - A (bra)
+BANCO DO BRASIL - AAA.br AAA (bra)
+BANCO GMAC SA - - AAA (bra)
+BANCO RCI - AAA.br -
+BANCO VOLKSWAGEN - AAA.br -
+BANCO VOTORANTIM - AA+.br -
+BANCO XP SA - - AAA (bra)
+BCO INDUSTRIAL DO BR - AA-.br -
+BCO MERCEDES BENZ - - AAA (bra)
+BRADESCO - AAA.br AAA (bra)
+BTGP BANCO - - AAA (bra)
+CAIXA ECONOMICA FEDERAL - AAA.br AAA (bra)
+CELPE - - -
+CHINA THREE - AAA.br -
+CIELO - AAA.br AAA (bra)
+CNHCAPITALBM - - AAA (bra)
+COPASA - AAA.br AA+ (bra)
+COPEL - - AAA (bra)
+COPEL GERACAO E TRANSMISSAO S.A. - - AAA (bra)
+COSAN - AA+.br AAA (bra)
+COSERN - - -
+DASA - - AA (bra)
+DAYCOVALBM - AA+.br AA+ (bra)
+ENERGISA - AA+.br AAA (bra)
+FIDIS - AAA.br -
+FLEURY - AAA.br -
+GERDAU - - AAA (bra)
+GOLDMAN SACHS - - AAA (bra)
+HAPVIDA - - AAA (bra)
+HSBCBM AAA.br - -
+ITAU S.A. AAA.br - AAA (bra)
+ITAUUNIBANCO - AAA.br AAA (bra)
+LOCALIZA - AAA.br AAA (bra)
+LOJAS RENNER AAA.br - -
+MERC BRASIL AA-.br - -
+MOVIDA AA+.br AA+.br AA+ (bra)
+MULTIPLAN - - AAA (bra)
+NATURA AAA.br - AAA (bra)
+NOVANTS - - AAA (bra)
+NUBANK AAA.br AAA.br -
+PARANA - - AA- (bra)
+PAUL F LUZ - - AAA (bra)
+PETROBRAS - AAA.br AAA (bra)
+RABOBANKBM - - AAA (bra)
+RAIADROGASIL - - AAA (bra)
+SABESP AAA.br AAA.br AAA (bra)
+SAFRA S.A. - AAA.br -
+SANTANDER BR - AAA.br -
+SAOLUIZ - - AAA (bra)
+SCANIABM - AAA.br -
+SENDAS - - AAA (bra)
+SICREDIBM AAA.br AAA.br AAA (bra)
+SID NACIONAL AAA.br AA+.br -
+TAESA - AAA.br -
+TELEF BRASIL - - AAA (bra)
+TOTAL FLEET S/A - - AAA (bra)
+TUPY MATRIZ AAA.br - AAA (bra)
+UNIPAR - - AA+ (bra)
+USIMINAS - AA+.br AA+ (bra)
+VAMOS AA+.br - AA+ (bra)
+VIBRA - AAA.br -
+VOTORANTIM CIMENTOS S/A - - AAA (bra)

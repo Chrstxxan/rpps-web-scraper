@@ -1,0 +1,237 @@
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - ABR
+ENTE: 76.205.806 / 0001-88 - Toledo UF: PR :
+Número : A2109001
+Segmento : Renda Fixa Tipo de ativo : FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído : ---
+Carteira administrada : ---
+Foi observado a compatibilidade dos ativos investidores com os prazos e taxas das obrigações
+presentes e futuros do RPPS :
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação : 14.386.926 / 0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A
+TITULOS PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação : Aplicação
+Dados da operação : 09/06/2021 Data da liquidação : 09/06/2021
+Quantidades antes : 14.761.166.9247330000 Quantidade após : 16.449.476,3026430000
+Quantidade : 1.688.309.3779100000 Valor : R $ 2,44
+Valor da operação : R $ 4.120.915,01
+Ag./Conta : 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo : R $ 11.068.272.487,58
+DADOS DA OPERAÇÃO
+Descrição da operação :
+contribuição do servidor e patronal
+Compatibilidade da aplicação com as obrigações presentes e futuros do RPPS :
+Sim
+Análise / Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação
+do RPPS :
+Operação aprovada pelo CI conforme ATA 024/2021, visa usufruir do carregamento do projeto
+combinado com a curva de juros reais e por se tratar do Fundo com vencimentos mais curtos, se
+torna menos volátil podendo ser resgatado para fazer frente às despesas com a folha de pagamento
+dos aposentados e pensionistas.
+Outras categorias :
+---
+Assinatura do Documento
+CPF Nome Carga Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:36:21
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 28/10/2021 09:37:05
+Gestora
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:38:48
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=14589&crc=CDA8F237 , informando o Código: 14589 eo Código CRC:
+CDA8F237 .
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2109003
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 30.068.224/0001-04 - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO DE ACOES CAIXA ACOES MULTIGESTOR
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 14/09/2021 Data da liquidação: 14/09/2021
+Quantidade antes: 6.750.106,6319570000 Quantidade após: 7.042.951,4789170000
+Quantidade: 292.844,8469600000 Valor: R$ 1,23
+Valor da operação: R$ 359.628,70
+Ag./Conta: 0726 / 494-0 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 970.935.376,15
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Compensação Previdenciária
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+A operação faz parte do processo de diversificação da carteira de investimentos com vistas ao
+atingimento/superação da meta atuarial. Esta aderente a Política de Investimentos, e em
+alinhamento com o diagnóstico do Estudo de ALM que indica a necessidade de aumentar a alocação
+no segmento de renda variável aumentando a chance de sucesso na busca da meta atuarial.
+Aprovado pelo CI conforme ATA 026/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:36:21
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 28/10/2021 09:37:05
+Gestora
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:38:48
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=14637&crc=2E8E3375, informando o Código Verificador: 14637 e o
+Código CRC: 2E8E3375.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2109000
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.097/0001-55 - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO CAIXA BRASIL GESTAO ESTRATEGICA RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 28/09/2021 Data da liquidação: 28/09/2021
+Quantidade antes: 44.238.189,9803300000 Quantidade após: 40.962.393,5395800000
+Quantidade: 3.275.796,4407500000 Valor: R$ 1,50
+Valor da operação: R$ 4.900.919,06
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 14.407.320.968,51
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Folha de pagamento do mês de setembro 2021
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Considerando que a estratégia do Fundo está com alocação de 80% em IRFM-1 e considerando o
+cenário atual de alta da taxa Selic, não vem apresentado performance satisfatória para a carteira do
+TOLEDOPREV, decidiu-se pela redução do valor investido neste Fundo. Aprovado pelo Comitê de
+Investimentos ATA nº 027/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:36:21
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 28/10/2021 09:37:05
+Gestora
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:38:48
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=14499&crc=873A77CC, informando o Código Verificador: 14499 e o
+Código CRC: 873A77CC.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2109004
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI Multimercado - Aberto - Art. 8º, III
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 30.036.235/0001-02 - FUNDO DE INVESTIMENTO CAIXA BOLSA AMERICANA
+MULTIMERCADO LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 28/09/2021 Data da liquidação: 28/09/2021
+Quantidade antes: 19.148.080,5010230000 Quantidade após: 20.709.448,0982170000
+Quantidade: 1.561.367,5971940000 Valor: R$ 1,58
+Valor da operação: R$ 2.470.929,80
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 3.166.279.756,52
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aporte para equacionamento do déficit atuaria
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+O investimento neste fundo decorre da necessidade de construir uma carteira de investimentos com
+exposição a mercados mais maduros, reduzindo assim a concentração de investimentos em ativos
+locais. Também por não incorporar variações cambiais no seu retorno possibilita que o resultado seja
+referenciado exclusivamente no desempenho das ações. Além disso, a operação faz parte do
+processo de diversificação da carteira de investimentos com vistas ao atingimento/superação da
+meta atuarial. Esta aderente a Política de Investimentos, e atende ao diagnóstico do Estudo de ALM
+de aumentar a alocação no segmento de renda Variável e Investimento no Exterior. Operação
+realizada em linha com a estratégia aprovada pelo Comitê de Investimentos ATA nº 27/2021.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:36:21
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 28/10/2021 09:37:05
+Gestora
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:38:48
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=14643&crc=77F5E1DB, informando o Código Verificador: 14643 e o
+Código CRC: 77F5E1DB.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2109002
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 14.386.926/0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 30/09/2021 Data da liquidação: 30/09/2021
+Quantidade antes: 16.396.614,3796660000 Quantidade após: 16.449.476,3026430000
+Quantidade: 52.861,9229770000 Valor: R$ 2,46
+Valor da operação: R$ 130.255,69
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.068.272.487,58
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Contribuição Patronal conforme Sentença Judicial
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 027/2021, visa usufruir do carrego de inflação projetada
+combinado com a curva de juros reais e por se tratar de Fundo com vencimentos mais curtos, se
+torna menos volátil podendo ser resgatado para fazer frente às despesas com a folha de pagamento
+dos aposentados e pensionistas.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:36:21
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 28/10/2021 09:37:05
+Gestora
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 28/10/2021 09:38:48
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=14614&crc=B59C3B89, informando o Código Verificador: 14614 e o
+Código CRC: B59C3B89.

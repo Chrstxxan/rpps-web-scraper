@@ -1,0 +1,124 @@
+DEMONSTRATIVO DAS APLICAÇÕES E INVESTIMENTOS DOS RECURSOS
+1. ENTE
+Nome: Prefeitura Municipal de Umuarama / PR CNPJ: 76.247.378/0001-56
+Endereço: Avenida Rio Branco, 3717 Complemento: Paço Municipal
+Bairro: Centro Cívico CEP: 87501-130
+Telefone: (044) 3621-4141 Fax: (044) 3622-8661 E-mail: gabinete@umuamara.pr.gov.br
+2. REPRESENTANTE LEGAL DO ENTE
+Nome: Moacir Silva CPF: 308.544.239-15
+Cargo: Prefeito Complemento do Cargo:
+E-mail: gabinete@umuarama.pr.gov.br Data Início de Gestão: 01/01/2013
+3. REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL/MUNICÍPIO/UF
+Nome: Fundo de Previdência Municipal de Umuarama - FPMU CNPJ: 09.122.645/0001-71
+Endereço: Avenida Rio Branco, 3717 Complemento: Paço Municipal
+Bairro: Centro Cívico CEP: 87501-130
+Telefone: (044) 3621-4135 Fax: (044) 3622-8661 E-mail: fpmu@umuarama.pr.gov.br
+4. REPRESENTANTE LEGAL DA UNIDADE GESTORA
+Nome: Denise Constante da Silva Freitas CPF: 517.695.659-49
+Cargo: Administrador Complemento do Cargo: Data Início de Gestão:
+Telefone: (044) 3621-4135 Fax: (044) 3622-8661 E-mail: denise@umuarama.pr.gov.br
+5. GESTOR DE RECURSOS
+Nome: Denise Constante da Silva Freitas CPF: 517.695.659-49
+Cargo: Administrador Complemento do Cargo: Data Início de Gestão: 10/06/2011
+Telefone: (044) 3621-4135 Fax: (044) 3622-8661 E-mail: denise@umuarama.pr.gov.br
+Entidade Certificadora: Validade Certificação:
+6. RESPONSÁVEL PELO ENVIO
+Nome: Denise Constante da Silva Freitas CPF: 517.695.659-49
+Telefone: (044) 3621-4135 Fax: (044) 3622-8661 E-mail: denise@umuarama.pr.gov.br
+30/07/14 10:42 v2.0 * RELATÓRIO PARA SIMPLES CONFERÊNCIA * Página 1 de4
+7. DEMONSTRATIVO – RECURSOS APLICADOS
+Exercício: 2014 Bimestre: MAI/JUN
+Gestão: Própria
+Entidade Credenciada: CNPJ da Entidade Credenciada:
+7.1. DEMONSTRATIVO – OPERAÇÕES COM TÍTULOS DO TN NO BIMESTRE
+Não existe Operação com Títulos do TN neste bimestre.
+7.2. DEMONSTRATIVO - CARTEIRA
+Aplicação Nº: 001
+Segmento: Renda Fixa Tipo de Ativo: FI Renda Fixa/Referenciados RF - Art. 7º, III
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Novo Brasil IMA-B FIC Renda Fixa LP CNPJ do Fundo: 10.646.895/0001-90
+Quantidade de Cotas: 719.149,2644066620 Valor Atual da Cota: 1,6931230000 Valor Total Atual: 1.217.608,16
+Índice de Referência: IMA
+Patrimônio Líquido do Fundo: 2.605.932.375,80
+% dos Recursos do RPPS: 6,60 % % do Patrimônio Líquido do Fundo: 0,05 %
+Taxa de Performance:
+Aplicação Nº: 002
+Segmento: Renda Fixa Tipo de Ativo: FI de Renda Fixa - Art. 7º, IV
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Brasil Títulos Públicos FI Renda Fixa LP CNPJ do Fundo: 05.164.356/0001-84
+Quantidade de Cotas: 133.242,1405544590 Valor Atual da Cota: 2,3581180000 Valor Total Atual: 314.200,69
+Índice de Referência: CDI
+Patrimônio Líquido do Fundo: 2.056.136.764,95
+% dos Recursos do RPPS: 1,70 % % do Patrimônio Líquido do Fundo: 0,02 %
+Aplicação Nº: 003
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Brasil IMA-B Títulos Públicos FI Renda Fixa LP CNPJ do Fundo: 10.740.658/0001-93
+Quantidade de Cotas: 2.013.655,0201981730 Valor Atual da Cota: 1,6016300000 Valor Total Atual: 3.225.130,29
+Índice de Referência: IMA
+Patrimônio Líquido do Fundo: 4.591.329.559,19
+% dos Recursos do RPPS: 17,48 % % do Patrimônio Líquido do Fundo: 0,07 %
+30/07/14 10:42 v2.0 * RELATÓRIO PARA SIMPLES CONFERÊNCIA * Página 2 de4
+Aplicação Nº: 004
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Brasil IMA Geral Títulos Públicos FI Renda Fixa LP CNPJ do Fundo: 11.061.217/0001-28
+Quantidade de Cotas: 1.946.757,4030683890 Valor Atual da Cota: 1,4912060000 Valor Total Atual: 2.903.016,32
+Índice de Referência: IMA
+Patrimônio Líquido do Fundo: 1.577.563.498,81
+% dos Recursos do RPPS: 15,74 % % do Patrimônio Líquido do Fundo: 0,18 %
+Aplicação Nº: 005
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: BB Gestão de Recursos DTVM CNPJ da Instituição Financeira: 30.822.936/0001-69
+Fundo: BB IMA Geral EX-C Títulos Públicos FI Renda Fixa Previdenciário CNPJ do Fundo: 14.964.240/0001-10
+Quantidade de Cotas: 138.299,7545275020 Valor Atual da Cota: 1,1584022730 Valor Total Atual: 160.206,75
+Índice de Referência: IMA
+Patrimônio Líquido do Fundo: 483.250.469,34
+% dos Recursos do RPPS: 0,87 % % do Patrimônio Líquido do Fundo: 0,03 %
+Aplicação Nº: 006
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Brasil IDKA 2A IPCA Títulos Públicos FI Renda Fixa LP CNPJ do Fundo: 14.386.926/0001-71
+Quantidade de Cotas: 677.774,6135103810 Valor Atual da Cota: 1,1742230000 Valor Total Atual: 795.858,54
+Índice de Referência: IDkA
+Patrimônio Líquido do Fundo: 482.802.537,80
+% dos Recursos do RPPS: 4,31 % % do Patrimônio Líquido do Fundo: 0,16 %
+Aplicação Nº: 007
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: BB Gestão de Recursos DTVM CNPJ da Instituição Financeira: 30.822.936/0001-69
+Fundo: BB IDKA 2 Títulos Públicos FI Renda Fixa Previdenciário CNPJ do Fundo: 13.322.205/0001-35
+Quantidade de Cotas: 286.412,5350197360 Valor Atual da Cota: 1,4232681540 Valor Total Atual: 407.641,84
+Índice de Referência: IDkA
+Patrimônio Líquido do Fundo: 2.392.176.222,42
+% dos Recursos do RPPS: 2,21 % % do Patrimônio Líquido do Fundo: 0,02 %
+30/07/14 10:42 v2.0 * RELATÓRIO PARA SIMPLES CONFERÊNCIA * Página 3 de4
+Aplicação Nº: 008
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: BB Gestão de Recursos DTVM CNPJ da Instituição Financeira: 30.822.936/0001-69
+Fundo: BB IDKA 20 Títulos Públicos FI Renda Fixa Previdenciário CNPJ do Fundo: 15.775.748/0001-33
+Quantidade de Cotas: 143.827,6827310670 Valor Atual da Cota: 0,9445177550 Valor Total Atual: 135.847,80
+Índice de Referência: IDkA
+Patrimônio Líquido do Fundo: 72.053.384,86
+% dos Recursos do RPPS: 0,74 % % do Patrimônio Líquido do Fundo: 0,19 %
+Aplicação Nº: 009
+Segmento: Renda Fixa Tipo de Ativo: FI 100% títulos TN - Art. 7º, I, "b"
+Data da Posição Atual: 30/06/2014
+Instituição Financeira: Caixa Econômica Federal CNPJ da Instituição Financeira: 00.360.305/0001-04
+Fundo: Caixa Brasil IRF-M 1+ Títulos Públicos FI Renda Fixa LP CNPJ do Fundo: 10.577.519/0001-90
+Quantidade de Cotas: 7.995.093,0684034040 Valor Atual da Cota: 1,1615650000 Valor Total Atual: 9.286.820,28
+Índice de Referência: IMA
+Patrimônio Líquido do Fundo: 178.310.666,82
+% dos Recursos do RPPS: 50,34 % % do Patrimônio Líquido do Fundo: 5,21 %
+Aplicação Nº: 010
+Segmento: Disponibilidades Financeiras
+Saldo: 50,74
+Total de Aplicações no Bimestre: 18.446.330,67 Total de Disponibilidades Financeiras no Bimestre: 50,74 Total Geral: 18.446.381,41
+30/07/14 10:42 v2.0 * RELATÓRIO PARA SIMPLES CONFERÊNCIA * Página 4 de4

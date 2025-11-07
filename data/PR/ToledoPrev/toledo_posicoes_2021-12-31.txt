@@ -1,0 +1,187 @@
+Carteira | Meta | Rentabilidade | Análise de | Alocação | Lâminas dos | Movimentações | Análise de| Indexadores | Observações | PDF
+Atuarial por Artigo Liquidez Fundos Risco
+TOLEDO 31/12/2021
+RENTABILIDADES POR ARTIGO
+Atribuição
+No
+Estratégia No Mês No Ano 3 meses 6 meses 12 meses Desemp. No Ano(R$)
+Mês(R$)
+Indexador (%)
+Artigo 7º I, Alínea b 0,74 0,52 1,18 0,50 0,52 1.644.927,04 0,40 6.619,93
+% do CDI 96,98 11,85 64,18 16,04 11,85
+Artigo 7º IV, Alínea a 0,45 3,06 1,73 2,05 3,06 422.751,86 0,10 1.781.576,50
+% do CDI 58,59 69,71 93,83 66,38 69,71
+Artigo 7º VII, Alínea b 0,82 1,90 41.427,40 0,01 95.061,79
+% do CDI 107,36 110,46
+Artigo 8º II, Alínea a 1,04 -17,06 -10,32 -22,21 -17,06 270.383,22 0,07 -5.455.625,20
+Var. IBOVESPA p.p. -1,82 -5,13 -4,78 -4,88 -5,13
+Artigo 8º III 5,09 24,99 11,54 12,09 24,99 1.994.758,68 0,48 6.026.911,11
+% do CDI 666,77 568,61 626,33 391,53 568,61
+Artigo 9º A, II 0,19 8,18 2,61 3,13 30.803,71 0,01 1.227.290,10
+% do CDI 24,91 233,94 141,73 101,52
+Artigo 9º A, III 1,70 30,51 11,81 20,44 30,51 232.131,39 0,06 2.582.652,47
+% do CDI 222,99 694,13 641,32 662,12 694,13
+Artigo 7º 0,67 0,68 1,14 0,56 0,68 2.109.106,30 0,51 1.883.258,22
+Artigo 8º 3,47 2,50 1,88 -4,79 2,50 2.265.141,90 0,55 571.285,91
+Artigo 9º 0,89 23,38 6,51 9,96 23,38 262.935,10 0,06 3.809.942,57
+TOLEDO (Total) 4.637.183,30 1,12 6.264.486,70
+RESULTADO POR ATIVO
+Artigo 7º I, Alínea b (Fundos 100% Títulos Públicos)
+Resultado Atribuição Resultado
+Saldo Financ. Mês Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo (R$) (%) (R$)
+BB PREV RF 20.591.269,77 0,00 0,00 0,00 20.779.494,64 188.224,87 0,05 -83.124,60
+ALOCAÇÃO
+ATIVA FIC FI
+FI CAIXA 9.166.332,00 0,00 0,00 0,00 9.244.116,00 77.784,00 0,02 22.065,08
+BRASIL 2024
+V TÍTULOS
+PÚBLICOS RF
+FI CAIXA 40.325.715,41 717.953,22 -5.666.766,66 0,00 35.641.880,63 264.978,66 0,06 1.654.204,49
+BRASIL IDKA
+IPCA 2A
+TÍTULOS
+PÚBLICOS RF
+LP
+Resultado Atribuição Resultado
+Saldo Financ. Mês Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo (R$) (%) (R$)
+FI CAIXA 6.459.866,30 0,00 0,00 0,00 6.437.782,67 -22.083,63 -0,01 -484.724,64
+BRASIL IMA
+B 5+
+TÍTULOS
+PÚBLICOS RF
+LP
+FI CAIXA 28.109.990,80 0,00 0,00 0,00 28.325.716,76 215.725,96 0,05 1.389.729,83
+BRASIL IMA-
+B 5 TÍTULOS
+PÚBLICOS RF
+LP
+FI CAIXA 30.563.968,48 0,00 0,00 0,00 30.627.952,17 63.983,69 0,02 -1.979.862,93
+BRASIL IMA-
+B TÍTULOS
+PÚBLICOS RF
+LP
+FI CAIXA 23.067.429,12 0,00 0,00 0,00 23.263.167,90 195.738,78 0,05 764.670,49
+BRASIL IRF-
+M 1 TÍTULOS
+PÚBLICOS RF
+FI CAIXA 11.841.865,29 0,00 0,00 0,00 12.063.454,04 221.588,75 0,05 -1.085.494,40
+BRASIL IRF-
+M TÍTULOS
+PÚBLICOS RF
+LP
+FIC DE FI 53.166.238,18 0,00 0,00 0,00 53.605.224,14 438.985,96 0,11 -190.843,39
+CAIXA
+BRASIL
+GESTÃO
+ESTRATÉGICA
+RF
+219.988.788,95 1.644.927,04 0,40
+Artigo 7º IV, Alínea a (Fundos de Renda Fixa)
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ.
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) Ano (R$)
+FI CAIXA BRASIL 14.729.280,26 0,00 0,00 0,00 14.840.411,31 111.131,05 0,03 507.074,76
+RENDA FIXA
+REFERENCIADO
+DI LP
+FI CAIXA BRASIL 15.897.736,53 0,00 0,00 0,00 16.021.259,56 123.523,03 0,03 666.194,06
+TÍTULOS
+PÚBLICOS RF LP
+FIC FI CAIXA 11.739.834,73 0,00 0,00 0,00 11.827.159,61 87.324,88 0,02 82.234,67
+BRASIL RF ATIVA
+LP
+FUNDO DE 6.362.034,85 12.104.061,46 0,00 0,00 18.568.758,86 102.662,55 0,02 141.712,67
+INVESTIMENTO
+CAIXA BRASIL
+MATRIZ RENDA
+FI
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ.
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) Ano (R$)
+ITAU 33.682.118,46 0,00 0,00 0,00 33.680.228,81 -1.889,65 -0,00 384.360,34
+INSTITUCIONAIS
+LEGEND RF LP
+FIC FI
+94.937.818,15 422.751,86 0,10
+Artigo 7º VII, Alínea b (Fundos Renda Fixa "Crédito Privado")
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ.
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) Ano (R$)
+RIO BRAVO 5.053.634,39 0,00 0,00 0,00 5.095.061,79 41.427,40 0,01 95.061,79
+CRÉDITO PRIVADO
+FUNDO DE
+INVESTIMENTO
+RENDA
+5.095.061,79 41.427,40 0,01
+Artigo 8º II, Alínea a (Fundos de Ações)
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) (R$)
+BAHIA AM 4.462.298,50 0,00 0,00 0,00 4.463.383,78 1.085,28 0,00 -1.148.485,12
+VALUATION FIC
+DE FIA
+FIA CAIXA 920.811,27 0,00 0,00 0,00 978.900,66 58.089,39 0,01 -462.674,60
+CONSTRUÇÃO
+CIVIL
+FIA CAIXA 1.157.497,71 0,00 0,00 0,00 1.157.229,39 -268,32 -0,00 -427.574,68
+CONSUMO
+FIA CAIXA 1.506.046,57 0,00 0,00 0,00 1.569.971,78 63.925,21 0,02 -324.506,41
+SMALL CAPS
+ATIVO
+FIC DE FI EM 3.881.706,75 0,00 0,00 0,00 3.869.125,17 -12.581,58 -0,00 -453.904,50
+AÇÕES CAIXA
+VALOR
+DIVIDENDOS
+RPPS
+FIC FIA CAIXA 7.283.975,35 0,00 0,00 0,00 7.443.512,30 159.536,95 0,04 -1.406.650,16
+MULTIGESTOR
+ITAU ACOES 4.285.983,40 0,00 0,00 0,00 4.327.600,83 41.617,43 0,01 -402.419,15
+DUNAMIS FIC
+ITAÚ AÇÕES 2.568.955,61 0,00 0,00 0,00 2.527.934,47 -41.021,14 -0,01 -447.044,10
+MOMENTO 30 II
+FIC DE FI
+26.337.658,38 270.383,22 0,07
+Artigo 8º III (Fundos Multimercados)
+Resultado Atribuição Resultado
+Saldo Financ. Mês Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo (R$) (%) (R$)
+Resultado Atribuição Resultado
+Saldo Financ. Mês Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo (R$) (%) (R$)
+CAIXA BOLSA 34.715.765,59 0,00 0,00 0,00 36.646.486,72 1.930.721,13 0,47 5.961.322,30
+AMERICANA FI
+MULTIMERCADO
+LP
+FIC CAIXA 4.465.088,97 0,00 0,00 0,00 4.529.126,52 64.037,55 0,02 65.588,81
+ALOCACAO
+MACRO
+MULTIMERCADO
+LP
+41.175.613,24 1.994.758,68 0,48
+Artigo 9º A, II (Fundos de Investimento no Exterior)
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ.
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) Ano (R$)
+AXA WF 10.785.537,98 0,00 0,00 0,00 10.956.828,93 171.290,95 0,04 956.828,93
+FRAMLINGTON
+DIGITAL
+ECONOMY
+ADVISORY FIC
+FIA IE
+MS GLOBAL 5.410.948,41 0,00 0,00 0,00 5.270.461,17 -140.487,24 -0,03 270.461,17
+OPPORTUNITIES
+ADVISORY FIC
+FIA
+INVESTIMENTO
+NO EXTERIOR
+16.227.290,10 30.803,71 0,01
+Artigo 9º A, III (Ações - BDR Nível I)
+Resultado Atribuição Resultado
+Saldo Financ. Desempenho Financ. Ano
+Ativo Anterior Aplicações Resgates Amortização Saldo Mês (R$) (%) (R$)
+FIA CAIXA 16.291.595,98 2.470.929,80 0,00 0,00 18.994.657,17 232.131,39 0,06 2.582.652,47
+INSTITUCIONAL
+BDR NÍVEL I
+18.994.657,17 232.131,39 0,06

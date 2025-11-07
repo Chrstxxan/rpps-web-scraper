@@ -1,0 +1,897 @@
+FUNDO DE APOSENTADORIAS E PENSÕES DOS SERVIDORES
+PÚBLICOS MUNICIPAIS DE TOLEDO
+FAPES/TOLEDOPREV
+Política Anual de Investimentos
+2023
+DATA DA ELABORAÇÃO: 16 DE NOVEMBRO DE 2022
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 1
+Luis Adalberto Beto Lunitti Pagnussat
+Prefeito Municipal
+Roseli Fabris Dalla Costa
+Diretora Executiva do TOLEDOPREV
+Gestor de Recursos
+Conselho de Administração
+Jaldir Anholeto – Presidente
+Maicon José Ferronatto – Membro Titular
+Wilmar da Silva – Membro Titular
+Gilvânia Aparecida Padilha – Membro Titular
+Erica Regina Luna Pereira Macedo – Membro Titular
+Juarez Polachini – Membro Titular
+Desirée Nicole dos Reis Giordani – Membro Suplente
+Isiane Irene Barzotto – Membro Suplente
+Ieda Rosa Greselle – Membro Suplente
+Marli Bombardelli – Membro Suplente
+Sandra Lagni – Membro Suplente
+Sirlei Theves Galvão – Membro Suplente
+Conselho Fiscal
+Leandro Marcelo Ludvig – Presidente
+Valdecir Neumann – Membro Titular
+Francieli Aparecida Kunrath Paes – Membro Titular
+Marines Bettega – Membro Titular
+Nélvio José Hübner – Membro Suplente
+Renato Augusto Eidt – Membro Suplente
+Maura Regina Teixeira – Membro Suplente
+Gerte Cecília Filipetto – Membro Suplente
+Comitê de Investimentos
+Roseli Fabris Dalla Costa – Coordenadora
+Jaldir Anholeto – Membro
+Leandro Marcelo Ludvig – Membro
+Wilmar da Silva - Membro
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 2
+Sumário
+1. Introdução 4
+2. Definições 4
+3. Diretrizes Gerais 4
+4. Gestão Previdenciária (Pro-Gestão) 5
+5. Comitê de Investimentos 6
+6. Consultoria de Investimentos 7
+7. Modelo de Gestão 8
+8. Segregação de Massa 8
+9. Meta de Retorno Esperado 8
+10. Aderência das Metas de Rentabilidade 10
+11. Carteira Atual 11
+12. Alocação de Recursos e os Limites por Segmento de Aplicação 11
+13. Cenário 12
+14. Alocação Objetivo 13
+15. Apreçamento de Ativos Financeiros 15
+16. Gestão de Risco 16
+16.1 Risco de Mercado 16
+16.1.1 VaR 16
+16.2 Risco de Crédito 17
+16.2.1 Abordagem Qualitativa 17
+16.3 Risco de Liquidez 18
+16.4 Risco Operacional 19
+16.5 Risco de Terceirização 20
+16.6 Risco Legal 20
+16.7 Risco Sistêmico 21
+16.8 Risco de Desenquadramento Passivo – Contingenciamento 21
+17 Considerações Finais 21
+18 Assinaturas 22
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 3
+1. Introdução
+O Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de Toledo
+– FAPES/TOLEDOPREV, é constituído na forma da legislação pertinente em vigor, com
+natureza jurídica de fundo público da administração direta municipal. Sua finalidade é
+administrar e executar a previdência social dos servidores, conforme estabelece a Lei nº
+1.929/2006, Resolução CMN nº 4.963/2021 e na Portaria MTP nº 1.467/2022, que contém as
+diretrizes de aplicação dos recursos garantidores do plano de benefício administrado pelo
+FAPES/TOLEDOPREV. A presente Política de Investimentos foi elaborada e aprovada pelo
+Comitê de Investimentos na reunião ordinária do dia 16/11/2022 e foi discutida e aprovada
+pelo Conselho de Administração do TOLEDOPREV na reunião ordinária, que ocorreu em
+21/11/2022.
+2. Definições
+Ente Federativo: Município de Toledo, Estado do Paraná
+Unidade Gestora: Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de
+Toledo – FAPES/TOLEDOPREV
+CNPJ: 08.885.045/0001-00
+Meta de Retorno Esperada: INPC + 4,89%
+Categoria do Investidor: Qualificado
+3. Diretrizes Gerais
+Os princípios, metodologias e parâmetros estabelecidos nesta Política de
+Investimentos buscam garantir, ao longo do tempo, a segurança, liquidez e rentabilidade
+adequadas e suficientes ao equilíbrio entre ativos e passivos do FAPES/TOLEDOPREV, bem
+como procuram evitar a exposição excessiva a riscos através de critérios estabelecidos.
+Esta Política de Investimentos entrará em vigor em 01 de janeiro de 2023. O
+horizonte de planejamento utilizado na sua elaboração compreende o período de 12 meses que
+se estende de janeiro a dezembro de 2023.
+O referido documento está de acordo com a Resolução do CMN nº 4.963/2021 e a
+Portaria MTP nº 1.467/2022 que dispõem sobre as aplicações dos recursos financeiros dos
+Regimes Próprios de Previdência Social instituídos pela União, Estados, Distrito Federal e
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 4
+Municípios, bem como estabelece os parâmetros mínimos para as alocações de recursos e
+limites utilizados, sejam eles de concentração por veículo, emissor e ou segmento; o modelo
+de gestão a ser utilizado; a meta de rentabilidade perseguida e seus acompanhamentos.
+Adicionalmente este documento trata da metodologia adotada para o apreçamento dos
+ativos financeiros e gerenciamento de riscos, em consonância com as definições constantes na
+Resolução CMN nº 4.963/2021 e na Portaria MTP nº 1.467/2022.
+Em havendo mudanças na legislação que de alguma forma tornem estas diretrizes
+inadequadas, durante a vigência deste instrumento, esta Política de Investimentos e os seus
+procedimentos serão alterados gradativamente, de forma a evitar perdas de rentabilidade ou
+exposição desnecessária a riscos, conforme definições constantes na Resolução CMN nº
+4.963/2021 e na Portaria MTP nº 1.467/2022. Caso seja necessário, deve ser elaborado um
+plano de adequação, com critérios e prazos para a sua execução, sempre com o objetivo de
+preservar os interesses do FAPES/TOLEDOPREV, desde que este plano não seja contrário ao
+arcabouço legal constituído.
+Se nesse plano de adequação o prazo de enquadramento estabelecido pelas disposições
+transitórias da nova legislação for excedido, o FAPES/TOLEDOPREV deverá comunicar
+oficialmente a Secretaria de Previdência do Ministério do Trabalho e Previdência.
+4. Gestão Previdenciária (Pro-Gestão)
+A adoção das melhores práticas de Gestão Previdenciária, de acordo com a Portaria
+MTP nº 1.467/2022, e o Manual do Pró-Gestão versão 3.3/2022, tem por objetivo incentivar o
+Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de Toledo –
+FAPES/TOLEDOPREV a adotar melhores práticas de gestão previdenciária, que proporcione
+maior controle dos seus ativos e passivo e mais transparência no relacionamento com os
+segurados e a sociedade. Tal adoção garantirá que os envolvidos no processo decisório do
+Fundo cumpram seus códigos de conduta preacordados a fim de minimizar conflitos de
+interesse ou quebra dos deveres.
+Assim, com as responsabilidades bem definidas, compete ao Comitê de
+Investimentos, a elaboração da Política de Investimento, que deve submetê-la para aprovação
+ao Conselho de Administração, o agente superior nas definições das políticas e das estratégias
+gerais do Fundo.
+Ainda de acordo com os normativos, esta Politíca de Investimentos estabelece os
+princípios e as diretrizes a serem seguidas na gestão dos recursos correspondentes às reservas
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 5
+técnicas, fundos e provisões, sob a administração do TOLEDOPREV, visando atingir e
+preservar o equilíbrio financeiro e atuarial e a solvência do plano.
+As diretrizes aqui estabelecidas são complementares, isto é, coexistem com aquelas
+estabelecidas pela legislação aplicável, sendo os administradores e gestores incumbidos da
+responsabilidade de observá-las concomitantemente, ainda que não estejam transcritas neste
+documento.
+5. Comitê de Investimentos
+De acordo com a Portaria MTP nº 1.467/2022, especificamente a Seção I do Capítulo
+VI, combinado com o Decreto Municipal nº 920/2012, que instituiu o Comitê de
+Investimentos do Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de
+Toledo (FAPES), como órgão auxiliar participante do processo decisório quanto à formulação
+e à execução da política de investimentos, o Comitê de Investimento do TOLEDOPREV é
+composto por 4 (quatro) membros, sendo o Diretor-Executivo do TOLEDOPREV, servidor
+municipal responsável pela contabilidade do FAPES, o Presidente do Conselho Fiscal e o
+Presidente do Conselho de Administração. Na hipótese de ambos os Presidentes serem
+representantes do Executivo Municipal, os Conselhos de Administração e Fiscal do
+TOLEDOPREV indicarão mais um membro representante dos segurados para integrar o
+Comitê de Investimentos.
+O fato de, na composição do Comitê de Investimentos estarem pessoas tecnicamente
+preparadas permite que o mesmo seja responsável por zelar pela implementação desta Política
+de Investimento e realizar recomendações junto à Diretoria Executiva e ao Conselho de
+Administração. Podem ainda participar especialistas externos para auxiliar em decisões mais
+complexas ou de volumes mais representativos.
+Todos os membros do Comitê de Investimentos são certificados conforme disposto a
+seguir:
+Tipo de Certificação Quantidade de Membros Data de Vencimento da
+Profissional Certificados Certificação
+Certificação Profissional (v.06/03/2023),
+3
+ANBIMA: CPA – 10 (v.01/11/2024), e
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 6
+(v.16/02/2025)
+Certificação Profissional
+TOTUM: Avançado 1 (v.08/11/2026)
+(CP RPPS CGINV III)
+Certificação de Gestor de
+Regime Próprio de 1 (v.04/11/2023)
+Previdência Social (CGRPPS)
+6. Consultoria de Investimentos
+A consultoria de investimentos terá a função de auxiliar o TOLEDOPREV no
+acompanhamento e monitoramento do desempenho do risco de mercado, do enquadramento
+das aplicações dos recursos e do confronto do retorno observado vis a vis o seu retorno
+esperado. Essa consultoria deverá ser cadastrada junto a CVM única e exclusivamente como
+consultora de valores mobiliários. O contrato firmado com a Consultoria de Investimentos
+deverá obrigatoriamente observar as seguintes Cláusulas:
+6.1 que o objeto do contrato será executado em estrita observância das normas da CVM,
+inclusive da INCVM nº 592/2017;
+6.2 que as análises fornecidas serão isentas e independentes; e
+6.3 que a contratada não percebe remuneração, direta ou indireta, advinda dos
+estruturadores dos produtos sendo oferecidos, adquiridos ou analisados, em perfeita
+consonância ao disposto no Art. 24 da Resolução CMN nº 4.963/2021: Art. 24. Na hipótese
+de contratação objetivando a prestação de serviços relacionados à gestão dos recursos do
+regime próprio de previdência social: (...) III - a contratação sujeitará o prestador e as partes a
+ele relacionadas, direta ou indiretamente, em relação às aplicações dos recursos do regime
+próprio de previdência social, a fim de que: a) não recebam qualquer remuneração, benefício
+ou vantagem que potencialmente prejudiquem a independência na prestação de serviço; b)
+não figurem como emissores dos ativos ou atuem na originação e estruturação dos produtos
+de investimento.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 7
+7. Modelo de Gestão
+A gestão das aplicações dos recursos do TOLEDOPREV, de acordo com o Artigo
+95, da Portaria MTP nº 1.467/2022, será própria, ou seja, o TOLEDOPREV realizará
+diretamente a execução da Política de Investimentos, decidindo sobre as alocações dos
+recursos, respeitando os parâmetros da legislação vigente, Resolução CMN nº 4.963/2021.
+8. Segregação de Massa
+O TOLEDOPREV não possui segregação de massa do seu Plano de Benefícios.
+9. Meta de Retorno Esperado
+Para o exercício de 2023 o TOLEDOPREV prevê que o seu retorno esperado será no
+mínimo INPC acrescido de uma taxa de juros de 4,89% a.a.
+A escolha do índice INPC justifica-se devido ser o mesmo índice que o Município de
+Toledo utiliza para conceder a reposição inflacionária anual do salário dos servidores, como
+forma de coerência para evitar descasamento entre o crescimento do passivo atuarial e do
+ativo atuarial.
+Conforme determina a Portaria MTP nº 1.467/2022, a taxa de desconto atuarial
+efetiva máxima real admitida nas projeções atuariais será a resultante do disposto no “Art. 39,
+A taxa de juros real anual a ser utilizada como taxa de desconto para apuração do valor
+presente dos fluxos de benefícios e contribuições do RPPS será equivalente à taxa de juros
+parâmetro cujo ponto da Estrutura a Termo de Taxa de Juros Média - ETTJ seja o mais
+próximo à duração do passivo do RPPS.”
+A duração do passivo corresponde à média dos prazos dos fluxos de pagamentos de
+benefícios do RPPS, líquidos das contribuições dos aposentados e pensionistas, ponderada
+pelos valores presentes desses fluxos.
+Considerando os Fluxos Atuariais do Plano de Benefícios do Município de
+Toledo/PR para cálculo da duração do passivo, em função dos resultados da Avaliação
+Atuarial 2022, obteve-se 18,55 anos.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 8
+Assim, considerando a duração do passivo de 18,55 anos, a taxa de juros
+referencial, segundo a Portaria MTP nº 1.467, de 2 de junho de 2022, alterada pela
+Portaria MTP nº 1.837, de 30 de junho de 2022, é 4,74%.
+De acordo com o § 4º do Art. 39, “a taxa de juros parâmetro, poderá ser acrescida em
+0,15 (quinze centésimos) a cada ano em que a rentabilidade da carteira de investimentos
+superar os juros reais da meta atuarial dos últimos 5 (cinco) anos, limitados ao total de 0,60
+(sessenta centésimos).”
+As Metas e Retornos dos últimos 5 anos em decorrência do contido na Portaria MTP
+nº 1.467/2022:
+Rendimento Acrescentar
+Ano Meta % Atingimento
+Realizado 0,15% Meta 2023
+2021 16,11% 1,62% 10,05% Não
+2020 11,61% 5,48% 47,20% Não
+2019 10,7488% 10,7450% 99,97% Não
+2018 9,64% 7,34% 76,14% Não
+2017 8,12% 10,81% 133,13% Sim
+Portanto, com base na tabela das metas e retornos do TOLEDOPREV dos anos de
+2017 a 2021, verifica-se que houve o atingimento da meta no ano de 2017, podendo a meta
+atuarial ser acrescida de 0,15% (quinze centésimos).
+Diante disso, adotamos a taxa de juros real de 4,89% a.a. por ser a taxa referencial
+fixada pela Portaria MTP nº 1.837/2022, acrescida de 0,15% (quinze centésimos) pelo
+atingimento da meta atuarial no exercício de 2017.
+Esta Política de Investimentos busca a compatibilidade da meta de rentabilidade com
+o perfil da carteira de investimentos do TOLEDOPREV, a partir das estratégias de alocação
+definidas nesta política de investimentos, tendo por base cenários macroeconômico e
+financeiro e os fluxos atuariais com as projeções das receitas e despesas futuras do Plano de
+Benefícios.
+Ainda que diante do razoável pessimismo com a recuperação da economia para o
+exercício de 2023, o TOLEDOPREV deverá buscar a excelência de seus investimentos
+procurando superar a meta atuarial para o referido exercício.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 9
+10. Aderência das Metas de Rentabilidade
+As metas de rentabilidade definidas no item anterior estão aderentes ao perfil da
+carteira de investimento e das obrigações do plano.
+Diante de um contexto de pandemia, verificamos uma redução das rentabilidades do
+TOLEDOPREV em relação a meta de rentabilidade nos últimos dois anos às seguintes taxas:
+Ano Rentabilidade Metade Rentabilidade
+2021 1,62% 16,11%
+2020 5,48% 11,61%
+2019 10,74% 10,74%
+A meta se constitui nos parâmetros de rentabilidade a serem perseguidas, buscando
+compatibilidade com o perfil das obrigações, tendo em vista a necessidade de busca e
+manutenção do equilíbrio financeiro e atuarial e os limites de diversificação e concentração
+previstos na Resolução CMN nº 4.963/2021.
+O ativo do plano se comportou da seguinte forma nos últimos três anos:
+Ano da base de dados da Avaliação Atuarial Valor do AtivoLíquido –R$
+2019 355.132.834,08
+2020 396.058.231,12
+2021 422.958.018,84
+Variaçãodo Ativo no período 19,10%
+Já o Passivo atuarial do RPPS teve a seguinte evolução nos últimos três anos:
+Ano da base de dados da Avaliação Atuarial Valor do Ativo Líquido –R$
+2019 524.174.215,34
+2020 639.579.017,03
+2021 819.928.118,02
+Variação do Passivo no período 56,43%
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 10
+11. Carteira Atual
+A carteira atual, de acordo com a tabela abaixo, demonstra os percentuais de
+alocação assim como os limites legais observados por segmento na data 31/10/2022.
+LIMITE LEGAL
+LIMITE PRÓ-
+SEGMENTO (Resolução CMN Nº CARTEIRA
+GESTÃO NÍVEL II
+4.963/2021
+Renda Fixa 100% 100% 81,44%
+Renda Variável 30% 40% 6,46%
+Investimentos no Exterior 10% 10% 5,20%
+Investimentos Estruturados 15% 15% 6,90%
+Fundos Imobiliários 5% 10% 0%
+Empréstimos Consignados 5% 10% 0%
+Tendo por base a tabela acima, a carteira de investimentos do TOLEDOPREV
+apresentou no fechamento de outubro de 2022, uma distribuição estratégica dos recursos de
+81,44% em renda fixa, 6,46% em renda variável, 5,20% em investimentos no exterior, e
+6,90% em investimentos estruturados.
+12. Alocação de Recursos e os Limites por Segmento de Aplicação
+A análise e avaliação das adversidades e das oportunidades, observadas em cenários
+atuais e futuros, contribuem para a formação de uma visão ampla do TOLEDOPREV e do
+ambiente em que este se insere, visando assim a estabilidade e a solidez do sistema.
+O grau de maturação, suas especificidades, imposições legais e as características de
+suas obrigações, bem como o cenário macroeconômico, determinam as seguintes diretrizes
+dos investimentos:
+(cid:216) A alocação dos recursos nos diversos segmentos permitidos pela Resolução CMN nº
+4.963/2021 (Artigos 7º, 8º, 9º, 10,11 e 12);
+(cid:216) Os limites mínimos, objetivos e máximos de aplicação em cada segmento;
+(cid:216) A seleção de ativos e/ou de fundos de investimentos; Os respectivos limites de
+diversificação e concentração conforme estabelecidos na Seção III, dos Limites Gerais
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 11
+à Gestão da Resolução CMN nº 4.963/2021, especificamente à Subseção I, dos
+Limites Gerais (Arts. 13 a 20).
+13. Cenário
+A expectativa de retorno dos investimentos passa pela definição de um cenário
+econômico que deve levar em consideração as possíveis variações que os principais
+indicadores podem sofrer.
+Mercado Interno - Para maior assertividade, o cenário utilizado corresponde ao
+apresentado no último Boletim Focus, conforme tabela apresentada abaixo, de 04/11/2022,
+que antecede a aprovação dessa Política de Investimentos. O Boletim Focus é elaborado pelo
+GERIN - Departamento de Relacionamento com Investidores e Estudos Especiais, do Banco
+Central do Brasil, e apresenta o resumo das expectativas do mercado financeiro para a
+economia.
+Nesse cenário exposto abaixo, no contexto econômico, em relação ao ambiente
+doméstico, o cenário para 2023, é de razoável pessimismo com a recuperação da atividade
+econômica (PIB de 0,70%) em relação a 2022 (PIB de 2,76%), manutenção da inflação em
+patamares de 4,94%, redução da taxa Selic para 11,25%.
+Fonte: https://www.bcb.gov.br/publicacoes/focus
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 12
+Mercado Externo – Com relação ao mercado externo temos os seguintes dados:
+(cid:216) Guerra entre a UCRÂNIA e RÚSSIA, têm provocado aumento de algumas
+commodities fundamentais para o mundo, tais como energia, petróleo, gás e
+alimentos. O controle do fornecimento de gás por parte da Rússia para países da
+Europa têm causado problemas econômicos e financeiros nesses países, e também
+para a Rússia, de modo a afetar o crescimento do PIB dos países europeus, além de
+aumentar a inflação;
+(cid:216) Os Estados Unidos estão enfrentando desaquecimento na economia, com aumento
+significativo da inflação comparado a anos anteriores. O FED têm agido controlando
+a taxa básica de juros americana, inclusive, com pequenas doses de aumento;
+(cid:216) Em relação ao PIB da China para o ano de 2023, é esperado redução em relação aos
+anos anteriores.
+14. Alocação Objetivo
+A tabela a seguir apresenta a alocação objetivo e os limites de aplicação em cada um
+dos segmentos definidos pela Resolução CMN nº 4.963/2021. Essa alocação tem como intuito
+determinar a alocação estratégica a ser perseguida ao longo do exercício desta Política de
+Investimento que melhor reflita as necessidades do passivo.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 13
+Política de Investimentos para o ano de 2023
+Limite da
+Percentual
+Posição Atual na Resolução Limite Limite Meta de Resumo da
+Enquadramento Tipo de Ativo Atual na Estratégia
+Carteira R$ CMN - Pró- Inferior Superior Rentabilidade Estratégia
+Carteira
+Gestão II
+Art. 7º, I, "a" Títulos Públicos 100% 0% 35,00% 60% 9,88% Alocação Inicial
+Art. 7º, I, "b" Fundos 100% Títulos Públicos R$ 280.022.577,30 62,59% 100% 20% 29,51% 90% 9,88% Redução
+Art. 7º, I, "c" Fundos de Índice 100% Títulos Públicos 100% 0% 0% Alocação Inicial
+Art. 7º, II Operações Compromissadas 5% 0% 0% Alocação Inicial
+Art. 7º, III, "a" Fundos Renda Fixa R$ 72.091.053,59 16,11% 70% 5% 12,23% 50% 9,88% Redução
+Art. 7º, III, "b" Fundos de Índice Renda Fixa 70% 0% 0% Alocação Inicial
+Art. 7º, IV Ativos de Renda Fixa (Inst. Financeira) 20% 0% 0% Alocação Inicial
+Art. 7º, V, "a" Cota Sênior de FIDC 10% 0% 0% Alocação Inicial
+Art. 7º, V, "b" Fundos Renda Fixa "Crédito Privado" R$ 12.259.189,27 2,74% 10% 0% 2,77% 10% 9,88% Manutenção
+Art. 7º, V, "c" Fundo de Debêntures Incentivadas 10% 0% 0% Alocação Inicial
+Art. 8º, I Fundos de Ações R$ 28.918.632,13 6,46% 40% 0% 0,49% 20% 9,88% Redução
+Art. 8º, II Fundos de Índice de Ações 40% 0% 0% Alocação Inicial
+Art. 9º, I Renda Fixa - Dívida Externa 10% 0% 0% Alocação Inicial
+Art. 9º, II Fundos de Investimento no Exterior R$ 9.942.414,69 2,22% 10% 0% 4,00% 10% 9,88% Aumento
+Art. 9º, III Ações - BDR Nível I R$ 13.335.807,50 2,98% 10% 0% 6,00% 10% 9,88% Aumento
+Art. 10, I Fundos Multimercados R$ 30.855.051,88 6,90% 10% 2% 10,00% 10% 9,88% Aumento
+Art. 10, II Fundo de Participação 5% 0% 0% Alocação Inicial
+Art. 10, III Fundos de Ações - Mercado de Acesso 5% 0% 0% Alocação Inicial
+Art. 11 Fundo de Investimento Imobiliário 5% 0% 0% Alocação Inicial
+Empréstimos Consignado - Sem Pró
+Art. 12, I 5% 0% 0% Alocação Inicial
+Gestão
+Empréstimos Consignado - Com Pró
+Art. 12, II 10% 0% 0% Alocação Inicial
+Gestão
+R$ 447.424.726,36 100% 100,00%
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 14
+A alocação objetivo foi definida considerando o cenário macroeconômico e as
+expectativas de mercado vigentes quando da elaboração deste documento, conforme descrito
+no item 13. Também foi levado em consideração o estudo de Asset Liability Management
+(ALM) realizado na data de 14/11/2022, onde foram estudados os patamares de riscos x
+retorno (fronteira eficiente Markowitz).
+.
+15. Apreçamento de Ativos Financeiros
+Os títulos e valores mobiliários integrantes das carteiras e fundos de investimentos,
+nos quais o TOLEDOPREV aplica recursos devem estar de acordo com os critérios
+recomendados pela CVM, pela ANBIMA e definidos na Resolução CMN nº 4.963/2021 e
+Portaria MTP nº 1.467/2022.
+O método e as fontes de referência adotados para apreçamento dos ativos pelo
+TOLEDOPREV são os mesmos estabelecidos por seus custodiantes e estão disponíveis no
+Manual de apreçamento do custodiante.
+É recomendado que todas as negociações sejam realizadas através de plataformas
+eletrônicas e em bolsas de valores e mercadorias e futuros, visando maior transparência e
+maior proximidade do valor real de mercado.
+No caso da aquisição direta de títulos públicos federais é de fundamental importância
+que no ato da compra sejam observadas as taxas indicativas e respectivos Preços Unitários
+(PUs) divulgados diariamente pela ANBIMA. Concomitante, efetuar a compra em
+plataformas eletrônicas, custodiar os mesmos através do CNPJ do Fundo de Aposentadorias e
+Pensões dos Servidores Públicos Municipais de Toledo – FAPES/TOLEDOPREV no SELIC
+(Sistema Especial de Liquidação e Custódia) e, escolher o critério contábil que o título será
+registrado até o seu vencimento: ou será marcado a mercado, ou será marcado na curva, pela
+sua taxa de aquisição. Da mesma maneira, os ativos financeiros emitidos com obrigação ou
+coobrigação de instituições financeiras permitidas deverão possuir seu registro junto ao
+CETIP e também o critério contábil que este título será registrado. Entretanto como o
+TOLEDOPREV realizou em 2022 o Estudo de ALM, é imprescindível que os títulos públicos
+sejam marcados na curva.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 15
+16. Gestão de Risco
+Em linha com o que estabelece a Resolução CMN nº 4.963/2021 e a Portaria MTP nº
+1.467/2022, este tópico estabelece quais serão os critérios, parâmetros e limites de gestão de
+risco dos investimentos. O objetivo deste tópico é demonstrar a análise dos principais riscos
+destacando a importância de estabelecer regras que permitam identificar, avaliar, mensurar,
+controlar e monitorar os riscos aos quais os recursos do plano estão expostos, entre eles os
+riscos de mercado, de crédito, de liquidez, operacional, legal, terceirização e sistêmico.
+16.1 Risco de Mercado
+O acompanhamento do risco de mercado será feito através do cálculo do Var (Value
+at Risk) por cota, que estima, com base nos dados históricos de volatilidade dos ativos
+presentes na carteira analisada, a perda máxima esperada.
+16.1.1 VaR
+Para o consolidado dos segmentos de aplicação, o controle de risco de mercado será
+feito por meio do cálculo do VaR por cota, com o objetivo do TOLEDOPREV controlar a
+volatilidade da cota do plano de benefícios.
+O Controle de riscos (VaR) deve ser feito de acordo com os seguintes limites:
+MANDATO LIMITE
+Renda Fixa 5 %
+Renda Variável 20%
+Investimentos no Exterior 20%
+Investimentos Estruturados 20 %
+Fundos Imobiliários 20 %
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 16
+16.2 Risco de Crédito
+16.2.1 Abordagem Qualitativa
+O TOLEDOPREV utilizará para essa avaliação do risco de crédito os ratings atribuídos
+por agência classificadora de risco de crédito atuante no Brasil.
+Para checagem do enquadramento, os títulos privados devem, a princípio, ser separados
+de acordo com suas características a seguir:
+ATIVO RATING EMISSOR RATING EMISSÃO
+Títulos emitidos por instituição não financeira X X
+FIDC X
+Títulos emitidos por instituição financeira X
+Os títulos emitidos por instituições não financeiras podem ser analisados pelo rating
+de emissão ou do emissor. No caso de apresentarem notas distintas entre estas duas
+classificações, será considerado, para fins de enquadramento, o pior rating.
+Posteriormente, é preciso verificar se o papel possui rating por uma das agências
+elegíveis e se a nota é, de acordo com a escala da agência, igual ou superior à classificação
+mínima apresentada na tabela a seguir:
+INSTITUIÇÃO NÃO
+AGÊNCIA FIDC INSTITUIÇÃO FINANCEIRA
+FINANCEIRA
+PRAZO - Longo prazo Longo prazo
+Standard& Poors brA- brA- brA-
+Moody’s A3.br A3.br A3.br
+Fitch Ratings A-(bra) A-(bra) A-(bra)
+SR Ratings brA brA brA
+Austin Rating brAA brAA brAA
+Os investimentos que possuírem rating igual ou superior às notas indicadas na tabela
+serão enquadrados na categoria grau de investimento e considerados como baixo risco de
+crédito, conforme definido na Resolução CMN nº 4.963/2021, desde que observadas as
+seguintes condições:
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 17
+(cid:216) Os títulos que não possuem rating pelas agências elegíveis (ou que tenham
+classificação inferior às que constam na tabela) devem ser enquadrados na categoria
+grau especulativo e não poderão ser objeto de investimento;
+(cid:216) Caso duas agências elegíveis classifiquem o mesmo papel, será considerado, para fins
+de enquadramento, o pior rating;
+(cid:216) No caso de ativos de crédito que possuam garantia do Fundo Garandidor de Crédito –
+FGC, será considerada como classificação de risco de crédito a classificação dos
+ativos semelhantes emitidos pelo Tesouro Nacional, desde que respeitados os devidos
+limites legais;
+(cid:216) O enquadramento dos títulos será feito com base no rating vigente na data da
+verificação da aderência das aplicações à política de investimento.
+No ato do Credenciamento de cada um dos gestores dos fundos de investimentos,
+também será verificado o rating de Gestão de cada um deles.
+16.3 Risco de Liquidez
+O risco de liquidez pode ser dividido em duas classes:
+A. Possibilidade de indisponibilidade de recursos para pagamento de obrigações
+(Passivo);
+B. Possibilidade de redução da demanda de mercado (Ativo);
+Os itens a seguir detalham as características destes riscos e a forma como eles serão
+geridos.
+A. Indisponibilidade de recursos para pagamento de obrigações (Passivo).
+A gestão do risco de indisponibilidade de recursos para pagamento de obrigações
+depende do planejamento estratégico dos investimentos do plano. A aquisição de títulos ou
+valores mobiliários com prazo ou fluxos incompatíveis com as necessidades do plano pode
+gerar um descasamento.
+Para melhor gerenciamento da gestão de risco de liquidez o TOLEDOPREV
+identificou o comportamento do seu passivo atuarial através do Estudo de Asset Liability
+Management (ALM) mencionado anteriormente.
+B. Redução de demanda de mercado (Ativo)
+A segunda classe de risco de liquidez pode ser entendida como a possibilidade de
+redução ou inexistência de demanda pelos títulos e valores mobiliários integrantes da carteira.
+A gestão deste risco será feita com base no percentual da carteira que pode ser negociada.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 18
+O controle do risco de liquidez de demanda de mercado será feito por meio dos
+limites da tabela abaixo, onde será analisado o curto (de 0 a 30 dias), médio (de 31 a 365 dias)
+e longo prazo (acima de 365 dias).
+HORIZONTE PERCENTUAL MÍNIMO DA CARTEIRA
+De 0 a 30 dias 80,00%
+De 31 a 365 dias 10,00%
+Acima de 365 dias 10,00%
+16.4 Risco Operacional
+Risco Operacional é a possibilidade de ocorrência de perdas resultantes de falha,
+deficiência ou inadequação de processos internos, pessoas e sistemas, ou de eventos externos.
+Dessa forma a gestão desse risco será a implementação de ações que garantam a adoção de
+normas e procedimentos de controles internos, alinhados com a legislação aplicável. Dentre
+os procedimentos de controle podem ser destacados:
+(cid:216) A definição de rotinas de acompanhamento e análise dos relatórios de monitoramento
+dos riscos descritos nos tópicos anteriores;
+(cid:216) O estabelecimento de procedimentos formais para tomada de decisão de
+investimentos;
+(cid:216) Acompanhamento da formação, desenvolvimento e certificação dos participantes do
+processo decisório de investimento; e
+(cid:216) Formalização e acompanhamento das atribuições e responsabilidade de todos os
+envolvidos no processo de planejamento, execução e controle de investimento.
+O TOLEDOPREV foi certificado com o Nível II do Programa de Modernização
+PRÓ-GESTÃO RPPS em 14 de dezembro de 2020. Foram realizadas alterações
+estruturais no Fundo por meio de alterações na Lei nº 1.929/2006. Foram editados
+manuais de política de alçada decisória, código de ética e conduta, bem como de
+segurança da informação. Tanto o processo de elaboração e aprovação da Política de
+Investimentos, como o de credenciamento das instituições financeiras e autorização para
+aplicação e resgate encontram-se mapeados e manualizados. As atividades financeiro-
+adminsitrativas são segregadas das atividades de investimentos, conforme determinam as
+melhores práticas de gestão.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 19
+16.5 Risco de Terceirização
+Na administração dos recursos financeiros há a possibilidade de terceirização total ou
+parcial dos investimentos do RPPS. Esse tipo de operação delega determinadas
+responsabilidades aos prestadores de serviços externos, porém não isenta o RPPS de
+responder legalmente perante os órgãos supervisores e fiscalizadores.
+Neste contexto, o modelo de terceirização exige que o RPPS tenha um processo
+formalizado para escolha e acompanhamento de seus prestadores de serviços, conforme
+definições na Resolução CMN nº 4.963/2021, Portaria MTP nº 1.467/2022 e demais
+normativos da Secretaria de Previdência do Ministério do Trabalho e Previdência.
+A observância do ato de credenciamento e do estabelecimento mínimo dos
+dispositivos legais não impede que o RPPS estabeleça critérios adicionais, com o objetivo de
+assegurar a observância das condições de segurança, rentabilidade, solvência, liquidez e
+transparência na aplicação dos recursos, conforme já estabelecido nesse documento.
+.
+16.6 Risco Legal
+O risco legal está relacionado a não conformidade com normativos internos e
+externos, podendo gerar perdas financeiras procedentes de autuações, processos judiciais ou
+eventuais questionamentos.
+O controle dos riscos dessa natureza, que incidem sobre atividades e investimentos,
+será feito por meio:
+(cid:216) Da realização de relatórios de compliance que permitam verificar a aderência dos
+investimentos às diretrizes da legislação em vigor e à política de investimento,
+realizados com periodicidade mensal e analisados pelos Conselhos do
+TOLEDOPREV;
+(cid:216) Da utilização de pareceres jurídicos para contratos com terceiros, quando
+necessário.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 20
+16.7 Risco Sistêmico
+O risco sistêmico se caracteriza pela possibilidade de que o sistema financeiro seja
+contaminado por eventos pontuais, como a falência de um banco ou de uma empresa. Apesar
+da dificuldade de gerenciamento deste risco, ele não deve ser relevado. É importante que ele
+seja considerado em cenários, premissas e hipóteses para análise e desenvolvimento de
+mecanismos de antecipação de ações aos eventos de risco.
+Para tentar reduzir a suscetibilidade dos investimentos a esse risco, a alocação dos
+recursos deve levar em consideração os aspectos referentes à diversificação de setores e
+emissores, bem como a diversificação de gestores externos de investimento, visando a mitigar
+a possibilidade de inoperância desses prestadores de serviço em um evento de crise.
+16.8 Risco de Desenquadramento Passivo – Contingenciamento
+Mesmo com todos os esforços para que não haja nenhum tipo de desenquadramento,
+esse tipo de situação não pode ser totalmente descartada. Em caso de ocorrência de
+desenquadramento, o Comitê de Investimentos do TOLEDOPREV se reunirá para analisar,
+caso a caso, com intuito de encontrar a melhor solução e o respectivo plano de ação, sempre
+pensando na preservação do Patrimônio do TOLEDOPREV.
+17 Considerações Finais
+Este documento, será disponibilizado por meio de publicação no órgão oficial do
+município de Toledo (PR), e disponibilizado no site oficial do TOLEDOPREV no endereço
+eletrônico <https://toledoprev.toledo.pr.gov.br/investimentos/politicas-de-investimentos> a
+todos os servidores, participantes e interessados e os casos omissos deverão ser dirimidos pelo
+Conselho de Administração.
+De acordo com os parágrafos 1º, 2º, 3º e 4º, do Art. 101, da MTP nº 1.467/2022, o
+relatório da política anual de investimentos e suas revisões, a documentação que os
+fundamenta, bem como as aprovações exigidas deverão permanecer à disposição dos órgãos
+de acompanhamento e deverão ser encaminhadas à SPREV por meio Demonstrativo da
+Política de Investimentos - DPIN.
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 21
+18 Assinaturas
+COMITÊ DE INVESTIMENTOS
+JALDIR ANHOLETO
+JALDIR Assinado de forma digital por
+Presidente do Conselho de Administração – FAPES ANHOLETO:7024942398 JALDIR ANHOLETO:70249423987
+Dados: 2022.11.22 16:20:36
+CPA -10 ANBIMA – v.06/03/2023 7 -03'00'
+LEANDRO MARCELO LUDVIG
+Assinado de forma digital por
+LEANDRO MARCELO
+Presidente do Conselho de Fiscal – FAPES LEANDRO MARCELO
+LUDVIG:06144846930 LUDVIG:06144846930
+CPA -10 ANBIMA – v.01/11/2024 Dados: 2022.11.22 16:39:04 -03'00'
+WILMAR DA SILVA
+Assinado de forma digital por
+WILMAR DA
+Contador do FAPES WILMAR DA SILVA:52504794991
+SILVA:52504794991Dados: 2022.11.22 16:24:02
+CPA -10 ANBIMA – v.16/02/2025 -03'00'
+ROSELI FABRIS DALLA COSTA
+Coordenadora do TOLEDOPREV
+ROSELI FABRIS Assinado de forma digital por
+Certificação Profissional TOTUM: Avançado ROSELI FABRIS DALLA
+DALLA COSTA:62760033953
+(CP RPPS CGINV III) – V. 08/11/2026 COSTA:62760033953Dados: 2022.11.22 16:15:54
+-03'00'
+APIMEC CGRPPS – v.04/11/2023
+GESTOR DE RECURSOS
+ROSELI FABRIS DALLA COSTA
+Coordenadora do TOLEDOPREV ROSELI FABRIS
+Assinado de forma digital por
+Certificação Profissional TOTUM: Avançado DALLA ROSELI FABRIS DALLA
+COSTA:62760033953
+COSTA:62760033953Dados: 2022.11.22 16:16:44 -03'00'
+(CP RPPS CGINV III) – V. 08/11/2026
+CONSELHO DE ADMINISTRAÇÃO
+JALDIR ANHOLETO
+JALDIR Assinado de forma digital por
+Presidente do Conselho de Administração – FAPES ANHOLETO:70249423JALDIR ANHOLETO:70249423987
+Dados: 2022.11.22 16:19:57
+CPA -10 ANBIMA – v.06/03/2023 987 -03'00'
+CONSELHO FISCAL
+LEANDRO MARCELO LUDVIG
+Assinado de forma digital por
+LEANDRO MARCELO
+Presidente do Conselho de Fiscal – FAPES LEANDRO MARCELO
+LUDVIG:06144846930 LUDVIG:06144846930
+CPA -10 ANBIMA – v.01/11/2024 Dados: 2022.11.22 16:39:42 -03'00'
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 22
+REPRESENTANTE DA UNIDADE GESTORA
+Roseli Fabris Dalla Costa
+Coordenadora do Certificação Profissional TOTUM: Avançado
+ROSELI FABRIS Assinado de forma
+TOLEDOPREV (CP RPPS CGINV III) – V. 08/11/2026 DALLA digital por ROSELI
+FABRIS DALLA
+Certificação Profissional TOTUM: Avançado COSTA:6276003 COSTA:62760033953
+Gestora de Recursos
+Dados: 2022.11.22
+3953
+(CP RPPS DIRIG III) – V. 21/11/2026 16:17:39 -03'00'
+APIMEC CGRPPS – v.04/11/2023
+REPRESENTANTE DO ENTE
+LUIS ADALBERTO BETO
+Prefeito do Município de Luis Adalberto Beto Lunitti Pagnussatt LUNITTI A A s D s A in L a B d E o R T d O e f B o E r T m O a L d U ig N i I t T a T l I p or LUIS
+PAGNUSSATT:48358002PAGNUSSATT:48358002904
+Dados: 2022.11.22 17:26:50 -03'00'
+Toledo 904
+Aprovada pelo Comitê de Investimentos na reunião ordinária de 16/11/2022
+Aprovada pelo Conselho de Administração na reunião ordinária de 21/11/2022
+Política Anual de Investimentos – TOLEDOPREV 2023
+Página 23
+1 ATA Nº 030/2022 REUNIÃO ORDINÁRIA DO COMITÊ DE INVESTIMENTOS
+2 Aos dezesseis dias do mês de novembro de 2022, às treze horas e trinta minutos, na Sala de
+3 reuniões do Gabinete da Secretaria da Fazenda no Paço Municipal Alcides Donin, sito à Rua
+4 Raimundo Leonardi, nº 1586, centro, Toledo, PR, reuniram-se os membros do Comitê de
+5 Investimentos do Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de
+6 Toledo, nomeados através da Portaria 634 de 27 de dezembro de 2021, para reunião ordinária,
+7 presentes Jaldir Anholeto, Leandro Marcelo Ludvig, Roseli Fabris Dalla Costa, e Wilmar da
+8 Silva. AA rreeuunniiããoo tteevvee ccoommoo ppaauuttaa:: 11)) EEllaabboorraaççããoo ee AApprroovvaaççããoo ddaa PPoolliittííccaa AAnnuuaall ddee
+99 IInnvveessttiimmeennttooss ppaarraa 22002233;; 22)) AApprreesseennttaaççããoo ddaa ccaarrtteeiirra de investimentos com posição em
+10 31 de outubro de 2022; 3) Análise do cenário macroeconômico; 4) Evolução do
+11 orçamento e fluxo de caixa; 5) Performance dos investimentos; 6) Acompanhamento do
+12 Relatório de Risco; 7) Aprovar propostas de aplicação e regaste de recursos; 8) Emissão
+13 de parecer referente a Carteira de Investimentos do TOLEDOPREV do mês de
+14 OOuuttuubbrroo//22002222;; 99)) IInnffoorrmmeess:: 11)) EEllaabboorraaççããoo ee AApprroovvaaççããoo ddaa PPoolliittííccaa AAnnuuaall ddee
+1155 IInnvveessttiimmeennttooss ppaarraa 22002233;; aa MMiinnuuttaa eellaabboorraaddaa ppeellaa DDiirreettoorraa EExxeeccuuttiivvaa ddoo TToolleeddooPPrreevv ccoomm aa
+1166 oorriieennttaaççããoo ddaa CCoonnssuullttoorriiaa ddee IInnvveessttiimmeennttooss ffooii pprreevviiaammeennttee eennvviiaaddaa aaooss mmeemmbbrrooss ddoo CCoommiittêê
+1177 ddee IInnvveessttiimmeennttooss ppaarraa aannaalliissee.. PPaarraa ddeeffiinniiççããoo ddaa eessttrraattééggiiaa ddee aallooccaaççããoo ffooii ccoonnssiiddeerraannddoo oo
+1188 cceennáárriioo mmaaccrrooeeccoonnôômmiiccoo ee aass eexxppeeccttaattiivvaass ddee mmeerrccaaddoo vviiggeenntteess..TTaammbbéémm ffooii lleevvaaddoo eemm
+1199 ccoonnssiiddeerraaççããoo oo eessttuuddoo ddee AAsssseett LLiiaabbiilliittyy MMaannaaggeemmeenntt ((AALLMM)) rreeaalliizzaaddoo nnaa ddaattaa ddee
+2200 1144//1111//22002222,, oonnddee ffoorraamm eessttuuddaaddooss ooss ppaattaammaarreess ddee rriissccooss xx rreettoorrnnoo ((ffrroonntteeiirraa eeffiicciieennttee
+2211 MMaarrkkoowwiittzz)).. SSeennddoo AAPPRROOVVAADDAA pppooorrr uuunnnaaannniiimmmiiidddaaadddeee dddooosss mmmeeemmmbbbrrrooosss ppprrreeessseeennnttteeesss nnnaaa rrreeeuuunnniiiãããooo,,,
+2222 ddeevveennddoo sseerr aapprreesseennttaaddaa aaoo CCoonnsseellhhoo ddee AAddmmiinniissttrraaççããoo ppaarraa aapprroovvaaççããoo.. PPrroosssseegguuiinnddoo aa
+23 reunião passou-se para a pauta 2) Apresentação da carteira de investimentos com posição
+24 em 31 de outubro de 2022; a posição dos ativos e enquadramento por segmento assim
+25 distribuídos: no segmento de renda fixa 81,44%, renda variável 6,46% investimentos no
+26 exterior 5,20% e investimentos estruturados 6,90%. Os ativos da carteira neste mês totalizam
+27 R$ 447.424.726,36 (quatrocentos e quarenta e sete milhões e quatrocentos e vinte e quatro mil
+28 e setecentos e vinte e seis reais e trinta e seis centavos). Conforme relatório de investimentos
+29 o enquadramento da carteira esta aderente aos limites estabelecidos na Política Anual de
+30 Investimentos. Apresentou ainda a Rentabilidade por estratégia, análise de liquidez por
+31 período, demonstrando que 89,04% dos recursos da carteira apresentam liquidez de 0 (zero) a
+32 30 (trinta) dias. Foi demonstrado graficamente a Alocação por Artigo, Alocação por
+33 Estratégia e Alocação por Gestor com destaque para alocação de 74,24% na Instituição
+34 Financeira Caixa Econômica Federal. Na sequência foi apresentado a Rentabilidade da
+35 Carteira de investimentos que fechou o mês de outubro com rentabilidade de 1,78% contra
+36 uma necessidade de meta atuarial no mês de 0,85%, no acumulado do ano a rentabilidade foi
+37 de 3,81% e a meta 9,05%, uma diferença negativa de 5,24%. 2) Análise do cenário
+38 macroeconômico; conforme relatório da Empresa LDB Consultoria, nos mercados
+39 internacionais, no mês de outubro, as preocupações com a estabilidade financeira e a
+40 deterioração do quadro econômico levaram um conjunto de bancos centrais a sinalizar
+41 desaceleração do ritmo de aperto monetário. No entanto, o nível elevado de inflação e a
+42 deterioração de seus núcleos sugerem certo risco nesta estratégia. Nos EUA, a trajetória da
+43 inflação (CPI) prossegue desfavorável, levando ao aumento das expectativas tanto para a
+44 inflação em si como para as taxas de juros. As leituras recentes do CPI surpreenderam
+45 consideravelmente o consenso do mercado, com uma composição desfavorável, inclusive com
+46 reaceleração do seu núcleo. Diante disso, e de números de emprego aquecidos, o mercado
+47 passou a antecipar uma taxa de juros terminal neste ciclo um pouco acima do indicado pelo
+48 Fed em sua última reunião. Na China, uma eventual reabertura mais ampla, derivada de um
+49 afrouxamento relevante na política sanitária de Covid zero, deve demorar um pouco mais para
+50 se materializar. Isso, combinado com a crise no setor imobiliário, sugere um crescimento
+51 chinês abaixo do potencial nos próximos trimestres. Na Zona do Euro, permanece a incerteza
+52 sobre a crise energética e a geopolítica, enquanto o Banco Central Europeu indica uma
+53 política monetária mais apertada para enfrentar o risco inflacionário. Por outro lado, as bolsas
+54 dos EUA e Europa começaram a se beneficiar de balanços bastante positivos dos bancos, que
+55 vêm gerando lucros acima das expectativas em função do nível mais alto dos juros. Outro
+56 ponto relevante para o cenário global foi a queda da primeira ministra britânica, que havia
+57 patrocinado um programa irreal de cortes de impostos e jogado a libra esterlina em queda
+58 livre. Olhando para o mercado acionário americano, os principais índices apresentaram
+59 retornos positivos. Assim, no mês de outubro de 2022, o MSCI ACWI e o S&P 500,
+60 respectivamente, subiram +5,96% e +7,99%, todos em “moeda original”, ou seja,
+61 considerando apenas a performance dos índices estrangeiros, sem considerar a variação
+62 cambial. Observando no acumulado do ano, esses índices apresentam queda de -22,32% e -
+63 18,76%, respectivamente. Considerando esses mesmos índices, mas, agora sem proteção
+64 cambial, o MSCI ACWI e o S&P 500, respectivamente, subiram +3,03% e +5,00%, devido à
+65 desvalorização do Dólar frente ao Real. Acumulando retornos negativos de -26,82% e -
+66 23,47% no ano. No Brasil, houve consistente melhora nas leituras de inflação, ainda que a
+67 taxa acumulada do IPCA siga elevada, enquanto o Banco Central encerrou o ciclo de alta da
+68 taxa de juros básica, que no atual patamar deve gerar desaceleração suficiente na economia
+69 para garantir a convergência do IPCA para a meta de inflação. Ainda que parte importante da
+70 melhora recente nos resultados do IPCA seja por conta do alívio tributário e da queda do
+71 preço do petróleo, as medidas do núcleo de inflação também desaceleraram. Para os próximos
+72 trimestres, a esperada desaceleração da economia e a postura conservadora do Copom deverão
+73 manter o IPCA em consistente desaceleração. Em relação às eleições, o candidato Lula foi
+74 eleito presidente do Brasil. A definição dos membros da equipe de transição deverá ocorrer
+75 nas próximas semanas, com destaque para a coordenação da equipe e para os membros da
+76 equipe econômica. A partir deste momento, será importante mapear a adequação do
+77 orçamento do próximo ano às promessas de campanha e, eventualmente, sinais sobre a
+78 proposta de novo arcabouço fiscal. Os próximos movimentos dos juros dependerão das
+79 negociações em torno de uma potencial “licença” para o descumprimento do teto de gastos
+80 com o objetivo de pagar o Auxílio Brasil em 2023 e outras promessas de campanha do
+81 presidente eleito. A depender de como isso se concretize, será uma informação relevante para
+82 entender a dinâmica da política monetária no ano que vem. Aqui, somente a título de exemplo
+83 da “Estrutura a Termo das Taxas de Juros - ETTJ” para o IPCA,estimada e divulgada pela
+84 ANBIMA para o fechamento de 08.11.2022, a taxa de juros real com vencimento para 10
+85 anos apresentava taxa de retorno estimada em 5,84% a.a., continuando assim acima da taxa de
+86 desconto de 5,04% limitada pela SPREV para o ano de 2022. O Ibovespa fechou o mês com
+87 performance positiva, em linha com a alta dos índices internacionais. Apresentando um
+88 retorno positivo de +5,45% no mês. Sendo assim, o Ibovespa possui um comportamento
+89 positivo anual de +10,70% e de +12,11% nos últimos 12 meses. Mediante a todo esse cenário
+90 exposto acima e os prêmios trazidos pelas NTNB-s atualmente, a estratégia de compra direta
+91 de NTN-Bs, respaldada por um estudo de ALM, pode auxiliar na “ancoragem de
+92 rentabilidade” ainda acima da meta atuarial dos RPPS. Tal estratégia, em especial para
+93 carregamento até o vencimento, pode contribuir proporcionalmente para a redução da
+94 volatilidade global da carteira de investimentos do RPPS, devido ao benefício da “marcação
+95 na curva” do preço desse ativo, em linha com a estratégia de alocação aprovada na Politica de
+96 Investimentos 2023. Em análise ao Boletim Focus divulgado no dia 04 de novembro de 2022,
+97 como destaques para o final de 2022, o boletim apresentou expectativas estáveis para o PIB, a
+98 taxa Selic e câmbio, e aumentadas para a inflação. Observa-se ainda que:
+99
+100 A inflação esperada para o final de 2022 vem sendo revisada para cima, estando em 5,63%.
+101 Para o final de 2023 se espera uma inflação em torno de 4,94%. Para Selic em relação ao
+102 último relatório e para o final de 2022, a expectativa vem sendo mantida em 13,75%. Para
+103 2023 a expectativa se mantém estável em 11,25%. Sobre o PIB para o final de 2022 tivemos a
+104 estabilidade da expectativa em 2,76%, e, para 2023, em relação ao último relatório, um
+105 aumento para 0,70%. Sobre o Câmbio (Dolár/Real) para 2022 e 2023 em relação ao último
+106 relatório as expectativas se mantiveram em R$5,20. 4) Evolução do orçamento e fluxo de
+107 caixa; a receita total no mês de outubro foi de R$ 16.437.718,22 (dezesseis milhões e
+108 quatrocentos e trinta e sete mil e setecentos e dezoito reais e vinte e dois centavos). A despesa
+109 total foi de R$ 7.092.359,26 (sete milhões e noventa e dois mil e trezentos e cinquenta e nove
+110 reais e vinte e seis centavos). Observa-se uma variação patrimonial positiva de R$
+111 9.348.007,97 (nove milhões e trezentos e quarenta e oito mil e sete reais e noventa e sete
+112 centavos). Em 30 de setembro de 2022 o saldo financeiro do TOLEDOPREV era R$
+113 438.319.425,15 (quatrocentos e trinta e oito milhões e trezentos e dezenove mil e
+114 quatrocentos e vinte e cinco reais e quinze centavos), passando para R$ 447.667.433,12
+115 (quatrocentos e quarenta e sete milhões e seiscentos e sessenta e sete mil e quatrocentos e
+116 trinta e três reais e doze centavos) ao final de outubro, uma variação positiva de
+117 aproximadamente 2,14%. 5) Performance dos Investimentos: O mês de outubro, trouxe
+118 novamente a carteira para o campo positivo e mesmo com a aceleração do IPCA, o retorno da
+119 carteira superou a meta para o mês. No geral todas as estratégias experimentaram bons
+120 resultados, e como a carteira do TOLEDOPREV é bem diversificada apresentou forte
+121 rentabilidade. Na renda fixa os fundos foram beneficiados pelo fechamento da curva de juros,
+122 na renda variável os fundos ligados a índices IBOVESPA subiram mais de 7% e no
+123 acumulado do ano está muito próximo das metas atuarias. Por fim, os ativos ligados a índices
+124 no exterior, que vinham amargando resultados ruins nos últimos meses, tiveram bons
+125 resultados no mês. Com isso o resultado da carteira do TOLEDOPREV ficou em 1,78% no
+126 mês e no acumulado chegou a 3,81% contra uma meta acumulada de 9,05%. 6)
+127 Acompanhamento do Relatório de Risco; o relatório de riscos e correlação dos
+128 investimentos no mês de outubro de 2022, apresentam para o risco em renda fixa 0,70%
+129 abaixo do mês anterior, o de investimentos estruturados 4,02%, abaixo do mês anterior, o de
+130 investimentos no exterior 12,87%, acima do mês anterior. A renda variável apresentou risco
+131 de 10,02% acima do mês anterior. O Risco total ficou em 1,50% contra 1,48% do mês
+132 anterior, e dentro dos limites estabelecidos pela Política de Investimentos vigente em 2022. 7)
+133 Aprovar propostas de aplicação de recursos; Prosseguindo a pauta foi apresentado para
+134 convalidação do Comitê de Investimentos as movimentações de aplicação realizadas no
+135 Fundo Caixa Brasil Matriz RF. Roseli ressaltou que conforme previamente discutido com os
+136 membros do Comitê de Investimentos, considerando o desempenho dos Fundos de renda fixa
+137 diante da alta da taxa de juros, visando aproveitar a oportunidade de investimentos com
+138 retorno compatível com a meta atuarial sem risco adicional a carteira de investimentos, foram
+139 realizadas as seguintes movimentações: a) Aplicação na conta 492-4 o valor de R$
+140 5.007.379,75 (cinco milhões e sete mil e trezentos e setenta e nove reais e setenta e cinco
+141 centavos) proveniente da contribuição do servidor e patronal do mês de outubro, no Fundo
+142 Brasil Matriz RF CNPJ 23.215.008/0001-70; b) Aplicação na conta 494-0 o valor de R$
+143 376.070,96 (trezentos e setenta e seis mil e setenta reais e noventa e seis centavos),
+144 proveniente da compensação previdenciária competência setembro/2022, no Fundo Brasil
+145 Matriz RF CNPJ 23.215.008/0001-70: c) Aplicação na conta 492-4 o valor de R$ 17.384,21
+146 (dezessete mil e trezentos e oitenta e quatro reais e vinte e um centavos) proveniente de
+147 parcela do contrato firmado entre o FAPES e a CEF, no Fundo Brasil Matriz RF CNPJ
+148 23.215.008/0001-70. Em votação todos os itens foram APROVADOS por todos os membros
+149 do Comitê de Investimentos sem objeções. 8) Emissão de parecer referente a Carteira de
+150 Investimentos do TOLEDOPREV do mês de Outubro/2022; após examinar o Relatório
+151 Mensal de Investimentos, os membros do Comitê de Investimentos opinaram
+152 FAVORAVELMENTE pela aprovação, submetendo-o assim, à apreciação do Conselho
+153 Fiscal. Não havendo mais itens a serem apresentados e/ou aprovados, foi encerrada a reunião,
+154 cuja ata foi lavrada por mim, Roseli Fabris Dalla Costa, que após lida e aprovada, segue
+155 assinada pelos presentes.
+Jaldir Anholeto
+Presidente do Conselho de Administração
+JALDIR A
+JA
+s
+L
+si
+D
+n
+I
+a
+R
+d
+A
+o
+N
+d
+H
+e
+O
+fo
+L
+r
+E
+m
+TO
+a
+:
+d
+7
+i
+0
+g
+2
+it
+4
+a
+9
+l
+4
+p
+2
+o
+3
+r
+9 87
+ANHOLETO:70249423987
+Dados: 2022.11.21 17:42:43 -03'00'
+ANBIMA CPA-10 06/03/2023
+Leandro Marcelo Ludvig LEANDRO MARCELO
+Assinado de forma digital por
+Presidente do Conselho Fiscal LUDVIG:0614484693 LEANDRO MARCELO
+LUDVIG:06144846930
+ANBIMA CPA-10 01/11/2024 0 Dados: 2022.11.18 17:06:36 -03'00'
+Roseli Fabris Dalla Costa
+ROSELI FABRIS
+Assinado de forma digital por
+Coordenadora do TOLEDOPREV
+DALLA ROSELI FABRIS DALLA
+Certificação Profissional TOTUM: Avançado COSTA:62760033953
+COSTA:62760033953 Dados: 2022.11.21 16:37:39 -03'00'
+(CP RPPS CGINV III) – V. 08/11/2026
+Wilmar da Silva
+WILMAR DA Assinado de forma digital por
+Contador
+WILMAR DA SILVA:52504794991
+SILVA:52504794991
+ANBIMA CPA-10 16/02/2025 Dados: 2022.11.17 15:45:31 -03'00'

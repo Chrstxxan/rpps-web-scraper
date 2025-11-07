@@ -1,0 +1,606 @@
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:28)(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:17) !"#$(cid:31)(cid:10)(cid:30)#(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:31)"(cid:31)(cid:22)(cid:10)(cid:26)%(cid:21)(cid:26)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:29)!/#!(cid:29)"(cid:29)0#(cid:10)(cid:30)(cid:31)(cid:10)(cid:5) !#1234#(cid:10),%(cid:25)(cid:25)(cid:21)(cid:27)(cid:26)(cid:10)(cid:30)#(cid:10)(cid:15)5(cid:19)(cid:22)(cid:1)
+&(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)’(cid:5)()(cid:22)(cid:10)(cid:23)*(cid:27)(cid:27)+*(cid:25),-.(cid:24)+(cid:1)
+(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)6(cid:6)(cid:16)(cid:3)7(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11) !8$(cid:29)34#(cid:10)(cid:30)(cid:31)(cid:10)#/ $(cid:31)34#(cid:22)(cid:1)(cid:2)2,)3045+(cid:1).0(cid:1)3+.(0(cid:1)(cid:30)(cid:19)(cid:21)(cid:8)(cid:30)(cid:1).+(cid:1)60,+’(cid:1)7/(cid:1)(cid:3)8(cid:1)(cid:30)(cid:5)(cid:18)(cid:18)(cid:29)(cid:5)(cid:21)(cid:6)(cid:31)(cid:23)&(cid:29)(cid:1)9:;0(’+(cid:1)<),=>/?(cid:23)(cid:1)3/.(+(cid:1)/(cid:1)7/@/??/(/(cid:1)<),(cid:1)/(cid:1)7;@/.(+?(cid:1)/(cid:1)(’).(0(cid:1)/(cid:1)
+?/)?(cid:1)’/0)?(cid:1)/(cid:1)+)(/.(0(cid:1)/(cid:1)?/(/(cid:1)3/.(06+?A(cid:23)(cid:1).+(cid:1) ;.7+(cid:1)7/(cid:1)(cid:13).6/?()</.(+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)B(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:10)C(cid:2)(cid:1)(cid:13)(cid:11)(cid:24)(cid:2)(cid:1)(cid:21)(cid:2)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:1)(cid:25)(cid:11)(cid:23)(cid:1)2’+6/.)/.(/(cid:1)70(cid:1)
+3+.(’)1;)45+(cid:1)7+(cid:1)?/’6)7+’(cid:1)/(cid:1)20(’+.0,(cid:5)(cid:1)
+(cid:1)
+92!"(cid:29):(cid:29)8(cid:31)"(cid:29)0(cid:31)(cid:10)(cid:30)(cid:31)(cid:10)(cid:4)/ $(cid:31)34#(cid:22)(cid:1)(cid:1)(cid:1)(cid:12)2/’045+(cid:1)02’+6070(cid:1)2/,+(cid:1)(cid:24)(cid:13)(cid:1)3+.D+’</(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)(cid:22)(cid:21)(cid:6)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:23)(cid:1)6)?0(cid:1);?;D’;)’(cid:1)7+(cid:1)30’’/*+(cid:1)7/(cid:1)).D,045+(cid:1)2’+E/(070(cid:1)3+<1).07+(cid:1)
+3+<(cid:1)0(cid:1)3;’60(cid:1)7/(cid:1)E;’+?(cid:1)’/0)?(cid:1)/(cid:1)2+’(cid:1)?/(cid:1)(’0(0’(cid:1)7/(cid:1) ;.7+(cid:1)3+<(cid:1)6/.3)</.(+?(cid:1)<0)?(cid:1)3;’(+?(cid:23)(cid:1)?/(cid:1)(+’.0(cid:1)</.+?(cid:1)6+,F(),(cid:1)2+7/.7+(cid:1)?/’(cid:1)’/?*0(07+(cid:1)20’0(cid:1)D0@/’(cid:1)
+D’/.(/(cid:1)G?(cid:1)7/?2/?0?(cid:1)3+<(cid:1)0(cid:1)D+,=0(cid:1)7/(cid:1)20*0</.(+(cid:1)7+?(cid:1)02+?/.(07+?(cid:1)/(cid:1)2/.?)+.)?(0?(cid:5)(cid:1)
+(cid:1)
+(cid:10)(cid:1)
+(cid:1)
+(cid:14)(cid:29);(cid:29)" (cid:10)(cid:30)(cid:31)(cid:10)(cid:13)#1<"(cid:29)8(cid:31)(cid:10)(cid:30) (cid:10)(cid:29)(cid:28)0 !"(cid:29); (cid:28)"#(cid:10)(cid:31)(cid:30)#"(cid:31)(cid:30)(cid:31)(cid:22)(cid:1)(cid:18)(cid:22)(cid:22)(cid:23)(cid:22)(cid:22)H(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)34#(cid:10)(cid:30)#(cid:10):2(cid:28)(cid:30)#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)0 !"(cid:29); (cid:28)"#!.(cid:10) ;(cid:10)(cid:26)%(cid:21)(cid:26)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:19)(cid:23)&&H(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)34#(cid:10)/#$(cid:10);#(cid:30)(cid:31)1(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:29)(cid:28)0 !"(cid:29); (cid:28)"#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)0 !"(cid:29); (cid:28)"#!.(cid:10) ;(cid:10)(cid:26)%(cid:21)(cid:26)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:29)(cid:22)(cid:23)(cid:30)(cid:31)H(cid:1)
+(cid:10)/?(0(cid:1)D+’<0(cid:23)(cid:1)6/’)D)30(cid:8)?/(cid:1)0(cid:1)3+.D+’<)707/(cid:1)70(cid:1),)<)(045+(cid:1)G(cid:1)2+,-()30(cid:1)7/(cid:1)).6/?()</.(+?(cid:1)7+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:31)$(cid:31)8" $<!"(cid:29)8(cid:31)!(cid:10)(cid:30)#!(cid:10)(cid:31)"(cid:29)0#!(cid:22)=(cid:1)
+(cid:1)
+(cid:16) >; (cid:28)"#(cid:22)(cid:1)(cid:3)/.70(cid:1) )I0(cid:1)
+(cid:3)(cid:29)/#(cid:10)(cid:30) (cid:10)(cid:31)"(cid:29)0#(cid:22)(cid:1)(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:6)(cid:28)!"(cid:29)"2(cid:29)34#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)#; (cid:10)(cid:6)(cid:28)!"(cid:29)"2(cid:29)34#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)B(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:30)#(cid:10)?2(cid:28)(cid:30)#(cid:22)(cid:1)(cid:18)(cid:30)(cid:5)(cid:6)&(cid:31)(cid:5)(cid:19)(cid:21)(cid:31)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:29)(cid:18)(cid:1)
+(cid:19)#; (cid:10)(cid:30)#(cid:10)?2(cid:28)(cid:30)#(cid:22)(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)B(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:10)C(cid:2)(cid:1)(cid:13)(cid:11)(cid:24)(cid:2)(cid:1)(cid:21)(cid:2)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:1)(cid:25)(cid:11)(cid:1)
+@(cid:28)(cid:30)(cid:29)8 (cid:10)(cid:30) (cid:10)$ : $A(cid:28)8(cid:29)(cid:31)(cid:22)(cid:1)(cid:13)(cid:10)C(cid:2)(cid:1)(cid:21)(cid:1)
+&(cid:31)1#$(cid:10)(cid:30)(cid:31)(cid:10)(cid:15)#"(cid:31)(cid:22)(cid:1)(cid:21)(cid:23)(cid:30)(cid:21)&(cid:22)&(cid:22)(cid:22)(cid:22)(cid:1)
+&(cid:31)1#$(cid:10)(cid:30)#(cid:10)(cid:13)(cid:31)"$(cid:29);B(cid:28)(cid:29)#(cid:22)(cid:1)(cid:18)(cid:18)(cid:5)(cid:18)(cid:30)(cid:31)(cid:5)(cid:22)&&(cid:5)(cid:30)(cid:18)(cid:30)(cid:23)(cid:19)(cid:17)
+C2(cid:31)(cid:28)"(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:15)#"(cid:31)!(cid:22)(cid:1)(cid:18)(cid:5)(cid:31)(cid:19)(cid:17)(cid:5)(cid:31)(cid:29)(cid:17)(cid:23)(cid:19)(cid:17)(cid:6)&(cid:30)(cid:22)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+2+./.(/(cid:1) K/?(+’(cid:1)7/(cid:1)(cid:13).6/?()</.(+?(cid:20)(cid:2);(+’)@07+’%(cid:1)(cid:24)/’()D)3045+(cid:1)(cid:8)(cid:1)"0,)707/(cid:1)
+(cid:1) (cid:1)
+MARTA (cid:1) A F D A s N s T : i H n c= a :0 d B 4 o R 9 , 6 d o 5 e = 0 f I 9 o C 2 r P m 9 - 2 B a 9 r a d s ig il, i t o a u l p = o P r r e M se A n R c T ia A l , ROSELI FABRIS DALL(cid:1)A A RO ss S in E a L d I F o A d B e R f IS o r D m A a L d LA ig ital por
+FATH:049650929(cid:1)29o
+F b e
+u
+ra d
+=
+n e
+8
+c r
+1
+a o
+0
+l ) ,
+4
+d c
+7
+o n
+5
+B =
+0
+r M
+8
+a
+0
+s A
+0
+il R
+0
+- T
+1
+R A
+4
+F
+7
+F B
+,
+A ,
+o
+o T
+u
+H u
+=
+= :0
+S
+R 4
+e
+F
+c
+9 B
+r
+6
+e
+5 e
+t
+0 -
+a
+C 9
+ri
+P 2
+a
+F 9
+d
+2 A
+a
+9 3
+R
+,
+e
+o
+c
+u
+e
+=
+it
+(
+a
+e m COSTA:62760033953(cid:1) COSTA:62760033953
+JJJJJJJJJJJJJJJJJJJJJJJJJJDJaJdoJs: J20J21J.0J9.2J3 J13J:52J:4J4 J-03J'0J0'JJJ(cid:1)
+JJJJJJJJJJJJJJJJJJJJJJJJJJJ
+D
+J
+a
+J
+d
+J
+o
+JJ
+s
+J
+: 2
+JJ
+0
+J
+2
+J
+1
+J
+.0
+J
+9
+JJ
+.2
+J
+3
+J J
+1(cid:1)0:38:59 -03'00'
+5(cid:31)$"(cid:31)(cid:10)?(cid:31)"D(cid:1) (cid:5)#! 1(cid:29)(cid:10)?(cid:31)E$(cid:29)!(cid:10)(cid:11)(cid:31)11(cid:31)(cid:10)(cid:15)#!"(cid:31)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/?2+.?F6/,(cid:1)2/,0(cid:1),):;)7045+(cid:1)70(cid:1)+2/’045+(cid:1)
+(cid:1)
+MAICON JOSE A(cid:1)ssinado de forma digital por MAICON
+JOSE FERRONATTO:04076200950
+FERRONATTO:04076200950 (cid:1)
+Dados: 2021.09.23 11:05:07 -03'00'
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ(cid:1)
+5(cid:31)(cid:29)8#(cid:28)(cid:10)9#!F(cid:10)? $$#(cid:28)(cid:31)""#(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:28)(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:17) !"#$(cid:31)(cid:10)(cid:30)#(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:31)"(cid:31)(cid:22)(cid:10)(cid:27)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:29)!/#!(cid:29)"(cid:29)0#(cid:10)(cid:30)(cid:31)(cid:10)(cid:5) !#1234#(cid:10)*(cid:24)(cid:25)(cid:25)(cid:21)(cid:27)(cid:26)(cid:10)(cid:30)#(cid:10)(cid:15)5(cid:19)(cid:22)(cid:1)
+&(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)’(cid:5)()(cid:22)(cid:10)*+(cid:24),(cid:23)(cid:25)-.(cid:24)-(cid:1)
+(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)6(cid:6)(cid:16)(cid:3)7(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11) !8$(cid:29)34#(cid:10)(cid:30)(cid:31)(cid:10)#/ $(cid:31)34#(cid:22)(cid:1)(cid:2)1,)2034+(cid:1).0(cid:1)2+.(0(cid:1)(cid:30)(cid:19)(cid:30)(cid:8)(cid:22)(cid:1).+(cid:1)50,+’(cid:1)6/(cid:1)(cid:3)7(cid:1)(cid:6)(cid:17)(cid:19)(cid:5)(cid:30)(cid:21)(cid:31)(cid:23)(cid:19)(cid:31)(cid:1)8(’/9/.(+:(cid:1)/(cid:1)2).;</.(0(cid:1)/(cid:1).+5/(cid:1)=),(cid:1)/(cid:1);<0(’+2/.(+:(cid:1)/(cid:1)5).(/(cid:1)/(cid:1):/):(cid:1)
+’/0):(cid:1)/(cid:1).+5/.(0(cid:1)/(cid:1):/):(cid:1)2/.(05+:>(cid:23)(cid:1).+(cid:1) <.6+(cid:1)6/(cid:1)(cid:13).5/:()=/.(+(cid:1) (cid:13)(cid:24)(cid:1) (cid:13)(cid:2)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)@(cid:28)(cid:15)(cid:4)(cid:12)(cid:3)(cid:23)(cid:1)1’+5/.)/.(/(cid:1)60(cid:1)(cid:24)+=1/.:034+(cid:1)(cid:11)’/5)6/.2)A’)0(cid:5)(cid:1)
+(cid:1)
+92!"(cid:29):(cid:29)8(cid:31)"(cid:29)0(cid:31)(cid:10) (cid:30)(cid:31)(cid:10) (cid:4)/ $(cid:31)34#(cid:22)(cid:1) (cid:2)(cid:1) +1/’034+(cid:1) B09(cid:1) 10’(/(cid:1) 6+(cid:1) 1’+2/::+(cid:1) 6/(cid:1) 6)5/’:)B)2034+(cid:1) 60(cid:1) 20’(/)’0(cid:1) 6/(cid:1) ).5/:()=/.(+:(cid:1) 2+=(cid:1) 5):(0:(cid:1) 0+(cid:1)
+0().*)=/.(+(cid:20):<1/’034+(cid:1)60(cid:1)=/(0(cid:1)0(<0’)0,(cid:5)(cid:1)(cid:28):(0(cid:1)06/’/.(/(cid:1)0(cid:1)(cid:11)+,-()20(cid:1)6/(cid:1)(cid:13).5/:()=/.(+:(cid:23)(cid:1)/(cid:1)/=(cid:1)0,).C0=/.(+(cid:1)2+=(cid:1)+(cid:1)6)0*.D:()2+(cid:1)6+(cid:1)(cid:28):(<6+(cid:1)6/(cid:1)(cid:2)(cid:25)(cid:14)(cid:1);</(cid:1)
+).6)20(cid:1)0(cid:1)./2/::)606/(cid:1)6/(cid:1)0<=/.(0’(cid:1)0(cid:1)0,+2034+(cid:1).+(cid:1):/*=/.(+(cid:1)6/(cid:1)’/.60(cid:1)50’)A5/,(cid:1)0<=/.(0.6+(cid:1)0(cid:1)2C0.2/(cid:1)6/(cid:1):<2/::+(cid:1).0(cid:1)E<:20(cid:1)60(cid:1)=/(0(cid:1)0(<0’)0,(cid:5)(cid:1)(cid:1)(cid:1)
+(cid:2)1’+506+(cid:1)1/,+(cid:1)(cid:24)(cid:13)(cid:1)2+.B+’=/(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)(cid:22)(cid:21)(cid:6)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+(cid:1)
+(cid:1)
+(cid:14)(cid:29);(cid:29)" (cid:10)(cid:30)(cid:31)(cid:10)(cid:13)#1<"(cid:29)8(cid:31)(cid:10)(cid:30) (cid:10)(cid:29)(cid:28)0 !"(cid:29); (cid:28)"#(cid:10)(cid:31)(cid:30)#"(cid:31)(cid:30)(cid:31)(cid:22)(cid:1)(cid:21)(cid:22)(cid:23)(cid:22)(cid:22)F(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)34#(cid:10)(cid:30)#(cid:10):2(cid:28)(cid:30)#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)0 !"(cid:29); (cid:28)"#!.(cid:10) ;(cid:10)(cid:27)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:21)(cid:23)(cid:18)(cid:22)F(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)34#(cid:10)/#$(cid:10);#(cid:30)(cid:31)1(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:29)(cid:28)0 !"(cid:29); (cid:28)"#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)0 !"(cid:29); (cid:28)"#!.(cid:10) ;(cid:10)(cid:27)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:29)(cid:23)(cid:29)(cid:19)F(cid:1)
+(cid:10)/:(0(cid:1)B+’=0(cid:23)(cid:1)5/’)B)20(cid:8):/(cid:1)0(cid:1)2+.B+’=)606/(cid:1)60(cid:1),)=)(034+(cid:1)G(cid:1)1+,-()20(cid:1)6/(cid:1)).5/:()=/.(+:(cid:1)6+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:31)$(cid:31)8" $<!"(cid:29)8(cid:31)!(cid:10)(cid:30)#!(cid:10)(cid:31)"(cid:29)0#!(cid:22)=(cid:1)
+(cid:1)
+(cid:16) >; (cid:28)"#(cid:22)(cid:1)(cid:3)/.60(cid:1)"0’)A5/,(cid:1)/(cid:1)(cid:13).5/:()=/.(+:(cid:1)(cid:28):(’<(<’06+:(cid:1)
+(cid:3)(cid:29)/#(cid:10)(cid:30) (cid:10)(cid:31)"(cid:29)0#(cid:22)(cid:1)(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:6)(cid:28)!"(cid:29)"2(cid:29)34#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)#; (cid:10)(cid:6)(cid:28)!"(cid:29)"2(cid:29)34#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:30)#(cid:10)?2(cid:28)(cid:30)#(cid:22)(cid:1)(cid:6)(cid:22)(cid:5)(cid:22)(cid:31)&(cid:5)(cid:21)(cid:21)(cid:30)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)#; (cid:10)(cid:30)#(cid:10)?2(cid:28)(cid:30)#(cid:22)(cid:1) (cid:13)(cid:24)(cid:1) (cid:13)(cid:2)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)@(cid:28)(cid:15)(cid:4)(cid:12)(cid:3)(cid:1)
+@(cid:28)(cid:30)(cid:29)8 (cid:10)(cid:30) (cid:10)$ : $A(cid:28)8(cid:29)(cid:31)(cid:22)(cid:1)(cid:13)(cid:9)(cid:12)"(cid:28)(cid:15)(cid:11)(cid:2)(cid:1)
+&(cid:31)1#$(cid:10)(cid:30)(cid:31)(cid:10)(cid:15)#"(cid:31)(cid:22)(cid:1)(cid:18)(cid:23)(cid:21)&(cid:6)(cid:6)(cid:6)(cid:31)(cid:22)(cid:22)(cid:1)
+&(cid:31)1#$(cid:10)(cid:30)#(cid:10)(cid:13)(cid:31)"$(cid:29);B(cid:28)(cid:29)#(cid:22)(cid:1)(cid:18)(cid:5)(cid:22)(cid:29)(cid:21)(cid:5)&(cid:6)(cid:22)(cid:5)(cid:18)(cid:22)(cid:6)(cid:23)(cid:30)(cid:29)
+C2(cid:31)(cid:28)"(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:15)#"(cid:31)!(cid:22)(cid:1)(cid:21)&(cid:22)(cid:5)(cid:22)(cid:29)(cid:21)(cid:23)(cid:6)(cid:29)(cid:6)&(cid:29)(cid:17)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+1+./.(/(cid:1) @/:(+’(cid:1)6/(cid:1)(cid:13).5/:()=/.(+:(cid:20)(cid:2)<(+’)906+’%(cid:1)(cid:24)/’()B)2034+(cid:1)(cid:8)(cid:1)"0,)606/(cid:1)
+(cid:1) (cid:1)
+M FA A T R H T : A 04 965092929 A D o o D u u s N a (cid:1) (cid:1) s = = d : i n S ( o c e e = a s m : d c B 2 r o R e b 0 , t d r 2 o a a e 1 r = n i . f 0 a I c o C 9 o d r P . m ) 2 a , - 3 B c a R n r 1 e a d = 3 c s i M g e : i 5 l i , i t 6 A t o a a : R 3 u l F T 4 p = e A o P - d 0 r r F e e 3 M A r s ' a 0 T e A l 0 H n d R ' c : o T 0 ia A 4 B l 9 , r F 6 a o A s 5 u T i 0 = l H 9 - 8 : 2 R 0 1 9 F 4 0 2 B 9 4 9 , 6 7 o 5 5 u 0 0 = 9 8 2 R 0 9 F 0 2 B 0 9 1 e 4 -C 7, P F A3, R C O O S S E T L A I : 6 F 2 A 7 B 6 R 0 IS 0 3 D 3 A 9 L 5 L 3 A (cid:1) (cid:1) A R C O O ss S S in E T a L A d I : 6 F o 2 A d 7 B e 6 R 0 f IS o 0 r 3 D m 3 A 9 a L 5 d L 3 A i g ital por
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH(cid:1) HHHHHHHHHHHHHHHHHHHHHHHHDHaHdHoHHsH: H2H0H2H1H.H0H9H.2HH3H 1H0H:H3(cid:1)9:36 -03'00'
+5(cid:31)$"(cid:31)(cid:10)?(cid:31)"D(cid:1) (cid:5)#! 1(cid:29)(cid:10)?(cid:31)E$(cid:29)!(cid:10)(cid:11)(cid:31)11(cid:31)(cid:10)(cid:15)#!"(cid:31)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/:1+.:A5/,(cid:1)1/,0(cid:1),);<)6034+(cid:1)60(cid:1)+1/’034+(cid:1)
+(cid:1)
+(cid:1)Assinado de forma digital por
+MAICON JOSE MAICON JOSE
+FERRONATTO:04076200950(cid:1)FERRONATTO:04076200950
+HHHHHHHHHHHHHHHHHHHHHHHDHHaHdHoHsH: H2H0H2H1H.H0H9H.2H3HH 1H1H:H0H6(cid:1):26 -03'00'
+5(cid:31)(cid:29)8#(cid:28)(cid:10)9#!F(cid:10)? $$#(cid:28)(cid:31)""#(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:24)(cid:25)(cid:26)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:27)(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:17)(cid:31) !"#(cid:30)(cid:10)(cid:29)"(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:30)!(cid:30)(cid:22)(cid:10)(cid:26)(cid:25)(cid:21)(cid:24)$(cid:21)(cid:25)(cid:24)(cid:25)(cid:26)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:28) 0" (cid:28)!(cid:28)1"(cid:10)(cid:29)(cid:30)(cid:10)(cid:5)(cid:31) "2345"(cid:10)-+(cid:25)(cid:25)(cid:21)(cid:26)(cid:24)(cid:10)(cid:29)"(cid:10)(cid:15)6(cid:19)(cid:22)(cid:1)
+%(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)&(cid:5)’((cid:22)(cid:10)(cid:26))*(cid:26)+,*(cid:23))-.//(cid:1)
+(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)7(cid:6)(cid:16)(cid:3)8(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11)(cid:31) 9#(cid:28)45"(cid:10)(cid:29)(cid:30)(cid:10)"0(cid:31)#(cid:30)45"(cid:22)(cid:1)(cid:3)/2*0(/(cid:1)(cid:4)+(0,(cid:1).0(cid:1)3+.(0(cid:1)(cid:29)(cid:22)&(cid:8)(cid:29)(cid:1).+(cid:1)40,+’(cid:1)5/(cid:1)(cid:3)6(cid:1)(cid:18)(cid:31)(cid:5)(cid:18)(cid:19)(cid:30)(cid:5)(cid:17)(cid:31)(cid:6)(cid:23)(cid:29)(cid:29)(cid:1)75/8/22/)2(cid:1)9),:;/2(cid:23)(cid:1)3/.(+(cid:1)/(cid:1).+4/.(0(cid:1)/(cid:1)<=0(’+(cid:1)9),(cid:1)/(cid:1)
+<=).:/.(+2(cid:1)/(cid:1)2/22/.(0(cid:1)/(cid:1)(’>2(cid:1)’/0)2(cid:1)/(cid:1)2/(/.(0(cid:1)/(cid:1)2/(/(cid:1)3/.(04+2?(cid:23)(cid:1).+(cid:1) =.5+(cid:1)5/(cid:1)(cid:13).4/2()9/.(+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)@(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:3) (cid:8)(cid:14)(cid:1)(cid:18)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:23)(cid:1)/(cid:1)
+0A,)30BC+(cid:1)3+.3+9)(0.(/(cid:1).+(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:24)(cid:2)(cid:13)@(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:3)(cid:28)(cid:16)(cid:10)(cid:2)(cid:1) (cid:13)@(cid:2)(cid:1)(cid:3)(cid:28) (cid:28)(cid:3)(cid:28)(cid:16)(cid:24)(cid:13)(cid:2)(cid:10)(cid:12)(cid:1)(cid:10)(cid:13)(cid:1)(cid:25)(cid:11)(cid:5)(cid:1)
+(cid:1)
+:3 !(cid:28);(cid:28)9(cid:30)!(cid:28)1(cid:30)(cid:10)(cid:29)(cid:30)(cid:10)(cid:4)0(cid:31)#(cid:30)45"(cid:22)(cid:1)(cid:4)’0(0(cid:8)2/(cid:1)5/(cid:1)=9(cid:1)9+4)9/.(+(cid:1).0(cid:1)A0’(/(cid:1)3+.2/’405+’0(cid:1)50(cid:1)30’(/)’0(cid:1)5+(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:11)(cid:3)(cid:28)"(cid:23)(cid:1)3+.2)5/’0.5+(cid:1)+(cid:1)0=9/.(+(cid:1)50(cid:1)(cid:4)0D0(cid:1)
+(cid:15)/,)3(cid:1)+2(cid:1) =.5+2(cid:1)0(’/,05+2(cid:1)0+(cid:1)(cid:24)(cid:10)(cid:13)(cid:1)(/.5/9(cid:1)0(cid:1)(/’(cid:1)=90(cid:1)’/.(01),)505/(cid:1)90)+’(cid:1)<=/(cid:1)+(cid:1)(cid:13)(cid:3) (cid:14)(cid:8)(cid:18)(cid:5)(cid:1)(cid:10)(cid:2)A’+405+(cid:1)A/,+(cid:1)(cid:24)(cid:13)(cid:1)3+.E+’9/(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)(cid:22)(cid:21)(cid:6)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:14)(cid:28)<(cid:28)!(cid:31)(cid:10)(cid:29)(cid:30)(cid:10)(cid:13)"2=!(cid:28)9(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)1(cid:31) !(cid:28)<(cid:31)(cid:27)!"(cid:10)(cid:30)(cid:29)"!(cid:30)(cid:29)(cid:30)(cid:22)(cid:1)(cid:18)(cid:22)(cid:22)(cid:23)(cid:22)(cid:22)F(cid:1)
+(cid:15)"(cid:27)9(cid:31)(cid:27)!#(cid:30)45"(cid:10)(cid:29)"(cid:10);3(cid:27)(cid:29)"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)1(cid:31) !(cid:28)<(cid:31)(cid:27)!" .(cid:10)(cid:31)<(cid:10)(cid:26)(cid:25)(cid:21)(cid:24)$(cid:21)(cid:25)(cid:24)(cid:25)(cid:26)(cid:22)(cid:1)(cid:17)(cid:23)(cid:17)(cid:29)F(cid:1)
+(cid:15)"(cid:27)9(cid:31)(cid:27)!#(cid:30)45"(cid:10)0"#(cid:10)<"(cid:29)(cid:30)2(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)1(cid:31) !(cid:28)<(cid:31)(cid:27)!"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)1(cid:31) !(cid:28)<(cid:31)(cid:27)!" .(cid:10)(cid:31)<(cid:10)(cid:26)(cid:25)(cid:21)(cid:24)$(cid:21)(cid:25)(cid:24)(cid:25)(cid:26)(cid:22)(cid:1)(cid:31)(cid:31)(cid:23)(cid:31)(cid:6)F(cid:1)
+(cid:10)/2(0(cid:1)E+’90(cid:23)(cid:1)4/’)E)30(cid:8)2/(cid:1)0(cid:1)3+.E+’9)505/(cid:1)50(cid:1),)9)(0BC+(cid:1)G(cid:1)A+,-()30(cid:1)5/(cid:1)).4/2()9/.(+2(cid:1)5+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:30)#(cid:30)9!(cid:31)#= !(cid:28)9(cid:30) (cid:10)(cid:29)" (cid:10)(cid:30)!(cid:28)1" (cid:22)>(cid:1)
+(cid:1)
+(cid:16)(cid:31)?<(cid:31)(cid:27)!"(cid:22)(cid:1)(cid:3)/.50(cid:1) )D0(cid:1)
+(cid:3)(cid:28)0"(cid:10)(cid:29)(cid:31)(cid:10)(cid:30)!(cid:28)1"(cid:22)(cid:1)(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:15)(cid:19)(cid:13):(cid:10)(cid:6)(cid:27) !(cid:28)!3(cid:28)45"(cid:10)@(cid:28)(cid:27)(cid:30)(cid:27)9(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)"<(cid:31)(cid:10)(cid:6)(cid:27) !(cid:28)!3(cid:28)45"(cid:10)@(cid:28)(cid:27)(cid:30)(cid:27)9(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)@(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13):(cid:10)(cid:29)"(cid:10)@3(cid:27)(cid:29)"(cid:22)(cid:1)(cid:18)(cid:22)(cid:5)(cid:29)(cid:30)(cid:22)(cid:5)(cid:31)(cid:29)(cid:22)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:31)(cid:1)
+(cid:19)"<(cid:31)(cid:10)(cid:29)"(cid:10)@3(cid:27)(cid:29)"(cid:22)(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)@(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:3) (cid:8)(cid:14)(cid:1)(cid:18)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:1)
+A(cid:27)(cid:29)(cid:28)9(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)#(cid:31);(cid:31)#B(cid:27)9(cid:28)(cid:30)(cid:22)(cid:1)(cid:13)(cid:3) (cid:8)(cid:14)(cid:1)(cid:18)(cid:1)
+%(cid:30)2"#(cid:10)(cid:29)(cid:30)(cid:10)(cid:15)"!(cid:30)(cid:22)(cid:1)(cid:21)(cid:23)(cid:31)(cid:6)(cid:29)(cid:19)(cid:31)(cid:31)(cid:22)(cid:22)(cid:1)
+%(cid:30)2"#(cid:10)(cid:29)"(cid:10)(cid:13)(cid:30)!#(cid:28)<C(cid:27)(cid:28)"(cid:22)(cid:1)(cid:29)(cid:5)(cid:30)&(cid:22)(cid:5)(cid:22)(cid:30)(cid:6)(cid:5)(cid:22)(cid:21)(cid:29)(cid:23)(cid:18)(cid:22)
+D3(cid:30)(cid:27)!(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:15)"!(cid:30) (cid:22)(cid:1)(cid:31)(cid:5)(cid:18)(cid:6)(cid:19)(cid:5)(cid:22)(cid:6)(cid:30)(cid:23)(cid:6)(cid:22)(cid:21)(cid:6)(cid:30)(cid:22)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+A+./.(/(cid:1) I/2(+’(cid:1)5/(cid:1)(cid:13).4/2()9/.(+2(cid:20)(cid:2)=(+’)805+’%(cid:1)(cid:24)/’()E)30BC+(cid:1)(cid:8)(cid:1)"0,)505/(cid:1)
+M FA A T R H T : A 04 965092929 A D o C D (cid:1) (cid:1) (cid:1) u P s N a s = F d : i n S o c A e = a s 3 : d c B , 2 r o R o e 0 , u t d 2 o a = e 1 r = ( i . f e 0 a I o C m 9 d r P . m 2 a - b 3 B a R r r a 1 e a d n 4 c s ig e c : i 0 l o i , i t 1 t o ) a a : , 0 u l c F 2 p = n e o P - = d 0 r r e M e 3 M r s ' A a 0 e A l R 0 n d R ' T c o T A ia A B F l , r F A a o A T s u T i H = l H - : 8 0 : R 0 1 4 F 4 0 9 B 9 4 6 , 6 7 5 o 5 5 0 u 0 0 9 = 9 8 2 2 R 0 9 9 F 0 2 B 2 0 9 9 1 e 4 - 7, R C O O S S E T L A I : 6 F 2 A 7 B 6 R 0 IS 0 3 D 3 A 9 L 5 L 3 A (cid:1) (cid:1) (cid:1) A R C O O ss S S in E T a L A d I : 6 F o 2 A d 7 B e 6 R 0 f IS o 0 r 3 D m 3 A 9 a L 5 d L 3 A i g ital por
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH(cid:1) HHHHHHHHHHHHHHHHHHHHHHHHHHDHaHdHoHHsH: H2H0H2H1H.H0H9H.H2H3H H1(cid:1)0:40:01 -03'00'
+6(cid:30)#!(cid:30)(cid:10)@(cid:30)!E(cid:1) (cid:5)" (cid:31)2(cid:28)(cid:10)@(cid:30)F#(cid:28) (cid:10)(cid:11)(cid:30)22(cid:30)(cid:10)(cid:15)" !(cid:30)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/2A+.2J4/,(cid:1)A/,0(cid:1),)<=)50BC+(cid:1)50(cid:1)+A/’0BC+(cid:1)
+(cid:1)
+MAICON JOSE (cid:1)Assinado de forma digital por
+FERRONATTO:0407620MAICON JOSE
+(cid:1)FERRONATTO:04076200950
+0950 Dados: 2021.09.23 11:07:20 -03'00'
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH(cid:1)
+6(cid:30)(cid:28)9"(cid:27)(cid:10):" G(cid:10)@(cid:31)##"(cid:27)(cid:30)!!"(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:24)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:27)(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:17)(cid:31) !"#(cid:30)(cid:10)(cid:29)"(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:30)!(cid:30)(cid:22)(cid:10)(cid:24)(cid:25)(cid:21)(cid:26)$(cid:21)(cid:25)(cid:26)(cid:25)(cid:24)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:28) ," (cid:28)!(cid:28)-"(cid:10)(cid:29)(cid:30)(cid:10)(cid:5)(cid:31) "./01"(cid:10)*2(cid:25)(cid:25)(cid:21)(cid:24)(cid:26)(cid:10)(cid:29)"(cid:10)(cid:15)3(cid:19)(cid:22)(cid:1)
+%(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)&(cid:5)’((cid:22)(cid:10)(cid:24)(cid:23))*$(cid:23))(cid:24)$(cid:23)+(cid:23)(cid:24)(cid:1)
+(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)"(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)4(cid:6)(cid:16)(cid:3)5(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11)(cid:31) 6#(cid:28)01"(cid:10)(cid:29)(cid:30)(cid:10)",(cid:31)#(cid:30)01"(cid:22)(cid:1)(cid:2)1,)2034+(cid:1).0(cid:1)2+.(0(cid:1)(cid:29)(cid:22)&(cid:8)(cid:29)(cid:1).+(cid:1)50,+’(cid:1)6/(cid:1)(cid:3)7(cid:1)(cid:18)(cid:17)(cid:5)(cid:6)&(cid:17)(cid:5)(cid:18)&(cid:17)(cid:23)(cid:17)(cid:18)(cid:1)89:).;/(cid:1)<),=>/?(cid:23)(cid:1)(’/;/.(+?(cid:1)/(cid:1)+)(/.(0(cid:1)/(cid:1)2).2+(cid:1)<),(cid:1)/(cid:1)2/.(+(cid:1)/(cid:1)
++)(/.(0(cid:1)/(cid:1)2).2+(cid:1)’/0)?(cid:1)/(cid:1)2).9:/.(0(cid:1)/(cid:1):<(cid:1)2/.(05+?@(cid:23)(cid:1).+(cid:1) :.6+(cid:1)6/(cid:1)(cid:13).5/?()</.(+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)A(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:3)(cid:28)(cid:16)(cid:10)(cid:2)(cid:1) (cid:13)A(cid:2)(cid:1)(cid:3)(cid:28) (cid:28)(cid:3)(cid:28)(cid:16)(cid:24)(cid:13)(cid:2)(cid:10)(cid:12)(cid:1)(cid:10)(cid:13)(cid:1)(cid:25)(cid:11)(cid:23)(cid:1)1’+5/.)/.(/(cid:1)
+6+(cid:1)6/?).5/?()</.(+(cid:1)6+(cid:1) :.6+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)A(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:3) (cid:8)(cid:14)(cid:1)(cid:18)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:5)(cid:1)
+(cid:1)
+(cid:10)7/ !(cid:28)8(cid:28)6(cid:30)!(cid:28)-(cid:30)(cid:10)(cid:29)(cid:30)(cid:10)(cid:4),(cid:31)#(cid:30)01"%(cid:1)(cid:4)’0(0(cid:8)?/(cid:1)6/(cid:1):<(cid:1)<+5)</.(+(cid:1).0(cid:1)10’(/(cid:1)2+.?/’506+’0(cid:1)60(cid:1)20’(/)’0(cid:1)6+(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:11)(cid:3)(cid:28)"(cid:23)(cid:1)2+.?)6/’0.6+(cid:1)+(cid:1)0:</.(+(cid:1)60(cid:1)(cid:4)0B0(cid:1)
+(cid:15)/,)2(cid:1)+?(cid:1) :.6+?(cid:1)0(’/,06+?(cid:1)0+(cid:1)(cid:24)(cid:10)(cid:13)(cid:1)(/.6/<(cid:1)0(cid:1)(/’(cid:1):<0(cid:1)’/.(0C),)606/(cid:1)<0)+’(cid:1)9:/(cid:1)+(cid:1)(cid:13)(cid:3) (cid:14)(cid:8)(cid:18)(cid:5)(cid:1)(cid:1)(cid:2)1’+506+(cid:1)1/,+(cid:1)(cid:24)(cid:13)(cid:1)2+.D+’</(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)(cid:22)(cid:21)(cid:6)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+(cid:1)
+(cid:14)(cid:28)9(cid:28)!(cid:31)(cid:10)(cid:29)(cid:30)(cid:10)(cid:13)".:!(cid:28)6(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)-(cid:31) !(cid:28)9(cid:31)(cid:27)!"(cid:10)(cid:30)(cid:29)"!(cid:30)(cid:29)(cid:30)(cid:22)(cid:1)(cid:30)(cid:22)(cid:23)(cid:22)(cid:22)E(cid:1)
+(cid:15)"(cid:27)6(cid:31)(cid:27)!#(cid:30)01"(cid:10)(cid:29)"(cid:10)8/(cid:27)(cid:29)"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)-(cid:31) !(cid:28)9(cid:31)(cid:27)!" +(cid:10)(cid:31)9(cid:10)(cid:24)(cid:25)(cid:21)(cid:26)$(cid:21)(cid:25)(cid:26)(cid:25)(cid:24)(cid:22)(cid:1)(cid:30)(cid:23)(cid:17)(cid:6)E(cid:1)
+(cid:15)"(cid:27)6(cid:31)(cid:27)!#(cid:30)01"(cid:10),"#(cid:10)9"(cid:29)(cid:30).(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)-(cid:31) !(cid:28)9(cid:31)(cid:27)!"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)-(cid:31) !(cid:28)9(cid:31)(cid:27)!" +(cid:10)(cid:31)9(cid:10)(cid:24)(cid:25)(cid:21)(cid:26)$(cid:21)(cid:25)(cid:26)(cid:25)(cid:24)(cid:22)(cid:1)(cid:18)(cid:18)(cid:23)(cid:18)(cid:29)E(cid:1)
+(cid:10)/?(0(cid:1)D+’<0(cid:23)(cid:1)5/’)D)20(cid:8)?/(cid:1)0(cid:1)2+.D+’<)606/(cid:1)60(cid:1),)<)(034+(cid:1)F(cid:1)1+,-()20(cid:1)6/(cid:1)).5/?()</.(+?(cid:1)6+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:30)#(cid:30)6!(cid:31)#: !(cid:28)6(cid:30) (cid:10)(cid:29)" (cid:10)(cid:30)!(cid:28)-" (cid:22);(cid:1)
+(cid:1)
+(cid:16)(cid:31)<9(cid:31)(cid:27)!"(cid:22)(cid:1)(cid:3)/.60(cid:1) )B0(cid:1)
+(cid:3)(cid:28),"(cid:10)(cid:29)(cid:31)(cid:10)(cid:30)!(cid:28)-"(cid:22)(cid:1)(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)"(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:15)(cid:19)(cid:13)7(cid:10)(cid:6)(cid:27) !(cid:28)!/(cid:28)01"(cid:10)=(cid:28)(cid:27)(cid:30)(cid:27)6(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)"9(cid:31)(cid:10)(cid:6)(cid:27) !(cid:28)!/(cid:28)01"(cid:10)=(cid:28)(cid:27)(cid:30)(cid:27)6(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)A(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)7(cid:10)(cid:29)"(cid:10)=/(cid:27)(cid:29)"(cid:22)(cid:1)(cid:22)(cid:6)(cid:5)(cid:29)(cid:6)(cid:29)(cid:5)(cid:21)(cid:22)(cid:31)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:19)(cid:29)(cid:1)
+(cid:19)"9(cid:31)(cid:10)(cid:29)"(cid:10)=/(cid:27)(cid:29)"(cid:22)(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)A(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:3)(cid:28)(cid:16)(cid:10)(cid:2)(cid:1) (cid:13)A(cid:2)(cid:1)(cid:3)(cid:28) (cid:28)(cid:3)(cid:28)(cid:16)(cid:24)(cid:13)(cid:2)(cid:10)(cid:12)(cid:1)(cid:10)(cid:13)(cid:1)(cid:25)(cid:11)(cid:1)
+>(cid:27)(cid:29)(cid:28)6(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)#(cid:31)8(cid:31)#?(cid:27)6(cid:28)(cid:30)(cid:22)(cid:1)(cid:24)(cid:10)(cid:13)(cid:1)
+%(cid:30)."#(cid:10)(cid:29)(cid:30)(cid:10)(cid:15)"!(cid:30)(cid:22)(cid:1)(cid:6)(cid:23)&(cid:22)(cid:17)(cid:19)&(cid:6)(cid:22)(cid:22)(cid:1)
+%(cid:30)."#(cid:10)(cid:29)"(cid:10)(cid:13)(cid:30)!#(cid:28)9@(cid:27)(cid:28)"(cid:22)(cid:1)(cid:31)(cid:5)(cid:18)(cid:18)(cid:30)(cid:5)(cid:6)(cid:19)(cid:29)(cid:5)(cid:18)(cid:17)(cid:6)(cid:23)(cid:21)(cid:29)
+A/(cid:30)(cid:27)!(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:15)"!(cid:30) (cid:22)(cid:1)(cid:30)(cid:5)(cid:22)(cid:30)(cid:21)(cid:5)(cid:6)(cid:31)&(cid:23)(cid:30)(cid:21)(cid:31)(cid:21)(cid:6)&(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+1+./.(/(cid:1) H/?(+’(cid:1)6/(cid:1)(cid:13).5/?()</.(+?(cid:20)(cid:2):(+’);06+’%(cid:1)(cid:24)/’()D)2034+(cid:1)(cid:8)(cid:1)"0,)606/(cid:1)
+(cid:1) (cid:1) Assinado de forma digital por
+MARTA A D s N s (cid:1): i n c= ad B o R , d o e = f I o C r P m -B a r a d s ig il, i t o a u l = po P r r e M se A n R c T ia A l , F o A u T = H 8 :0 1 4 0 9 4 6 7 5 5 0 0 9 8 2 0 9 0 2 0 9 1 47, ROSELI FABRIS DALLA (cid:1) ROSELI FABRIS DALLA
+FATH:04965092929 o C u P = (cid:1)F S A e 3 c , r o e u ta = r ( i e a m da b R ra e n ce co it ) a , c F n e = de M r A al R d T o A B F r A a T si H l - :0 R 4 F 9 B 6 , 5 o 0 u 9 = 2 R 9 F 2 B 9 e- COSTA:62760033953(cid:1) COSTA:62760033953
+GGGGGGGGGGGGGGGGGGGGG D G a G do G s: G 2 G 02 G 1 G .0 G 9. G 23 G 1 G 4: G 01 G :5 G 8 G -0 G 3 G '0 G 0' GGGGG(cid:1) GGGGGGGGGGGGGGGGGGGGGGGGG D G a GG d G o G s G : G 2 GG 0 G 2 G 1 G . G 0 G 9 G . G 2 G 3 G G 1 (cid:1) 0:40:25 -03'00'
+3(cid:30)#!(cid:30)(cid:10)=(cid:30)!B(cid:1) (cid:5)" (cid:31).(cid:28)(cid:10)=(cid:30)C#(cid:28) (cid:10)(cid:11)(cid:30)..(cid:30)(cid:10)(cid:15)" !(cid:30)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/?1+.?I5/,(cid:1)1/,0(cid:1),)9:)6034+(cid:1)60(cid:1)+1/’034+(cid:1)
+(cid:1)
+MAICON JOSE (cid:1)Assinado de forma digital por
+FERRONATTO:040762 MAICON JOSE
+(cid:1)FERRONATTO:04076200950
+00950 Dados: 2021.09.23 11:08:05 -03'00'
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG(cid:1)
+3(cid:30)(cid:28)6"(cid:27)(cid:10)7" D(cid:10)=(cid:31)##"(cid:27)(cid:30)!!"(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:27)(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:17)(cid:31) !"#(cid:30)(cid:10)(cid:29)"(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:30)!(cid:30)(cid:22)(cid:10)(cid:26)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:28) /" (cid:28)!(cid:28)0"(cid:10)(cid:29)(cid:30)(cid:10)(cid:5)(cid:31) "1234"(cid:10)$*(cid:24)(cid:24)(cid:21)(cid:26)(cid:25)(cid:10)(cid:29)"(cid:10)(cid:15)5(cid:19)(cid:22)(cid:1)
+&(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)’(cid:5)()(cid:22)(cid:10)%(cid:25)*+$,%-(cid:24).(cid:1)
+(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)"(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)6(cid:6)(cid:16)(cid:3)7(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11)(cid:31) 8#(cid:28)34"(cid:10)(cid:29)(cid:30)(cid:10)"/(cid:31)#(cid:30)34"(cid:22)(cid:1)(cid:2)1,)2034+(cid:1).0(cid:1)2+.(0(cid:1)(cid:29)(cid:22)&(cid:8)(cid:29)(cid:1).+(cid:1)50,+’(cid:1)6/(cid:1)(cid:3)7(cid:1)&(cid:22)(cid:19)(cid:5)(cid:6)(cid:29)&(cid:23)(cid:21)(cid:31)(cid:1)8+)(+2/.(+9(cid:1)/(cid:1).+5/(cid:1):),(cid:1)/(cid:1)(’/;/.(+9(cid:1)/(cid:1)9/(/.(0(cid:1)/(cid:1)+)(+(cid:1)’/0)9(cid:1)/(cid:1)5).(/(cid:1)/(cid:1)
+9/)9(cid:1)2/.(05+9<(cid:23)(cid:1).+(cid:1) =.6+(cid:1)6/(cid:1)(cid:13).5/9():/.(+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:3)(cid:28)(cid:16)(cid:10)(cid:2)(cid:1) (cid:13)>(cid:2)(cid:1)(cid:3)(cid:28) (cid:28)(cid:3)(cid:28)(cid:16)(cid:24)(cid:13)(cid:2)(cid:10)(cid:12)(cid:1)(cid:10)(cid:13)(cid:1)(cid:25)(cid:11)(cid:23)(cid:1)1’+5/.)/.(/(cid:1)6/(cid:1)6/9).5/9():/.(+(cid:1)6+(cid:1) =.6+(cid:1) (cid:13)(cid:1)
+(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:3) (cid:8)(cid:14)(cid:1)(cid:18)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:5)(cid:1)
+(cid:1)
+92 !(cid:28):(cid:28)8(cid:30)!(cid:28)0(cid:30)(cid:10)(cid:29)(cid:30)(cid:10)(cid:4)/(cid:31)#(cid:30)34"(cid:22)(cid:1)(cid:4)’0(0(cid:8)9/(cid:1)6/(cid:1)=:(cid:1):+5):/.(+(cid:1).0(cid:1)10’(/(cid:1)2+.9/’506+’0(cid:1)60(cid:1)20’(/)’0(cid:1)6+(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:11)(cid:3)(cid:28)"(cid:23)(cid:1)2+.9)6/’0.6+(cid:1)+(cid:1)0=:/.(+(cid:1)60(cid:1)(cid:4)0?0(cid:1)
+(cid:15)/,)2(cid:1)+9(cid:1) =.6+9(cid:1)0(’/,06+9(cid:1)0+(cid:1)(cid:24)(cid:10)(cid:13)(cid:1)(/.6/:(cid:1)0(cid:1)(/’(cid:1)=:0(cid:1)’/.(0@),)606/(cid:1):0)+’(cid:1)A=/(cid:1)+(cid:1)(cid:13)(cid:3) (cid:14)(cid:8)(cid:18)(cid:5)(cid:1)(cid:1)(cid:2)1’+506+(cid:1)1/,+(cid:1)(cid:24)(cid:13)(cid:1)2+.B+’:/(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)(cid:22)(cid:21)(cid:6)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+(cid:14)(cid:28);(cid:28)!(cid:31)(cid:10)(cid:29)(cid:30)(cid:10)(cid:13)"1<!(cid:28)8(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)0(cid:31) !(cid:28);(cid:31)(cid:27)!"(cid:10)(cid:30)(cid:29)"!(cid:30)(cid:29)(cid:30)(cid:22)(cid:1)(cid:30)(cid:22)(cid:23)(cid:22)(cid:22)C(cid:1)
+(cid:15)"(cid:27)8(cid:31)(cid:27)!#(cid:30)34"(cid:10)(cid:29)"(cid:10):2(cid:27)(cid:29)"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)0(cid:31) !(cid:28);(cid:31)(cid:27)!" -(cid:10)(cid:31);(cid:10)(cid:26)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:22)(cid:1)(cid:30)(cid:23)(cid:29)(cid:6)C(cid:1)
+(cid:15)"(cid:27)8(cid:31)(cid:27)!#(cid:30)34"(cid:10)/"#(cid:10);"(cid:29)(cid:30)1(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)0(cid:31) !(cid:28);(cid:31)(cid:27)!"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)0(cid:31) !(cid:28);(cid:31)(cid:27)!" -(cid:10)(cid:31);(cid:10)(cid:26)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:22)(cid:1)(cid:18)(cid:18)(cid:23)(cid:6)(cid:31)C(cid:1)
+(cid:10)/9(0(cid:1)B+’:0(cid:23)(cid:1)5/’)B)20(cid:8)9/(cid:1)0(cid:1)2+.B+’:)606/(cid:1)60(cid:1),):)(034+(cid:1)D(cid:1)1+,-()20(cid:1)6/(cid:1)).5/9():/.(+9(cid:1)6+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:30)#(cid:30)8!(cid:31)#< !(cid:28)8(cid:30) (cid:10)(cid:29)" (cid:10)(cid:30)!(cid:28)0" (cid:22)(cid:1)
+(cid:1)
+(cid:16)(cid:31)=;(cid:31)(cid:27)!"(cid:22)(cid:1)(cid:3)/.60(cid:1) )?0(cid:1)
+(cid:3)(cid:28)/"(cid:10)(cid:29)(cid:31)(cid:10)(cid:30)!(cid:28)0"(cid:22)(cid:1)(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)"(cid:23)(cid:1)(cid:2),-./0(cid:1)0(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:6)(cid:27) !(cid:28)!2(cid:28)34"(cid:10)>(cid:28)(cid:27)(cid:30)(cid:27)8(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)";(cid:31)(cid:10)(cid:6)(cid:27) !(cid:28)!2(cid:28)34"(cid:10)>(cid:28)(cid:27)(cid:30)(cid:27)8(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:29)"(cid:10)>2(cid:27)(cid:29)"(cid:22)(cid:1)(cid:22)(cid:6)(cid:5)(cid:29)(cid:6)(cid:29)(cid:5)(cid:21)(cid:22)(cid:31)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:19)(cid:29)(cid:1)
+(cid:19)";(cid:31)(cid:10)(cid:29)"(cid:10)>2(cid:27)(cid:29)"(cid:22)(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:3)(cid:28)(cid:16)(cid:10)(cid:2)(cid:1) (cid:13)>(cid:2)(cid:1)(cid:3)(cid:28) (cid:28)(cid:3)(cid:28)(cid:16)(cid:24)(cid:13)(cid:2)(cid:10)(cid:12)(cid:1)(cid:10)(cid:13)(cid:1)(cid:25)(cid:11)(cid:1)
+?(cid:27)(cid:29)(cid:28)8(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)#(cid:31):(cid:31)#@(cid:27)8(cid:28)(cid:30)(cid:22)(cid:1)(cid:24)(cid:10)(cid:13)(cid:1)
+&(cid:30)1"#(cid:10)(cid:29)(cid:30)(cid:10)(cid:15)"!(cid:30)(cid:22)(cid:1)(cid:6)(cid:23)&(cid:22)(cid:29)(cid:30)(cid:31)&(cid:22)(cid:22)(cid:1)
+&(cid:30)1"#(cid:10)(cid:29)"(cid:10)(cid:13)(cid:30)!#(cid:28);A(cid:27)(cid:28)"(cid:22)(cid:1)(cid:31)(cid:5)(cid:18)(cid:6)(cid:30)(cid:5)(cid:31)(cid:17)(cid:6)(cid:5)(cid:17)(cid:30)(cid:17)(cid:23)(cid:31)(cid:17)
+B2(cid:30)(cid:27)!(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:15)"!(cid:30) (cid:22)(cid:1)(cid:21)(cid:18)(cid:21)(cid:5)(cid:17)(cid:29)(cid:31)(cid:23)(cid:17)(cid:18)(cid:22)(cid:18)(cid:31)(cid:6)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+1+./.(/(cid:1) F/9(+’(cid:1)6/(cid:1)(cid:13).5/9():/.(+9(cid:20)(cid:2)=(+’);06+’%(cid:1)(cid:24)/’()B)2034+(cid:1)(cid:8)(cid:1)"0,)606/(cid:1)
+(cid:1) (cid:1)
+MARTA A D s N s : i n c= ad B o R , d o e = f I o C r P m -B a r a d s ig il, i t o a u l = po P r r e M se A n R c T ia A l , F ATH:04965092929 ROSELI FABRIS DALLA Assinado de forma digital por
+(cid:1)ou=81047508000147, ou=Secretaria da Receita Federal do (cid:1) ROSELI FABRIS DALLA
+FATH:04965092929(cid:1) B FA ra T s H il : - 0 R 49 FB 65 , o 0 u 9 = 29 R 2 F 9 B e-CPF A3, ou=(em branco), cn=MARTA COSTA:62760033953(cid:1) COSTA:62760033953
+EEEEEEEEEEEEEEEEEEEEEEE D E ad E o E s: E 20 E 2 E 1. E 09 E .2 E 3 E 1 E 4:0 E 3 E :0 E 5 E -0 E 3' E 00 E ' EEE(cid:1) EEEEEEEEEEEEEEEEEEEEEEEE D EE a E d E o EE s: E 2 EE 0 E 2 E 1 E . E 0 E 9 E .2 E 3 EE 1 E 0 E : (cid:1) 40:58 -03'00'
+5(cid:30)#!(cid:30)(cid:10)>(cid:30)!C(cid:1) (cid:5)" (cid:31)1(cid:28)(cid:10)>(cid:30)D#(cid:28) (cid:10)(cid:11)(cid:30)11(cid:30)(cid:10)(cid:15)" !(cid:30)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/91+.9G5/,(cid:1)1/,0(cid:1),)A=)6034+(cid:1)60(cid:1)+1/’034+(cid:1)
+MAICON JOSE (cid:1) (cid:1)Assinado de forma digital por
+FERRONATTO:040762 MAICON JOSE
+(cid:1)FERRONATTO:04076200950
+00950 Dados: 2021.09.23 11:08:41 -03'00'
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE(cid:1)
+5(cid:30)(cid:28)8"(cid:27)(cid:10)9" E(cid:10)>(cid:31)##"(cid:27)(cid:30)!!"(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:28)(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:17) !"#$(cid:31)(cid:10)(cid:30)#(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:31)"(cid:31)(cid:22)(cid:10)(cid:25)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:29)!.#!(cid:29)"(cid:29)/#(cid:10)(cid:30)(cid:31)(cid:10)(cid:5) !#0123#(cid:10)(cid:24)4(cid:25)(cid:25)(cid:21)(cid:27)(cid:26)(cid:10)(cid:30)#(cid:10)(cid:15)5(cid:19)(cid:22)(cid:1)
+&(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)’(cid:5)()(cid:22)(cid:10)(cid:25)*(cid:26)+(cid:26)(cid:24)(cid:27),*-(cid:1)
+(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:13)(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)6(cid:6)(cid:16)(cid:3)7(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11) !8$(cid:29)23#(cid:10)(cid:30)(cid:31)(cid:10)#. $(cid:31)23#(cid:22)(cid:1)(cid:2),-)./01+(cid:1)2/(cid:1).+2(/(cid:1)(cid:29)(cid:22)&(cid:8)(cid:29)(cid:1)2+(cid:1)3/-+’(cid:1)45(cid:1)(cid:3)6(cid:1)(cid:21)(cid:30)(cid:22)(cid:5)(cid:22)(cid:6)(cid:18)(cid:23)(cid:30)(cid:29)(cid:1)748952(+:(cid:1)5(cid:1);8/’52(/(cid:1)<)-(cid:1)5(cid:1)(’)2(/(cid:1)5(cid:1)8<(cid:1)’5/):(cid:1)5(cid:1);8/’52(/(cid:1)5(cid:1):5(5(cid:1)
+.52(/3+:=(cid:23)(cid:1)2+(cid:1) 824+(cid:1)45(cid:1)(cid:13)235:()<52(+(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)(cid:9)(cid:12)(cid:25)(cid:15)(cid:2)(cid:1)(cid:2)(cid:14)(cid:28)(cid:3)(cid:13)(cid:24)(cid:2)(cid:16)(cid:2)(cid:1) (cid:13)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)(cid:14)(cid:28)(cid:3)(cid:24)(cid:2)(cid:10)(cid:12)(cid:1)(cid:25)(cid:11)(cid:23)(cid:1),’+352)52(5(cid:1)4+(cid:1)’5.5?)<52(+(cid:1)45(cid:1).8,+2:(cid:1)45(cid:1)@8’+:(cid:1)4/:(cid:1)
+(cid:16)(cid:4)(cid:16)(cid:8)(cid:9)(cid:1)5(cid:1)/<+’()9/01+(cid:1)45(cid:1).+(/:(cid:1):5<5:(’/-(cid:1)4+(cid:1) 824+(cid:1)45(cid:1)(cid:13)235:()<52(+:(cid:1)(cid:24)/)A/(cid:1)(cid:9)’/:)-(cid:1)(cid:21)(cid:22)(cid:21)(cid:30)(cid:1)"(cid:1)(cid:4)(cid:11)(cid:1)(cid:3) (cid:5)(cid:1)
+(cid:1)
+91!"(cid:29):(cid:29)8(cid:31)"(cid:29)/(cid:31)(cid:10)(cid:30)(cid:31)(cid:10)(cid:4). $(cid:31)23#(cid:22)(cid:1)(cid:1)(cid:12)(cid:1))235:()<52(+(cid:1)25:(5(cid:1)B824+(cid:1)45.+’’5(cid:1)4/(cid:1)25.5::)4/45(cid:1)45(cid:1).+2:(’8)’(cid:1)8</(cid:1)./’(5)’/(cid:1)45(cid:1))235:()<52(+:(cid:1).+<(cid:1)5A,+:)01+(cid:1)/(cid:1)
+<5’./4+:(cid:1)</):(cid:1)</48’+:(cid:23)(cid:1)’5489)24+(cid:1)/::)<(cid:1)/(cid:1).+2.52(’/01+(cid:1)45(cid:1))235:()<52(+:(cid:1)5<(cid:1)/()3+:(cid:1)-+./):(cid:5)(cid:1)(cid:4)/<?C<(cid:1),+’(cid:1)21+(cid:1))2.+’,+’/’(cid:1)3/’)/0D5:(cid:1)./<?)/):(cid:1)
+2+(cid:1):58(cid:1)’5(+’2+(cid:1),+::)?)-)(/(cid:1);85(cid:1)+(cid:1)’5:8-(/4+(cid:1):5@/(cid:1)’5B5’52.)/4+(cid:1)5A.-8:)3/<52(5(cid:1)2+(cid:1)45:5<,52E+(cid:1)4/:(cid:1)/0D5:(cid:5)(cid:1)(cid:2)-C<(cid:1)4)::+(cid:23)(cid:1)/(cid:1)+,5’/01+(cid:1)B/9(cid:1),/’(5(cid:1)4+(cid:1)
+,’+.5::+(cid:1)45(cid:1)4)35’:)B)./01+(cid:1)4/(cid:1)./’(5)’/(cid:1)45(cid:1))235:()<52(+:(cid:1).+<(cid:1)3):(/:(cid:1)/+(cid:1)/()2*)<52(+(cid:20):8,5’/01+(cid:1)4/(cid:1)<5(/(cid:1)/(8/’)/-(cid:5)(cid:1)(cid:28):(/(cid:1)/45’52(5(cid:1)/(cid:1)(cid:11)+-F()./(cid:1)45(cid:1)
+(cid:13)235:()<52(+:(cid:23)(cid:1)5(cid:1)/(5245(cid:1)/+(cid:1)4)/*2G:().+(cid:1)4+(cid:1)(cid:28):(84+(cid:1)45(cid:1)(cid:2)(cid:25)(cid:14)(cid:1)45(cid:1)/8<52(/’(cid:1)/(cid:1)/-+./01+(cid:1)2+(cid:1):5*<52(+(cid:1)45(cid:1)’524/(cid:1)"/’)H35-(cid:1)5(cid:1)(cid:13)235:()<52(+(cid:1)2+(cid:1)(cid:28)A(5’)+’(cid:5)(cid:1)
+(cid:12),5’/01+(cid:1)’5/-)9/4/(cid:1)5<(cid:1)-)2E/(cid:1).+<(cid:1)/(cid:1)5:(’/(C*)/(cid:1)/,’+3/4/(cid:1),5-+(cid:1)(cid:24)+<)(I(cid:1)45(cid:1)(cid:13)235:()<52(+:(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)2(cid:7)(cid:1)(cid:22)(cid:21)(cid:30)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:10)(cid:1)
+(cid:14)(cid:29);(cid:29)" (cid:10)(cid:30)(cid:31)(cid:10)(cid:13)#0<"(cid:29)8(cid:31)(cid:10)(cid:30) (cid:10)(cid:29)(cid:28)/ !"(cid:29); (cid:28)"#(cid:10)(cid:31)(cid:30)#"(cid:31)(cid:30)(cid:31)(cid:22)(cid:1)(cid:18)(cid:22)(cid:23)(cid:22)(cid:22)J(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)23#(cid:10)(cid:30)#(cid:10):1(cid:28)(cid:30)#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)/ !"(cid:29); (cid:28)"#!,(cid:10) ;(cid:10)(cid:25)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:31)(cid:23)(cid:19)(cid:6)J(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)23#(cid:10).#$(cid:10);#(cid:30)(cid:31)0(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:29)(cid:28)/ !"(cid:29); (cid:28)"#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)/ !"(cid:29); (cid:28)"#!,(cid:10) ;(cid:10)(cid:25)(cid:26)(cid:21)(cid:26)%(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)&(cid:23)(cid:18)(cid:18)J(cid:1)
+(cid:10)5:(/(cid:1)B+’</(cid:23)(cid:1)35’)B)./(cid:8):5(cid:1)/(cid:1).+2B+’<)4/45(cid:1)4/(cid:1)-)<)(/01+(cid:1)K(cid:1),+-F()./(cid:1)45(cid:1))235:()<52(+:(cid:1)4+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:31)$(cid:31)8" $<!"(cid:29)8(cid:31)!(cid:10)(cid:30)#!(cid:10)(cid:31)"(cid:29)/#!(cid:22)=(cid:1)
+(cid:1)
+(cid:16) >; (cid:28)"#(cid:22)(cid:1)(cid:3)524/(cid:1)"/’)H35-(cid:1)5(cid:1)(cid:13)235:()<52(+:(cid:1)(cid:28):(’8(8’/4+:(cid:1)
+(cid:3)(cid:29).#(cid:10)(cid:30) (cid:10)(cid:31)"(cid:29)/#(cid:22)(cid:1)(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:13)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:6)(cid:28)!"(cid:29)"1(cid:29)23#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)#; (cid:10)(cid:6)(cid:28)!"(cid:29)"1(cid:29)23#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:30)#(cid:10)?1(cid:28)(cid:30)#(cid:22)(cid:1)(cid:6)(cid:22)(cid:5)(cid:22)(cid:6)(cid:31)(cid:5)(cid:21)(cid:6)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:21)(cid:1)
+(cid:19)#; (cid:10)(cid:30)#(cid:10)?1(cid:28)(cid:30)#(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)>(cid:2)(cid:1)(cid:9)(cid:12)(cid:25)(cid:15)(cid:2)(cid:1)(cid:2)(cid:14)(cid:28)(cid:3)(cid:13)(cid:24)(cid:2)(cid:16)(cid:2)(cid:1) (cid:13)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)(cid:14)(cid:28)(cid:3)(cid:24)(cid:2)(cid:10)(cid:12)(cid:1)(cid:25)(cid:11)(cid:1)
+@(cid:28)(cid:30)(cid:29)8 (cid:10)(cid:30) (cid:10)$ : $A(cid:28)8(cid:29)(cid:31)(cid:22)(cid:1)(cid:15)L(cid:11)(cid:1)(cid:17)(cid:22)(cid:22)(cid:1)
+&(cid:31)0#$(cid:10)(cid:30)(cid:31)(cid:10)(cid:15)#"(cid:31)(cid:22)(cid:1)(cid:18)(cid:23)(cid:31)(cid:22)(cid:29)(cid:22)(cid:17)&(cid:22)(cid:22)(cid:1)
+&(cid:31)0#$(cid:10)(cid:30)#(cid:10)(cid:13)(cid:31)"$(cid:29);B(cid:28)(cid:29)#(cid:22)(cid:1)(cid:21)(cid:5)(cid:19)(cid:18)(cid:19)(cid:5)&(cid:6)(cid:6)(cid:5)(cid:29)(cid:30)(cid:31)(cid:23)(cid:18)&
+C1(cid:31)(cid:28)"(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:15)#"(cid:31)!(cid:22)(cid:1)(cid:18)(cid:30)(cid:19)(cid:5)(cid:6)(cid:31)(cid:22)(cid:23)&(cid:22)(cid:22)(cid:19)(cid:18)(cid:31)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+,+252(5(cid:1) N5:(+’(cid:1)45(cid:1)(cid:13)235:()<52(+:(cid:20)(cid:2)8(+’)9/4+’%(cid:1)(cid:24)5’()B)./01+(cid:1)(cid:8)(cid:1)"/-)4/45(cid:1)
+(cid:1) (cid:1)
+MARTA Assinado de forma digital por MARTA FATH:04965092929 ROSELI FABRIS DALLA Assinado de forma digital por
+DN(cid:1): c=BR, o=ICP-Brasil, ou=Presencial, (cid:1) ROSELI FABRIS DALLA
+ou=81047508000147, ou=Secretaria da Receita Federal do
+FATH:04965092929 Bra(cid:1)sil - RFB, ou=RFB e-CPF A3, ou=(em branco), cn=MARTA COSTA:62760033953(cid:1) COSTA:62760033953
+FATH:04965092929
+MMMMMMMMMMMMMMMMMMMMMDMadMoMs:M 2M02M1M.0M9.2M3M 1M4M:04M:5M8M -0M3M'0M0'MMMMM(cid:1) MMMMMMMMMMMMMMMMMMMMMMMMMMDMaMMdMoMsM:M 2M0MM2M1M.M0M9M.M2M3M (cid:1)10:41:24 -03'00'
+5(cid:31)$"(cid:31)(cid:10)?(cid:31)"D(cid:1) (cid:5)#! 0(cid:29)(cid:10)?(cid:31)E$(cid:29)!(cid:10)(cid:11)(cid:31)00(cid:31)(cid:10)(cid:15)#!"(cid:31)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)5:,+2:H35-(cid:1),5-/(cid:1)-);8)4/01+(cid:1)4/(cid:1)+,5’/01+(cid:1)
+MAICON JOSE (cid:1)Assinado de forma digital por
+(cid:1)MAICON JOSE
+FERRONATTO:0407FERRONATTO:04076200950
+6200950 (cid:1)Dados: 2021.09.23 11:09:18
+MMMMMMMMMMMMMMMMMMMMMMM-0M3MM'0M0M'MMMMMMMMMMMMMMMM(cid:1)
+5(cid:31)(cid:29)8#(cid:28)(cid:10)9#!F(cid:10)? $$#(cid:28)(cid:31)"" #(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:24)(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:28)(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:17) !"#$(cid:31)(cid:10)(cid:30)#(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:31)"(cid:31)(cid:22)(cid:10)(cid:25)%(cid:21)(cid:26)&(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:29)!.#!(cid:29)"(cid:29)/#(cid:10)(cid:30)(cid:31)(cid:10)(cid:5) !#0123#(cid:10)4,(cid:25)(cid:25)(cid:21)(cid:27)(cid:26)(cid:10)(cid:30)#(cid:10)(cid:15)5(cid:19)(cid:22)(cid:1)
+’(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)((cid:5))*(cid:22)(cid:10)(cid:25)+(cid:24)%(cid:26)+,(cid:25),-&(cid:26)(cid:1)
+(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:13)(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)6(cid:6)(cid:16)(cid:3)7(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11) !8$(cid:29)23#(cid:10)(cid:30)(cid:31)(cid:10)#. $(cid:31)23#(cid:22)(cid:1)(cid:2),-)./01+(cid:1)2/(cid:1).+2(/(cid:1)(cid:29)(cid:22)&(cid:8)(cid:29)(cid:1)2+(cid:1)3/-+’(cid:1)45(cid:1)(cid:3)6(cid:1)(cid:21)(cid:5)(cid:30)(cid:29)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:23)&(cid:22)(cid:1)74+)8(cid:1)9)-:;58(cid:23)(cid:1)<=/(’+.52(+8(cid:1)5(cid:1)85(52(/(cid:1)9)-(cid:1)5(cid:1)2+35.52(+8(cid:1)5(cid:1)3)2(5(cid:1)
+5(cid:1)2+35(cid:1)’5/)8(cid:1)5(cid:1)+)(52(/(cid:1).52(/3+8>(cid:23)(cid:1)2+(cid:1) =24+(cid:1)45(cid:1)(cid:13)2358()952(+(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:9)(cid:12)(cid:25)(cid:15)(cid:2)(cid:1)(cid:2)(cid:14)(cid:28)(cid:3)(cid:13)(cid:24)(cid:2)(cid:16)(cid:2)(cid:1) (cid:13)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)(cid:14)(cid:28)(cid:3)(cid:24)(cid:2)(cid:10)(cid:12)(cid:1)(cid:25)(cid:11)(cid:23)(cid:1),’+352)52(5(cid:1)4+(cid:1)/,+’(5(cid:1),/’/(cid:1)
+5<=/.)+2/952(+(cid:1)4+(cid:1)4@A).)((cid:1)/(=/’)/-(cid:5)(cid:1)
+(cid:10)(cid:1)
+91!"(cid:29):(cid:29)8(cid:31)"(cid:29)/(cid:31)(cid:10)(cid:30)(cid:31)(cid:10)(cid:4). $(cid:31)23#(cid:22)(cid:1)(cid:1)(cid:12)(cid:1))2358()952(+(cid:1)258(5(cid:1)A=24+(cid:1)45.+’’5(cid:1)4/(cid:1)25.588)4/45(cid:1)45(cid:1).+28(’=)’(cid:1)=9/(cid:1)./’(5)’/(cid:1)45(cid:1))2358()952(+8(cid:1).+9(cid:1)5B,+8)01+(cid:1)/(cid:1)
+95’./4+8(cid:1)9/)8(cid:1)9/4=’+8(cid:23)(cid:1)’54=C)24+(cid:1)/88)9(cid:1)/(cid:1).+2.52(’/01+(cid:1)45(cid:1))2358()952(+8(cid:1)59(cid:1)/()3+8(cid:1)-+./)8(cid:5)(cid:1)(cid:4)/9D@9(cid:1),+’(cid:1)21+(cid:1))2.+’,+’/’(cid:1)3/’)/0;58(cid:1)./9D)/)8(cid:1)
+2+(cid:1)85=(cid:1)’5(+’2+(cid:1),+88)D)-)(/(cid:1)<=5(cid:1)+(cid:1)’58=-(/4+(cid:1)85E/(cid:1)’5A5’52.)/4+(cid:1)5B.-=8)3/952(5(cid:1)2+(cid:1)45859,52:+(cid:1)4/8(cid:1)/0;58(cid:5)(cid:1)(cid:2)-@9(cid:1)4)88+(cid:23)(cid:1)/(cid:1)+,5’/01+(cid:1)A/C(cid:1),/’(5(cid:1)4+(cid:1)
+,’+.588+(cid:1)45(cid:1)4)35’8)A)./01+(cid:1)4/(cid:1)./’(5)’/(cid:1)45(cid:1))2358()952(+8(cid:1).+9(cid:1)3)8(/8(cid:1)/+(cid:1)/()2*)952(+(cid:20)8=,5’/01+(cid:1)4/(cid:1)95(/(cid:1)/(=/’)/-(cid:5)(cid:1)(cid:28)8(/(cid:1)/45’52(5(cid:1)/(cid:1)(cid:11)+-F()./(cid:1)45(cid:1)
+(cid:13)2358()952(+8(cid:23)(cid:1)5(cid:1)/(5245(cid:1)/+(cid:1)4)/*2G8().+(cid:1)4+(cid:1)(cid:28)8(=4+(cid:1)45(cid:1)(cid:2)(cid:25)(cid:14)(cid:1)45(cid:1)/=952(/’(cid:1)/(cid:1)/-+./01+(cid:1)2+(cid:1)85*952(+(cid:1)45(cid:1)’524/(cid:1)"/’)H35-(cid:1)5(cid:1)(cid:13)2358()952(+(cid:1)2+(cid:1)(cid:28)B(5’)+’(cid:5)(cid:1)
+(cid:12),5’/01+(cid:1)’5/-)C/4/(cid:1)59(cid:1)-)2:/(cid:1).+9(cid:1)/(cid:1)58(’/(@*)/(cid:1)/,’+3/4/(cid:1),5-+(cid:1)(cid:24)+9)(I(cid:1)45(cid:1)(cid:13)2358()952(+8(cid:1)(cid:2)(cid:4)(cid:2)(cid:1)2(cid:7)(cid:1)(cid:22)(cid:21)(cid:30)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+(cid:14)(cid:29);(cid:29)" (cid:10)(cid:30)(cid:31)(cid:10)(cid:13)#0<"(cid:29)8(cid:31)(cid:10)(cid:30) (cid:10)(cid:29)(cid:28)/ !"(cid:29); (cid:28)"#(cid:10)(cid:31)(cid:30)#"(cid:31)(cid:30)(cid:31)(cid:22)(cid:1)(cid:18)(cid:22)(cid:23)(cid:22)(cid:22)J(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)23#(cid:10)(cid:30)#(cid:10):1(cid:28)(cid:30)#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)/ !"(cid:29); (cid:28)"#!-(cid:10) ;(cid:10)(cid:25)%(cid:21)(cid:26)&(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)(cid:29)(cid:23)(cid:31)(cid:6)J(cid:1)
+(cid:15)#(cid:28)8 (cid:28)"$(cid:31)23#(cid:10).#$(cid:10);#(cid:30)(cid:31)0(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:29)(cid:28)/ !"(cid:29); (cid:28)"#(cid:10)(cid:28)(cid:31)(cid:10)(cid:15)(cid:31)$" (cid:29)$(cid:31)(cid:10)(cid:30) (cid:10)(cid:6)(cid:28)/ !"(cid:29); (cid:28)"#!-(cid:10) ;(cid:10)(cid:25)%(cid:21)(cid:26)&(cid:21)(cid:25)(cid:26)(cid:25)(cid:27)(cid:22)(cid:1)&(cid:23)&(cid:18)J(cid:1)
+(cid:10)58(/(cid:1)A+’9/(cid:23)(cid:1)35’)A)./(cid:8)85(cid:1)/(cid:1).+2A+’9)4/45(cid:1)4/(cid:1)-)9)(/01+(cid:1)K(cid:1),+-F()./(cid:1)45(cid:1))2358()952(+8(cid:1)4+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:31)$(cid:31)8" $<!"(cid:29)8(cid:31)!(cid:10)(cid:30)#!(cid:10)(cid:31)"(cid:29)/#!(cid:22)=(cid:1)
+(cid:1)
+(cid:16) >; (cid:28)"#(cid:22)(cid:1)(cid:3)524/(cid:1)"/’)H35-(cid:1)5(cid:1)(cid:13)2358()952(+8(cid:1)(cid:28)8(’=(=’/4+8(cid:1)
+(cid:3)(cid:29).#(cid:10)(cid:30) (cid:10)(cid:31)"(cid:29)/#(cid:22)(cid:1)(cid:2)’()*+(cid:1)&(cid:7)(cid:1)(cid:13)(cid:13)(cid:13)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:6)(cid:28)!"(cid:29)"1(cid:29)23#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)#; (cid:10)(cid:6)(cid:28)!"(cid:29)"1(cid:29)23#(cid:10)?(cid:29)(cid:28)(cid:31)(cid:28)8 (cid:29)$(cid:31)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13)9(cid:10)(cid:30)#(cid:10)?1(cid:28)(cid:30)#(cid:22)(cid:1)(cid:6)(cid:22)(cid:5)(cid:22)(cid:6)(cid:31)(cid:5)(cid:21)(cid:6)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:21)(cid:1)
+(cid:19)#; (cid:10)(cid:30)#(cid:10)?1(cid:28)(cid:30)#(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:9)(cid:12)(cid:25)(cid:15)(cid:2)(cid:1)(cid:2)(cid:14)(cid:28)(cid:3)(cid:13)(cid:24)(cid:2)(cid:16)(cid:2)(cid:1) (cid:13)(cid:1)(cid:14)(cid:26)(cid:25)(cid:4)(cid:13)(cid:14)(cid:28)(cid:3)(cid:24)(cid:2)(cid:10)(cid:12)(cid:1)(cid:25)(cid:11)(cid:1)
+@(cid:28)(cid:30)(cid:29)8 (cid:10)(cid:30) (cid:10)$ : $A(cid:28)8(cid:29)(cid:31)(cid:22)(cid:1)(cid:15)L(cid:11)(cid:1)(cid:17)(cid:22)(cid:22)(cid:1)
+’(cid:31)0#$(cid:10)(cid:30)(cid:31)(cid:10)(cid:15)#"(cid:31)(cid:22)(cid:1)(cid:18)(cid:23)(cid:31)(cid:6)(cid:18)(cid:29)&(cid:6)(cid:22)(cid:22)(cid:1)
+’(cid:31)0#$(cid:10)(cid:30)#(cid:10)(cid:13)(cid:31)"$(cid:29);B(cid:28)(cid:29)#(cid:22)(cid:1)(cid:6)(cid:5)(cid:22)(cid:6)&(cid:5)(cid:6)&(cid:6)(cid:5)(cid:17)(cid:6)&(cid:23)(cid:31)(cid:29)
+C1(cid:31)(cid:28)"(cid:29)(cid:30)(cid:31)(cid:30) (cid:10)(cid:30) (cid:10)(cid:15)#"(cid:31)!(cid:22)(cid:1)(cid:18)(cid:5)(cid:17)(cid:18)(cid:30)(cid:5)(cid:21)(cid:17)(cid:18)(cid:23)(cid:30)(cid:31)(cid:31)(cid:22)(cid:6)(cid:30)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+,+252(5(cid:1) N58(+’(cid:1)45(cid:1)(cid:13)2358()952(+8(cid:20)(cid:2)=(+’)C/4+’%(cid:1)(cid:24)5’()A)./01+(cid:1)(cid:8)(cid:1)"/-)4/45(cid:1)
+(cid:1) (cid:1)
+MARTA Assinado de forma digital por MARTA FATH:04965092929 ROSELI FABRIS DALLA Assinado de forma digital por
+(cid:1)DN: c=BR, o=ICP-Brasil, ou=Presencial, ou=81047508000147, (cid:1) ROSELI FABRIS DALLA
+FATH:04965092929 (cid:1) o o u u = = S (e e m cr e b t r a a r n ia c o d ) a , c R n e = c M eit A a R F T e A d F e A ra T l H d : o 0 4 B 9 r 6 as 5 i 0 l 9 - 2 R 9 F 2 B 9 , o u=RFB e-CPF A3, COSTA:62760033953(cid:1) COSTA:62760033953
+MMMMMMMMMMMMMMMMMMMMMMM Da M d M os M : M 20 M 21 M .0 M 9 M .2 M 3 M 14 M :0 M 6 M :29 M - M 03 M '0 M 0 M ' MMM(cid:1) MMMMMMMMMMMMMMMMMMMMMMMMM D MM a M d M o MM s: M 2 MM 0 M 2 M 1 M . M 0 M 9 M .2 MM 3 M 1 M(cid:1) 0:41:50 -03'00'
+5(cid:31)$"(cid:31)(cid:10)?(cid:31)"D(cid:1) (cid:5)#! 0(cid:29)(cid:10)?(cid:31)E$(cid:29)!(cid:10)(cid:11)(cid:31)00(cid:31)(cid:10)(cid:15)#!"(cid:31)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)58,+28H35-(cid:1),5-/(cid:1)-)<=)4/01+(cid:1)4/(cid:1)+,5’/01+(cid:1)
+MAICON JOSE A(cid:1)ssinado de forma digital por
+M(cid:1)AICON JOSE
+FERRONATTO:0407 FERRONATTO:04076200950
+6200950 D(cid:1)ados: 2021.09.23 11:10:43
+MMMMMMMMMMMMMMMMMMMMMM-M0M3M'0MM0M'MMMMMMMMMMMMMMMM(cid:1)
+5(cid:31)(cid:29)8#(cid:28)(cid:10)9#!F(cid:10)? $$#(cid:28)(cid:31)"" #(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:6)(cid:7)(cid:1)(cid:8)(cid:1)(cid:9)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)(cid:16)(cid:7)(cid:1)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:18)(cid:18)(cid:23)(cid:1)(cid:13)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:10)(cid:12)(cid:1)(cid:11)(cid:28)(cid:25)(cid:12)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:1)(cid:21)(cid:7)(cid:1)(cid:10)(cid:2)(cid:1)(cid:11)(cid:12)(cid:3)(cid:4)(cid:2)(cid:3)(cid:13)(cid:2)(cid:1)(cid:14)(cid:11)(cid:15)(cid:1)
+(cid:16)(cid:7)(cid:1)(cid:18)(cid:29)(cid:22)(cid:23)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:17)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:23)(cid:1)(cid:10)(cid:12)(cid:26)(cid:1)(cid:10)(cid:28)(cid:1)(cid:21)(cid:31)(cid:20)(cid:22)(cid:30)(cid:20)(cid:21)(cid:22)(cid:18)(cid:21)(cid:1)(cid:1)
+(cid:1)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:19)(cid:20)(cid:21)(cid:1)(cid:19)(cid:4)(cid:22)(cid:10)(cid:10)(cid:23)(cid:23)(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:1)
+(cid:11)(cid:12)(cid:10)(cid:1)(cid:13)(cid:14)(cid:6)(cid:15)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)(cid:12)(cid:10)(cid:5)(cid:12)(cid:16)(cid:17)(cid:1)(cid:3)(cid:12)(cid:10)(cid:18)(cid:10)(cid:1)(cid:13)(cid:5)(cid:1)
+(cid:2)(cid:27)(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:17)(cid:31) !"#(cid:30)(cid:10)(cid:29)"(cid:10)(cid:5)(cid:13)(cid:13)(cid:16)(cid:22)(cid:1)(cid:1) (cid:26)(cid:16)(cid:10)(cid:12)(cid:1)(cid:10)(cid:28)(cid:1)(cid:2)(cid:11)(cid:12)(cid:15)(cid:28)(cid:16)(cid:4)(cid:2)(cid:10)(cid:12)(cid:3)(cid:13)(cid:2)(cid:15)(cid:1)(cid:28)(cid:1)
+(cid:11)(cid:28)(cid:16)(cid:15)!(cid:28)(cid:15)(cid:1)(cid:10)(cid:12)(cid:15)(cid:1)(cid:15)(cid:28)(cid:3)"(cid:13)(cid:10)(cid:12)(cid:3)(cid:28)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:14)(cid:26)(cid:16)(cid:13)(cid:24)(cid:13)(cid:11)(cid:2)(cid:13)(cid:15)(cid:1)(cid:10)(cid:28)(cid:1)(cid:4)(cid:12)(cid:25)(cid:28)(cid:10)(cid:12)(cid:1)(cid:8)(cid:1)
+(cid:11)(cid:30)!(cid:30)(cid:22)(cid:10)(cid:24)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:1)
+(cid:2)(cid:11)(cid:28)(cid:15)(cid:1)
+(cid:24)(cid:16)(cid:11)$%(cid:1)(cid:22)&(cid:5)&&(cid:17)(cid:5)(cid:22)(cid:30)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:22)(cid:1)
+(cid:11)(cid:28) /" (cid:28)!(cid:28)0"(cid:10)(cid:29)(cid:30)(cid:10)(cid:5)(cid:31) "1234"(cid:10)5,(cid:24)(cid:24)(cid:21)(cid:26)(cid:25)(cid:10)(cid:29)"(cid:10)(cid:15)6(cid:19)(cid:22)(cid:1)
+&(cid:1)(cid:14)(cid:4)(cid:5)(cid:10)’(cid:5)()(cid:22)(cid:10)*+,-(cid:24)+,(cid:26)(cid:26).(cid:24)-(cid:1)
+(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:1)(cid:1)
+(cid:10)
+(cid:10)7(cid:6)(cid:16)(cid:3)8(cid:5)(cid:6)(cid:15)(cid:4)(cid:10)(cid:11)(cid:1)(cid:10)(cid:4)(cid:13)(cid:12)(cid:5)(cid:1)(cid:8)(cid:9)(cid:4)(cid:10)
+(cid:10)
+(cid:10)
+(cid:10)(cid:11)(cid:31) 9#(cid:28)34"(cid:10)(cid:29)(cid:30)(cid:10)"/(cid:31)#(cid:30)34"(cid:22)(cid:1)(cid:3)/2*0(/(cid:1).0(cid:1)3+.(0(cid:1)(cid:30)(cid:19)(cid:21)(cid:8)(cid:30)(cid:1).+(cid:1)40,+’(cid:1)5/(cid:1)(cid:3)6(cid:1)(cid:30)(cid:5)(cid:19)(cid:31)(cid:21)(cid:5)(cid:19)(cid:18)(cid:18)(cid:23)(cid:21)(cid:31)(cid:1)7890(’+(cid:1):),;</2(cid:23)(cid:1).+4/3/.(+2(cid:1)/(cid:1)2/22/.(0(cid:1)/(cid:1)5+)2(cid:1):),(cid:1)/(cid:1).+4/3/.(+2(cid:1)/(cid:1)
++.=/(cid:1)’/0)2(cid:1)/(cid:1)4).(/(cid:1)/(cid:1)2/)2(cid:1)3/.(04+2>(cid:23)(cid:1).+(cid:1) 9.5+(cid:1)5/(cid:1)(cid:13).4/2():/.(+(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:10)@(cid:2)(cid:1)(cid:13)(cid:11)(cid:24)(cid:2)(cid:1)(cid:21)(cid:2)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:1)(cid:25)(cid:11)(cid:23)(cid:1)A0’0(cid:1)B+,;0(cid:1)5/(cid:1)
+A0*0:/.(+(cid:1)5+(cid:1):C2(cid:1)5/(cid:1)0*+2(+(cid:1)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+:2 !(cid:28);(cid:28)9(cid:30)!(cid:28)0(cid:30)(cid:10)(cid:29)(cid:30)(cid:10)(cid:4)/(cid:31)#(cid:30)34"(cid:22)(cid:1)(cid:1)A+’(cid:1)2/(cid:1)(’0(0’(cid:1)5/(cid:1)/2(’0(D*)0(cid:1):/.+2(cid:1)4+,E(),(cid:1)/.(’/(cid:1)+2(cid:1)).4/2():/.(+2(cid:1)50(cid:1)3+.(0(cid:1):+4):/.(+(cid:5)(cid:1)(cid:2)A’+405+(cid:1)A/,+(cid:1)(cid:24)+:)(C(cid:1)5/(cid:1)
+(cid:13).4/2():/.(+2(cid:1)(cid:2)(cid:4)(cid:2)(cid:1).(cid:7)(cid:1)(cid:22)(cid:21)(cid:30)(cid:20)(cid:21)(cid:22)(cid:21)(cid:18)(cid:5)(cid:1)
+(cid:1)
+(cid:10)(cid:1)
+(cid:1)
+(cid:1)
+(cid:14)(cid:28)<(cid:28)!(cid:31)(cid:10)(cid:29)(cid:30)(cid:10)(cid:13)"1=!(cid:28)9(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)0(cid:31) !(cid:28)<(cid:31)(cid:27)!"(cid:10)(cid:30)(cid:29)"!(cid:30)(cid:29)(cid:30)(cid:22)(cid:1)(cid:18)(cid:22)(cid:22)(cid:23)(cid:22)(cid:22)F(cid:1)
+(cid:15)"(cid:27)9(cid:31)(cid:27)!#(cid:30)34"(cid:10)(cid:29)"(cid:10);2(cid:27)(cid:29)"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)0(cid:31) !(cid:28)<(cid:31)(cid:27)!" .(cid:10)(cid:31)<(cid:10)(cid:24)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:22)(cid:1)&(cid:23)(cid:29)(cid:17)F(cid:1)
+(cid:15)"(cid:27)9(cid:31)(cid:27)!#(cid:30)34"(cid:10)/"#(cid:10)<"(cid:29)(cid:30)1(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:28)(cid:27)0(cid:31) !(cid:28)<(cid:31)(cid:27)!"(cid:10)(cid:27)(cid:30)(cid:10)(cid:15)(cid:30)#!(cid:31)(cid:28)#(cid:30)(cid:10)(cid:29)(cid:31)(cid:10)(cid:6)(cid:27)0(cid:31) !(cid:28)<(cid:31)(cid:27)!" .(cid:10)(cid:31)<(cid:10)(cid:24)$(cid:21)(cid:25)%(cid:21)(cid:24)(cid:25)(cid:24)(cid:26)(cid:22)(cid:1)(cid:31)(cid:17)(cid:23)(cid:31)(cid:22)F(cid:1)
+(cid:10)/2(0(cid:1)B+’:0(cid:23)(cid:1)4/’)B)30(cid:8)2/(cid:1)0(cid:1)3+.B+’:)505/(cid:1)50(cid:1),):)(0GH+(cid:1)I(cid:1)A+,-()30(cid:1)5/(cid:1)).4/2():/.(+2(cid:1)5+(cid:1)(cid:3)(cid:11)(cid:11)(cid:15)(cid:5)(cid:1)
+(cid:15)(cid:30)#(cid:30)9!(cid:31)#= !(cid:28)9(cid:30) (cid:10)(cid:29)" (cid:10)(cid:30)!(cid:28)0" (cid:22)>(cid:1)
+(cid:1)
+(cid:16)(cid:31)?<(cid:31)(cid:27)!"(cid:22)(cid:1)(cid:3)/.50(cid:1) )J0(cid:1)
+(cid:3)(cid:28)/"(cid:10)(cid:29)(cid:31)(cid:10)(cid:30)!(cid:28)0"(cid:22)(cid:1)(cid:2)’()*+(cid:1)(cid:29)(cid:7)(cid:1)(cid:13)(cid:23)(cid:1)(cid:2),-./0(cid:1)1(cid:1)
+(cid:15)(cid:19)(cid:13):(cid:10)(cid:6)(cid:27) !(cid:28)!2(cid:28)34"(cid:10)@(cid:28)(cid:27)(cid:30)(cid:27)9(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:22)(cid:22)(cid:5)(cid:6)(cid:31)(cid:22)(cid:5)(cid:6)(cid:22)(cid:17)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:22)(cid:30)(cid:1)
+(cid:19)"<(cid:31)(cid:10)(cid:6)(cid:27) !(cid:28)!2(cid:28)34"(cid:10)@(cid:28)(cid:27)(cid:30)(cid:27)9(cid:31)(cid:28)#(cid:30)(cid:22)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)
+(cid:15)(cid:19)(cid:13):(cid:10)(cid:29)"(cid:10)@2(cid:27)(cid:29)"(cid:22)(cid:1)(cid:18)(cid:30)(cid:5)(cid:6)&(cid:31)(cid:5)(cid:19)(cid:21)(cid:31)(cid:20)(cid:22)(cid:22)(cid:22)(cid:18)(cid:8)(cid:29)(cid:18)(cid:1)
+(cid:19)"<(cid:31)(cid:10)(cid:29)"(cid:10)@2(cid:27)(cid:29)"(cid:22)(cid:1) (cid:13)(cid:1)(cid:24)(cid:2)(cid:13)?(cid:2)(cid:1)(cid:9)(cid:3)(cid:2)(cid:15)(cid:13)(cid:25)(cid:1)(cid:13)(cid:10)@(cid:2)(cid:1)(cid:13)(cid:11)(cid:24)(cid:2)(cid:1)(cid:21)(cid:2)(cid:1)(cid:4)(cid:27)(cid:4)(cid:26)(cid:25)(cid:12)(cid:15)(cid:1)(cid:11)#(cid:9)(cid:25)(cid:13)(cid:24)(cid:12)(cid:15)(cid:1)(cid:3) (cid:1)(cid:25)(cid:11)(cid:1)
+A(cid:27)(cid:29)(cid:28)9(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)#(cid:31);(cid:31)#B(cid:27)9(cid:28)(cid:30)(cid:22)(cid:1)(cid:13)(cid:10)@(cid:2)(cid:1)(cid:21)(cid:1)
+&(cid:30)1"#(cid:10)(cid:29)(cid:30)(cid:10)(cid:15)"!(cid:30)(cid:22)(cid:1)(cid:21)(cid:23)(cid:30)(cid:6)(cid:29)(cid:18)(cid:22)(cid:21)(cid:22)(cid:22)(cid:1)
+&(cid:30)1"#(cid:10)(cid:29)"(cid:10)(cid:13)(cid:30)!#(cid:28)<C(cid:27)(cid:28)"(cid:22)(cid:1)(cid:18)(cid:18)(cid:5)(cid:21)(cid:30)(cid:19)(cid:5)(cid:17)(cid:17)(cid:6)(cid:5)(cid:19)(cid:29)(cid:19)(cid:23)&(cid:18)
+D2(cid:30)(cid:27)!(cid:28)(cid:29)(cid:30)(cid:29)(cid:31)(cid:10)(cid:29)(cid:31)(cid:10)(cid:15)"!(cid:30) (cid:22)(cid:1)(cid:21)(cid:5)(cid:22)(cid:6)(cid:31)(cid:5)(cid:6)(cid:19)&(cid:23)(cid:31)(cid:31)(cid:21)(cid:18)(cid:22)(cid:19)(cid:22)(cid:22)
+(cid:1)
+(cid:11)’+A+./.(/(cid:1) L/2(+’(cid:1)5/(cid:1)(cid:13).4/2():/.(+2(cid:20)(cid:2)9(+’)=05+’%(cid:1)(cid:24)/’()B)30GH+(cid:1)(cid:8)(cid:1)"0,)505/(cid:1)
+MARTA (cid:1) (cid:1) Assinado de forma digital por
+ROSELI FABRIS DALLA
+FATH:04965092929 ADoDu sN a s =d :i n Ro c=a Fs (cid:1) (cid:1): d BB 2 o Re0 ,- d 2Coe 1 =P . f 0FIoC 9 A rP . m 23- 3 B, a ro 1 ad u4 si = g : i 0 l,i ( 7 t eoa :m2 ul 6 p= b oP -r0 rra e 3 M ns '0ceA 0onR ')c, T icaA nl ,F = oA MuT=A H8R :01T 40A 94 F 67A 55T 00H 9820:0 904 209 916 4570, 9o2u9=2S9e cretaria da Receita Federal do Brasil - RFB, COSTA:62760033953 (cid:1) (cid:1) R C O O S S E T L A I : 6 F 2 A 7 B 6 R 0 IS 0 3 D 3 A 9 L 5 L 3 A
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK(cid:1) KKKKKKKKKKKKKKKKKKKKKKKKK D KK a K d K o KK s: K K 2 K 0 K 2 K 1 KK .0 K 9 KK .2 K 3 KK 1 (cid:1) 0:42:21 -03'00'
+6(cid:30)#!(cid:30)(cid:10)@(cid:30)!E(cid:1) (cid:5)" (cid:31)1(cid:28)(cid:10)@(cid:30)F#(cid:28) (cid:10)(cid:11)(cid:30)11(cid:30)(cid:10)(cid:15)" !(cid:30)(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:19)(cid:5)(cid:31) (cid:17)(cid:22)(cid:5)(cid:19)(cid:21)(cid:19)(cid:8)(cid:21)(cid:19)(cid:1) (cid:24)(cid:11) %(cid:1)(cid:31)(cid:21)(cid:29)(cid:5)(cid:31)(cid:22)(cid:22)(cid:5)(cid:6)(cid:6)(cid:19)(cid:8)(cid:17)(cid:6)(cid:1)
+(cid:2)(cid:16)(cid:9)(cid:13)(cid:14)(cid:2)(cid:1)(cid:24)(cid:11)(cid:2)(cid:1)(cid:21)(cid:22)(cid:1)(cid:1)(cid:22)(cid:6)(cid:20)(cid:18)(cid:21)(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)
+(cid:1)(cid:3)/2A+.2E4/,(cid:1)A/,0(cid:1),)89)50GH+(cid:1)50(cid:1)+A/’0GH+(cid:1)
+MAICON JOSE A(cid:1)ssinado de forma digital por
+MAICON JOSE
+FERRONATTO:040 F (cid:1) ERRONATTO:04076200950
+D(cid:1)ados: 2021.09.23 11:11:46
+76200950
+KKKKKKKKKKKKKKKKKKKKKK-0KK3K'0K0K'KKKKKKKKKKKKKKKKK(cid:1)
+6(cid:30)(cid:28)9"(cid:27)(cid:10):" G(cid:10)@(cid:31)##"(cid:27)(cid:30)!!"(cid:1)
+(cid:24)(cid:11) %(cid:1)(cid:22)(cid:30)(cid:22)(cid:5)(cid:29)(cid:31)(cid:21)(cid:5)(cid:22)(cid:22)(cid:19)(cid:8)(cid:17)(cid:22)(cid:1)

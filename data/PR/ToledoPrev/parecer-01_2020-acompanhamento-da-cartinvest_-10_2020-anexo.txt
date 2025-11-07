@@ -1,0 +1,138 @@
+RELATÓRIO MENSAL DE INVESTIMENTOS
+ANÁLISE DA CARTEIRA DE INVESTIMENTOS DO FECHAMENTO DE
+OUTUBRO DE 2020
+O Comitê de Investimentos do TOLEDOPREV, vem por meio deste documento
+apresentar a análises de investimentos do TOLEDOPREV para a posição de fechamento
+de outubro/2020 (30/10/2020).
+Primeiramente é importante mencionar que diante do Boletim Focus do dia
+30/10/2020, que foi divulgado na manhã do dia 03/11/2020, pode-se verificar que a taxa
+de juros real prevista para o fechamento do ano de 2020 é de -0,99% a.a., uma vez que
+a Selic está prevista em 2,0% a.a. e o IPCA está previsto em 3,02% a.a., de acordo com a
+tabela abaixo:
+BOLETIM FOCUS BANCO CENTRAL
+2020 2021
+INDICADORES DE MERCADO
+30/10/2020 30/10/2020
+IPCA 3,02% 3,11%
+IGPM 20,23% 4,34%
+CÂMBIO (R$/US$) 5,45 5,20
+SELIC 2,00% 2,75%
+PIB -4,81% 3,34%
+PRODUÇÃO INDUSTRIAL -5,74% 4,27%
+Assim, o TOLEDOPREV, paulatinamente, irá proceder à diminuição dos recursos
+alocados no artigo 7º, Inciso IV, alínea a, mais precisamente irá reduzir o montante
+aplicado nos fundos atrelados ao CDI, a fim de que sua rentabilidade não acabe por
+prejudicar o distanciamento cada vez maior de se bater a meta atuarial do TOLEDOPREV,
+que é definida como sendo INPC + 5,87% a.a. Tanto é verdade que nos dias 26/10/2020
+e 28/10/2020, foram realizados dois saques no fundo FI CAIXA BRASIL IRF-M 1 TÍTULOS
+PÚBLICOS RF, nos respectivos valores de R$ 3.220.804,71 e 1.142.047,59, totalizando o
+valor de R$ 4.362.852,3, que equivale ao percentual total de 5,20% da carteira.
+1
+Ainda, com base no referido relatório FOCUS que apresenta valores consideráveis de
+crescimento do Produto Interno Bruto (PIB) para 2021 (3,34%) e da Produção Industrial
+também para 2021 em 4,25% a.a., ou seja, de um provável crescimento das empresas
+e, consequentemente da valorização das ações que são negociadas na Bolsa [B]3, e,
+levando-se em conta a necessidade do TOLEDOPREV ir assumindo a cada dia que passa
+maior assunção de risco para a busca incessante de tentar bater a meta atuarial, o
+TOLEDOPREV começou a aumentar suas alocações não só em fundos de investimentos
+do segmento de renda variável como também em fundos do segmento de investimentos
+no exterior, mesmo porquê este último segmento acaba por gerar uma diversificação
+genuína na carteira, propiciando a diminuição de risco do portfólio do TOLEDOPREV
+como um todo, em virtude, principalmente da correlação negativa verificada entre os
+fundos de Ações BDR Nível I com os principais benchmarks da bolsa local, tais como o
+Ibovespa e o IBrX-100.
+Assim, em 05/10/2020, o dinheiro que foi recebido do vencimento do Fundo FIC CAIXA
+CAP PROT BOLSA DE VALORES MULTIMERCADO, no valor de R$ 3.498.720,47, foi
+realocado para três fundos: em 08/10/2020 em um fundo de investimento
+multimercado atrelado à Bolsa Americana chamado CAIXA BOLSA AMERICANA FI
+MULTIMERCADO LP (R$ 2.498.720,47), em 09/10/2020 em um fundo de investimento
+em ações local denominado FIC FIA CAIXA MULTIGESTOR (R$ 307.948,47) e em um
+fundo de investimento em ações BDR Nível I chamado FIA CAIXA INSTITUCIONAL BDR
+NÍVEL I (R$ 1.000.000,00).
+Por fim, no dia 28/10/2020 foi investido o valor de R$ 1.532.037,50 no fundo FIC FI CAIXA
+BRASIL RF ATIVA LP e no dia 29/10/2020 foi investido mais um valor de R$ 500.000,00
+no fundo FIA CAIXA INSTITUCIONAL BDR NÍVEL I.
+Com todas essas movimentações realizadas ao longo do mês, o TOLEDOPREV acabou
+fechando o mês com a seguinte alocação, tendo em vista os três seguimentos permitidos
+pela Resolução CMN nº 3.922/10:
+• Segmento de Renda Fixa: R$ 335.913.166,58 (90,68%);
+• Segmento de Renda Variável e Investimentos Estruturados: R$ 29.685.058,99
+(8,01%);
+• Segmento de Investimentos no Exterior: R$ 4.847.102,53 (1,31%);
+• Total TOLEDOPREV: R$ 370.445.328,10.
+2
+Vale ainda ressaltar que no mês de outubro o TOLEDOPREV atingiu uma rentabilidade
+de -0,13%, a meta atuarial foi 1,37%, fazendo com que o TOLEDOPREV não conseguisse
+bater a meta no referido mês, faltando 1,5%. No ano de 2020, o TOLEDOPREV apresenta
+uma rentabilidade acumulada de 1,10%, enquanto que sua meta resulta em 7,94%, não
+batendo a meta no ano estando distante em 6,84%, principalmente pelo fato da triste
+pandemia ter acometido todo o mercado financeiro que acabou por gerar valores
+negativos para a carteira do TOLEDOPREV nos meses de Fevereiro (-0,14%), Março
+(-3,86%), Agosto (-0,63%) e Setembro (-0,87).
+Neste contexto, o TOLEDOPREV apresenta em 2020, os seguintes resultados de retorno
+e risco com relação à sua carteira de investimentos:
+• 3 meses: Carteira (-1,62%), Meta Atuarial (3,60%), Não Bateu a Meta Atuarial
+Faltando (5,22%), com o risco de sua carteira ficando em 3,98% de
+volatilidade anual;
+• 6 meses: Carteira (3,37%), Meta Atuarial (5,63%), Não Bateu a Meta Atuarial
+Faltando (2,26%), com o risco de sua carteira ficando em 3,83% de
+volatilidade anual;
+• Ano: Carteira (1,10%), Meta Atuarial (7,94%), Não Bateu a Meta Atuarial
+Faltando (6,84%), com o risco de sua carteira ficando em 8,08% de
+volatilidade anual.
+Definindo-se a metodologia do Value at Risk (VaR), como sendo a perda máxima
+potencial da carteira do TOLEDOPREV, para um horizonte de 21 dias úteis e nível de
+confiança de 95%, apura-se que o VaR da carteira foi R$ 6.520.826,02, representando o
+percentual de 1,76%. O VaR do Segmento de Renda Fixa foi 1,35%, sendo que o limite
+estipulado na Política de Investimentos é 5%, o VaR do Segmento de Renda Variável foi
+8,91%, sendo que o limite estipulado na Política de Investimentos é 20% e o VaR do
+Segmento de Investimentos no Exterior foi 13,17%, que passará a ter um respectivo
+limite para a próxima Política de Investimentos 2021, estando, portanto dentro dos
+limites de VaR estipulados na Política de Investimentos do TOLEDOPREV.
+Com relação ao Risco de Crédito, o TOLEDOPREV está começando a efetuar a análise de
+abertura de carteiras através do arquivo xml da ANBIMA de cada um de seus fundos de
+investimentos, para fazer a análise das contrapartes (emissores) de cada um dos ativos
+de crédito tendo em vista os ratings definidos em sua Política de Investimentos.
+3
+Em se tratando do Risco de Liquidez, a carteira do TOLEDOPREV possui os seguintes
+resultados para cada uma das faixas:
+• Período de 0 a 30 dias: R$ 342.735.577,76 (92,52%), sendo que a Política de
+Investimentos estipula o mínimo de 90%;
+• Período de 31 a 364 dias: R$ 18.633.880,34 (5,03%), sendo que a Política de
+Investimentos estipula o mínimo de 0,0%;
+• Período acima de 365 dias: R$ 9.075.870,00 (2,45%), sendo que a Política de
+Investimentos estipula o mínimo de 0,0%.
+Como última análise vale afirmar que os investimentos da carteira do TOLEDOPREV
+estão enquadrados de acordo com os ditames da Resolução CMN nº 3.922/10 e, ainda
+que estão respeitando os limites mínimos e máximos estabelecidos na Política de
+Investimentos para buscar atingir sua respectiva alocação objetivo!
+Sendo essas as considerações do Comitê de Investimentos do TOLEDOPREV sobre o
+período analisado OUTUBRO 2020, segue em anexo a este parecer:
+• Relatório do Extrato Consolidado de Investimentos Outubro/2020 emitido pela
+Consultoria de Investimento LDB.
+Segue para parecer do Conselho Fiscal.
+Jaldir Anholeto
+JALDIR Assinado de forma digital por JALDIR
+Presidente do Conselho de Administração AN HOLETO:70249423987
+ANHOLETO:70249423987
+ANBIMA CPA-10 06/03/2023 Dados: 2020.12.02 17:21:08 -03'00'
+Lucélia Giaretta Mattiello
+LUCELIA GIARETTA Assinado de forma digital por LUCELIA
+Presidente do Conselho Fiscal
+GIARETTA MATTIELLO:66296943920
+MATTIELLO:66296943920
+ANBIMA CPA-10 19/02/2022 Dados: 2020.12.02 17:15:42 -03'00'
+Misael Giane Avanci MISAEL GIANE Assinado de forma digital por
+Representante dos Segurados MIS AEL GIANE AVANCI:62757024949
+AVANCI:62757024949
+ANBIMA CPA-10 15/03/2022 Dados: 2020.12.02 17:37:35 -03'00'
+Roseli Fabris Dalla Costa ROSELI FABRIS DALLA Assinado de forma digital por ROSELI
+Coordenadora do TOLEDOPREV FAB RIS DALLA COSTA:62760033953
+COSTA:62760033953
+ANBIMA CPA-20 03/12/2022 Dados: 2020.12.02 13:22:20 -03'00'
+Wilmar da Silva WILMAR DA Assinado de forma digital por WILMAR
+Contador DA S ILVA:52504794991
+SILVA:52504794991
+Dados: 2020.12.02 17:43:00 -03'00'
+ANBIMA CPA-10 17/04/2022
+4

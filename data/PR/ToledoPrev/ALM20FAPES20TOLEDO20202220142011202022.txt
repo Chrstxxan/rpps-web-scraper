@@ -1,0 +1,523 @@
+FAPES - TOLEDO
+ALM 2022
+Data: 14/11/2022
+CENÁRIO
+MACROECONÔMICO
+ATUAL
+TAXA DE JUROS: 16/07/2018
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,83% a.a. para 10 anos.
+5,83% a.a.
+Curva de Juros Real
+6,00%
+5,00%
+4,00%
+3,00%
+1 2 3 4 5 6 7 8 9 10
+TAXA DE JUROS: 09/10/2018
+(1º turno: 07/10/18)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,50% a.a. para 10 anos.
+5,50% a.a.
+TAXA DE JUROS: 12/11/2018
+(2º turno: 28/10/18)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,11% a.a. para 10 anos.
+5,11% a.a.
+TAXA DE JUROS: 10/12/2018
+(Nomes Novo Governo)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 4,90% a.a. para 10 anos.
+4,90% a.a.
+TAXA DE JUROS: 17/01/2019
+(Nova Previdência)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 4,45% a.a. para 9 anos.
+4,45 % a.a.
+TAXA DE JUROS: 18/03/2019
+(Antes Prisão Temer 21/03)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 4,14% a.a. para 9 anos.
+Curva de Juros Real
+4,14 % a.a.
+4,30%
+3,80%
+3,30%
+2,80%
+2,30%
+1,80%
+1 2 3 4 5 6 7 8 9
+TAXA DE JUROS: 17/02/2020
+(Antes Pandemia COVID-19)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 2,95% a.a. para 10 anos.
+2,95 % a.a.
+TAXA DE JUROS: 08/04/2021
+(Início do Ciclo de Alta da Selic)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 3,97% a.a. para 9,5 anos.
+3,97 % a.a.
+Curva de Juros Real
+4,00%
+3,00%
+2,00%
+1,00%
+0,00%
+1 2 3 4 5 6 7 8 9 9,5
+TAXA DE JUROS: 10/03/2022
+(Após a invasão da Ucrânia)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,91% a.a. para 10 anos.
+Curva de Juros Real
+6,25%
+5,91 % a.a.
+6,00%
+5,75%
+1 2 3 4 5 6 7 8 9 10
+MERCADO de NTNBs: 04/11/2022
+(Taxa Real da P.I. 4,90% a.a.)
+Intervalo Indicativo
+Data de Tx. Tx. Tx.
+PU Mínimo Máximo Mínimo Máximo
+Vencimento Compra Venda Indicativas
+(D0) (D0) (D+1) (D+1)
+15/03/2023 5,566 5,545 5,5524 3.995,79 4,7274 7,1645 4,5724 7,0284
+15/05/2023 5,5664 5,5439 5,5534 4.078,44 4,9898 6,7741 4,8263 6,6242
+15/08/2024 5,8114 5,7855 5,8 4.022,79 5,5959 6,1881 5,5387 6,1312
+15/05/2025 5,4258 5,4022 5,4135 4.122,94 5,1744 5,7616 5,1383 5,7255
+15/08/2026 5,463 5,4405 5,4522 4.080,28 5,1738 5,7314 5,1603 5,7179
+15/05/2027 5,6032 5,5755 5,5847 4.133,42 5,2873 5,8367 5,2771 5,8265
+15/08/2028 5,6379 5,6011 5,6172 4.083,11 5,3135 5,8282 5,3106 5,8254
+15/08/2030 5,6512 5,6222 5,6379 4.100,57 5,3483 5,8053 5,3598 5,8168
+15/08/2032 5,7893 5,752 5,7703 4.078,10 5,4983 5,9173 5,5149 5,9338
+15/05/2035 5,8024 5,7672 5,7818 4.148,97 5,5265 5,9086 5,5483 5,9303
+15/08/2040 5,7524 5,7189 5,733 4.129,85 5,5009 5,8432 5,5239 5,8662
+15/05/2045 5,8463 5,8151 5,8333 4.157,16 5,6093 5,9324 5,6359 5,9589
+15/08/2050 5,8517 5,8127 5,8323 4.107,03 5,6213 5,9315 5,643 5,9532
+15/05/2055 5,854 5,8135 5,8321 4.172,89 5,6255 5,9299 5,6476 5,9519
+15/08/2060 5,8561 5,8241 5,84 4.113,38 5,6335 5,9334 5,6592 5,959
+(www.anbima.com.br)
+BOLETIM FOCUS: 04/11/2022
+BOLETIM FOCUS BANCO CENTRAL
+2022 2023
+INDICADORES DE MERCADO
+04/11/2022 04/11/2022
+IPCA 5,63% 4,94%
+IGPM 6,35% 4,55%
+CÂMBIO (R$/US$) 5,20 5,20
+SELIC 13,75% 11,25%
+PIB 2,76% 0,70%
+PORTARIA
+MTP nº 1.467,
+02/06/2022
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 141. A unidade gestora do RPPS, em caso de negociações diretas
+com títulos de emissão do Tesouro Nacional, deverá observar os
+parâmetros previstos no Anexo VIII, da Portaria MTP nº 1.467/22.
+Art. 142. É vedada, nos termos de resolução do CMN, a aplicação dos
+recursos financeiros acumulados pelo RPPS em títulos:
+I - que não sejam emitidos pelo Tesouro Nacional;
+II - que não estejam registrados no SELIC; e
+III - emitidos por Estados, Distrito Federal ou Municípios.
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 143. Deverão ser observados os princípios e normas de
+contabilidade aplicáveis ao setor público para o registro dos valores
+da carteira de investimentos do RPPS, tendo por base metodologias,
+critérios e fontes de referência para precificação dos ativos,
+estabelecidos na política de investimentos, as normas da CVM e do
+Banco Central do Brasil e os parâmetros reconhecidos pelo mercado
+financeiro.
+Art. 144. Os ativos financeiros integrantes das carteiras dos RPPS
+devem ser registrados inicialmente pelo custo de aquisição, formado
+pelo valor efetivamente pago, além de corretagens e emolumentos.
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 145. Os ativos financeiros integrantes das carteiras dos RPPS
+poderão ser classificados nas seguintes categorias, conforme
+critérios previstos no Anexo VIII, da Portaria 1.467/22:
+I - disponíveis para negociação futura ou para venda imediata; ou
+II - mantidos até o vencimento.
+Art. 146. Poderá ser realizada a reclassificação dos ativos da
+categoria de mantidos até o vencimento para a categoria de ativos
+disponíveis para negociação, ou vice-versa, na forma prevista no
+Anexo VIII.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º. A unidade gestora do RPPS, em caso de negociações diretas
+com títulos de emissão do Tesouro Nacional, deverá comprovar:
+......................................................
+I - a consulta às informações divulgadas por entidades representativas
+de participantes do mercado financeiro e de capitais
+reconhecidamente idôneas pela sua transparência e elevado padrão
+técnico na difusão de preços e taxas dos títulos, e a sua utilização
+como referência nas negociações (ANBIMA), bem como, ao volume,
+preços, e taxas das operações registradas no SELIC, antes do efetivo
+fechamento da operação;
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º ......................(Continuação):
+II - a utilização de plataformas eletrônicas administradas por
+sistemas autorizados a funcionar pelo Banco Central do Brasil ou pela
+CVM ou que as aquisições foram efetuadas em ofertas públicas do
+Tesouro Nacional, por intermédio das instituições regularmente
+habilitadas;
+III - o registro do valor e do volume dos títulos efetivamente
+negociados; e
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º ......................(Continuação):
+IV - que os títulos estão sob a titularidade do RPPS, com base nas
+informações de sistema de registro, de custódia ou de liquidação
+financeira, sejam depositados perante depositário central (SELIC).
+Parágrafo único. Além de consulta às taxas e preços na forma do
+inciso I do caput, no dia das negociações, deverão ser verificados os
+registros no SELIC das operações do dia anterior, conforme
+informações divulgadas pelo Banco Central do Brasil ou pelas
+entidades representativas de participantes do mercado financeiro e
+de capitais.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 3º. A plataforma eletrônica de negociação deverá garantir que o
+preço e taxa a ser negociado na aquisição ou venda do título decorra
+de condições normais de mercado, impossibilitando a criação de
+condições artificiais de oferta ou de demanda e a adoção de práticas
+não equitativas pelos participantes.
+Art. 4º. Para comprovação de operações realizadas em ofertas
+públicas do Tesouro Nacional, a unidade gestora deverá arquivar os
+documentos de comunicação com a instituição que participou do
+leilão.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 5º. Os ativos financeiros integrantes das carteiras dos RPPS
+poderão ser classificados nas seguintes categorias, conforme
+critérios estabelecidos no referido Anexo VIII:
+I - disponíveis para negociação futura ou para venda imediata; ou
+II - mantidos até o vencimento.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 7º. Os ativos da categoria de mantidos até o vencimento
+deverão ser contabilizados pelos seus custos de aquisição, acrescidos
+dos rendimentos auferidos, devendo ser atendidos os seguintes
+parâmetros:
+I - demonstração da capacidade financeira do RPPS de mantê-los em
+carteira até o vencimento (ELABORAÇÃO DE ESTUDO DE ALM -
+PASSIVO);
+II - demonstração, de forma inequívoca, pela unidade gestora, da
+intenção de mantê-los até o vencimento (DECLARAÇÃO FORMAL);
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 7º. ......................(Continuação):
+III - compatibilidade com os prazos e taxas das obrigações presentes e
+futuras do RPPS (ELABORAÇÃO DE ESTUDO DE ALM - ATIVO);
+IV - classificação contábil e controle separados dos ativos disponíveis
+para negociação; e
+V - obrigatoriedade de divulgação das informações relativas aos ativos
+adquiridos, ao impacto nos resultados atuariais e aos requisitos e
+procedimentos contábeis, na hipótese de alteração da forma de
+precificação dos ativos.
+MARCAÇÃO
+A MERCADO
+(MtM)
+MARCAÇÃO NA CURVA X MARCAÇÃO A MERCADO
+CURVA
+MERCADO
+TEMPO
+EDADILIBATNER
+ASSET LIABILITY
+MANAGEMENT (ALM)
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+RISCOS FINANCEIROS
+ATIVOS
+ALM
+(Asset
+RISCOS ATUARIAIS
+Liability
+Management)
+PASSIVO
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+4,90 % a.a.
+TÍTULOS PÚBLICOS: NTN-B: IPCA + 6% a.a.
+TÍTULOS PÚBLICOS: NTN-B
+* Quando a taxa negociada pelo mercado está
+abaixo dos 6% (que é a taxa definida pelo Tesouro
+Nacional para as NTNBs), o título está sendo
+negociado com Ágio, ou seja, está mais caro e,
+consequentemente, adquire-se uma quantidade
+menor de títulos, uma vez que o fluxo dos cupons
+vai ser descontado (trazido a valor presente) a uma
+taxa menor!
+TÍTULOS PÚBLICOS: NTN-B
+* Quando a taxa negociada pelo mercado está
+acima dos 6% (que é a taxa definida pelo Tesouro
+Nacional para as NTNBs), o título está sendo
+negociado com Deságio, ou seja, está mais barato
+e, consequentemente, adquire-se uma quantidade
+maior de títulos, uma vez que o fluxo dos cupons
+vai ser descontado (trazido a valor presente) a uma
+taxa maior!
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+E como tudo isso é analisado?
+A Gestão de Ativos e Passivos permitirá
+avaliar as projeções dos riscos atuariais e
+financeiros.
+Passivo
+* Mensuração da necessidade de caixa;
+* Projeção das reservas matemáticas.
+Ativo
+* Controle de liquidez;
+* Acompanhamento da solvência;
+* Projeções de retorno da carteira.
+ALM: ESTRUTURA
+Cenários dos Benchmarks
+CENÁRIO
+ECONÔMICO Obtenção de retornos e volatilidades
+Projeção do Passivo
+ALM Valor anual de fluxo de caixa
+Otimização do Ativo
+ATIVO
+PASSIVO Otimização da carteira
+Mitigação de risco de liquidez
+Mitigação de risco de solvência
+Ponto ótimo entre Risco e Retorno
+FRONTEIRA EFICIENTE DE MARKOWITZ
+(31/12/2010 à 31/03/2022)
+MATRIZ DE COVARIÂNCIA
+SELIC IRF-M IMA-B SP500 MSCI AC IFIX SMLL
+SELIC 0,006% 0,009% 0,007% -0,001% -0,001% 0,010% 0,007%
+IRF-M 0,009% 0,048% 0,072% 0,006% -0,060% 0,063% 0,113%
+IMA-B 0,007% 0,072% 0,170% 0,053% -0,096% 0,130% 0,290%
+SP500 -0,001% 0,006% 0,053% 0,522% 0,297% 0,152% 0,462%
+MSCI AC -0,001% -0,060% -0,096% 0,297% 0,693% -0,027% -0,051%
+IFIX 0,010% 0,063% 0,130% 0,152% -0,027% 0,369% 0,474%
+SMLL 0,007% 0,113% 0,290% 0,462% -0,051% 0,474% 1,526%
+SELIC IRF-M IMA-B SP500 MSCI AC IFIX SMLL
+Retornos a.a. 1,59% 0,00% 4,00% 9,00% 12,00% 0,00% 18,50%
+Volatilidade a.a. 0,81% 2,19% 4,12% 7,22% 8,33% 6,07% 12,35%
+PASSIVO FAPES 2022
+Resultado (Receitas -Despesas) FAPES 2022
+200.000.000,00
+100.000.000,00
+-
+-100.000.000,00
+-200.000.000,00
+-300.000.000,00
+-400.000.000,00
+FRONTEIRA EFICIENTE DE MARKOWITZ Taxa Real PI = 4,90% a.a.
+8,50%
+8,00%
+7,50%
+7,00%
+6,50%
+6,00%
+5,50%
+5,00%
+4,50%
+2,8% 3,0% 3,3% 3,5% 3,8% 4,0% 4,3% 4,5%
+aa%
+laeR
+onroteR
+Fronteira Eficiente de Markowitz
+2º
+Risco -Volatilidade Ano %
+CARTEIRAS DA FRONTEIRA EFICIENTE DE MARKOWITZ
+N Retorno a.a. Risco a.a. SELIC IRF-M IMA-B S&P500 MSCI AC IFIX SMLL
+1 4,73% 2,93% 15,00% 0,00% 69,14% 5,86% 10,00% 0,00% 0,00%
+2 5,01% 2,95% 15,00% 0,00% 64,51% 10,00% 10,00% 0,00% 0,49%
+3 5,29% 3,04% 15,00% 0,00% 62,59% 10,00% 10,00% 0,00% 2,41%
+4 5,57% 3,14% 15,00% 0,00% 60,67% 10,00% 10,00% 0,00% 4,33%
+5 5,85% 3,25% 15,00% 0,00% 58,75% 10,00% 10,00% 0,00% 6,25%
+6 6,12% 3,37% 15,00% 0,00% 56,83% 10,00% 10,00% 0,00% 8,17%
+7 6,40% 3,49% 15,00% 0,00% 54,91% 10,00% 10,00% 0,00% 10,09%
+8 6,68% 3,63% 15,00% 0,00% 52,99% 10,00% 10,00% 0,00% 12,01%
+9 6,96% 3,77% 15,00% 0,00% 51,07% 10,00% 10,00% 0,00% 13,93%
+10 7,24% 3,91% 15,00% 0,00% 49,15% 10,00% 10,00% 0,00% 15,85%
+11 7,52% 4,06% 15,00% 0,00% 47,23% 10,00% 10,00% 0,00% 17,77%
+12 7,79% 4,21% 15,00% 0,00% 45,31% 10,00% 10,00% 0,00% 19,69%
+13 8,07% 4,37% 15,00% 0,00% 43,39% 10,00% 10,00% 0,00% 21,61%
+FAPES 30/09/2022: R$ 438.079.768,74
+ALOCAÇÃO MARKOWITZ
+BENCHMARKS % ALOCAÇÃO R$
+SELIC/CDI 15,00% 65.711.965,31
+IMA-B 64,51% 2 82.595.783,47
+SMLL 0,49% 2.156.066,22
+MSCI AC 10,00% 43.807.976,87
+S&P500 10,00% 43.807.976,87
+IFIX 0,00% -
+TOTAL 100,00% 4 38.079.768,74
+FAPES 30/09/2022: R$ 438.079.768,74
+ALOCAÇÃO EM (NTN-Bs) IMA-B = 64,51% = R$ 282.595.783,47
+NTNB NTNB NTNB NTNB NTNB NTNB
+282.595.783,47
+15/08/2030 15/05/2035 15/08/2040 15/05/2045 15/08/2050 15/05/2055
+ALOCAÇÃO (%) 3,81% 6,17% 13,04% 20,08% 25,94% 30,96%
+ALOCAÇÃO (R$) 10.764.304,61 17.426.188,07 36.859.924,44 56.746.861,76 73.312.620,83 87.485.883,76
+ATUAL FAPES TOLEDO 0,00 0,00 0,00 0,00 0,00 0,00
+DIFERENÇA 10.764.304,61 17.426.188,07 36.859.924,44 56.746.861,76 73.312.620,83 87.485.883,76
+PUs NTNBs em 04/11/2022 4.100,57 4.148,97 4.129,85 4.157,16 4.107,03 4.172,89
+QUANTIDADES de NTNBs 2.625 4.200 8.925 13.650 17.851 20.965
+FAPES RF 30/09/2022: R$ 358.412.667,58 (81,81%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+FI CAIXA BRASIL 2023 TP RF 14.044.824,24 3,21%
+FI CAIXA BRASIL TP RF LP 22.837.251,38 5,21%
+FI CAIXA BRASIL IMA B TP RF LP 32.492.144,95 7,42%
+FI CAIXA BRASIL IRF M 1 TP RF LP 25.214.234,48 5,76%
+FI CAIXA BRASIL IMA B 5 TP RF LP 30.946.734,80 7,06%
+Artigo 7º I,
+FI CAIXA BRASIL IMA B 5+ TP RF LP 3.545.561,22 283.286.223,88 0,81% 64,67% IMA-B 64,51% 282.595.783,47 -690.440,41 -0,16%
+Alínea b
+FI CAIXA BRASIL IDKA IPCA 2A TP RF LP 34.672.960,87 7,91%
+BB PREV RF ALOCAÇÃO ATIVA FIC FI 22.170.192,14 5,06%
+FICFI CAIXA BRASIL GEST ESTRATÉG RF 51.747.805,73 11,81%
+FI CAIXA BRASIL 2024 V TP RF 9.273.641,22 2,12%
+ITAU INSTIT LEGEND RF LP FIC FI 36.340.872,85 8,30%
+FI CAIXA BRASIL RF REF DI LP 16.193.685,58 3,70%
+Artigo 7º III,
+FI CAIXA BRASIL MATRIZ RENDA FI 38.073.906,92 8,69%
+Alínea a
+FIC FI CAIXA BRASIL RF ATIVA LP 8.733.815,55 75.126.443,70 1,99% 17,15% CDI/SELIC 15,00% 65.711.965,31 -9.414.478,39 -2,15%
+Artigo 7º V,
+RIO BRAVO CRÉDITO PRIVADO FI RF 12.125.035,65 2,77%
+Alínea b
+TOTAL 358.412.667,58 358.412.667,58 81,81% 81,81% - 79,51% 348.307.748,78 -10.104.918,80 -2,31%
+FAPES X MARKOWITZ: DIAGNÓSTICO RF
+ALOCAÇÃO MODELO:
+* CDI/SELIC (15,0%) = R$ 65.711.965,31
+* IMA-B (64,51%) = R$ 282.595.783,47
+* TOTAL RF = 79,51% = R$ 348.307.748,78
+ALOCAÇÃO ATUAL:
+* CDI/SELIC (17,15%) = R$ 75.126.443,70
+* IMA-B (64,67%) = R$ 283.286.223,88
+* TOTAL RF = 81,81% = R$ 358.412.667,58
+FAPES X MARKOWITZ: RENDA FIXA
+DIAGNÓSTICO:
+* DIMINUIR A ALOCAÇÃO DO ARTIGO 7º, I, B, EM FUNDOS QUE NÃO SEJAM
+ATRELADOS AO IMA-B, NUM TOTAL DE R$ 690.440,41 (0,16%);
+* DIMINUIR A ALOCAÇÃO EM FUNDOS ATRELADOS A SELIC/CDI, NUM TOTAL DE
+R$ 9.414.478,39 (2,15%);
+* NO TOTAL, DIMINUIR A ALOCAÇÃO EM RENDA FIXA NUM TOTAL DE
+R$10.104.918,80 (2,31%);
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FAPES RV 30/09/2022: R$ 26.867.349,99 (6,13%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+FIA CAIXA CONSTRUÇÃO CIVIL 1.073.074,69 0,24%
+BAHIA AM VALUATION FIC DE FIA 4.529.733,54 1,03%
+FIA CAIXA CONSUMO 989.696,62 0,23%
+FIC FIA CAIXA VINCI VALOR DIVID RPPS 4.192.522,26 0,96%
+Artigo 8º I 26.867.349,99 6,13% SMLL 0,49% 2.156.066,22 -24.711.283,77 -5,64%
+FIA CAIXA SMALL CAPS ATIVO 1.440.551,86 0,33%
+ITAU ACOES DUNAMIS FIC 4.418.503,27 1,01%
+FIC FIA CAIXA MULTIGESTOR 7.633.698,35 1,74%
+ITAÚ AÇÕES MOMENTO 30 II FIC DE FI 2.589.569,40 0,59%
+TOTAL 26.867.349,99 26.867.349,99 6,13% 6,13% - 0,49% 2.156.066,22 -24.711.283,77 -5,64%
+FAPES X MARKOWITZ: DIAGNÓSTICO RV
+ALOCAÇÃO MODELO:
+* SMLL (0,49%) = R$ 2.156.066,22
+* TOTAL = 0,49% = R$ 2.156.066,22
+ALOCAÇÃO ATUAL:
+* SMLL (6,13%) = R$ 26.867.349,99
+* TOTAL RV = 6,13% = R$ 26.867.349,99
+FAPES X MARKOWITZ: RENDA VARIÁVEL
+DIAGNÓSTICO:
+* DIMINUIR A ALOCAÇÃO EM FUNDOS DE AÇÕES DO ARTIGO 8º, I, NUM TOTAL
+DE R$ 24.711.283,77 (5,64%);
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FAPES INVº EXTERIOR 30/09/2022 = R$ 22.809.546,55 (5,21%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+AXA WF FRAMLING DIG ECON ADV FIC FIA IE 6.863.269,15 1,57%
+Artigo 9º II
+MS GLOBAL OPPORT ADV FIC FIA IE 2.833.776,46 22.809.546,55 0,65% 5,21% MSCI AC 10,00% 43.807.976,87 20.998.430,32 4,79%
+Artigo 9º III FIA CAIXA INSTITUCIONAL BDR NÍVEL I 13.112.500,94 2,99%
+TOTAL 22.809.546,55 22.809.546,55 5,21% 5,21% - 10,00% 43.807.976,87 20.998.430,32 4,79%
+# ALOCAÇÃO MODELO = # ALOCAÇÃO ATUAL =
+10,0% = R$ 43.807.976,87 5,21% = R$ 22.809.546,55
+* AUMENTAR A ALOCAÇÃO EM FUNDOS DO ARTIGO 9º, NUM TOTAL DE R$ 20.998.430,32
+(4,79%).
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL POLÍTICA
+ANUAL DE INVESTIMENTOS.
+FAPES INVESTº ESTRUTURADOS 30/09/2022: R$ 29.990.204,62 (6,85%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+RIO BRAVO PROT BOLSA AMERIC FI MULTIM 9.966.637,00 2,28%
+RIO BRAVO PROTEÇÃO II FI MULTIMERCADO 7.328.441,68 1,67%
+Artigo 10 I 29.990.204,62 6,85% S&P500 10,00% 43.807.976,87 13.817.772,25 3,15%
+CAIXA BOLSA AMERIC FI MULTIMERCADO LP 8.656.911,02 1,98%
+RIO BRAVO PROTEÇÃO FI MULTIMERCADO 4.038.214,92 0,92%
+TOTAL 29.990.204,62 29.990.204,62 6,85% 6,85% - 10,00% 43.807.976,87 13.817.772,25 3,15%
+# ALOCAÇÃO MODELO = #ALOCAÇÃO ATUAL =
+10,0% = R$ 43.807.976,87 6,85 % = R$ 29.990.204,62
+* AUMENTAR A ALOCAÇÃO EM FUNDOS MULTIMERCADOS ATRELADOS AO S&P500,
+DO ARTIGO 10, I, NUM TOTAL DE R$ 13.817.772,25 (3,15%).
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FAPES FUNDOS IMOBILIÁRIOS 30/09/2022 = R$ 0,0 (0,0%)
+4.963/21 Ativos R$ % Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+Artigo 11 Fundos Investimentos Imobiliários 0,00 0,00% IFIX 0,00% 0,00 0,00 0,00%
+TOTAL 0,00 0,00% - 0,00% 0,00 0,00 0,00%
+* NÃO EFETUAR ALOCAÇÃO EM FUNDOS IMOBILIÁRIOS DO ARTIGO 11!
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FAPES 30/09/2022 x MARKOWITZ x PI 2022
+Limite Legal PRÓ
+Artigo Tipo de Ativo R$ % % Total Benchmarks % Markowitz Mínimo Sugestão Objetivo Máximo
+GESTÃO NÍVEL 2
+Artigo 7º I, Alínea a Títulos Públicos Federais 0,00 0,00% 0,0% 35,00% 10,0% 100,0% 100,0%
+64,67% IMA-B 64,51%
+Artigo 7º I, Alínea b Fundos 100% Títulos Públicos 283.286.223,88 64,67% 0,0% 29,51% 47,0% 100,0% 100,0%
+Artigo 7º III, Alínea a Fundos Renda Fixa 63.001.408,05 14,38% 0,0% 12,23% 15,0% 70,0% 70,0%
+17,15% CDI/SELIC 15,00%
+Artigo 7º V, Alínea b FI RF - Crédito Privado 12.125.035,65 2,77% 0,0% 2,77% 3,0% 10,0% 10,0%
+Artigo 8º I Fundos de Ações 26.867.349,99 6,13% 6,13% SMLL 0,49% 0,0% 0,49% 5,0% 40,0% 40,0%
+Artigo 9º II Fundos de Investimento no Exterior 9.697.045,61 2,21% 0,0% 4,00% 4,0% 10,0% 10,0%
+5,21% MSCI AC 10,00%
+Artigo 9º III Fundos de Ações BDR Nível I 13.112.500,94 2,99% 0,0% 6,00% 6,0% 10,0% 10,0%
+Artigo 10 I Fundos Multimercados 29.990.204,62 6,85% 6,85% S&P500 10,00% 0,0% 10,00% 10,0% 10,0% 10,0%
+Artigo 11 Fundos Investimentos Imobiliários 0,00 0,00% 0,00% IFIX 0,00% 0,0% 0,00% 0,0% 10,0% 10,0%
+TOTAL 438.079.768,74 100,00% 100,00% - 100,00% - 100,00% - - -
+HEDGE DO PASSIVO FAPES 2022
+8.000.000,00
+7.500.000,00
+7.000.000,00
+6.500.000,00
+6.000.000,00
+5.500.000,00
+5.000.000,00
+4.500.000,00
+4.000.000,00
+3.500.000,00
+3.000.000,00
+2.500.000,00
+2.000.000,00
+1.500.000,00
+1.000.000,00
+500.000,00
+0,00
+-500.000,00
+-1.000.000,00
+-1.500.000,00
+-2.000.000,00
+-2.500.000,00
+-3.000.000,00
+-3.500.000,00
+-4.000.000,00
+2202/10/10 3202/10/10 4202/10/10 5202/10/10 6202/10/10 7202/10/10 8202/10/10 9202/10/10 0302/10/10 1302/10/10 2302/10/10 3302/10/10 4302/10/10 5302/10/10 6302/10/10 7302/10/10 8302/10/10 9302/10/10 0402/10/10 1402/10/10 2402/10/10 3402/10/10 4402/10/10 5402/10/10 6402/10/10 7402/10/10 8402/10/10 9402/10/10 0502/10/10 1502/10/10 2502/10/10 3502/10/10 4502/10/10 5502/10/10
+Ativo x Passivo
+(Milhares)
+ALM: CONCLUSÃO
+CENÁRIO
+ECONÔMICO
+A Gestão de
+Ativos e Passivos
+ALM
+possibilita a
+diminuição dos
+RISCOS,
+aumentando a
+chance de
+ATIVO PASSIVO SUCESSO do
+objetivo buscado!
+CURRICULUM VITAE: RONALDO DE OLIVEIRA, MSc.
+# Bacharel em Estatística pela Universidade de São Paulo (IME/USP – 1993 à 1997);
+* Estatístico: CONRE 3ª Região nº 1.649;
+# Bacharel em Direito pela Pontifícia Universidade Católica de São Paulo (PUC/SP – 1994 à
+1998);
+* Advogado: OAB/SP nº 162.211;
+# Mestre em Engenharia Elétrica pela Escola Politécnica da Universidade de São Paulo
+(POLI/USP – 1999 à 2003);
+# Bacharel em Ciências Atuariais pela Pontifícia Universidade Católica de São Paulo
+(PUC/SP - 2003 à 2007).
+* Atuário: registro nº 0002207/RJ.
+MUITO
+OBRIGADO!

@@ -1,0 +1,316 @@
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205002
+Segmento: Renda Fixa
+Tipo de ativo: Fundos de Investimento em Renda Fixa - Geral - Art. 7º, III, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 06/05/2022 Data da liquidação: 06/05/2022
+Quantidade antes: 10.980.301,1149684500 Quantidade após: 14.059.492,4440054500
+Quantidade: 3.079.191,3290370000 Valor: R$ 1,58
+Valor da operação: R$ 4.849.738,66
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.050.142.829,26
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação na conta 492-4 no Fundo de Investimento FI CAIXA BRASIL MATRIZ RENDA FI, provenientes da
+contribuição do servidor e patronal competência abril/2022.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Aprovada pelo CI conforme ATA 013/2022, após as considerações sobre as oportunidades de investimento na
+rendafixa considerandoodesempenhodoFundoBrasilMatrizRFdiantedaaltadataxadejuros aopçãofoide
+renda fixa, considerando o desempenho do Fundo Brasil Matriz RF diante da alta da taxa de juros, a opção foi de
+aproveitar a oportunidade de investimentos com retorno compatível a meta atuarial sem risco adicional a carteira
+de investimentos.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:04
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:04
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316146&crc=D6D4468F, informando o Código Verificador: 316146 e o Código CRC:
+D6D4468F.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205005
+Segmento: Renda Fixa
+Tipo de ativo: Fundos de Investimento em Renda Fixa - Geral - Art. 7º, III, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 26/05/2022 Data da liquidação: 26/05/2022
+Quantidade antes: 18.318.562,3123154500 Quantidade após: 14.059.492,4440054500
+Quantidade: 4.259.069,8683100000 Valor: R$ 1,59
+Valor da operação: R$ 6.754.667,60
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.247.238.827,25
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate na conta 492-4 no Fundo de Investimento FI CAIXA BRASIL MATRIZ RENDA FI, para o pagamento da folha
+de benefícios do mês de maio/2022.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Operação aprovada pelo CI conforme ATA 014/2022, a opção de resgate deste Fundo decorre do fato que, por se
+tratardeumFundolíquidoepoucovolátilécompatívelcomamovimentaçãodecaixa
+tratar de um Fundo líquido e pouco volátil é compatível com a movimentação de caixa.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:04
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:04
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316156&crc=2C927B6D, informando o Código Verificador: 316156 e o Código CRC:
+2C927B6D.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205003
+Segmento: Renda Fixa
+Tipo de ativo: Fundos de Investimento em Renda Fixa - Geral - Art. 7º, III, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 11/05/2022 Data da liquidação: 11/05/2022
+Quantidade antes: 13.809.590,6008154500 Quantidade após: 14.059.492,4440054500
+Quantidade: 249.901,8431900000 Valor: R$ 1,58
+Valor da operação: R$ 394.188,67
+Ag./Conta: 0726 / 494-0 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.090.674.333,97
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação na conta 494-0 no Fundo de Investimento FI CAIXA BRASIL MATRIZ RENDA FI, proveniente da parcela da
+compensação previdenciária competência março/2022.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Aprovada pelo CI conforme ATA 013/2022, após as considerações sobre as oportunidades de investimento na
+rendafixa considerandoodesempenhodoFundoBrasilMatrizRFdiantedaaltadataxadejuros aopçãofoide
+renda fixa, considerando o desempenho do Fundo Brasil Matriz RF diante da alta da taxa de juros, a opção foi de
+aproveitar a oportunidade de investimentos com retorno compatível a meta atuarial sem risco adicional a carteira
+de investimentos.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:24
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:24
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316163&crc=1B498BB5, informando o Código Verificador: 316163 e o Código CRC:
+1B498BB5.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205000
+Segmento: Investimentos Estruturados
+Tipo de ativo: Fundos de Investimento Multimercado (FIM) - Art. 10, I
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 30.036.235/0001-02 - FUNDO DE INVESTIMENTO CAIXA BOLSA AMERICANA MULTIMERCADO
+LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 19/05/2022 Data da liquidação: 19/05/2022
+Quantidade antes: 17.282.677,8252720000 Quantidade após: 12.581.930,7461260000
+Quantidade: 4.700.747,0791460000 Valor: R$ 1,49
+Valor da operação: R$ 6.999.999,99
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.359.323.079,82
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate na conta 708-7 no Fundo de Investimento CAIXA BOLSA AMERICANA FI MULTIMERCADO LP, com aplicação
+concomitante no Fundo Rio Bravo Proteção II FI Multimercado CNPJ 44.602.982/0001-67.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+OperaçãoaprovadapeloCIconformeATA012/2022 aopçãoderesgatedesteFundovisaarealocaçãodeativos
+Operação aprovada pelo CI conforme ATA 012/2022, a opção de resgate deste Fundo visa a realocação de ativos
+dentro da própria estratégia, de forma a reduzir a exposição no Fundo Caixa Bolsa Americana FI Multimercado
+que neste ano vem apresentando forte volatilidade.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:24
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:24
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316261&crc=1CA53B27, informando o Código Verificador: 316261 e o Código CRC:
+1CA53B27.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205004
+Segmento: Renda Fixa
+Tipo de ativo: Fundos de Investimento em Renda Fixa - Geral - Art. 7º, III, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.008/0001-70 - CAIXA BRASIL MATRIZ FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 19/05/2022 Data da liquidação: 19/05/2022
+Quantidade antes: 13.827.747,3163574500 Quantidade após: 14.059.492,4440054500
+Quantidade: 231.745,1276480000 Valor: R$ 1,58
+Valor da operação: R$ 366.629,83
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.172.936.848,46
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação na conta 708-7 no Fundo de Investimento FI CAIXA BRASIL MATRIZ RENDA FI, proveniente do
+pagamento de cupom semestral de juros dos Fundos de vértice Caixa Brasil 2023 TP RF e Caixa Brasil 2024 V TP RF.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Aprovada pelo CI conforme ATA 014/2022, após as considerações sobre as oportunidades de investimento na
+rendafixa considerandoodesempenhodoFundoBrasilMatrizRFdiantedaaltadataxadejuros enquantose
+renda fixa, considerando o desempenho do Fundo Brasil Matriz RF diante da alta da taxa de juros, enquanto se
+avalia outras estratégias que possam contribuir para a performance da carteira do TOLEDOPREV na busca pela
+meta atuarial
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:24
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:24
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316171&crc=7AB6548F, informando o Código Verificador: 316171 e o Código CRC:
+7AB6548F.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205001
+Segmento: Renda Fixa
+Tipo de ativo: Fundos de Investimento - 100% Títulos Públicos SELIC - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 44.683.378/0001-02 - FUNDO DE INVESTIMENTO CAIXA BRASIL 2023 TITULOS PUBLICOS RENDA
+FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 30/05/2022 Data da liquidação: 30/05/2022
+Quantidade antes: 10.622.718,3117744100 Quantidade após: 13.633.230,2054998800
+Quantidade: 3.010.511,8937254700 Valor: R$ 1,02
+Valor da operação: R$ 3.083.448,89
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 2.871.818.585,59
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação na conta 708-7 no Fundo de Investimento FI CAIXA BRASIL 2023 TITULOS PUBLICOS RENDA FIXA,
+proveniente do aporte para equacionamento do déficit atuarial.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+AprovadapeloCIconformeATA014/2022 apósasconsideraçõese diantedeumcenárioincertooinvestimento
+Aprovada pelo CI conforme ATA 014/2022, após as considerações e, diante de um cenário incerto o investimento
+no FI CAIXA BRASIL 2023 TITULOS PUBLICOS RENDA FIXA garante uma rentabilidade correspondente a meta
+estabelecida na PI 2022
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:04
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:04
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=316026&crc=A9333893, informando o Código Verificador: 316026 e o Código CRC:
+A9333893.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2205006
+Segmento: Investimentos Estruturados
+Tipo de ativo: Fundos de Investimento Multimercado (FIM) - Art. 10, I
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 44.602.982/0001-67 - RIO BRAVO PROTECAO II FUNDO DE INVESTIMENTO MULTIMERCADO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 24/05/2022 Data da liquidação: 24/05/2022
+Quantidade antes: 0,0000000000 Quantidade após: 6.996.695,4607338000
+Quantidade: 6.996.695,4607338000 Valor: R$ 1,00
+Valor da operação: R$ 7.000.000,00
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 157.104.095,20
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação na conta 708-7 no valor de R$ 7.000.000,00 (sete milhões de reais), no Fundo de Investimento RIO
+BRAVO PROTEÇÃO II FUNDO DE INVESTIMENTO MULTIMERCADO, proveniente de resgate concomitante do Fundo
+Caixa Bolsa Americana FI Multimercado LP CNPJ 30.036.235/0001-02.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Conforme definido em seu regulamento, a política de investimentos do Fundo é aderente aos regimes próprios de
+previdência social. Além disso, as condições e parâmetros foram definidas levando em consideração os objetivos,
+vedações e horizonte de investimento dos RPPS.
+Análise/Parecer do conselho deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Operação aprovada pelo CI conforme ATA 012/2022, a decisão visa a realocação de ativos dentro da própria
+estratégia, de forma a reduzir a exposição no Fundo Caixa Bolsa Americana FI Multimercado que neste ano vem
+apresentando forte volatilidade, permitindo exposição ao Ibovespa com proteção do capital investido, pois
+mesmo que a bolsa tenha desempenho negativo no período o retorno para a carteira será positivo pois conta com
+lastro em títulos públicos federais.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/06/2022 13:06:04
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/06/2022 13:06:04
+049.650.929-29 MARTA FATH Liquidante 29/06/2022 13:08:04
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=310705&crc=F47D6055, informando o Código Verificador: 310705 e o Código CRC:
+F47D6055.

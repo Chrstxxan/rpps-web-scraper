@@ -1,0 +1,807 @@
+Relatório Anual de Investimentos 2024
+Toledo/PR, 2024
+Sumário
+1. INTRODUÇÃO ........................................................................................................................3
+2. CENÁRIO ECONÔMICO E FINANCEIRO ..................................................................................3
+2.1 Cenários Nacional e Internacional no Final de 2023 ..............................................................3
+2.2 Cenário Macroeconômico e Desempenho de Índices em 2024 ............................................4
+2.3 Comparativo das Expectativas de Mercado ...........................................................................4
+2.4 Dinâmica dos Mercados e Desempenho de Índices em 2024 ...............................................4
+2.5 Comparativo Índices x Meta Atuarial em 2024 ......................................................................5
+3. ACOMPANHAMENTO DA IMPLEMENTAÇÃO DAS ESTRATÉGIAS DA CARTEIRA ...................6
+3.1. Fundos com Cotas Negativas .................................................................................................6
+3.2. Realocação de Recursos para Títulos Públicos Federais ........................................................7
+3.3. Aumento da Alocação em Investimentos no Exterior ...........................................................8
+3.4. Realocação em Fundos Multimercado ...................................................................................8
+4. EVOLUÇÃO DAS ESTRATÉGIAS DE INVESTIMENTOS .............................................................9
+4.1. Desempenho por Estratégia em Relação à Meta Atuarial .................................................. 10
+5. METAS E RESULTADOS DOS INVESTIMENTOS .................................................................... 10
+6. ACOMPANHAMENTO DO FLUXO DE CAIXA ............................................................ 12
+7. ACOMPANHAMENTO DA EVOLUÇÃO DOS ATIVOS FINANCEIROS ................... 13
+8. COMPOSIÇÃO E DISTRIBUIÇÃO DOS ATIVOS ......................................................... 18
+8.2 Enquadramento da Carteira ................................................................................................ 19
+8.3 Alocação por Estratégia ...................................................................................................... 20
+8.4 Alocação por Gestor ............................................................................................................ 20
+9. ANÁLISE DE RISCO E CONFORMIDADE .................................................................... 21
+10. EVOLUÇÃO DO ORÇAMENTO E CUSTOS DA GESTÃO ........................................... 23
+11. EXPECTATIVA DE MERCADO PARA 2025 ................................................................. 23
+12. CONSIDERAÇÕES FINAIS .............................................................................................. 24
+INTRODUÇÃO
+1.
+Mantendo elevados níveis de transparência e para manter boa comunicação junto aos
+servidores e munícipes, o Fundo de Aposentadorias e Pensões dos Servidores Públicos
+Municipais de Toledo – FAPES/TOLEDOPREV, apresenta o relatório anual de investimentos,
+referente ao ano de 2024.
+Este relatório tem como objetivo apresentar um panorama consolidado dos investimentos
+realizados ao longo do ano de 2024, abordando a conjuntura econômica, acompanhamento
+da implementação das estratégias de carteiras específicas para os compromissos do plano
+com seus segurados e beneficiários, os resultados alcançados em relação às metas
+estabelecidas, a evolução do fluxo de caixa e dos ativos financeiros, a composição e
+distribuição dos ativos, a análise de risco e conformidade, a evolução do orçamento e os
+custos da gestão, além de uma análise da conjuntura econômica que impactou a gestão dos
+recursos.
+O FAPES não possui carteira de imóveis.
+Este relatório foi elaborado pela Gestora de Recursos do TOLEDOPREV e submetido à
+aprovação do Comitê de Investimentos, bem como dos Conselhos de Administração e Fiscal
+do TOLEDOPREV.
+CENÁRIO ECONÔMICO E FINANCEIRO
+2.
+Este documento analisa o comportamento de índices e indicadores financeiros relevantes
+para o RPPS em 2024, incluindo as expectativas de mercado para 2025.
+2.1 Cenários Nacional e Internacional no Final de 2023
+• Cenário Internacional: No início de 2023, o cenário internacional era marcado por
+altas taxas de juros, impulsionadas pelo discurso dos bancos centrais e a persistência
+da inflação. No entanto, com o passar do tempo, as expectativas melhoraram,
+impulsionadas pela indicação do FED sobre a possibilidade de redução das taxas de
+juros nos EUA antes do previsto.
+• Cenário Nacional: No Brasil, o cenário também apresentou uma melhora,
+impulsionado por dados de inflação e atividade mais promissores, aliados a uma queda
+na curva de juros. No entanto, grande parte do movimento da curva de juros se deu
+devido a fatores externos.
+2.2 Cenário Macroeconômico e Desempenho de Índices
+em 2024
+• Desafios Econômicos: O ano de 2024 foi marcado por importantes eventos
+econômicos e políticos, com discussões a respeito do ciclo de redução de juros nos
+EUA e o afrouxamento monetário na Zona do Euro.
+• Impacto nos Mercados: Os principais índices do mercado internacional apresentaram
+resultados positivos em 2024, com o MSCI ACWI e S&P 500 registrando retornos de
++15,73% e +23,31%, respectivamente, em moeda original.
+• Desempenho Doméstico: No cenário doméstico, os índices Ibovespa e SMLL
+seguiram na contramão do movimento observado no mercado internacional, fechando
+o período em território negativo, com retornos de -10,36% e -25,03%,
+respectivamente.
+2.3 Comparativo das Expectativas de Mercado
+• Relatório Focus de 05.01.2024
+O Relatório Focus de 05.01.2024 indicava uma expectativa de redução da taxa Selic,
+o que de fato ocorreu até o patamar de 10,50%. No entanto, devido ao ambiente de
+incertezas, as expectativas de redução da taxa foram revertidas para um movimento de
+alta de juros.
+• Relatório Focus de 27.12.2024
+O Relatório Focus de 27.12.2024 apresentou expectativas elevadas para todas as
+variáveis de expectativas para o fim de 2024. A Selic fechou o ano em 12,25%,
+refletindo a mudança de cenário.
+2.4 Dinâmica dos Mercados e Desempenho de Índices
+em 2024
+1º Trimestre: O primeiro trimestre de 2024 foi marcado por um cenário de incertezas, com o
+início do ciclo de redução de juros nos EUA e a persistência de desafios na economia chinesa.
+2º Trimestre: O segundo trimestre foi marcado por um aumento das curvas de juros, refletindo
+o aumento das incertezas no cenário econômico e a insegurança em relação à condução da
+política fiscal.
+3º Trimestre: O terceiro trimestre foi marcado por um início e posterior intensificação do ciclo
+de aperto monetário, impulsionado pela preocupação com a inflação, as pressões inflacionárias
+e a depreciação cambial.
+4º Trimestre: O quarto trimestre foi marcado por uma continuidade do movimento de redução
+dos juros até o patamar de 10,50%. No entanto, devido à preocupação com a inflação, o Copom
+adotou uma postura mais conservadora.
+2.5 Comparativo Índices x Meta Atuarial em 2024
+• Desempenho dos Índices
+A maior parte dos índices do mercado utilizados neste relatório não tiveram êxito em
+superar a Meta Atuarial. Somente sete índices obtiveram retorno acima da Meta
+Atuarial, sendo dois de Renda Fixa e o restante de Renda Variável do mercado
+internacional.
+ACOMPANHAMENTO DA
+3.
+IMPLEMENTAÇÃO DAS ESTRATÉGIAS DA
+CARTEIRA
+Este item tem como objetivo apresentar a análise anual da implementação das estratégias adotadas
+para a carteira de investimentos, garantindo o cumprimento dos compromissos do plano com seus
+segurados e beneficiários.
+3.1. Fundos com Cotas Negativas
+A Nota Técnica SEI nº 296/2023, do Ministério da Previdência Social, possibilita o resgate de recursos
+mesmo que o montante seja inferior ao capital inicialmente alocado. No entanto, tal movimentação
+exige uma decisão fundamentada em um arcabouço técnico robusto, que contemple elementos
+críticos, como estratégias de diversificação, análise do ambiente econômico, identificação de
+oportunidades promissoras e o rebalanceamento da carteira.
+Nesse contexto, torna-se essencial considerar as diretrizes do Estudo ALM em conjunto com a Política
+de Investimentos vigente, pois essas ferramentas minimizam subjetividades no processo decisório,
+assegurando a sustentabilidade e a saúde financeira do FAPES.
+Ao longo do ano, o Comitê de Investimentos realizou estudos e monitoramento contínuo da carteira,
+manifestando preocupação com a queda de performance de fundos com cota negativa. Assim,
+avaliou a possibilidade de resgatar esses investimentos para realocação em novos fundos do mesmo
+segmento. No entanto, essa decisão foi tratada com cautela, uma vez que o resgate consolidaria uma
+perda financeira. Considerando que a liquidação das posições nesse momento resultaria em prejuízo
+realizado, o comitê reforçou a necessidade de uma análise criteriosa para proteger o capital e mitigar
+perdas efetivas.
+Diante da existência de fundos com desempenho superior na mesma classe de ativos, o comitê segue
+avaliando alternativas de realocação que ofereçam uma performance mais alinhada aos objetivos do
+portfólio, buscando recuperar o valor investido. Para isso, decidiu manter o monitoramento contínuo
+dos fundos com cota negativa e aprofundar as análises, priorizando a preservação do capital e a
+maximização da rentabilidade da carteira.
+3.2. Realocação de Recursos para Títulos Públicos
+Federais
+Ao longo do ano foram realizadas realocações de recursos de fundos de investimento em renda fixa
+cuja performance e volatilidade não atendiam aos objetivos do FAPES, direcionando-os para a
+aquisição de Títulos Públicos Federais, conforme deliberação do Comite de Investimentos. Esta
+decisão foi embasada na análise das taxas de remuneração dos títulos, no acompanhamento da
+carteira de investimentos e no respaldo do Estudo de ALM, seguindo a estratégia de marcação na
+curva.
+A medida está diretamente alinhada com o objetivo de mitigar o risco da carteira e reduzir a
+volatilidade dos investimentos, condicionando-se à obtenção de taxas de remuneração superiores a
+6%. Dessa forma, busca-se favorecer o cumprimento da meta atuarial do RPPS e garantir que os
+investimentos sejam compatíveis com as necessidades de longo prazo.
+A Tabela abaixo apresenta as aquisições realizadas ao longo de 2024:
+DATA DA COMPRA VENCIMENTO TAXA QUANTIDADE P.U. VALOR
+16/05/2024 15/05/2035 IPCA + 6,13% 3.773 R$ 4.240,251765 R$ 15.998.469,90
+12/06/2024 15/05/2035 IPCA + 6,275% 4.730 R$ 4.227,500043 R$ 19.996.075,20
+04/07/2024 15/08/2030 IPCA + 6,46% 2.321 R$ 4.307,915511 R$ 9.998.671,90
+08/10/2024 15/08/2028 IPCA + 6,72% 4.682 R$ 4.271,424934 R$ 19.998.811,54
+16/10/2024 15/08/2028 IPCA + 6,76% 4.675 R$ 4.277,323438 R$ 19.996.487,07
+TOTAL R$ 85.988.515,61
+3.3. Aumento da Alocação em Investimentos no Exterior
+Em conformidade com o Estudo de ALM, que identificou a alocação ótima dos ativos e recomendou
+o aumento da exposição a fundos enquadrados no Artigo 9º, II ou III, o Comitê de Investimentos
+aprovou, em maio de 2024, a alocação inicial de R$ 10 milhões no Fundo BB Mult Global Select Equity.
+Essa decisão estratégica teve como objetivo diversificar o portfólio e buscar maior rentabilidade no
+longo prazo.
+Entre maio e dezembro de 2024, o fundo apresentou um retorno expressivo de 25,33%, refletindo o
+acerto da estratégia adotada. Como resultado, ao final de 2024, a carteira do FAPES contava com
+7,35% dos recursos alocados em investimentos no exterior, com uma rentabilidade acumulada de
+60,36%.
+O aumento da exposição a ativos internacionais mostrou-se uma medida eficaz para a otimização do
+portfólio, proporcionando um retorno significativo e contribuindo de maneira decisiva para a
+superação da meta atuarial. Esse desempenho reforça a importância da diversificação geográfica dos
+investimentos, garantindo maior resiliência e sustentabilidade ao patrimônio do RPPS.
+3.4. Realocação em Fundos Multimercado
+Em outubro de 2024, a liquidação do Fundo Rio Bravo Proteção Bolsa Americana abriu
+espaço para uma realocação estratégica, alinhada ao Estudo de ALM, que identificou a
+necessidade de ampliar a alocação em fundos multimercados atrelados ao S&P500, conforme
+previsto no Artigo 10, I. Após análises técnicas, o Comitê de Investimentos aprovou a
+alocação de recursos no Fundo Caixa Bolsa Americana, considerando sua relevância no atual
+cenário macroeconômico.
+Essa estratégia permitiu maior diversificação internacional, proteção cambial e a oportunidade
+de capturar retornos em um dos mercados mais resilientes do mundo. A exposição ao dólar e
+a empresas americanas líderes globais, aliada a uma gestão ativa, contribuiu
+significativamente para a mitigação de riscos específicos ao Brasil e para a ampliação do
+potencial de crescimento da carteira do FAPES. Além disso, investir em ativos internacionais
+possibilita reduzir a dependência do desempenho econômico brasileiro, funcionando como
+um mecanismo de proteção e equilíbrio do portfólio em períodos de instabilidade local.
+Ao final de 2024, 5,15% dos recursos da carteira do FAPES estavam alocados no Fundo Caixa
+Bolsa Americana, que apresentou uma rentabilidade acumulada de 28,64%. Essa realocação
+demonstrou-se eficaz para a otimização do portfólio, garantindo um retorno expressivo e
+contribuindo diretamente para a superação da meta atuarial.
+EVOLUÇÃO DAS ESTRATÉGIAS DE
+4.
+INVESTIMENTOS
+Ao longo do ano de 2024, a composição da carteira de investimentos do FAPES foi consistente na
+manutenção das estratégias adotadas, de acordo com os segmentos permitidos pela Resolução CMN
+nº 4.963/2021, com algumas alterações táticas.
+Alocação por Segmento
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+jan/24 fev/24 mar/24 abr/24 mai/24 jun/24 jul/24 ago/24 set/24 out/24 nov/24 dez/24
+Renda Fixa Investimentos Estruturados Investimentos no Exterior Renda Variável
+O segmento de renda fixa manteve uma posição predominante na alocação de recursos ao longo de
+2024, oscilando dentro de uma faixa estreita de 81% a 84%. As alterações realizadas dentro do
+mesmo segmento envolveram um aumento gradual na aquisição de Títulos Públicos Federais e uma
+redução na exposição ao IMA-B, refletindo expectativas de alta da taxa Selic. Essa estratégia foi
+implementada em um cenário em que os dados econômicos já indicavam a necessidade de um
+retorno a políticas econômicas mais restritivas.
+A participação dos investimentos estruturados apresentou relativa estabilidade, com variações
+marginais ao longo do ano, mantendo-se entre 7,25% e 7,86%. Este segmento consolidou-se como
+uma importante ferramenta de diversificação, contribuindo para a performance equilibrada do
+portfólio.
+Os investimentos no exterior registraram um crescimento expressivo ao longo do ano, partindo de
+5,82% em janeiro e alcançando 7,35% em dezembro. A intensificação da alocação a partir de maio
+reflete uma estratégia deliberada de diversificação internacional e exposição cambial. Essa ampliação
+está alinhada com os objetivos de mitigar riscos locais e aproveitar oportunidades em mercados
+globais, potencializando os ganhos do portfólio.
+Por outro lado, o segmento de renda variável apresentou declínio ao longo de 2024, iniciando com
+5,25% em janeiro e encerrando dezembro com 3,40%. Essa redução foi influenciada pela volatilidade
+do mercado acionário brasileiro, impactado por fatores econômicos e políticos, além do resgate do
+Fundo Bahia Valuation e a realocação desses recursos no segmento de renda fixa, priorizando a
+preservação de capital.
+Com base na evolução apresentada, conclui-se que a renda fixa permaneceu como o pilar central da
+estratégia de investimentos do FAPES, garantindo estabilidade à carteira. O crescimento nos
+investimentos no exterior e a manutenção dos investimentos estruturados evidenciam um esforço
+contínuo de diversificação, fundamental para mitigar riscos e explorar oportunidades globais. Por
+fim, a redução na alocação em renda variável reflete uma postura de gestão cautelosa, adequada ao
+cenário desafiador do mercado acionário. Essas estratégias foram determinantes para o
+desempenho positivo do portfólio, superando a meta atuarial em 2024.
+4.1. Desempenho por Estratégia em Relação à Meta Atuarial
+O gráfico abaixo apresenta a rentabilidade acumulada dos diferentes segmentos de
+investimentos em 2024 comparada à meta atuarial de INPC + 4,90% que registrou 9,92%.
+METAS E RESULTADOS DOS
+5.
+INVESTIMENTOS
+A carteira de investimentos do FAPES teve como objetivo, para o ano de 2024, alcançar uma
+rentabilidade compatível com a meta atuarial estabelecida, correspondente a INPC+4,90%.
+Conforme demonstrado na tabela e gráfico a seguir, a rentabilidade da carteira do FAPES
+superou a meta estabelecida, registrando um desempenho 0,61% acima do esperado.
+57,8
+64,21-
+63,06
+58,01
+70
+60
+50
+40
+30
+20
+10
+0
+RENDA FIXA RENDA VARIÁVEL INVEST EXTERIOR INVEST ESTRUTURADOS
+-10
+-20
+RENTABILIDADE META
+Rent.
+Ano Jan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez Ano
+2024 0,5 1,15 0,79 -0 0,9 1,3 1,1 1,27 0,36 0,97 1,37 0,34 10,53
+INPC + 4,90% 0,99 1,17 0,57 0,79 0,9 0,6 0,7 0,28 0,88 1,05 0,69 0,88 9,92
+p.p. indexador -0,5 -0 0,22 -0,8 0,1 0,7 0,4 0,99 -0,5 -0,1 0,68 -0,5 0,61
+A carteira de investimentos do FAPES apresentou um desempenho positivo ao longo de 2024,
+encerrando o ano com uma rentabilidade acumulada de 10,53%, superando a meta atuarial de
+INPC + 4,90%, que registrou 9,92% no período. A diferença positiva de 0,61 pontos
+percentuais (p.p.) em relação ao índice de referência evidencia um resultado satisfatório diante
+do cenário econômico.
+Ao analisar a rentabilidade mensal, observa-se que em seis dos doze meses, a carteira superou
+a meta atuarial, com os maiores destaques ocorrendo em junho (+0,70 p.p.), agosto (+0,99
+p.p.) e novembro (+0,68 p.p.). Esses meses foram impulsionados por fatores como o bom
+desempenho dos ativos de renda variável e a recuperação dos mercados financeiros.
+Por outro lado, nos meses de janeiro, abril, setembro e dezembro, a rentabilidade da carteira
+ficou abaixo do indexador, sendo abril o mês de pior desempenho (-0,80 p.p. abaixo da meta).
+Esse resultado pode ter sido influenciado por maior volatilidade no mercado e possíveis
+impactos da política monetária.
+O desempenho da carteira de investimentos do FAPES em 2024 pode ser considerado
+positivo, uma vez que superou a meta atuarial, garantindo a valorização dos ativos acima da
+inflação projetada para a manutenção do equilíbrio atuarial. No entanto, a análise dos meses
+de desempenho inferior sugere a importância de um monitoramento contínuo da alocação de
+ativos, buscando mitigar eventuais riscos e maximizar retornos ao longo do tempo.
+6. ACOMPANHAMENTO DO FLUXO DE CAIXA
+O resultado do fluxo de caixa do período analisado apresenta um superávit de R$ 97.439.567,38.
+Esse cenário tem implicações diretas nas estratégias de investimento, permitindo um planejamento
+mais eficiente da alocação de ativos.
+Apresentamos na tabela e no gráfico abaixo a evolução das Receitas e Despesas em 2024:
+Janeiro Fevereiro Março Abril Maio Junho
+Total de Receitas 9.466.533,79 16.684.288,13 15.906.708,57 12.271.535,50 17.417.026,04 19.200.531,55
+Total de Despesas 8.163.690,21 8.465.064,24 8.598.669,04 8.230.686,90 8.860.091,15 12.155.636,24
+RESULTADO 1.302.843,58 8.219.223,89 7.308.039,53 4.040.848,60 8.556.934,89 7.044.895,31
+Julho Agosto Setembro Outubro Novembro Dezembro
+Total de Receitas 17.413.376,77 17.313.688,57 14.307.380,59 17.680.438,24 20.685.382,78 31.955.683,81
+Total de Despesas 8.897.019,90 8.798.784,71 8.834.764,48 8.874.743,87 14.096.042,46 8.887.813,76
+RESULTADO 8.516.356,87 8.514.903,86 5.472.616,11 8.805.694,37 6.589.340,32 23.067.870,05
+Receitas X Despesas
+35.000.000,00
+30.000.000,00
+25.000.000,00
+20.000.000,00
+15.000.000,00
+10.000.000,00
+5.000.000,00
+0,00
+Total de Receitas Total de Despesas
+7. ACOMPANHAMENTO DA EVOLUÇÃO DOS
+ATIVOS FINANCEIROS
+Com base nos dados apresentados no gráfico abaixo sobre a evolução dos ativos financeiros (em
+milhões) ao longo dos meses do ano, observamos que os ativos financeiros apresentaram um
+crescimento constante. Houve um aumento de 17,03% nos ativos ao comparar o valor inicial de
+janeiro de 2024 (552 milhões) com o valor final em dezembro de 2024 (646 milhões). Em média, os
+ativos cresceram aproximadamente 7,83 milhões por mês.
+O mês de dezembro destacou-se por registrar o maior aumento absoluto, com um salto de 22
+milhões em relação ao mês anterior. Este crescimento expressivo é atribuído aos repasses
+antecipados pelo Município das contribuições do servidor e patronal referentes à competência de
+dezembro de 2024.
+660
+640
+620
+600
+580
+560
+540
+520
+500
+seõhlim
+me-
+soriecnaniF
+sovitA
+Evolução Mensal dos Ativos Financeiros
+Meses
+7.1. Movimentações Financeiras em 2024
+Data Ativo CNPJ Aplicação/ Financeiro
+Resgate
+08/01/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 443.436,69
+LP
+19/01/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 28.511,99
+LP
+26/01/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 45.992,12
+REFERENCIADO DI LP
+29/01/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 7.950.875,61
+LP
+30/01/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.344.865,26
+REFERENCIADO DI LP
+02/02/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 5.798.630,21
+LP
+07/02/2024 BAHIA AM VALUATION FIC DE FIA 09.635.172/0001-06 Resgate 5.051.563,67
+08/02/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 416.210,96
+LP
+09/02/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 5.051.563,67
+LP
+19/02/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 284.569,38
+REFERENCIADO DI LP
+19/02/2024 AXA WF FRAMLINGTON DIGITAL 35.002.482/0001-01 Resgate 10.637.186,66
+ECONOMY ADVISORY FIC FIA IE
+21/02/2024 RIO BRAVO PROTEÇÃO FI 42.813.674/0001-55 Resgate 4.527.796,49
+MULTIMERCADO
+21/02/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 37.516,96
+LP
+23/02/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.527.796,49
+REFERENCIADO DI LP
+27/02/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 2.408.799,59
+LP
+28/02/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Resgate 4.500.000,00
+REFERENCIADO DI LP
+28/02/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+28/02/2024 RIO BRAVO PROTEÇÃO FI 42.813.674/0001-55 Aplicação 4.500.000,00
+MULTIMERCADO
+06/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 6.037,13
+LP
+07/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 651.006,79
+LP
+08/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 5.831.888,94
+LP
+13/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 23.917,99
+LP
+19/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 59.883,79
+LP
+26/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.421.948,41
+LP
+27/03/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+27/03/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 67.855,30
+LP
+05/04/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.174.145,89
+LP
+05/04/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 413.811,60
+LP
+17/04/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 29.264,12
+LP
+26/04/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.016.624,10
+LP
+29/04/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+02/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 131.739,78
+LP
+03/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.221.273,77
+LP
+06/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 96.818,56
+LP
+08/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 40.116,39
+LP
+08/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 467.125,10
+LP
+09/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 13.066,99
+LP
+13/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 14.102,75
+LP
+15/05/2024 FI CAIXA BRASIL IDKA IPCA 2A TÍTULOS 14.386.926/0001-71 Resgate 7.217.810,06
+PÚBLICOS RF LP
+16/05/2024 NTN-B 150535 (6,130000%) Aplicação 15.998.469,91
+16/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 45.237,86
+LP
+16/05/2024 FI CAIXA BRASIL IRF M 1 TÍTULOS 10.740.670/0001-06 Resgate 10.000.000,00
+PÚBLICOS RF
+16/05/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 241.197,12
+REFERENCIADO DI LP
+16/05/2024 FIC FI CAIXA BRASIL RENDA FIXA ATIVA 35.536.532/0001-22 Resgate 9.021.856,97
+LONGO PRAZO
+17/05/2024 BB MULT GLOBAL SELECT EQUITY 17.413.636/0001-68 Aplicação 10.000.000,00
+INVESTIMENTO NO EXTERIOR FI
+20/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 3.728,44
+LP
+27/05/2024 FIC DE FI CAIXA BRASIL GESTÃO 23.215.097/0001-55 Resgate 8.378.484,87
+ESTRATÉGICA RF
+28/05/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 83.458,73
+LP
+28/05/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+03/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 39.256,30
+LP
+05/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 17.766,42
+LP
+07/06/2024 FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 Aplicação 850.509,01
+07/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.203.409,19
+LP
+10/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 13.277,76
+LP
+11/06/2024 FI CAIXA BRASIL IMA B 5+ TÍTULOS 10.577.503/0001-88 Resgate 3.966.911,88
+PÚBLICOS RF LP
+11/06/2024 FI CAIXA BRASIL IMA B TÍTULOS 10.740.658/0001-93 Resgate 9.817.259,87
+PÚBLICOS RF LP
+12/06/2024 FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 Resgate 6.211.903,45
+12/06/2024 NTN-B 150535 (6,275000%) Aplicação 19.996.075,20
+17/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 33.540,05
+LP
+17/06/2024 RIO BRAVO PROTEÇÃO II FI 44.602.982/0001-67 Resgate 7.512.543,63
+MULTIMERCADO
+19/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 1.296,99
+LP
+20/06/2024 FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 Resgate 2.487.456,37
+20/06/2024 RIO BRAVO PROTEÇÃO PORTFÓLIO FI 55.274.339/0001-78 Aplicação 10.000.000,00
+FINANCEIRO MULTIMERCADO -
+RESPONSABILIDADE LIMITADA
+21/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 29.503,02
+LP
+26/06/2024 FIC DE FI CAIXA BRASIL GESTÃO 23.215.097/0001-55 Resgate 11.888.069,10
+ESTRATÉGICA RF
+27/06/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 81.985,88
+LP
+27/06/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+03/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 23.690,99
+LP
+04/07/2024 NTN-B 150830 (6,460000%) Aplicação 9.998.671,90
+04/07/2024 FI CAIXA BRASIL IMA B 5 TÍTULOS 11.060.913/0001-10 Resgate 9.998.671,90
+PÚBLICOS RF LP
+05/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.234.961,38
+LP
+08/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 48.849,54
+LP
+08/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 429.421,39
+LP
+12/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 2.146,77
+LP
+18/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 47.926,72
+LP
+29/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.641.141,26
+LP
+30/07/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 82.171,52
+LP
+30/07/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+02/08/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.260.191,05
+LP
+07/08/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 420.901,02
+LP
+12/08/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 9.731,04
+LP
+16/08/2024 FI CAIXA BRASIL 2024 V TÍTULOS 19.768.682/0001-05 Resgate 10.458.751,56
+PÚBLICOS RF
+19/08/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 10.458.751,56
+REFERENCIADO DI LP
+20/08/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 31.113,65
+LP
+28/08/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.543.540,90
+LP
+29/08/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+04/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 2.526,29
+LP
+04/09/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 296.111,13
+REFERENCIADO DI LP
+06/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.263.411,03
+LP
+09/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 419.753,13
+LP
+13/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 14.207,74
+LP
+16/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 7.801,45
+LP
+20/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 45.615,52
+LP
+26/09/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.568.714,92
+LP
+27/09/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.390.857,38
+REFERENCIADO DI LP
+04/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.275.518,12
+LP
+07/10/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 20.000.000,00
+REFERENCIADO DI LP
+07/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 373.908,66
+LP
+07/10/2024 FIC DE FI CAIXA BRASIL GESTÃO 23.215.097/0001-55 Resgate 2.896.832,93
+ESTRATÉGICA RF
+07/10/2024 FIC DE FI CAIXA BRASIL GESTÃO 23.215.097/0001-55 Resgate 20.000.000,00
+ESTRATÉGICA RF
+08/10/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Resgate 19.998.811,54
+REFERENCIADO DI LP
+08/10/2024 FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 Aplicação 4.261.163,75
+08/10/2024 FIC FI CAIXA BRASIL RENDA FIXA ATIVA 35.536.532/0001-22 Resgate 1.364.330,82
+LONGO PRAZO
+08/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 8.497,83
+LP
+08/10/2024 NTN-B 150828 (6,720000%) Aplicação 19.998.811,54
+10/10/2024 RIO BRAVO PROTEÇÃO BOLSA 44.602.881/0001-96 Resgate 11.765.014,00
+AMERICANA FI MULTIMERCADO
+11/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 84.383,10
+LP
+14/10/2024 FI CAIXA INDEXA BOLSA AMERICANA 30.036.235/0001-02 Aplicação 11.765.014,00
+MULTIMERCADO LP
+16/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 19.996.487,07
+LP
+16/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 20.000.000,00
+LP
+16/10/2024 FI CAIXA BRASIL IMA B TÍTULOS 10.740.658/0001-93 Resgate 28.617.398,26
+PÚBLICOS RF LP
+16/10/2024 NTN-B 150828 (6,760000%) Aplicação 19.996.487,07
+17/10/2024 FI CAIXA BRASIL IMA B 5 TÍTULOS 11.060.913/0001-10 Aplicação 8.617.398,26
+PÚBLICOS RF LP
+18/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 31.647,70
+LP
+21/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 125.392,79
+LP
+23/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.026.382,58
+LP
+23/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 594.565,43
+LP
+30/10/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.268.733,49
+REFERENCIADO DI LP
+30/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 829,42
+LP
+30/10/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 82.103,07
+LP
+07/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 436.753,17
+LP
+08/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 6.377.033,33
+LP
+12/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 125.039,59
+LP
+14/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 22.279,49
+LP
+19/11/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 1.095.460,44
+REFERENCIADO DI LP
+21/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 31.486,41
+LP
+27/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 13.708.481,33
+LP
+28/11/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.268.733,49
+REFERENCIADO DI LP
+28/11/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 11.476,32
+LP
+06/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 1.850.983,31
+LP
+06/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 12.497.357,93
+LP
+10/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 1.008.785,96
+LP
+13/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 37.507,50
+LP
+16/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 220.691,91
+LP
+18/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Resgate 8.102.917,06
+LP
+19/12/2024 FI CAIXA BRASIL RENDA FIXA 03.737.206/0001-97 Aplicação 4.268.733,48
+REFERENCIADO DI LP
+27/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 3.697,13
+LP
+27/12/2024 FI CAIXA BRASIL TÍTULOS PÚBLICOS RF 05.164.356/0001-84 Aplicação 7.688.931,21
+LP
+8. COMPOSIÇÃO E DISTRIBUIÇÃO DOS ATIVOS
+A identificação de cada ativo que integra a carteira de investimentos do FAPES é possível por
+meio do envio mensal dos arquivos, em formato xml, à Consultoria Financeira, que promove
+a abertura da carteira de investimentos.
+Conforme apresentado pela figura abaixo, a carteira do FAPES é composta por 64,36% de
+Títulos Públicos Federais, papéis de menor risco disponível no mercado (Risco Soberano),
+emitidos pela Secretaria do Tesouro Nacional. A carteira possui ainda 9,76% em Crédito
+Privado, 5,69% em ações e 23,39% em cotas de outros fundos de investimento.
+8.2 Enquadramento da Carteira
+Considerando o disposto no artigo 101 § 3º da Portaria MTP nº 1.467/2022, apresentamos o
+acompanhamento da execução da Política Anual de Investimentos 2024.
+Na tabela abaixo, apresentamos os enquadramentos dos recursos conforme a Resolução nº
+4.963/2021 do Conselho Monetário Nacional e a Politica Anual de Investimentos do
+FAPES/TOLEDOPREV.
+Pró-
+Gestão
+Política de Investimentos Nível 2
+% Limite
+Artigo Tipo de Ativo Valor(R$) Carteira Mínimo Objetivo Máximo ALM Legal
+Renda Fixa
+Artigo 7º I, Alínea a Títulos do Tesouro Nacional 88.403.211,05 13,69 0 25 60 35 100
+Artigo 7º I, Alínea b Fundos 100% Títulos Públicos 270.456.553,23 41,9 20 23,64 90 26,9 100
+Artigo 7º III, Alínea a Fundos Renda Fixa 169.385.200,92 26,24 5 16,63 50 15,4 70
+Total(cid:160)Renda Fixa 528.244.965,20 81,83 100
+Renda Variável
+Artigo 8º I Fundos de Ações 21.930.030,14 3,4 0 8,11 20 2,78 40
+Total(cid:160)Renda Variável 21.930.030,14 3,4 40
+Investimentos no Exterior
+Artigo 9º II Fundos de Investimento no Exterior 18.907.551,89 2,93 0 5 10 5 10
+Artigo 9º III Fundos de Ações - BDR Nível I 28.534.887,18 4,42 0 5 10 5 10
+Total(cid:160)Investimentos no Exterior 47.442.439,07 7,35 10
+Investimentos Estruturados
+Artigo 10º I Fundos Multimercados 47.928.493,54 7,42 5 10 10 10 10
+Total(cid:160)Investimentos Estruturados 47.928.493,54 7,42 15
+Total 645.545.927,95 100
+8.3 Alocação por Estratégia
+8.4 Alocação por Gestor
+Recursos por Gestor Investimentos %
+XP 6.374.195,72 0,99
+BB 40.584.062,47 6,29
+RIO BRAVO 42.457.134,41 6,58
+ITAU 54.163.038,20 8,39
+TESOURO NACIONAL 88.403.211,05 13,69
+CAIXA DTVM 413.564.286,10 64,06
+TOTAL 645.545.927,95 100,00
+%
+CAIXA DTVM 64,06
+TESOURO… 13,69
+ITAU 8,39
+RIO BRAVO 6,58
+BB 6,29
+XP 0,99
+9. ANÁLISE DE RISCO E CONFORMIDADE
+O acompanhamento do risco de mercado pelo FAPES é realizado por meio do cálculo do VaR (Value
+at Risk) que estima, com base nos dados históricos de volatilidade dos ativos presentes na carteira
+analisada, a perda máxima esperada, em um horizonte definido de 21 dias, com um intervalo de
+confiança de 95%. Seguem abaixo os limites estabelecidos na Política de Investimentos de 2024 por
+segmento de aplicação e os valores de risco obtidos pela carteira de investimentos do FAPES:
+Segmento Limite Carteira FAPES
+Renda Fixa 5% 0,18%
+Renda Variável 20% 7,12%
+Investimentos no Exterior 20% 7,43%
+Investimentos Estruturados 20% 4,13%
+Os dados mostram que os riscos de mercado da carteira de investimentos do FAPES estão bem
+controlados, apresentando valores bastante inferiores aos limites estabelecidos.
+A Resolução CMN 4.963/2021 traz as regras a serem seguidas pelo RPPS para os limites de alocação
+de recursos nas diversas classes de ativos. Portanto, para a análise de enquadramento da carteira de
+investimentos, a referida Resolução é utilizada como referência em conjunto com a Política de
+Investimentos do FAPES em vigência.
+A planilha abaixo mostra que as aplicações em um mesmo fundo de investimento não atingem o
+percentual de 20% do total das aplicações dos recursos, conforme disciplina a Resolução CMN
+4.963/2021, em seu artigo 18.
+É possível observar ainda que nenhum fundo de investimento excede o percentual de 15% de recurso
+investido em relação ao Patrimônio Líquido do Fundo de Investimento, conforme determina o artigo
+19 da Resolução CMN 4.963/2021.
+% %
+ATIVOS - CARTEIRA FAPES CNPJ Valor (R$) Carteira PL do Fundo (R$) Fundo
+Renda Fixa
+Título Público Federal
+NTN-B 150828 (6,720000%) 20.562.020,59 3,19
+NTN-B 150828 (6,760000%) 20.506.525,76 3,18
+NTN-B 150830 (6,460000%) 10.218.059,48 1,58
+NTN-B 150535 (6,130000%) 16.566.854,51 2,57
+NTN-B 150535 (6,275000%) 20.549.750,71 3,18
+BB PREV RF ALOCAÇÃO ATIVA RETORNO TOTAL FIC FI 35.292.588/0001-89 28.050.706,30 4,35 5.307.578.902,09 0,53
+FI CAIXA BRASIL IDKA IPCA 2A TÍTULOS PÚBLICOS RF
+LP 14.386.926/0001-71 6.131.633,92 0,95 3.604.057.716,61 0,17
+FI CAIXA BRASIL IMA B 5 TÍTULOS PÚBLICOS RF LP 11.060.913/0001-10 39.967.627,62 6,19 6.393.295.147,70 0,63
+FI CAIXA BRASIL IRF M 1 TÍTULOS PÚBLICOS RF 10.740.670/0001-06 21.555.505,81 3,34 8.167.774.869,09 0,26
+FI CAIXA BRASIL TÍTULOS PÚBLICOS RF LP 05.164.356/0001-84 108.112.705,99 16,75 11.311.864.366,70 0,96
+FIC DE FI CAIXA BRASIL GESTÃO ESTRATÉGICA RF 05.164.356/0001-84 19.609.532,12 3,04 3.670.341.424,26 0,53
+ITAU INSTITUCIONAIS LEGEND RF LP FIC FI 29.241.799/0001-90 47.028.841,47 7,29 1.418.390.421,52 3,32
+FI CAIXA BRASIL MATRIZ RENDA FI 23.215.008/0001-70 40.459.038,38 6,27 6.711.585.180,95 0,6
+FI CAIXA BRASIL RENDA FIXA REFERENCIADO DI LP 03.737.206/0001-97 101.140.392,60 15,67 18.901.575.347,13 0,54
+RIO BRAVO ESTRATÉGICO IMA-B FI RENDA FIXA 49.232.373/0001-87 16.420.155,31 2,54 138.204.664,31 11,88
+RIO BRAVO ESTRATÉGICO IPCA FI RF 50.533.505/0001-90 11.365.614,63 1,76 254.955.294,43 4,46
+Renda Variável
+FIA CAIXA CONSTRUÇÃO CIVIL 10.551.375/0001-01 957.174,04 0,15 142.554.166,01 0,67
+FIA CAIXA CONSUMO 10.577.512/0001-79 690.417,17 0,11 77.739.777,95 0,89
+FIA CAIXA SMALL CAPS ATIVO 15.154.220/0001-47 1.152.476,51 0,18 480.746.975,23 0,24
+FIC FIA CAIXA EXPERT VINCI VALOR DIVIDENDOS RPPS 15.154.441/0001-15 4.898.294,71 0,76 971.373.998,81 0,5
+FIC FIA CAIXA MULTIGESTOR 30.068.224/0001-04 7.097.470,98 1,1 434.246.813,13 1,63
+ITAÚ AÇÕES DUNAMIS FIF CIC RESPONSABILIDADE
+LIMITADA 24.571.992/0001-75 5.175.427,79 0,8 1.188.970.075,54 0,44
+ITAÚ AÇÕES MOMENTO 30 II FIC DE FI 42.318.981/0001-60 1.958.768,94 0,3 100.926.721,87 1,94
+Investimentos no Exterior
+BB MULT GLOBAL SELECT EQUITY INVESTIMENTO NO
+EXTERIOR FI 17.413.636/0001-68 12.533.356,17 1,94 1.785.616.944,88 0,7
+MS GLOBAL OPPORTUNITIES ADVISORY FIC FIA IE 33.913.562/0001-85 6.374.195,72 0,99 897.724.614,38 0,71
+FIA CAIXA INSTITUCIONAL BDR NÍVEL I 17.502.937/0001-68 28.534.887,18 4,42 3.298.833.640,03 0,86
+Investimentos Estruturados
+FI CAIXA INDEXA BOLSA AMERICANA MULTIMERCADO
+LP 30.036.235/0001-02 33.257.129,07 5,15 2.100.762.128,65 1,58
+RIO BRAVO PROTEÇÃO FI MULTIMERCADO 42.813.674/0001-55 4.262.503,93 0,66 126.928.689,65 3,36
+RIO BRAVO PROTEÇÃO PORTFÓLIO FI FINANCEIRO
+MULTIMERCADO - RESPONSABILIDADE LIMITADA 55.274.339/0001-78 10.408.860,54 1,61 285.107.733,70 3,65
+Total 645.545.927,95 100
+O item 6.1 que trata do enquadramento da carteira, apresenta os percentuais de alocação da carteira
+de investimentos do FAPES em comparação aos limites definidos na Política Anual de Investimentos
+e aos limites estabelecidos na Resolução CMN 4.963/2021, considerando o nível II do Programa de
+Certificação de boas práticas de gestão - Pró-Gestão.
+É possível verificar que todos os segmentos de aplicação (Renda Fixa, Renda Variável, Investimentos
+no Exterior e Investimentos Estruturados) estão devidamente enquadrados entre os limites mínimos
+e máximos, tanto em relação à Política Anual de Investimentos quanto aos limites da Resolução CMN
+4.963/2021.
+10. EVOLUÇÃO DO ORÇAMENTO E CUSTOS DA
+GESTÃO
+Evolução do Orçamento - Despesa Total
+GRUPO DE ORÇAMENTO ORÇAMENTO DESPESA DESPESAS DESPESA PAGA
+DESPESA AUTORIZADO ATUALIZADO EMPENHADA LIQUIDADA
+ANUAL
+Pessoal e 115.100.000,00 137.100.000,00 112.491.201,57 112.491.201,57 112.491.201,57
+Encargos
+Outras 889.900,00 899.900,00 371.805,39 368.306,39 368.306,39
+Despesas
+Correntes
+Despesa de 100,00 100,00 0 0 0
+Capital
+Reserva de 77.324.351,48 77.324.351,48
+Contingência
+TOTAL 193.314.351,48 215.324.351,48 112.863.006,96 112.859.507,96 112.859.507,96
+Evolução do Orçamento - Custos da Gestão
+GRUPO DE ORÇAMENTO ORÇAMENTO DESPESA DESPESAS DESPESA PAGA
+DESPESA AUTORIZADO ATUALIZADO EMPENHADA LIQUIDADA
+ANUAL
+Despesas
+70.000,00 80.000,00 67.912,70 64.413,70 64.413,70
+Administrativas
+TOTAL 70.000,00 80.000,00 67.912,70 64.413,70 64.413,70
+11. EXPECTATIVA DE MERCADO PARA 2025
+Inflação: Para o final de 2025 e 2026, o último Boletim Focus apresentou expectativas elevadas
+para a inflação, com projeções de 5,00% e 4,05%, respectivamente.
+SELIC: Para o final de 2025 e 2026, o Boletim Focus indicou estabilidade nas expectativas para a SELIC,
+com projeções de 15,00% e 12,00%, respectivamente.
+PIB: A expectativa para o final de 2025, em relação ao PIB, foi mantida em 2,02%. Seguindo o mesmo
+movimento, para o final de 2026, a expectativa permaneceu em 1,80%.
+Câmbio: Para o final de 2025, a expectativa para o câmbio foi mantida em R$ 6,00. Já para o final de
+2026, a expectativa foi elevada para R$ 6,00.
+Comentários sobre as Expectativas de mercado para 2025: Tomando o Relatório Focus como
+referência de mercado para o final de 2025, o mercado espera Inflação de 5,00% e taxa Selic de
+15,00%, o que nos traria uma taxa de juros real esperada de 9,52%. Certamente essa taxa de juros
+real projetada para o final de 2025 é positiva para os RPPS, ao considerarmos que a taxa pré-fixada
+para 2025, através do Anexo VII da Portaria MTP nº 1.467/22, está limitada em 5,47%.
+No entanto, o mesmo relatório aponta para uma redução da taxa Selic, até que ela atinja 12,00% ao
+final de 2026, com taxa de inflação esperada de 4,05%, se tudo o mais constante, apontando para
+juros reais esperados de 7,64%. É certo que o aperto monetário tornou os investimentos em renda
+fixa mais atrativos, com melhora na relação risco/retorno, mas, de acordo com esse mesmo relatório
+essas taxas tendem a retornar para o movimento de redução nos próximos anos, destacando ainda
+que o passivo atuarial tem um horizonte de longo prazo, havendo ainda a necessidade de casamento
+de ativos com passivos.
+12. CONSIDERAÇÕES FINAIS
+Este relatório apresenta as principais ocorrências na gestão dos investimentos do
+FAPES/TOLEDOPREV ao longo de 2024.
+O ano foi desafiador para os investidores, marcado por oscilações na taxa Selic, na inflação e na
+cotação do dólar, além das incertezas quanto à política monetária nacional. Esses fatores resultaram
+na abertura das curvas de juros e na volatilidade da bolsa brasileira. No entanto, o ano encerrou de
+forma mais favorável para os investidores conservadores.
+No contexto do FAPES, registramos rentabilidade positiva nos segmentos de renda fixa,
+investimentos no exterior e investimentos estruturados. Destaca-se que os investimentos em renda
+fixa apresentaram resultados positivos em todos os meses de 2024. Já no segmento de renda
+variável, o mercado enfrentou um cenário dinâmico, com oscilações decorrentes de eventos globais
+e fatores internos, resultando em desempenho negativo em seis meses do ano (abril, maio,
+setembro, outubro, novembro e dezembro).
+Embora a bolsa brasileira tenha encerrado o ano em território negativo, os investimentos do FAPES
+em ativos beneficiados pela valorização do dólar foram decisivos para alcançar uma rentabilidade
+acumulada superior à meta atuarial. A diversificação dos investimentos em diferentes segmentos e
+instituições financeiras também contribuiu para o resultado positivo.
+Em 2024, o FAPES aproveitou a alta das curvas de juros para realizar aquisições estratégicas de títulos
+públicos do Tesouro Nacional, garantindo que todas as NTN-Bs na carteira do fundo fossem
+adquiridas com taxas superiores à meta atuarial.
+Como resultado, a carteira de investimentos do FAPES encerrou 2024 com uma rentabilidade
+acumulada de 10,53%, superando a meta atuarial de INPC + 4,90%, que registrou 9,92% no período.
+A diferença positiva de 0,61 pontos percentuais (p.p.) em relação ao índice de referência evidencia
+um desempenho satisfatório diante do cenário econômico.
+O fluxo de receitas e despesas foi acompanhado mensalmente. Destaca-se que, nos meses de junho
+e novembro, as despesas foram superiores devido ao pagamento da 1ª e 2ª parcelas do 13º salário.
+Em relação às receitas, o aumento registrado em dezembro decorre da antecipação do repasse das
+contribuições dos servidores e da parte patronal referentes à competência de dezembro de 2024.
+Além disso, foi apresentado o acompanhamento da execução da Política Anual de Investimentos,
+com a posição consolidada de dezembro de 2024, evidenciando que todos os investimentos estavam
+devidamente enquadrados nas diretrizes estabelecidas.
+Por fim, este relatório não inclui o acompanhamento da carteira de ativos imobiliários, uma vez que
+o FAPES não possuía esse tipo de investimento até o encerramento do exercício de 2024.
+É o relatório.
+Toledo 6 de fevereiro de 2025.
+Assinado de forma digital por
+ROSELI FABRIS DALLA
+ROSELI FABRIS DALLA
+COSTA:62760033953 COSTA:62760033953
+Dados: 2025.02.14 12:52:27 -03'00'
+ROSELI FABRIS DALLA COSTA
+Diretora Executiva TOLEDOPREV

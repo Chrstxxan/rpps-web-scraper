@@ -1,0 +1,473 @@
+FPMU UMUARAMA
+ALM 2023
+Data: 17/11/2023
+CENÁRIO
+MACROECONÔMICO
+ATUAL
+TAXA DE JUROS: 16/07/2018
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,83% a.a. para 10 anos.
+5,83% a.a.
+Curva de Juros Real
+6,00%
+5,00%
+4,00%
+3,00%
+1 2 3 4 5 6 7 8 9 10
+TAXA DE JUROS: 09/10/2018
+(1º turno: 07/10/18)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,50% a.a. para 10 anos.
+5,50% a.a.
+TAXA DE JUROS: 12/11/2018
+(2º turno: 28/10/18)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,11% a.a. para 10 anos.
+5,11% a.a.
+TAXA DE JUROS: 10/12/2018
+(Nomes Governo Bolsonaro)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,04% a.a. para 10 anos.
+5,04% a.a.
+TAXA DE JUROS: 17/01/2019
+(Nova Previdência)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 4,45% a.a. para 9 anos.
+4,45 % a.a.
+TAXA DE JUROS: 18/03/2019
+(Antes Prisão Temer 21/03)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 4,14% a.a. para 9 anos.
+Curva de Juros Real
+4,14 % a.a.
+4,30%
+3,80%
+3,30%
+2,80%
+2,30%
+1,80%
+1 2 3 4 5 6 7 8 9
+TAXA DE JUROS: 17/02/2020
+(Antes Pandemia COVID-19)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 2,95% a.a. para 10 anos.
+2,95 % a.a.
+TAXA DE JUROS: 08/04/2021
+(Início do Ciclo de Alta da Selic)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 3,97% a.a. para 9,5 anos.
+3,97 % a.a.
+Curva de Juros Real
+4,00%
+3,00%
+2,00%
+1,00%
+0,00%
+1 2 3 4 5 6 7 8 9 9,5
+TAXA DE JUROS: 10/03/2022
+(Após a invasão da Ucrânia)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 5,91% a.a. para 10 anos.
+Curva de Juros Real
+6,25%
+5,91 % a.a.
+6,00%
+5,75%
+1 2 3 4 5 6 7 8 9 10
+TAXA DE JUROS: 09/01/2023
+(Novo Governo Lula)
+Taxa de Juros Real: A curva de juros real calculada pela ANBIMA projeta uma taxa de juros
+real de 6,25% a.a. para 9 anos.
+Curva de Juros Real
+7,00%
+6,75%
+6,25 % a.a.
+6,50%
+6,25%
+6,00%
+1 2 3 4 5 6 7 8 9
+MERCADO de NTNBs: 13/11/2023
+(Taxa Real P.I. = 4,90% a.a.)
+Intervalo Indicativo
+Data de Tx. Tx. Tx.
+PU Mínimo Máximo Mínimo Máximo
+Vencimento Compra Venda Indicativas
+(D0) (D0) (D+1) (D+1)
+15/08/2024 6,8379 6,806 6,82 4.195,11 6,4247 7,4803 6,4105 7,4744
+15/05/2025 6,184 6,1572 6,1709 4.272,99 5,8536 6,4514 5,8637 6,462
+15/08/2026 5,9257 5,8966 5,91 4.227,23 5,6184 6,1126 5,6585 6,1527
+15/05/2027 5,9244 5,8925 5,91 4.293,88 5,5994 6,0816 5,6531 6,1352
+15/08/2028 5,8411 5,8075 5,8233 4.249,80 5,5414 6,0299 5,5726 6,0611
+15/08/2030 5,7754 5,746 5,76 4.276,98 5,484 5,9477 5,5286 5,9923
+15/08/2032 5,7826 5,7464 5,7629 4.287,34 5,5029 5,9359 5,5498 5,9828
+15/05/2033 5,8427 5,8037 5,8259 4.336,26 5,5625 5,9855 5,6184 6,0414
+15/05/2035 5,8058 5,767 5,7902 4.358,09 5,5372 5,9374 5,5952 5,9955
+15/08/2040 5,906 5,8658 5,8873 4.273,77 5,6652 6,0284 5,7125 6,0758
+15/05/2045 5,9053 5,875 5,8912 4.343,33 5,6805 6,0259 5,7259 6,0715
+15/08/2050 5,952 5,9251 5,9365 4.262,56 5,7451 6,0787 5,7776 6,1114
+15/05/2055 5,9417 5,9086 5,9254 4.334,64 5,7376 6,0643 5,7702 6,0972
+15/08/2060 5,9508 5,9146 5,9325 4.270,11 5,7488 6,0703 5,7801 6,1019
+(www.anbima.com.br)
+BOLETIM FOCUS: 10/11/2023
+BOLETIM FOCUS BANCO CENTRAL
+2023 2024
+INDICADORES DE MERCADO
+10/11/2023 10/11/2023
+IPCA 4,59% 3,92%
+IGPM -3,55% 4,03%
+CÂMBIO (US$/R$) 5,00 5,08
+SELIC 11,75% 9,25%
+PIB 2,89% 1,50%
+PORTARIA
+MTP nº 1.467,
+02/06/2022
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 141. A unidade gestora do RPPS, em caso de negociações diretas
+com títulos de emissão do Tesouro Nacional, deverá observar os
+parâmetros istos no Anexo VIII, da Portaria MTP nº 1.467/22.
+Art. 142. É vedada, nos termos de resolução do CMN, a aplicação dos
+recursos financeiros acumulados pelo RPPS em títulos:
+I - que não sejam emitidos pelo Tesouro Nacional;
+II - que não estejam registrados no SELIC; e
+III - emitidos por Estados, Distrito Federal ou Municípios.
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 143. Deverão ser observados os princípios e normas de
+contabilidade aplicáveis ao setor público para o registro dos valores
+da carteira de investimentos do RPPS, tendo por base metodologias,
+critérios e fontes de referência para precificação dos ativos,
+estabelecidos na política de investimentos, as normas da CVM e do
+Banco Central do Brasil e os parâmetros reconhecidos pelo mercado
+financeiro.
+Art. 144. Os ativos financeiros integrantes das carteiras dos RPPS
+devem ser registrados inicialmente pelo custo de aquisição, formado
+pelo valor efetivamente pago, além de corretagens e emolumentos.
+PORTARIA MTP nº 1.467, 02/06/2022
+Art. 145. Os ativos financeiros integrantes das carteiras dos RPPS
+poderão ser classificados nas seguintes categorias, conforme
+critérios istos no Anexo VIII, da Portaria 1.467/22:
+I - disponíveis para negociação futura ou para venda imediata; ou
+II - mantidos até o vencimento.
+Art. 146. Poderá ser realizada a reclassificação dos ativos da
+categoria de mantidos até o vencimento para a categoria de ativos
+disponíveis para negociação, ou vice-versa, na forma ista no Anexo
+VIII.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º. A unidade gestora do RPPS, em caso de negociações diretas
+com títulos de emissão do Tesouro Nacional, deverá comprovar:
+......................................................
+I - a consulta às informações divulgadas por entidades representativas
+de participantes do mercado financeiro e de capitais
+reconhecidamente idôneas pela sua transparência e elevado padrão
+técnico na difusão de preços e taxas dos títulos, e a sua utilização
+como referência nas negociações (ANBIMA), bem como, ao volume,
+preços, e taxas das operações registradas no SELIC, antes do efetivo
+fechamento da operação;
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º ......................(Continuação):
+II - a utilização de plataformas eletrônicas administradas por
+sistemas autorizados a funcionar pelo Banco Central do Brasil ou pela
+CVM ou que as aquisições foram efetuadas em ofertas públicas do
+Tesouro Nacional, por intermédio das instituições regularmente
+habilitadas;
+III - o registro do valor e do volume dos títulos efetivamente
+negociados; e
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 2º ......................(Continuação):
+IV - que os títulos estão sob a titularidade do RPPS, com base nas
+informações de sistema de registro, de custódia ou de liquidação
+financeira, sejam depositados perante depositário central (SELIC).
+Parágrafo único. Além de consulta às taxas e preços na forma do
+inciso I do caput, no dia das negociações, deverão ser verificados os
+registros no SELIC das operações do dia anterior, conforme
+informações divulgadas pelo Banco Central do Brasil ou pelas
+entidades representativas de participantes do mercado financeiro e
+de capitais.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 3º. A plataforma eletrônica de negociação deverá garantir que o
+preço e taxa a ser negociado na aquisição ou venda do título decorra
+de condições normais de mercado, impossibilitando a criação de
+condições artificiais de oferta ou de demanda e a adoção de práticas
+não equitativas pelos participantes.
+Art. 4º. Para comprovação de operações realizadas em ofertas
+públicas do Tesouro Nacional, a unidade gestora deverá arquivar os
+documentos de comunicação com a instituição que participou do
+leilão.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 5º. Os ativos financeiros integrantes das carteiras dos RPPS
+poderão ser classificados nas seguintes categorias, conforme
+critérios estabelecidos no referido Anexo VIII:
+I - disponíveis para negociação futura ou para venda imediata; ou
+II - mantidos até o vencimento.
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 7º. Os ativos da categoria de mantidos até o vencimento
+deverão ser contabilizados pelos seus custos de aquisição, acrescidos
+dos rendimentos auferidos, devendo ser atendidos os seguintes
+parâmetros:
+I - demonstração da capacidade financeira do RPPS de mantê-los em
+carteira até o vencimento (ELABORAÇÃO DE ESTUDO DE ALM -
+PASSIVO);
+II - demonstração, de forma inequívoca, pela unidade gestora, da
+intenção de mantê-los até o vencimento (DECLARAÇÃO FORMAL);
+PORTARIA MTP nº 1.467, 02/06/2022, ANEXO VIII
+Art. 7º. ......................(Continuação):
+III - compatibilidade com os prazos e taxas das obrigações presentes e
+futuras do RPPS (ELABORAÇÃO DE ESTUDO DE ALM - ATIVO);
+IV - classificação contábil e controle separados dos ativos disponíveis
+para negociação; e
+V - obrigatoriedade de divulgação das informações relativas aos ativos
+adquiridos, ao impacto nos resultados atuariais e aos requisitos e
+procedimentos contábeis, na hipótese de alteração da forma de
+precificação dos ativos.
+MARCAÇÃO
+A MERCADO
+(MtM)
+MARCAÇÃO NA CURVA X MARCAÇÃO A MERCADO
+CURVA
+MERCADO
+TEMPO
+EDADILIBATNER
+ASSET LIABILITY
+MANAGEMENT (ALM)
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+RISCOS FINANCEIROS
+ATIVOS
+ALM
+(Asset
+RISCOS ATUARIAIS
+Liability
+Management)
+PASSIVO
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+4,90 % a.a.
+TÍTULOS PÚBLICOS: NTN-B: IPCA + 6% a.a.
+TÍTULOS PÚBLICOS: NTN-B
+* Quando a taxa negociada pelo mercado está
+abaixo dos 6% (que é a taxa definida pelo Tesouro
+Nacional para as NTNBs), o título está sendo
+negociado com Ágio, ou seja, está mais caro e,
+consequentemente, adquire-se uma quantidade
+menor de títulos, uma vez que o fluxo dos cupons
+vai ser descontado (trazido a valor presente) a uma
+taxa menor!
+TÍTULOS PÚBLICOS: NTN-B
+* Quando a taxa negociada pelo mercado está
+acima dos 6% (que é a taxa definida pelo Tesouro
+Nacional para as NTNBs), o título está sendo
+negociado com Deságio, ou seja, está mais barato
+e, consequentemente, adquire-se uma quantidade
+maior de títulos, uma vez que o fluxo dos cupons
+vai ser descontado (trazido a valor presente) a uma
+taxa maior!
+GESTÃO INTEGRADA DE ATIVOS E PASSIVOS: ALM
+E como tudo isso é analisado?
+A Gestão de Ativos e Passivos permitirá
+avaliar as projeções dos riscos atuariais e
+financeiros.
+Passivo
+* Mensuração da necessidade de caixa;
+* Projeção das reservas matemáticas.
+Ativo
+* Controle de liquidez;
+* Acompanhamento da solvência;
+* Projeções de retorno da carteira.
+ALM: ESTRUTURA
+Cenários dos Benchmarks
+CENÁRIO
+ECONÔMICO Obtenção de retornos e volatilidades
+Projeção do Passivo
+ALM Valor anual de fluxo de caixa
+Otimização do Ativo
+ATIVO
+PASSIVO Otimização da carteira
+Mitigação de risco de liquidez
+Mitigação de risco de solvência
+Ponto ótimo entre Risco e Retorno
+FRONTEIRA EFICIENTE DE MARKOWITZ
+(31/12/2010 à 28/02/2023)
+MATRIZ DE COVARIÂNCIA
+SELIC IRF-M IMA-B SP500 MSCI AC IFIX SMLL
+SELIC 0,00776% 0,01064% 0,00627% 0,00005% 0,00083% 0,01117% 0,00978%
+IRF-M 0,01064% 0,04805% 0,06792% 0,00536% -0,05663% 0,06373% 0,11883%
+IMA-B 0,00627% 0,06792% 0,15913% 0,04696% -0,09534% 0,12514% 0,28355%
+SP500 0,00005% 0,00536% 0,04696% 0,61106% 0,34811% 0,13194% 0,50301%
+MSCI AC 0,00083% -0,05663% -0,09534% 0,34811% 0,72443% -0,03779% -0,05385%
+IFIX 0,01117% 0,06373% 0,12514% 0,13194% -0,03779% 0,35770% 0,47424%
+SMLL 0,00978% 0,11883% 0,28355% 0,50301% -0,05385% 0,47424% 1,59924%
+SELIC IRF-M IMA-B SP500 MSCI AC IFIX SMLL
+Retornos a.a. 1,64% 0,00% 3,50% 8,50% 11,50% 0,00% 18,00%
+Volatilidade a.a. 0,88% 2,19% 3,99% 7,82% 8,51% 5,98% 12,65%
+FRONTEIRA EFICIENTE DE MARKOWITZ Taxa Real P.I. = 4,90% a.a.
+8,00%
+7,50%
+7,00%
+6,50%
+6,00%
+5,50%
+5,00%
+4,50%
+4,00%
+3,0% 3,2% 3,4% 3,6% 3,8% 4,0% 4,2% 4,4% 4,6%
+aa%
+laeR
+onroteR
+Fronteira Eficiente de Markowitz
+3º
+Risco -Volatilidade Ano %
+CARTEIRAS DA FRONTEIRA EFICIENTE DE MARKOWITZ
+N Retorno a.a. Risco a.a. SELIC IRF-M IMA-B S&P500 MSCI AC IFIX SMLL
+1 4,45% 3,12% 7,59% 0,00% 76,62% 5,79% 10,00% 0,00% 0,00%
+2 4,71% 3,14% 7,59% 0,00% 72,06% 10,00% 10,00% 0,00% 0,35%
+3 4,97% 3,23% 7,59% 0,00% 70,25% 10,00% 10,00% 0,00% 2,16%
+4 5,23% 3,32% 7,59% 0,00% 68,45% 10,00% 10,00% 0,00% 3,96%
+5 5,50% 3,43% 7,59% 0,00% 66,64% 10,00% 10,00% 0,00% 5,77%
+6 5,76% 3,54% 7,59% 0,00% 64,84% 10,00% 10,00% 0,00% 7,57%
+7 6,02% 3,66% 7,59% 0,00% 63,03% 10,00% 10,00% 0,00% 9,38%
+8 6,28% 3,79% 7,59% 0,00% 61,23% 10,00% 10,00% 0,00% 11,18%
+9 6,54% 3,92% 7,59% 0,00% 59,42% 10,00% 10,00% 0,00% 12,99%
+10 6,80% 4,06% 7,59% 0,00% 57,62% 10,00% 10,00% 0,00% 14,79%
+11 7,07% 4,20% 7,59% 0,00% 55,81% 10,00% 10,00% 0,00% 16,60%
+12 7,33% 4,35% 7,59% 0,00% 54,01% 10,00% 10,00% 0,00% 18,40%
+13 7,59% 4,50% 7,59% 0,00% 52,20% 10,00% 10,00% 0,00% 20,21%
+PASSIVO PREVIDENCIÁRIO FPMU 2023
+-
+-10.000.000,00
+-20.000.000,00
+-30.000.000,00
+-40.000.000,00
+-50.000.000,00
+-60.000.000,00
+-70.000.000,00
+3202 4202 5202 6202 7202 8202 9202 0302 1302 2302 3302 4302 5302 6302 7302 8302 9302 0402 1402 2402 3402 4402 5402 6402 7402 8402 9402 0502 1502 2502 3502 4502 5502 6502 7502 8502 9502 0602 1602 2602 3602 4602 5602 6602 7602 8602 9602 0702 1702 2702 3702 4702
+Resultado (Receitas -Despesas) FPMU 2023
+FPMU 29/09/2023: R$ 118.331.998,22
+ALOCAÇÃO MARKOWITZ
+BENCHMARKS % ALOCAÇÃO R$
+SELIC/CDI 7,59% 8.981.398,66
+IMA-B 70,25% 83.129.369,74
+SMLL 2,16% 2.554.830,17
+MSCI AC 10,00% 11.833.199,82
+S&P500 10,00% 11.833.199,82
+IFIX 0,00% -
+TOTAL 100,00% 118.331.998,22
+FPMU RF 29/09/2023: R$ 107.122.449,39 (90,53%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+SICREDI FI RF LIQUIDEZ EMPRES REF DI 21.106.810,56 17,84%
+BB RF ALOC ATIVA RET TOTAL FIC FI 13.299.528,65 11,24%
+BB RF TP VÉRTICE 2024 FI 8.953.718,87 7,57%
+Artigo 7º I, FI CAIXA BR 2024 X TP RENDA FIXA 8.693.402,09 7,35%
+83.300.238,03 70,40% IMA-B 70,25% 83.129.369,74 -170.868,29 -0,14%
+Alínea b FI CAIXA IRF-M TP RF LP 392.760,59 0,33%
+ITAU INSTIT ALOC DIN RF FICFI 5.301.735,23 4,48%
+FIC FI CAIXA GEST ESTRAT RF 4.469.238,69 3,78%
+BB PREV RF TP XXI FI 21.083.043,35 17,82%
+FIC PRATICO CP 34.823,36 0,03%
+Artigo 7º III, SICREDI FIC FI RF LP TAXA SELIC 11.159.042,93 9,43%
+23.822.211,36 20,13% CDI/SELIC 7,59% 8.981.398,66 -14.840.812,70 -12,54%
+Alínea a BB PREV RF FLUXO FIC 5.188.042,93 4,38%
+SICREDI INSTIT IRF-M 1 FI RF REF 7.440.302,14 6,29%
+TOTAL 107.122.449,39 107.122.449,39 90,53% 90,53% - 77,84% 92.110.768,41 -15.011.680,98 -12,69%
+FPMU X MARKOWITZ: DIAGNÓSTICO RF
+ALOCAÇÃO MODELO:
+* CDI/SELIC (7,59%) = R$ 8.981.398,66
+* IMA-B (70,25%) = R$ 83.129.369,74
+* TOTAL RF = 77,84% = R$ 92.110.768,41
+ALOCAÇÃO ATUAL:
+* CDI/SELIC (20,13%) = R$ 23.822.211,36
+* IMA-B (70,40%) = R$ 83.300.238,03
+* TOTAL RF = 90,53% = R$ 107.122.449,39
+FPMU X MARKOWITZ: RENDA FIXA
+DIAGNÓSTICO:
+* DIMINUIR A ALOCAÇÃO EM FUNDOS DE INVESTIMENTOS EM RENDA FIXA QUE
+NÃO SEJAM ATRELADOS AO IMA-B, DO ARTIGO 7º, I, B, NUM TOTAL DE
+R$170.868,29 (0,14%);
+* DIMINUIR A ALOCAÇÃO EM FUNDOS ATRELADOS A SELIC/CDI, NUM TOTAL DE
+R$ 14.840.812,70 (12,54%);
+* NO TOTAL, DIMINUIR A ALOCAÇÃO EM RENDA FIXA NUM TOTAL DE
+R$15.011.680,98 (12,69%);
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FPMU RV 29/09/2023: R$ 4.672.963,11 (3,95%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+BB FIC FIA SELEÇÃO FATORIAL 1.909.757,51 1,61%
+BB AÇÕES SMALL CAPS FIC FI 1.128.964,97 0,95%
+Artigo 8º I 4.672.963,11 3,95% SMLL 2,16% 2.554.830,17 -2.118.132,94 -1,79%
+BRADESCO FIA MID SMALL CAPS 713.974,21 0,60%
+BB AÇÕES VALOR FIC FIA 920.266,42 0,78%
+TOTAL 4.672.963,11 4.672.963,11 3,95% 3,95% - 2,16% 2.554.830,17 -2.118.132,94 -1,79%
+FPMU X MARKOWITZ: DIAGNÓSTICO RV
+ALOCAÇÃO MODELO:
+* SMLL (2,16%) = R$ 2.554.830,17
+* TOTAL = 2,16% = R$ 2.554.830,17
+ALOCAÇÃO ATUAL:
+* SMLL (3,95%) = R$ 4.672.963,11
+* TOTAL RV = 3,95% = R$ 4.672.963,11
+FPMU X MARKOWITZ: RENDA VARIÁVEL
+DIAGNÓSTICO:
+* DIMINUIR A ALOCAÇÃO EM FUNDOS DE AÇÕES DO ARTIGO 8º, I, NUM TOTAL
+DE R$ 2.118.132,94 (1,79%);
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FPMU INVº EXTERIOR 29/09/2023 = R$ 348.773,50 (0,29%)
+4.963/21 Ativos R$ % Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+Artigo 9º III BB AÇÕES ESG GLOBAIS FIC FIA BDR NÍVEL I 348.773,50 0,29% MSCI AC 10,00% 11.833.199,82 11.484.426,32 9,71%
+TOTAL 348.773,50 0,29% - 10,00% 11.833.199,82 11.484.426,32 9,71%
+# ALOCAÇÃO MODELO = # ALOCAÇÃO ATUAL =
+10,0% = R$ 11.833.199,82 0,29% = R$ 348.773,50
+* AUMENTAR A ALOCAÇÃO EM FUNDOS DE AÇÕES BDR NÍVEL 1, DO ARTIGO 9º III, NUM
+TOTAL DE R$ 11.484.426,32 (9,71%).
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL POLÍTICA
+ANUAL DE INVESTIMENTOS.
+FPMU INVESTº ESTRUTURADOS 29/09/2023: R$ 6.187.812,22 (5,23%)
+4.963/21 Ativos R$ R$ Total % % Total Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+BB PREV MULTIMERCADO FI LP 11.134,31 0,01%
+Artigo 10 I 6.187.812,22 5,23% S&P500 10,00% 11.833.199,82 5.645.387,60 4,77%
+BB PREV MULTIMERCADO ALOCAÇÃO FI 6.176.677,91 5,22%
+TOTAL 6.187.812,22 6.187.812,22 5,23% 5,23% - 10,00% 11.833.199,82 5.645.387,60 4,77%
+# ALOCAÇÃO MODELO = #ALOCAÇÃO ATUAL =
+10,0% = R$ 11.833.199,82 5,23% = R$ 6.187.812,22
+* EFETUAR A ALOCAÇÃO EM FUNDOS MULTIMERCADOS ATRELADOS AO S&P500, DO
+ARTIGO 10, I, NUM TOTAL DE R$ 5.645.387,60 (4,77%).
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FPMU FUNDOS IMOBILIÁRIOS 29/09/2023 = R$ 0,00 (0,0%)
+4.963/21 Ativos R$ % Benchmarks % Markowitz R$ Markowitz Diferença R$ Diferença %
+Artigo 11 Fundos de Investimentos Imobiliários 0,00 0,00% IFIX 0,00% 0,00 0,00 0,00%
+TOTAL 0,00 0,00% - 0,00% 0,00 0,00 0,00%
+* NÃO EFETUAR ALOCAÇÃO EM FUNDOS IMOBILIÁRIOS DO ARTIGO 11!!!
+* REVER OS LIMITES DA ALOCAÇÃO OBJETIVO, MÍNIMOS E MÁXIMOS DA ATUAL
+POLÍTICA ANUAL DE INVESTIMENTOS.
+FPMU 29/09/2023 x MARKOWITZ x PI 2023
+Artigo Ativos R$ % % Total Benchmarks % Markowitz Mínimo Sugestão Objetivo Máximo Limite Legal
+Artigo 7º I, Alínea b Fundos 100% Títulos Públicos 83.300.238,03 70,40% 70,40% IMA-B 70,25% 20,49% 70,25% 44,67% 100,00% 100,00%
+Artigo 7º III, Alínea a Fundos Renda Fixa 23.822.211,36 20,13% 20,13% CDI/SELIC 7,59% 20,89% 7,59% 26,88% 60,00% 60,00%
+Artigo 8º I Fundos de Ações 4.672.963,11 3,95% 3,95% SMLL 2,16% 0,00% 2,16% 17,45% 20,00% 30,00%
+Artigo 9º III Fundos de Ações BDR Nível I 348.773,50 0,29% 0,29% MSCI AC 10,00% 0,00% 10,00% 0,00% 10,00% 10,00%
+Artigo 10 I Fundos Multimercados 6.187.812,22 5,23% 5,23% S&P500 10,00% 0,00% 10,00% 5,00% 10,00% 10,00%
+Artigo 11 Fundo Investimento Imobiliário 0,00 0,00% 0,00% IFIX 0,00% 0,00% 0,00% 0,00% 0,00% 0,00%
+TOTAL 118.331.998,22 100,00% 100,00% - 100,00% - 100,00% - - -
+ALM: CONCLUSÃO
+CENÁRIO
+ECONÔMICO
+A Gestão de
+Ativos e Passivos
+ALM
+possibilita a
+diminuição dos
+RISCOS,
+aumentando a
+chance de
+ATIVO PASSIVO SUCESSO do
+objetivo buscado!
+CURRICULUM VITAE: RONALDO DE OLIVEIRA, MSc.
+# Bacharel em Estatística pela Universidade de São Paulo (IME/USP – 1993 à 1997);
+* Estatístico: CONRE 3ª Região nº 1.649;
+# Bacharel em Direito pela Pontifícia Universidade Católica de São Paulo (PUC/SP – 1994 à
+1998);
+* Advogado: OAB/SP nº 162.211;
+# Mestre em Engenharia Elétrica pela Escola Politécnica da Universidade de São Paulo
+(POLI/USP – 1999 à 2003);
+# Bacharel em Ciências Atuariais pela Pontifícia Universidade Católica de São Paulo
+(PUC/SP - 2003 à 2007).
+* Atuário: registro nº 0002207/RJ.
+MUITO
+OBRIGADO!

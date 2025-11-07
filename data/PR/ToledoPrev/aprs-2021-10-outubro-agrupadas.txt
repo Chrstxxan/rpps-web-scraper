@@ -1,0 +1,780 @@
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110000
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa Crédito Privado - Art. 7º, VII, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 09.543.255/0001-75 - RIO BRAVO CRÉDITO PRIVADO FI RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 07/10/2021 Data da liquidação: 07/10/2021
+Quantidade antes: 0,0000000000 Quantidade após: 1.600.582,3558843000
+Quantidade: 1.600.582,3558843000 Valor: R$ 3,12
+Valor da operação: R$ 5.000.000,00
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 132.442.940,35
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação Inicial
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 025/2021, o fundo se caracteriza por ter um retorno
+competitivo com os fundos comparáveis (perfil de risco high grade e liquidez diária), mas com um
+patamar de volatilidade abaixo dos demais, apresentando, portanto, uma boa oportunidade de
+retorno ajustado ao risco.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:12:42
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:12:42
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:33
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=62735&crc=4F9EEEAC, informando o Código Verificador: 62735 e o
+Código CRC: 4F9EEEAC.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110002
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo: FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 16.718.302/0001-30 - ITAU ACOES MOMENTO 30 FUNDO DE INVESTIMENTO EM COTAS DE
+FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 37.867,7087100000 Quantidade após: 0,0000000000
+Quantidade: 37.867,7087100000 Valor: R$ 25,94
+Valor da operação: R$ 982.246,29
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 1.330.734.646,49
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Baixa por cisão de Fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Trata-se de baixa por cisão de Fundos - Transferência, migração de cotas em virtude de cisão do Fundo ITAÚ
+AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI
+b õ
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:15:35
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/11/2021 14:15:35
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:33
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63325&crc=61EF036C, informando o Código Verificador: 63325 e o Código CRC:
+61EF036C.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110003
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo: FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 16.718.302/0001-30 - ITAU ACOES MOMENTO 30 FUNDO DE INVESTIMENTO EM COTAS DE
+FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 34.881,5023100000 Quantidade após: 0,0000000000
+Quantidade: 34.881,5023100000 Valor: R$ 25,94
+Valor da operação: R$ 904.787,42
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 1.330.734.646,49
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Baixa por cisão de Fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Trata-se de baixa por cisão de Fundos - Transferência, migração de cotas em virtude de cisão do Fundo ITAÚ
+AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI
+b õ
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:12:42
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/11/2021 14:15:35
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:32
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63324&crc=A71C6BCC, informando o Código Verificador: 63324 e o Código CRC:
+A71C6BCC.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110004
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo: FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações presentes e
+futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 16.718.302/0001-30 - ITAU ACOES MOMENTO 30 FUNDO DE INVESTIMENTO EM COTAS DE
+FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 41.942,6158800000 Quantidade após: 0,0000000000
+Quantidade: 41.942,6158800000 Valor: R$ 25,94
+Valor da operação: R$ 1.087.944,86
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 1.330.734.646,49
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Baixa por cisão de Fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do RPPS:
+Trata-se de baixa por cisão de Fundos - Transferência, migração de cotas em virtude de cisão do Fundo ITAÚ
+AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI.
+b õ
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:12:42
+627.600.339-53 ROSELI FABRIS DALLA COSTA Rep. Legal da Unidade Gestora 29/11/2021 14:12:42
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:33
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63323&crc=F71BA484, informando o Código Verificador: 63323 e o Código CRC:
+F71BA484.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110005
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 42.318.981/0001-60 - ITAU ACOES MOMENTO 30 II FUNDO DE INVESTIMENTO EM
+COTAS DE FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 79.810,3245900000 Quantidade após: 114.691,8269000000
+Quantidade: 34.881,5023100000 Valor: R$ 25,94
+Valor da operação: R$ 904.787,42
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 306.395.170,42
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Entrada por cisão de fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Trata-se de entrada por cisão de fundos - Transferência, migração de cotas em virtude de cisão do
+Fundo ITAÚ AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:27
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:13:26
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:33
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63328&crc=3A48A966, informando o Código Verificador: 63328 e o
+Código CRC: 3A48A966.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110006
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 42.318.981/0001-60 - ITAU ACOES MOMENTO 30 II FUNDO DE INVESTIMENTO EM
+COTAS DE FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 72.749,2110200000 Quantidade após: 114.691,8269000000
+Quantidade: 41.942,6158800000 Valor: R$ 25,94
+Valor da operação: R$ 1.087.944,86
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 306.395.170,42
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Entrada por cisão de fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Trata-se de entrada por cisão de fundos - Transferência, migração de cotas em virtude de cisão do
+Fundo ITAÚ AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:15:35
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:15:35
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:31
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63327&crc=E35F2139, informando o Código Verificador: 63327 e o
+Código CRC: E35F2139.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110007
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI de Ações - Geral - Art. 8º, II, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 42.318.981/0001-60 - ITAU ACOES MOMENTO 30 II FUNDO DE INVESTIMENTO EM
+COTAS DE FUNDOS DE INVESTIMENTO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 11/10/2021 Data da liquidação: 11/10/2021
+Quantidade antes: 76.824,1181900000 Quantidade após: 114.691,8269000000
+Quantidade: 37.867,7087100000 Valor: R$ 25,94
+Valor da operação: R$ 982.246,29
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 306.395.170,42
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Entrada por cisão de fundos
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Trata-se de entrada por cisão de fundos - Transferência, migração de cotas em virtude de cisão do
+Fundo ITAÚ AÇÕES MOMENTO 30 FIC FI com ITAÚ AÇÕES MOMENTO 30 II FIC FI
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:27
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:13:27
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:54
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63331&crc=AC301534, informando o Código Verificador: 63331 e o
+Código CRC: AC301534.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110016
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 29.241.799/0001-90 - ITAÚ INSTITUCIONAIS LEGEND RENDA FIXA LONGO PRAZO
+FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INV
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 15/10/2021 Data da liquidação: 15/10/2021
+Quantidade antes: 1.919.148,7209000000 Quantidade após: 2.560.495,3839400000
+Quantidade: 641.346,6630400000 Valor: R$ 12,94
+Valor da operação: R$ 8.295.868,47
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 1.298.977.913,84
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação proveniente de desinvestimento Fundo FIC Gestão Estratégica CNPJ 23.215.097/0001-55 na
+conta 708-7
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Aprovado na ATA 29/2021, diante do atual cenário econômico, fiscal e político, considerando que a
+renda fixa neste ano tem se mostrado bastante volátil apresentando resultados insatisfatório a
+carteira de investimentos do TOLEDOPREV, foi aprovado pelo Comitê de investimentos realocação de
+recursos neste segmento, com o intuito de proteger o patrimônio, dado que vários índices de renda
+fixa existentes na carteira do TOLEDOPREV apresentaram performance abaixo do benchmark
+estabelecido na estratégia devido ao atual momento econômico conturbado
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:28
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:28
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:21:41
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=64405&crc=A8186EA9, informando o Código Verificador: 64405 e o
+Código CRC: A8186EA9.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110017
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 29.241.799/0001-90 - ITAÚ INSTITUCIONAIS LEGEND RENDA FIXA LONGO PRAZO
+FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INV
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 27/10/2021 Data da liquidação: 27/10/2021
+Quantidade antes: 641.346,6630400000 Quantidade após: 2.560.495,3839400000
+Quantidade: 1.919.148,7209000000 Valor: R$ 13,03
+Valor da operação: R$ 25.000.000,00
+Ag./Conta: 0316 / 91.929-9 - 341 Itaú Unibanco S.A.
+Patrimônio líquido do fundo: R$ 1.298.977.913,84
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação proveniente de desinvestimentos do FI CAIXA BRASIL IMA-B TÍTULOS PÚBLICOS RF LP
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Aprovado na ATA 30/2021, considerando que o mercado está trabalhando com alta de 1,5% da taxa
+Selic, podendo ser superior conforme a expectativa de algumas casas, e se for confirmado uma alta
+superior, terá um impacto significativo nos preços neste índice. Neste sentido foi decidido a redução
+no mínimo de 5% na exposição em IMA-B. Diante do atual cenário econômico, fiscal e político,
+considerando que a renda fixa neste ano tem se mostrado bastante volátil apresentando resultados
+insatisfatório a carteira de investimentos do TOLEDOPREV, foi aprovado pelo Comitê de
+investimentos realocação de recursos neste segmento, com o intuito de proteger o patrimônio, dado
+que vários índices de renda fixa existentes na carteira do TOLEDOPREV apresentaram performance
+abaixo do benchmark estabelecido na estratégia devido ao atual momento econômico conturbado.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:28
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:28
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:21:41
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=64413&crc=D6F19CCF, informando o Código Verificador: 64413 e o
+Código CRC: D6F19CCF.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110008
+Segmento: Investimentos no Exterior Tipo de ativo: Fundo de Ações BDR Nível 1 - Art. 9º-A, III
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 17.502.937/0001-68 - FUNDO DE INVESTIMENTO EM ACOES CAIXA INSTITUCIONAL
+BDR NIVEL I
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 28/10/2021 Data da liquidação: 28/10/2021
+Quantidade antes: 1.685.140,7097016600 Quantidade após: 2.051.872,4875790700
+Quantidade: 366.731,7778774100 Valor: R$ 6,74
+Valor da operação: R$ 2.470.929,80
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 3.720.209.176,93
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação proveniente do aporte para equacionamento do déficit.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Aprovado pelo Comitê de Investimentos ATA 30/2021. A operação faz parte do processo de
+diversificação da carteira de investimentos e está em alinhamento com o diagnóstico do Estudo de
+ALM de aumentar a alocação em fundos do segmento de investimentos no exterior.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:27
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:15:35
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:53
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63397&crc=3D08D3DA, informando o Código Verificador: 63397 e o
+Código CRC: 3D08D3DA.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110009
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 14.386.926/0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 08/10/2021 Data da liquidação: 08/10/2021
+Quantidade antes: 15.900.653,3935860000 Quantidade após: 16.041.994,0562880000
+Quantidade: 141.340,6627020000 Valor: R$ 2,48
+Valor da operação: R$ 350.174,46
+Ag./Conta: 0726 / 494-0 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.036.712.361,17
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação proveniente da compensação previdenciária.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 028/2021, visa usufruir do carrego de inflação projetada
+combinado com a curva de juros reais e por se tratar de Fundo com vencimentos mais curtos, se
+torna menos volátil podendo ser resgatado para fazer frente às despesas com a folha de pagamento
+dos aposentados e pensionistas.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:04
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:52
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63403&crc=042F7D65, informando o Código Verificador: 63403 e o
+Código CRC: 042F7D65.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110010
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 14.386.926/0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Aplicação
+Data da operação: 08/10/2021 Data da liquidação: 08/10/2021
+Quantidade antes: 14.380.339,3901930000 Quantidade após: 16.041.994,0562880000
+Quantidade: 1.661.654,6660950000 Valor: R$ 2,48
+Valor da operação: R$ 4.116.784,33
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.036.712.361,17
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Aplicação proveniente da contribuição do servidor e patronal competência 09/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 028/2021, visa usufruir do carrego de inflação projetada
+combinado com a curva de juros reais e por se tratar de Fundo com vencimentos mais curtos, se
+torna menos volátil podendo ser resgatado para fazer frente às despesas com a folha de pagamento
+dos aposentados e pensionistas
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:04
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:53
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63407&crc=29B64458, informando o Código Verificador: 63407 e o
+Código CRC: 29B64458.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110011
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 14.386.926/0001-71 - FUNDO DE INVESTIMENTO CAIXA BRASIL IDKA IPCA 2A TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 26/10/2021 Data da liquidação: 26/10/2021
+Quantidade antes: 18.252.471,6314400000 Quantidade após: 16.041.994,0562880000
+Quantidade: 2.210.477,5751520000 Valor: R$ 2,44
+Valor da operação: R$ 5.383.306,46
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 11.036.712.361,17
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate para pagamento da folha de benefícios do mês de outubro/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 030/2021 por ser o menos volátil entre os fundos com
+recursos investidos ne conta de recursos para pagamento da Folha de benefícios.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:56
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:13:56
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:54
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63410&crc=AB5C6C6F, informando o Código Verificador: 63410 e o
+Código CRC: AB5C6C6F.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110012
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 10.740.658/0001-93 - FUNDO DE INVESTIMENTO CAIXA BRASIL IMA-B TITULOS
+PUBLICOS RENDA FIXA LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 27/10/2021 Data da liquidação: 27/10/2021
+Quantidade antes: 16.998.701,0772910000 Quantidade após: 9.873.420,9839890000
+Quantidade: 7.125.280,0933020000 Valor: R$ 3,51
+Valor da operação: R$ 24.999.999,99
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 4.811.776.336,97
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate/desinvestimento e aplicação concomitante no Fundo ITAU INSTITUCIONAIS LEGEND RF LP
+FIC FI.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Aprovado na ATA 30/2021, considerando que o mercado está trabalhando com alta de 1,5% da taxa
+Selic, podendo ser superior conforme a expectativa de algumas casas, e se for confirmado uma alta
+superior, terá um impacto significativo nos preços neste índice. Neste sentido foi decidido a redução
+no mínimo de 5% na exposição em IMA-B. Diante do atual cenário econômico, fiscal e político,
+considerando que a renda fixa neste ano tem se mostrado bastante volátil apresentando resultados
+insatisfatório a carteira de investimentos do TOLEDOPREV, foi aprovado pelo Comitê de
+investimentos realocação de recursos neste segmento, com o intuito de proteger o patrimônio, dado
+que vários índices de renda fixa existentes na carteira do TOLEDOPREV apresentaram performance
+abaixo do benchmark estabelecido na estratégia devido ao atual momento econômico conturbado
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:55
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:13:55
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:20:54
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63417&crc=645E9ED5, informando o Código Verificador: 63417 e o
+Código CRC: 645E9ED5.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110013
+Segmento: Renda Variável e Investimentos Estruturados Tipo de ativo:
+FI Multimercado - Aberto - Art. 8º, III
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 08.070.841/0001-87 - CAIXA ALOCAÇÃO MACRO FIC MULTIMERCADO LP
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 22/10/2021 Data da liquidação: 22/10/2021
+Quantidade antes: 1.382.137,5468970000 Quantidade após: 1.287.808,3078310000
+Quantidade: 94.329,2390660000 Valor: R$ 3,48
+Valor da operação: R$ 328.208,78
+Ag./Conta: 0726 / 492-4 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 3.850.582.638,70
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate para pagamento da folha de benefícios do mês de outubro/2021.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+A áli /P d l i d d lib ti itêd i ti t f l i l ã d
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 030/2021 trata-se de estratégia com performance abaixo da
+expectativa para cumprimento da meta atuarial, e necessidade de reposicionamento da carteira dos
+recursos da conta destinado ao pagamento da folha de benefícios mensais.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:13:55
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:04
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:21:42
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63422&crc=780535AE, informando o Código Verificador: 63422 e o
+Código CRC: 780535AE.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110014
+Segmento: Renda Fixa Tipo de ativo: FI 100% títulos TN - Art. 7º, I, b
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 23.215.097/0001-55 - FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE
+INVESTIMENTO CAIXA BRASIL GESTAO ESTRATEGICA RENDA FIXA
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 14/10/2021 Data da liquidação: 14/10/2021
+Quantidade antes: 40.962.393,5395800000 Quantidade após: 35.436.386,4132200000
+Quantidade: 5.526.007,1263600000 Valor: R$ 1,50
+Valor da operação: R$ 8.295.868,46
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 13.374.488.418,39
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate/desinvestimento e aplicação concomitante no ITAU INSTITUCIONAIS LEGEND RF LP FIC FI.
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Aprovado na ATA 29/2021, diante do atual cenário econômico, fiscal e político, considerando que a
+renda fixa neste ano tem se mostrado bastante volátil apresentando resultados insatisfatório a
+carteira de investimentos do TOLEDOPREV, foi aprovado pelo Comitê de investimentos realocação de
+recursos neste segmento, com o intuito de proteger o patrimônio, dado que vários índices de renda
+fixa existentes na carteira do TOLEDOPREV apresentaram performance abaixo do benchmark
+estabelecido na estratégia devido ao atual momento econômico conturbado.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:03
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:28
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:21:42
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63426&crc=C5A41EC6, informando o Código Verificador: 63426 e o
+Código CRC: C5A41EC6.
+SECRETARIA DE PREVIDÊNCIA - SPREV
+CADPREV
+AUTORIZAÇÃO DE APLICAÇÃO E RESGATE - APR
+ENTE: 76.205.806/0001-88 - Toledo UF: PR :
+Número: A2110015
+Segmento: Renda Fixa Tipo de ativo: FI Renda Fixa - Geral - Art. 7º, IV, a
+Fundo constituído: ---
+Carteira administrada: ---
+Foi observada a compatibilidade dos ativos investidos com os prazos e taxas das obrigações
+presentes e futuras do RPPS:
+Sim
+IDENTIFICAÇÃO DO ATIVO
+Identificação: 03.737.206/0001-97 - FUNDO DE INVESTIMENTO CAIXA BRASIL RENDA FIXA
+REFERENCIADO DI LONGO PRAZO
+OPERAÇÃO
+Tipo de operação: Resgate
+Data da operação: 07/10/2021 Data da liquidação: 07/10/2021
+Quantidade antes: 5.094.930,1713870000 Quantidade após: 3.794.293,4581200000
+Quantidade: 1.300.636,7132670000 Valor: R$ 3,84
+Valor da operação: R$ 5.000.000,00
+Ag./Conta: 0726 / 708-7 - 104 Caixa Econômica Federal
+Patrimônio líquido do fundo: R$ 7.402.600.316,43
+DADOS DA OPERAÇÃO
+Descrição da operação:
+Resgate/desinvestimento e investimento concomitante no Fundo de Investimento RIO BRAVO
+CRÉDITO PRIVADO FUNDO DE INVESTIMENTO RENDA
+Compatibilidade da aplicação com as obrigações presentes e futuras do RPPS:
+Sim
+Análise/Parecer do colegiado deliberativo e comitê de investimentos, conforme na legislação do
+RPPS:
+Operação aprovada pelo CI conforme ATA 025/2021, trata-se realocação para fundo que se caracteriza
+por ter um retorno competitivo com os fundos comparáveis (perfil de risco high grade e liquidez
+diária), mas com um patamar de volatilidade abaixo dos demais, apresentando, portanto, uma boa
+oportunidade de retorno ajustado ao risco.
+Outras observações:
+---
+Assinatura do Documento
+CPF Nome Cargo Assinatura Digital
+627.600.339-53 ROSELI FABRIS DALLA COSTA Gestor de Recursos 29/11/2021 14:16:28
+Rep. Legal da Unidade
+627.600.339-53 ROSELI FABRIS DALLA COSTA 29/11/2021 14:16:28
+Gestora
+049.650.929-29 MARTA FATH Liquidante 29/11/2021 14:21:41
+A autenticidade deste documento pode ser conferida no site
+https://cadprev.previdencia.gov.br/Cadprev/pages/publico/assinatura/validacao.xhtml?
+verificador=63431&crc=CF156259, informando o Código Verificador: 63431 e o
+Código CRC: CF156259.

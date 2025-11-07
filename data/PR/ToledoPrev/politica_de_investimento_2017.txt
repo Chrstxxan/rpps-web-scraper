@@ -1,0 +1,937 @@
+FUNDO DE APOSENTADORIAS E PENSÕES DOS SERVIDORES
+PÚBLICOS MUNICIPAIS DE TOLEDO
+FAPES/TOLEDOPREV
+Política Anual
+de Investimentos
+2017
+DATA DE REALIZAÇÃO: 05 DE DEZEMBRO DE 2016
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+SUMÁRIO
+1. INTRODUÇÃO.................................................................................................................. 4
+2. OBJETIVOS ........................................................................................................................ 4
+3. COMPETÊNCIAS DOS ÓRGÃOS ENVOLVIDOS NA GESTÃO DOS
+RECURSOS...............................................................................................................................5
+3.1 Conselho de Administração ...............................................................................................5
+3.2 Conselho Fiscal....................................................................................................................5
+3.3 Comitê de Investimentos ....................................................................................................6
+3.4 Coordenação do TOLEDOPREV......................................................................................7
+4. CENÁRIO ECONÔMICO ..................................................................................................7
+4.1 Comentários Econômicos 2016/2017.................................................................................7
+4.1.1 Primeira Parte – Dezembro de 2015 a meados de Março de 2016...............................8
+4.1.2 Segunda Parte – Meados de março de 2016 a 09 de novembro de 2016.....................9
+4.1.3 Terceira Parte – 09 a 25 de novembro de 2016............................................................11
+4.1.4 Rumo a 2017...................................................................................................................12
+5. CENÁRIO MACROECONÔMICO E ANÁLISE SETORIAL PARA
+INVESTIMENTOS.................................................................................................................13
+5.1 Mercado Externo...............................................................................................................13
+5.2 Mercado Interno................................................................................................................14
+5.3 Indicadores do Mercado Interno.....................................................................................15
+6. META DE RENTABILIDADE PARA 2016 ...................................................................16
+7. MODELO DE GESTÃO .................................................................................................. 16
+8. ESTRATÉGIAS DE INVESTIMENTOS E DESINVESTIMENTOS ..........................17
+9. ESTRUTURAS E LIMITES .............................................................................................17
+9.1 Aplicações no Segmento de Renda Fixa ........................................................................ 19
+9.1.1 Títulos de Emissão do Tesouro Nacional..................................................................19
+9.1.2 Fundos Exclusivamente Formados por Títulos de Emissão do Tesouro Nacional...19
+9.1.3 Operações Compromissadas......................................................................................20
+9.1.4 Fundos Renda Fixa ou Referenciados com Benchmark IMA ou IDkA.....................20
+9.1.5 Fundos de Renda Fixa ou Referenciados...................................................................20
+9.1.6 Poupança e/ou Letras Imobiliárias Garantidas.........................................................21
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 2
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+9.1.7 Fundos de Investimentos em Direitos Creditórios Abertos........................................21
+9.1.8 Fundos de Investimento em Direitos Creditórios Fechados......................................21
+9.1.9 Fundos de Investimento em Renda Fixa, classificados como Crédito Privado.........22
+9.1.10 Limites de Alocação em FIDCs e Crédito Privado..................................................22
+9.2 Aplicações no Segmento de Renda Variável ..................................................................22
+9.2.1 Fundos de Investimentos em Ações Referenciados.....................................................23
+9.2.2 Fundos de Investimentos em Fundos de Índice em Ações..........................................23
+9.2.3 Fundos de Investimentos em Ações..............................................................................23
+9.2.4 Fundos de Investimentos Multimercado – Aberto......................................................23
+9.2.5 Fundos de Investimentos em Participações – Fechados..............................................24
+9.3 Segmento de Imóveis ........................................................................................................24
+10. VEDAÇÕES .....................................................................................................................25
+10.1 Gerais ..............................................................................................................................25
+10.2 Específicas .......................................................................................................................26
+11. SELEÇÃO DE ATIVOS E FUNDOS .............................................................................27
+11.1 Credenciamento das Instituições Financeiras .............................................................27
+11.2 Abertura das Carteiras...................................................................................................28
+11.3 Rating dos Ativos.............................................................................................................28
+11.4 Rating das Instituições ...................................................................................................28
+12. CLASSIFICAÇÃO DE CONTROLE DOS RISCOS DE GESTÃO............................28
+12.1 Risco de Mercado............................................................................................................29
+12.2 Risco de Crédito..............................................................................................................29
+12.3 Risco de Liquidez............................................................................................................29
+13. DA TRANSPARÊNCIA ................................................................................................. 30
+13.1 Disponibilização das Informações ............................................................................... 30
+14. DISPOSIÇÕES GERAIS ............................................................................................... 31
+15. ASSINATURAS................................................................................................................32
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 3
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+1. INTRODUÇÃO
+Em cumprimento ao disposto no art. 4º da Resolução do Conselho Monetário Nacional nº
+3.922, de 25 de novembro de 2010, e art. 1º da Portaria MPS nº 519, de 24 de agosto de 2011,
+o Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de Toledo –
+FAPES/TOLEDOPREV apresenta a Política de Investimentos para o ano de 2017,
+devidamente aprovada pelo Conselho de Administração, em 15 de dezembro de 2016.
+Os investimentos obedecerão às diretrizes e princípios contidos nesta Política de
+Investimentos, estabelecida em consonância com os dispositivos da legislação específica em
+vigor. A construção da Política de Investimento atende a formalidade legal que direciona todo
+o processo de tomada de decisões, gerenciamento e acompanhamento dos recursos
+previdenciários a fim de garantir a manutenção do equilíbrio econômico-financeiro e atuarial
+entre seus ativos e passivos.
+2. OBJETIVOS
+A presente Política de Investimentos estabelece a forma de gerenciamento dos investimentos e
+desinvestimentos dos recursos do regime previdenciário gerido pelo Fundo de Aposentadorias
+e Pensões dos Servidores Públicos Municipais de Toledo – FAPES. Foram inseridas as
+normas e diretrizes referentes à gestão dos recursos financeiros do Fundo com foco na
+Resolução do Conselho Monetário Nacional nº 3.922, de 25 de novembro de 2010, atendendo
+as disposições da Portaria MPS nº 519, de 24 de agosto de 2011, e suas alterações, e levando
+em consideração os fatores de Risco, Segurança, Solvência, Liquidez e Transparência.
+A Política de Investimentos traz em seu contexto principal, os limites de alocação em ativos
+de renda fixa, renda variável e do segmento de imóveis, em consonância com a legislação
+vigente. Além desses limites, vedações específicas visam a dotar os gestores de orientações
+quanto à alocação dos recursos financeiros em produtos e ativos adequados ao perfil e às
+necessidades atuariais do Fundo. A presente Política pode ser revista e alterada durante o
+decorrer do ano de 2017, conforme entendimento da Coordenação do TOLEDOPREV,
+Comitê de Investimentos, Conselho Fiscal e Conselho de Administração. A vigência desta
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 4
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+política compreende o período entre 1º de janeiro de 2017 a 31 de dezembro de 2017. Ao
+aprovar a Política de Investimentos 2017, é possível identificar que:
+(cid:1) As alocações em produtos e ativos buscarão obter resultados compatíveis à meta
+atuarial e risco adequado ao perfil do RPPS;
+(cid:1) O processo de investimento será decidido pelo Comitê de Investimentos, que, baseado
+nos relatórios de análise de produtos, tomará decisão acerca das alocações;
+(cid:1) O FAPES seguirá os princípios de ética e da transparência na gestão dos
+investimentos, tomando como referência principalmente as diretrizes e normas estabelecidas
+nesta Política, na Resolução do Conselho Monetário Nacional nº 3.922/2010 e na Portaria
+MPS nº 519/2011 e demais normas regulamentadoras da matéria.
+3. COMPETÊNCIA DOS ÓRGÃOS ENVOLVIDOS NA GESTÃO DOS RECURSOS
+Os órgãos envolvidos na gestão são: o Conselho de Administração, Conselho Fiscal, Comitê
+de Investimentos e a Coordenação do TOLEDOPREV. No que diz respeito à elaboração e à
+implementação da Política de Investimentos, cada órgão possui as seguintes competências:
+3.1 Conselho de Administração
+Aprovar a Política de Investimentos com base na legislação vigente, em conjunto com o
+Comitê de Investimentos, estabelecendo os limites operacionais por segmento: Renda Fixa,
+Renda Variável, Imóveis.
+3.2 Conselho Fiscal
+(cid:1) Zelar pela exata execução da programação econômico-financeira do patrimônio dos
+planos, no que se refere aos valores mobiliários;
+(cid:1) Avaliar propostas, desde que contidas na política de investimentos, submetendo-as,
+quando favorável, aos órgãos competentes para deliberação;
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 5
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+(cid:1) Subsidiar o Comitê de Investimentos das informações necessárias à sua tomada de
+decisões, no âmbito dos investimentos dos planos de benefícios administrados pelo FAPES,
+para fins de:
+1) analisar os cenários macroeconômicos e político e as avaliações de
+especialistas acerca dos principais mercados, observando os possíveis reflexos no patrimônio
+dos planos de benefícios administrados pelo FAPES;
+2) propor, com base nas análises de cenários, as estratégias de investimentos para
+um determinado período;
+3) reavaliar as estratégias de investimentos, em decorrência da previsão ou
+ocorrência de fatos conjunturais relevantes que venham, direta ou indiretamente, influenciar
+os mercados financeiros e de capitais;
+4) analisar os resultados da carteira de investimentos do FAPES;
+5) fornecer subsídios para a elaboração ou alteração da política de investimentos
+do FAPES;
+6) acompanhar a execução da política de investimentos do FAPES.
+3.3 Comitê de Investimentos
+Competências mínimas:
+(cid:1) Estabelecer as diretrizes gerais da Política de Investimentos de gestão financeira dos
+recursos do FAPES, submetendo-as ao Conselho de Administração para aprovação, bem
+como efetuar a sua aprovação;
+(cid:1) Propor e aprovar os planos de aplicação e resgates financeiros dos recursos do FAPES
+em consonância com a Resolução do Conselho Monetário Nacional nº 3.922/2010 e eventuais
+alterações;
+(cid:1) Analisar a adoção de melhores estratégias para as aplicações dos recursos, visando ao
+cumprimento da meta atuarial;
+(cid:1) Avaliar mensalmente as ações adotadas no âmbito dos investimentos e
+desinvestimentos em ativos financeiros bem como as performances dos investimentos
+existentes ou dos que vierem a ser investidos;
+(cid:1) Apreciar e analisar os cenários econômico-financeiros de curto, médio e longo prazos;
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 6
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+(cid:1) Observar e aplicar os limites de alocações de acordo com as Resoluções 4.392/2014 e
+3.922/2010 do Conselho Monetário Nacional e eventuais alterações, bem como as
+Portarias do Ministério da Previdência relativas à matéria;
+(cid:1) Deliberar, após as devidas análises, a respeito dos investimentos e desinvestimentos;
+(cid:1) Deliberar sobre as diretrizes aplicáveis ao credenciamento de entidades financeiras.
+(cid:1) Propor, se necessário, a revisão da Política Anual de Investimentos ao Conselho de
+Administração, com vistas à adequação ao mercado ou a nova legislação.
+3.4 Coordenação do TOLEDOPREV
+A Coordenação do TOLEDOPREV terá como principal competência:
+• Executar as diretrizes definidas pelo Comitê de Investimentos quanto às alocações dos
+recursos do FAPES, de acordo com os limites aprovados na Política Anual de
+Investimentos;
+• Deliberar e efetuar os credenciamentos ou exclusões de instituições e/ou de entidades
+autorizadas/credenciadas conforme normas e procedimentos estabelecidos pelo
+Conselho Monetário Nacional, Ministério da Previdência Social e pelos Editais do
+TOLEDOPREV;
+• Adotar todas as medidas necessárias com vistas à boa gestão dos recursos, com base
+nas normas emanadas dos órgãos competentes, e boas práticas de mercado;
+4. CENÁRIO ECONÔMICO
+4.1 Comentários Econômicos 2016/2017
+Com 2016 já findando, é possível segmentá-lo em três pontos de vista temporais distintos: o
+primeiro compreende, de meados de dezembro/2015 até meados de março/2016; o segundo
+se passa entre meados de março/2016 até 09 de novembro de 2016 (resultado da eleição
+americana); e o terceiro, daí até os dias atuais.
+Classificar o ano de 2016 desta forma é crucial para entender pontos-chaves para a alocação
+de recursos, pois estes três períodos trouxeram e trarão para 2017 efeitos diversos sobre o
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 7
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+retorno dos investimentos e podem gerar grandes oportunidades de alocação e/ou realocação
+de recursos nas carteiras dos RPPS.
+4.1.1 Primeira Parte – Dezembro de 2015 a meados de Março de 2016
+Ao final de 2015 a conjuntura doméstica apresentava-se instável por motivos econômicos e
+políticos. As expectativas quanto ao processo de impeachment, bem como desdobramentos da
+operação lava-jato, trouxeram incerteza sobre os investimentos e já levantavam, sob o olhar
+do mercado, a possibilidade de mudança na condução da política econômica. No lado
+econômico o Brasil se apresentava com inflação elevada – 2015 terminou com IPCA de
+10,67%, com dólar cotado a R$ 3,87 e taxa de juros SELIC de 14,25%.
+Em outro terreno, o internacional, a recuperação americana se consolidava e o discurso do
+FED trazia consigo a expectativa de início de um ciclo de elevação nas taxas de juros, após
+sair da reunião de 16/12/2015 com 0,25% p.p. a mais, passando o teto para 0,50% a.a.
+Diante dessa realidade o mercado iniciou o ano de 2016 projetando pelo menos 4 elevações
+dos FED Funds, fato este precificado na curva de juros futura, principalmente na sua ponta
+longa, como pode ser verificado no gráfico abaixo extraído do relatório FOCUS - BACEN
+Sob esta dominância, os investimentos estavam respondendo às expectativas internacionais de
+elevação dos juros americanos, bem como às expectativas de alternância de política
+econômica decorrente de possíveis alterações políticas locais. Desta forma, o que se viu foi o
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 8
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+mercado andando “de lado”, sem forte tendência, à espera de novos acontecimentos. No
+gráfico abaixo é possível perceber que no início de março de 2016 houve elevação na
+volatilidade na renda fixa.
+4.1.2 Segunda Parte – Meados de março de 2016 a 09 de novembro de 2016
+No decorrer desse período, alguns fatos alteraram a percepção dos investidores e dos
+economistas a respeito do andamento das expectativas que iniciaram o ano, tanto no Brasil
+quanto no exterior.
+No Brasil, o impedimento da presidente se apresentava cada vez mais possível, fato que levou
+os investidores “comprarem” esta idéia e ampliarem suas apostas em uma mudança da
+condução da política econômica. Desta forma, gradativamente a redução da percepção de
+risco foi se apresentando e os indicadores foram se alterando. O Ibovespa começou a se
+recuperar saindo de 37500 pontos em fevereiro para 64800 pontos no seu auge (início de
+novembro de 2016). O dólar começou a se desvalorizar caindo de R$ 4,07 em fevereiro,
+chegando a R$ 3,16 no início de novembro/2016.
+Outra alteração que se verificou foi quanto às expectativas de juros futuros. Elas “fecharam”
+influenciadas pela mudança na condução da política econômica, aumento da confiança dos
+empresários e consumidores, redução das expectativas inflacionárias e início de provável ciclo
+de redução da taxa SELIC. Desta forma, os contratos futuros de DI, com vencimento em
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 9
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+janeiro de 2020, caíram de 16,9% em meados de janeiro de 2016 para 11,38% no início de
+novembro/2016, conforme pode ser observado no gráfico abaixo.
+Já do lado internacional, o FED freou sua visão quanto a recuperação econômica americana e
+o ritmo de redução do desemprego, trazendo um discurso mais “Dovish”, conservador, em
+relação ao ciclo de elevação dos FED Funds. Desta forma, o mercado desmonstrou suas
+apostas de 4 elevações dos juros em 2016 para somente uma. Este fato trouxe correção na
+curva de juros internacional e proporcionou um ambiente mais favorável para tomada de risco
+por parte do investidor internacional. Isso significou entrada maciça de divisas nos países
+emergentes incluindo o Brasil.
+Esta mudança de percepção e de posição dos investidores trouxe um período de aparente
+tranquilidade para os gestores de RPPS, resultando em bons retornos para os investimentos,
+tanto em renda fixa quanto em renda variável, como pode ser verificado no gráfico abaixo.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 10
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+4.1.3 Terceira Parte – 09 a 25 de novembro de 2016
+Porém nem tudo são flores. A eleição presidencial americana, que em razão da liderança da
+Democrata Hilary Clinton, não vinha trazendo desconforto aos investidores, resultou na maior
+quebra de expectativas já verificada nas últimas décadas. A vitória do Republicano Donald
+Trump trouxe uma névoa de incertezas sobre a economia mundial, principalmente pela sua
+postura mais conservadora e protecionista, muito propalada em sua campanha.
+Ainda não é possível identificar quais pontos do seu futuro governo, que começa em 20 de
+janeiro de 2017, afetarão o mercado de capitais, porém o mercado tem se mostrado bastante
+cético quanto às promessas.
+Uma interpretação, contudo, vem chamando atenção dos mercados: a possibilidade de
+elevação dos gastos do Estado para incentivar a economia. Os analistas acreditam que este
+fato pode acelerar o processo inflacionário americano e forçar o FED a elevar os juros de
+forma mais acelerada. Apesar de ser somente expectativa, tal situação já trouxe elevação na
+percepção de risco quanto aos investimentos nos países emergentes, como resultado, houve
+apreciação do dólar, queda nos índices de ações e elevação da curva de juros futuros. No
+gráfico abaixo é possível verificar este efeito, bem como notar um aumento na volatilidade
+deste mercado:
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 11
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+4.1.4 Rumo a 2017
+Sob esta névoa de incerteza citada anteriormente, o FAPES terá que desenhar sua política
+anual de investimentos para 2017. Não há dúvidas que o desafio será grande, sobretudo com
+relação aos fundos de investimentos que carregam maior risco de mercado; IMA-B5+, IMA-B
+e de ações sobretudo. Porém, com uma alocação razoavelmente diversificada entre os fatores
+de risco é possível construir uma carteira de investimentos que possa capturar o retorno nos
+investimentos, sem exposição demasiada a riscos e conseguir alcançar o objetivo de atingir ou
+mesmo superar a meta atuarial.
+Considerando a conjuntura econômica doméstica, um olhar atento sobre o comportamento da
+inflação e da trajetória da taxa SELIC em 2016 e as expectativas para 2017 já trazem um bom
+norte para os investimentos.
+Quanto à inflação, sua trajetória de queda, influenciada pela redução da atividade econômica,
+aumento do desemprego e queda da massa salarial, vem sendo destacada pelos analistas e suas
+expectativas futuras são de redução. Destaca-se daí uma importante consequência: a meta
+atuarial pode ser menor, dada uma inflação menor.
+Já quanto aos juros, a tendência verificada entre os analistas trata-se da redução da SELIC. A
+reboque da redução dos índices inflacionários, o Comitê de Política Monetária (COPOM),
+órgão do BACEN responsável pelas decisões de políticas monetárias, dá sinais que poderá
+manter o ciclo de queda, porém permanecerá atento, principalmente quanto aos efeitos da
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 12
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+inflação de serviços. De toda forma, as expectativas do mercado são de redução paulatina na
+taxa.
+Contudo, o que deve ser observado neste movimento é qual será a velocidade desta redução,
+justamente para mensurar qual será a taxa de juros real resultante da relação entre as taxas de
+juros nominais e inflação.
+Sendo assim, a alocação de recursos na política anual de investimentos para 2017 deve
+considerar todos os fatores citados.
+5. CENÁRIO MACROECONÔMICO E ANÁLISE SETORIAL PARA
+INVESTIMENTOS
+5.1 Mercado Externo
+Nos EUA os dados do 3º trimestre de 2016, divulgados revelam que a economia cresceu 2,9%
+em termos anualizados ante a alta de 1,4% no 2º trimestre de 2016. O resultado veio acima da
+expectativa do mercado e foi motivado, em grande parte, pela recuperação dos investimentos,
+bem como pela melhora surpreendente do setor externo. Há forte probabilidade de o Banco
+Central Americano (FED) aumentar a taxa básica de juros do país até o final de 2016, o que já
+está refletindo no mercado de juros futuro. O dólar tem mantido a trajetória de valorização nos
+meses de outubro e novembro de 2016. A vitória do Republicano Donald Trump, nas eleições
+presidenciais, trouxe incertezas sobre a economia mundial, principalmente pela sua postura
+mais conservadora e protecionista. A possibilidade de elevação dos gastos do Estado para
+incentivar a economia, vem chamando atenção dos mercados. Os analistas acreditam que este
+fato pode acelerar o processo inflacionário americano e forçar o FED a elevar os juros de
+forma mais acelerada. Apesar de ser somente expectativa, tal situação já trouxe elevação na
+percepção de risco quanto aos investimentos nos países emergentes, como resultado, houve
+valorização do dólar, queda nos índices de ações e elevação da cuva de juros futuro.
+Na Zona do Euro, o BCE manteve em sua reunião os atuais parâmetros de política monetária
+inalterados. O resultado frustrou o mercado que esperava pela ampliação do prazo do
+programa de compra de ativos, que está previsto para encerrar em março de 2017. Sobre uma
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 13
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+eventual revisão dos estímulos atuais, o presidente da instituição, Mario Draghi disse que
+também não houve discussão e que em dezembro, será feita uma nova avaliação do rumo da
+política monetária com base na atualização das projeções da instituição até 2019. Por ora, o
+BCE avalia que a economia tem se mantido resiliente, enquanto a inflação por sua vez tem
+subido gradualmente, dentro do esperado. Nesse sentido, em outubro, a prévia do IPC
+apresentou alta pelo segundo mês consecutivo, passando de 0,4% para 0,5% a.a. porém, ainda
+se mantém distante da meta de aproximadamente 2,0% a.a do BCE.
+Na China, o principal destaque do mês de outubro de 2016 foi a volta ao patamar positivo do
+índice de inflação ao produtor (PPI) após um período longo em deflação. Um conjunto de
+fatores como: a redução da capacidade ociosa em vários setores industriais em função de
+incentivos do governo, o aumento recente no preço das commodities, o crescimento moderado
+da demanda interna e a desvalorização do Yuan, que torna os produtos importados mais caros,
+estão por trás do movimento. Ademais, os estímulos à economia promovidos pelo governo
+têm mostrado resposta positiva. O resultado do PIB no 3º trimestre de 6,7% a.a. reforça o
+cumprimento da meta de crescimento para o ano, que está situada entre 6,5% e 7,0% .
+No Japão, o Banco Central (BoJ), manteve inalterados os parâmetros atuais da politica
+monetária, entretanto, adiou para o ano fiscal de 2018 o cumprimento da meta de inflação de
+2,0% a.a.
+5.2 Mercado Interno
+O ano de 2016 está sendo complexo para o Brasil. A inflação a partir do segundo semestre
+vem apresentando reduções, mais ainda é considerada alta quando comparada ao centro da
+meta. A expectativa é de fecharmos o ano de 2016 com a inflação medida pelo IPCA em
+6,68% a 6,72%. Com relação ao ano de 2017 às expectativas estão entre 4,80% e 4,93%.
+(Fonte: Relatório Focus do Banco Central do Brasil – Expectativa de Mercado (25/11/2016).
+O baixo nível de emprego (a taxa de desemprego divulgada pelo IBGE no trimestre encerrado
+em outubro de 2016, ficou em 11,8%), poucos investimentos na atividade industrial,
+comercial e de serviços têm gerado a expectativa de PIB negativo por volta de -3,49% para o
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 14
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+ano de 2016. Para o ano de 2017 a expectativa é de 0,98%(crescimento positivo). (Fonte:
+Relatório Focus do Banco Central do Brasil – Expectativa de Mercado (25/11/2016).
+Em relação a taxa básica de juros SELIC a expectativa é de que em 2016 ela encerre o ano em
+13,75%. Até setembro de 2016 a SELIC meta encontrava-se em 14,25%, havendo uma
+redução de 0,25% em outubro de 2016, passando para 14,00, e uma redução de 0,25 em
+novembro de 2016 passando para 13,75%. As expectativas para o ano de 2017 é de 10,75%.
+(Fonte: Relatório Focus do Banco Central do Brasil – Expectativa de Mercado (25/11/2016).
+É esperado para o ano de 2017, um cenário complexo e desafiador. Serão necessários vários
+ajustes na política econômica para iniciarmos a retomada do crescimento. São esperadas
+medidas com o intuito de equilibrar as contas públicas e promover a confiança aos
+investidores e empresas. No final de outubro a Câmara dos Deputados aprovou o Projeto de
+Emenda Constitucional 241 (PEC 241), conhecida como a PEC do Teto dos Gastos Púlicos,
+que faz parte do plano de reestruturação das contas fiscais. Agora a proposta segue para
+aprovação no Senado. Através da PEC 241, as despesas primárias da União, a partir de 2017,
+devem ficar limitadas ao que foi gasto no ano anterior corrigidas pela inflação. A expectativa
+é de que ocorra, no futuro, a redução das despesas primárias e consequentemente a redução
+das despesas financeiras, visto que o governo poderá se financiar com taxas de juros menores
+através da negociação dos novos títulos públicos.
+O governo Federal tá anunciando que irá divulgar medidas com vistas a alteração do Sistema
+Previdenciário tanto público como privado. A expectativa é de alterações nos prazos de
+contribuições e tempo de serviço para a obtenção da aposentadoria.
+5.3 Indicadores do Mercado Interno
+A seguir apresentamos as mediana das expectativas de vários indicadores da economia do
+Brasil para os anos de 2016 e 2017, colhidas junto ao Banco Central do Brasil.
+Indicadores Mediana 2016 Mediana 2017
+IGP-DI (%) 6,83 5,06
+IGP-M (%) 7,18 5,22
+INPC (%) 7,39 4,98
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 15
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+IPA-DI (%) 7,22 5,33
+IPA-M (%) 7,81 5,64
+IPCA (%) 6,72 4,93
+IPCA-15 (%) 6,93 5,10
+IPC-Fipe (%) 6,58 5,06
+PIB (% crescimento) -3,49 0,98
+Taxa de câmbio – fim do período (R$/US$) 3,35 3,40
+Meta Taxa Selic – fim do período (% a.a.) 13,75 10,75
+Indicadores do TOP 5 (Longo Prazo) Mediana 2016 Mediana 2017
+IGP-DI (%) 6,59 5,60
+IGP-M (%) 7,10 5,38
+IPCA (%) 6,78 4,90
+Taxa de cãmbio – Fim de Ano (R$/U$$) 3,30 3,50
+Taxa Over SELIC – Fim de Ano (% a.a.) 13,75 10,50
+https://www3.bcb.gov.br/expectativas/publico/consulta/seriesestatisticas
+Fonte: Relatório Focus do Banco Central do Brasil – Expectativa de Mercado (25/11/2016)
+6. META DE RENTABILIDADE PARA 2017
+Em linha com sua necessidade atuarial, o Fundo de Aposentadorias e Pensões dos Servidores
+Públicos Municipais de Toledo – FAPES estabelece como meta, que a rentabilidade anual da
+carteira de investimentos do FAPES alcance desempenho equivalente a 6% (seis por cento)
+acrescida da variação do INPC (Índice Nacional de Preço do Consumidor) divulgado pelo
+IBGE.
+7. MODELO DE GESTÃO
+Para que todas as decisões de investimentos e desinvestimentos sejam tomadas internamente
+sem interferência de agentes externos, o Fundo de Aposentadorias e Pensões dos Servidores
+Públicos Municipais de Toledo – FAPES adota o modelo de gestão própria, em conformidade
+com o artigo 15, § 1º, inciso I, da Resolução do Conselho Monetário Nacional nº 3.922/2010.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 16
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+8. ESTRATÉGIAS DE INVESTIMENTOS E DESINVESTIMENTOS
+Os cenários e projeções econômicas para o ano de 2017 exigem que o RPPS, a fim de cumprir
+com seu objetivo de rentabilidade, atue de maneira dinâmica, aproveitando da melhor maneira
+as oportunidades existentes no mercado financeiro. Dessa forma, a estratégia de investimento
+e desinvestimento levará em consideração dois aspectos: a expectativa de rentabilidade e o
+risco associado ao produto. A partir da análise do cenário macroeconômico de curto e médio
+prazos, da avaliação dos riscos e das possibilidades de retorno, a Coordenação do
+TOLEDOPREV efetuará o investimento ou desinvestimento dentre as diferentes classes de
+ativos, a partir das definições do Comitê de Investimentos, cuja maioria dos integrantes deverá
+possuir certificação fornecida por entidade autônoma de reconhecida capacidade técnica e
+difusão no mercado brasileiro de capitais. Todavia, recursos recebidos no período
+compreendido entre as reuniões do Comitê de Investimentos, serão aplicados em produtos
+onde o FAPES já possua investimentos anteriores e na mesma instituição financeira que
+recebeu o recurso, mediante autorização da Coordenação do TOLEDOPREV. Tais atos
+deverão ser ratificados pelo Comitê de Investimentos e, na primeira reunião desse, os recursos
+serão colocados em pauta para análise e deliberação.
+9. ESTRUTURAS E LIMITES
+A Resolução do Conselho Monetário Nacional nº 3.922/2010 estabelece que os recursos
+sejam alocados, exclusivamente, nos segmentos de: Renda Fixa, Renda Variável e Imóveis.
+Neste sentido, cumprindo o disposto pelo Conselho Monetário Nacional, as aplicações do
+RPPS serão alocadas obedecendo aos seguintes limites:
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 17
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+Limite do RPPS Limite de alocação
+Limite Alocação Limite Limite de alocação do
+para Alocação dos por PL do
+RPPS Cumulativo RPPS por Fundo
+RENDA FIXA Recursos Fundo/Emissor
+Títulos Públicos Federais (SELIC) – Art.
+100% Até 100% não se aplica
+7º,I,”a”
+100%
+Até 25% do PL do
+FI e FIC 100% TPF – Art. 7º,I,”b” 100% Até 100%
+fundo (Art 14)
+Operações Compromissadas somente em TPF
+15% - Até 15% não se aplica
+registradas no SELIC – Art. 7º,II
+FI e FIC Referenciado RF (IMA e IDkA) – Art. Até 25% do PL do Até 20% do PL do
+80% 80% Até 80%
+7º,III,”a” fundo (Art 14) RPPS (Art. 13)
+FI de Índices RF Subíndices anbima – Art. Até 25% do PL do Até 20% do PL do
+80% 80% Até 80%
+7º,III,”b” fundo (Art 14) RPPS (Art. 13)
+Até 25% do PL do Até 20% do PL do
+FI Renda Fixa – Art. 7º,IV,”a” 30% 30% Até 30%
+fundo (Art. 14) RPPS (Art. 13)
+Até 25% do PL do Até 20% do PL do
+FI Renda Fixa – Art. 7º,IV,”b” 30% 30% Até 30%
+fundo (Art. 14) RPPS (Art. 13)
+Poupança em Instituição Financeira
+20% Até 20% não se Aplica
+de Baixo Risco de Crédito – Art. 7º,V,”a” 20%
+Letras Hipotecárias Garantidas – Art. 7º,V,”b” 20% Até 20% não se Aplica
+Até 25% do PL do
+* FIDC em Condomínio Aberto – Art 7º, VI 15% Até 15%
+fundo (Art 14)
+*FIDC em Condomínio Fechado – Art. Até 25% do PL do
+5% 15% Até 5%
+7º,VII,”a” fundo (Art 14)
+Até 25% do PL do
+*FI RF Crédito Privado – Art. 7º,VII,”b” 5% Até 5%
+fundo (Art 14)
+*O total das aplicações do Art. 7º Incisos VI e VII não deverá exceder 15% do Patrimônio Líquido do FAPES, e o total do Inciso VII “a” e “b” não poderá
+ultrapassar 5%.
+Limite Limite Limite do RPPS Limite de
+Limite de alocação
+Alocação Cumulativ para Alocação alocação por PL
+do RPPS por Fundo
+*RENDA VARIÁVEL – Art 8º RPPS o dos Recursos do Fundo/Emissor
+FIA com Benchmark Ibovespa, IBrX e Até 25% do PL do Até 20% do PL do
+15% Até 30%
+IBrX-50 – Art. 8º, I fundo (Art 14) RPPS (Art. 13)
+ETF - Referenciado em ações, Ibovespa, Até 25% do PL do
+5% Até 20%
+IbrX e IBrX-50 – Art. 8º, II fundo (Art 14)
+FI Ações (o FIA pode alocar em ETF) – Até 25% do PL do
+15% Até 15%
+Art. 8º, III fundo (Art 14)
+30%
+Até 25% do PL do
+FI Multimercado – Art. 8º, IV 5% Até 5%
+fundo (Art 14)
+FI em Participações em Condomínio Até 25% do PL do
+5% Até 5%
+fechado – Art. 8º, V fundo (Art 14)
+FI Imobiliário com cotas negociadas em Até 25% do PL do
+5% Até 5%
+bolsa – Art. 8º, VI fundo (Art 14)
+* Para a alocação de ativos no segmento de renda Variável deverá ser observado o limite cumulativo de 30%.
+IMÓVEIS – ARTIGO 9º
+Imóveis vinculados por Lei ao RPPS, de acordo com o Art. 9º Sem definições de limites inferiores e superiores
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 18
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+9.1 Aplicações no Segmento de Renda Fixa
+Neste segmento poderão ser alocados até 100% (cem por cento) dos recursos do FAPES,
+observados os dispositivos elencados no artigo 7° e seus incisos da Resolução do Conselho
+Monetário Nacional nº 3.922/2010, sendo em:
+9.1.1 Títulos de Emissão do Tesouro Nacional
+Poderão ser aplicados 100% (cem por cento) dos recursos disponíveis do FAPES em títulos de
+emissão do Tesouro Nacional, registrados no Sistema Especial de Liquidação e custódia
+(SELIC). O artigo 7º, § 1º, da Resolução do Conselho Monetário Nacional nº 3.922/2010,
+estabelece que as operações que envolvam Títulos Públicos Federais, registrados no Sistema
+Especial de Liquidação e Custódia (SELIC) (compra/venda), deverão ser realizadas por meio
+de plataformas eletrônicas administradas por sistemas autorizados a funcionar pelo Banco
+Central do Brasil ou pela Comissão de Valores Mobiliários (CVM) nas suas respectivas áreas
+de competência, admitindo-se, ainda, aquisições em ofertas públicas do Tesouro Nacional, por
+intermédio das instituições regularmente habilitadas, desde que possam ser devidamente
+comprovadas.
+9.1.2 Fundos Exclusivamente Formados por Títulos de Emissão do Tesouro Nacional
+Poderão ser aplicados até 100% (cem por cento) dos recursos disponíveis em cotas de fundos
+de investimentos, constituídos sob a forma de condomínio aberto, cujos regulamentos
+prevejam que suas carteiras sejam representadas exclusivamente por títulos do Tesouro
+Nacional e cuja política de investimento assuma o compromisso de buscar o retorno de um
+dos subíndices do Índice de Mercado Anbima (IMA) ou do Índice de Duração Constante
+Anbima (IDkA), com exceção de qualquer subíndice atrelado à taxa de juros de um dia.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 19
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+9.1.3 Operações compromissadas
+Poderão se alocados até 15% (quinze por cento) dos recursos disponíveis em operações
+compromissadas, lastreadas exclusivamente por títulos de emissão do Tesouro Nacional,
+registrados no Sistema Especial de Liquidação e Custódia (SELIC).
+9.1.4 Fundos Renda Fixa ou Referenciados com Benchmark IMA ou IDkA
+Poderão ser aplicados até 80% (oitenta por cento) dos recursos em fundos desta categoria
+desde que os fundos sejam referenciados em indicadores de desempenho de renda fixa,
+constituídos sob a forma de condomínio aberto e cuja política de investimento assuma o
+compromisso de buscar o retorno de um dos subíndices do Índice de Mercado Anbima (IMA)
+ou do Índice de Duração Constante (IDkA), com exceção de qualquer subíndice atrelado à
+taxa de juros de um dia. Os regulamentos dos fundos deverão determinar que os direitos,
+títulos e valores mobiliários que compõem suas carteiras ou respectivos emissores sejam
+considerados de baixo risco de crédito em classificação efetuada por agência classificadora de
+risco em funcionamento no País e, ainda, que o limite máximo de concentração em uma
+mesma pessoa jurídica, de sua controladora, de entidade por ela direta ou indiretamente
+controlada e de coligada ou quaisquer outras sociedades sob controle comum seja de 20%
+(vinte por cento).
+9.1.5 Fundos de Renda Fixa ou Referenciados
+Poderão ser aplicados até 30% (trinta por cento) dos recursos disponíveis em cotas de fundos
+de investimento classificados como renda fixa ou como referenciados em indicadores de
+desempenho de renda fixa, constituídos sob a forma de condomínio aberto. Os regulamentos
+dos fundos deverão determinar que os direitos, títulos e valores mobiliários que compõem
+suas carteiras ou os respectivos emissores sejam considerados de baixo risco de crédito em
+classificação efetuada por agência classificadora de risco em funcionamento no País e, ainda,
+que o limite máximo de concentração em uma mesma pessoa jurídica, de sua controladora, de
+entidade por ela direta ou indiretamente controlada e de coligada ou quaisquer outras
+sociedades sob controle comum seja de 20% (vinte por cento).
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 20
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+9.1.6 Poupança e/ou Letras Imobiliárias Garantidas
+Em função da baixa rentabilidade deste segmento, serão permitidas aplicações até o limite de
+20% (vinte por cento) do Patrimônio do FAPES, em poupança de instituição financeira
+considerada de baixo risco de crédito por agência classificadora de risco em funcionamento no
+País e condicionadas a que a instituição financeira não tenha o respectivo controle societário
+detido, direta ou indiretamente, por Estado. Poderão ser aplicados, também, em Letras
+Imobiliárias Garantidas, incluídas pela Resolução CMN nº 4.392 de 19 de dezembro de 2014.
+Porém, o total deste bloco (poupança mais Letras Imobiliárias Garantidas) não pode
+ultrapassar o limite de 20% (vinte por cento) do Patrimônio do FAPES.
+9.1.7 Fundos de Investimentos em Direitos Creditórios Abertos
+Poderão ser aplicados até 15% (quinze por cento) do total dos recursos disponíveis do FAPES
+em cotas de classe sênior de fundos de investimentos em direitos creditórios constituídos sob
+a forma de condomínio aberto, desde que sejam observados os procedimentos específicos
+previstos nos itens 10.2 e 11.3 deste instrumento, bem como as Resoluções nº 4.392/2014 e nº
+3.922/2010 do Conselho Monetário Nacional.
+Subordinam-se a que série ou classe de cotas do fundo seja considerada de baixo risco de
+crédito, com base, dentre outros critérios, em classificação efetuada por agência classificadora
+de risco em funcionamento no País e, ainda, que o regulamento do fundo determine que o
+limite máximo de concentração em uma mesma pessoa jurídica, de sua controladora, de
+entidade por ela direta ou indiretamente controlada e de coligada ou quaisquer outras
+sociedades sob controle comum, seja de 20% (vinte por cento).
+9.1.8 Fundos de Investimento em Direitos Creditórios Fechados
+Poderão ser aplicados até 5% (cinco por cento) do total dos recursos disponíveis do FAPES
+em em cotas de classe sênior de fundos de investimentos em direitos creditórios constituídos
+sob a forma de condomínio fechado, desde que sejam observados os procedimentos
+específicos previstos nos itens 10.2 e 11.3 deste instrumento, bem como as Resoluções nº
+4.392/2014 e nº 3.922/2010 do Conselho Monetário Nacional.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 21
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+Subordinam-se a que série ou classe de cotas do fundo seja considerada de baixo risco de
+crédito, com base, dentre outros critérios, em classificação efetuada por agência classificadora
+de risco em funcionamento no País e, ainda, que o regulamento do fundo determine que o
+limite máximo de concentração em uma mesma pessoa jurídica, de sua controladora, de
+entidade por ela direta ou indiretamente controlada e de coligada ou quaisquer outras
+sociedades sob controle comum, seja de 20% (vinte por cento).
+9.1.9 Fundos de Investimento em Renda Fixa, classificados como Crédito Privado
+Poderão ser aplicados até 5% (cinco por cento) dos recursos disponíveis do FAPES, desde
+que seja observado o procedimento específico descrito no item 10.2 deste instrumento e desde
+que os regulamentos dos fundos prevejam que os direitos, títulos e valores mobiliários que
+compõem suas carteiras ou os respectivos emissores sejam considerados de baixo risco de
+crédito em classificação efetuada por agência classificadora de risco em funcionamento no
+País e, ainda, que o limite máximo de concentração em uma mesma pessoa jurídica, de sua
+controladora, de entidade por ela direta ou indiretamente controlada e de coligada ou quaisquer
+outras sociedades sob controle comum seja de 20% (vinte por cento).
+9.1.10 Limites de Alocação em FIDCs e Crédito Privado
+Conforme determinado no artigo 7º, inciso VII, § 5º, da Resolução do Conselho Monetário
+Nacional nº 3.922/2010, a totalidade das aplicações em cotas de Fundos de Investimentos em
+Direitos Creditórios em condomínio aberto, em cotas de Fundos de Investimentos em Direitos
+Creditórios constituídos sob a forma de condomínio fechado e em cotas de Fundos de
+Investimentos em renda fixa classificados como Crédito Privado não poderá exceder o limite
+de 15% (quinze por cento) do total dos recursos disponíveis.
+9.2 Aplicações no Segmento de Renda Variável
+Poderão ser alocados neste segmento o limite de 30% (trinta por cento) dos recursos
+disponíveis do FAPES.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 22
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+No segmento renda variável os recursos dos RPPS serão aplicados em fundos de
+investimentos em ações, fundos de investimento multimercados, fundos de investimento em
+participações e fundos de investimento imobiliário. É admitida a aplicação em fundos de
+investimento em cotas de fundos de investimento, desde que seja possível identificar e
+demonstrar que os respectivos fundos mantenham as composições, limites e garantias exigidas
+para os fundos de investimentos de que trata a legislação.
+9.2.1 Fundos de Investimentos em Ações Referenciados
+Poderão ser aplicados até 15% (quinze por cento) em cotas de fundos de investimento
+constituídos sob a forma de condomínio aberto e classificados como referenciados que
+identifiquem em sua denominação e em sua política de investimento indicador de desempenho
+vinculado ao índice Ibovespa, IBrX ou IBrX-50.
+9.2.2 Fundos de Investimentos em Fundos de Índice em Ações
+Poderão ser aplicados até 5% (cinco por cento) em fundos de índice em ações que repliquem a
+formação e o peso dos papeis que formam os índices do IBOVESPA, IBrX e IBrX-50.
+9.2.3 Fundos de Investimentos em Ações
+Poderão ser aplicados até 15% (quinze por cento) em cotas de fundos de investimento em
+ações, constituídos sob a forma de condomínio aberto, cujos regulamentos dos fundos
+determinem que as cotas de fundos de índices referenciados em ações que compõem suas
+carteiras estejam no âmbito dos índices Ibovespa, IBrX ou IBrX-50.
+9.2.4 Fundos de Investimentos Multimercado – Aberto
+Poderão ser aplicados até 5% (cinco por cento) em fundos de investimentos multimercado,
+constituídos sob a forma de condomínio aberto. Neste segmento, fica estabelecido que os
+fundos que integrarem o portfólio, necessariamente, não poderão admitir alavancagem em
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 23
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+suas estratégias de gestão, conforme Resolução do Conselho Monetário Nacional nº
+3.922/2010.
+9.2.5 Fundos de Investimentos em Participações – Fechados
+Poderão ser aplicados até 5% (cinco por cento) dos recursos disponíveis do FAPES, desde que
+seja observado o procedimento específico descrito no item 10.2 deste instrumento.
+Ressaltamos que essa categoria de investimento demandará uma análise ainda mais rigorosa,
+evidenciando a formatação da sua estrutura, foco setorial dos ativos que o compõem, a
+iliquidez e demais riscos pertinentes ao seguimento de ativos estruturados. Os Fundos de
+Investimentos em Participações deverão ter como parâmetro de rentabilidade os indicadores
+CDI, IPCA, INPC ou taxa pré-fixada.
+9.2.6 Fundos de Investimentos Imobiliários – cotas negociadas em bolsa
+Poderão ser aplicados até 5% (cinco por cento) dos recursos disponíveis do FAPES em fundos
+de investimento imobiliário, com cotas negociadas em bolsa de valores e desde que observado
+o procedimento específico descrito no item 10.2 deste instrumento, sendo que, igualmente ao
+item anterior, em razão da complexidade do segmento e para que não exista descasamento
+entre os fluxos de recebimento e desembolsos, a possibilidade de aplicação será objeto de
+rígida análise quanto à sua estrutura e viabilidade financeira. Os Fundos de Investimentos
+Imobiliários deverão ter como parâmetro de rentabilidade os indicadores CDI, IPCA, INPC ou
+taxa pré-fixada.
+9.3 Segmento de Imóveis
+As aplicações no segmento de imóveis, de acordo com o artigo 9º da Resolução do Conselho
+Monetário Nacional nº 3.922/2010, destinam-se, exclusivamente, aos imóveis vinculados por
+lei ao regime próprio de previdência social. Os imóveis poderão ser utilizados para a aquisição
+de cotas de fundos de investimento imobiliário, desde que as cotas sejam negociadas em
+ambiente de bolsa de valores. O RPPS de Toledo alocará recursos neste segmento, somente
+quando lei vincular imóveis à sua estrutura.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 24
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+10. VEDAÇÕES
+10.1 Gerais
+Os recursos do FAPES serão aplicados em conformidade com a Resolução do Conselho
+Monetário Nacional nº 3.922/2010 e as disposições desta Política de Investimentos, não sendo
+possível aos gestores:
+(cid:1) Adquirir títulos públicos federais que não sejam registrados no sistema SELIC;
+(cid:1) Aplicar recursos em cotas de fundos de investimento cuja atuação em mercados de
+derivativos gere exposição superior a uma vez o respectivo patrimônio líquido, inclusive os
+Fundos Multimercados;
+(cid:1) Na negociação de títulos públicos, realizar operações denominadas day-trade;
+(cid:1) Adquirir cotas de FIDC (Fundo de Investimento em Direitos Creditórios) cuja carteira
+contenha, direta ou indiretamente, direitos creditórios em que o ente federativo figure como
+devedor ou preste fiança, aceite, aval ou coobrigação sob qualquer outra forma ou, adquirir
+cotas de fundo de investimento em direitos creditórios não padronizados;
+(cid:1) Atuar em modalidades operacionais ou negociar com duplicatas, títulos de crédito ou
+outros ativos que não os previstos na Resolução do Conselho Monetário Nacional nº
+3.922/2010;
+(cid:1) Possuir mais de 25% (vinte e cinco por cento) do patrimônio líquido de um mesmo
+fundo, independentemente do segmento (renda fixa/renda variável);
+(cid:1) Alocar mais de 20% (vinte por cento) dos recursos do FAPES em cotas de um mesmo
+fundo, exceto quando tratar-se de produtos com benchmark IMA ou IDkA formados
+unicamente por Títulos do Tesouro Nacional.
+(cid:1) Fundos de Renda Fixa – Serão efetuadas aplicações apenas em fundos cujas carteiras
+contenham, exclusivamente, ativos classificados como de baixo risco de crédito, com
+classificação mínima (A) por agência classificadora de risco em funcionamento no País. No
+caso das DPGE’s inseridas na carteira do fundo, a classificação deverá ser no mínimo (BB),
+por agência classificadora de risco em funcionamento no País. Os ativos não enquadrados nas
+classificações de risco deste item poderão representar no máximo 2% (dois por cento) do
+patrimônio do fundo.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 25
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+(cid:1) Adotar outras modalidades expressamente vedadas pela presente Política de
+Investimentos e na Resolução do Conselho Monetário Nacional nº 3.922/10.
+(cid:1) Pagar taxa de performance quando o resultado do valor da aplicação for inferior ao seu
+valor nominal inicial ou ao valor na data da última cobrança.
+10.2 Específicas
+Nos segmentos de Renda Fixa e Renda Variável, ficam vedadas as aplicações em fundos que
+gerem iliquidez à carteira do FAPES com prazo maior do que 90 (noventa) dias, exceto:
+1) Fundos de Investimento em Participações – FIP´s, desde que cumpridos todos os
+requisitos de análise e submissão à consideração do Comitê de Investimentos e, quando o
+valor a ser investido ultrapassar a 50% (cinquenta por cento) do percentual do segmento
+(2,5% - dois e meio por cento), deverá ser aprovado pelo Conselho de Administração.
+2) Fundos de Investimentos Imobiliários - FII´s - desde que cumpridos todos os requisitos
+de análise e submissão à consideração do Comitê de Investimentos e, quando o valor a ser
+investido ultrapassar a 50% (cinquenta por cento) do percentual do segmento (2,5% - dois e
+meio por cento), deverá ser aprovado pelo Conselho de Administração.
+3) Fundos de Investimento em Direitos Creditórios – FIDC’S – desde que cumpridos todos
+os requisitos de análise e submissão à consideração do Comitê de Investimentos e, quando o
+valor a ser investido ultrapassar a 50% (cinquenta por cento) do percentual do segmento
+(7,5% - sete e meio por cento), deverá ser aprovado pelo Conselho de Administração,
+observado, ainda, o disposto no artigo 11.3 deste instrumento.
+4) Fundos de Investimentos Multimercados – FIM – desde que cumpridos todos os
+requisitos de análise e submissão à consideração do Comitê de Investimentos.
+5) Fundos de Investimentos em Ações – FIA – desde que cumpridos todos os requisitos de
+análise e submissão à consideração do Comitê de Investimentos.
+6) Fundos de Investimentos denominados de Crédito Privado - desde que cumpridos todos
+os requisitos de análise e submissão à consideração do Comitê de Investimentos e, quando o
+valor a ser investido ultrapassar a 50% (cinquenta por cento) do percentual do segmento
+(2,5% - dois e meio por cento), deverá ser aprovado pelo Conselho de Administração. As
+aplicações em fundos de investimentos denominados de crédito privado, subordinam-se que
+os direitos, títulos e valores mobiliários que compõem suas carteiras ou respectivos emissores
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 26
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+sejam considerados de baixo risco de crédito, com base, dentre outros critérios, em
+classificação efetuada por agência classificadora de risco em funcionamento no País.
+11. SELEÇÃO DE ATIVOS E FUNDOS
+A seleção dos produtos é de competência da Coordenação do TOLEDOPREV, que,
+antecipadamente, a fim de subsidiar a decisão de investimento e antes de submetê-la à
+consideração do Comitê de Investimentos, deverá efetuar a análise dos seguintes aspectos:
+(cid:1) Rentabilidade em relação benchmark;
+(cid:1) Volatilidade;
+(cid:1) Índices de eficiência;
+(cid:1) Regulamento, evidenciando as características, natureza e enquadramento do produto
+na Resolução do Conselho Monetário Nacional nº 3.922/2010 e análise do relatório de agência
+de risco (se houver);
+(cid:1) Parecer acerca da aplicação: quando se tratarem de fundos imobiliários e fundos de
+investimentos em participações, a Coordenação do TOLEDOPREV poderá promover
+processo de Due Diligence a fim de conhecer em detalhes a estrutura do produto.
+(cid:1) As aplicações que apresentem prazos para desinvestimento, taxa de saída ou outro tipo
+de cobrança que onerem o FAPES, inclusive prazos de carência e para conversão de cotas de
+fundos de investimentos, deverão ser precedidas de atestado do responsável legal pelo RPPS,
+evidenciando a sua compatibilidade com as obrigações presentes e futuras do regime.
+11.1 Credenciamento das Instituições Financeiras
+Os documentos e exigências necessárias ao credenciamento das Instituições, em especial dos
+Administradores e Gestores, bem como dos Distribuidores e Agentes Autônomos são as
+constantes no Edital de Credenciamento 001/2016 – FAPES/TOLEDOPREV.
+O credenciamento das Instituições Financeiras, conforme estabelecido no Edital de
+Credenciamento, são requisitos prévios para as alocações de recursos do FAPES.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 27
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+11.2 Abertura das Carteiras
+Os investimentos em cotas de fundos, independente do segmento, ficam condicionados a
+prévia análise de carteira de ativos onde seja possível examinar, ao menos, o nome dos ativos,
+os vencimentos, as taxas de negociação, o valor de mercado dos ativos bem como seu
+percentual de distribuição.
+11.3 Rating dos Ativos
+Serão admitidos apenas Fundos de Investimentos em Direitos Creditórios - FIDC’s - que
+possuam Rating “A” concedido por agência de classificação de risco autorizada a funcionar no
+País e submissão à consideração do Comitê de Investimentos.
+11.4 Rating das Instituições
+De acordo com artigo 15, § 2°, da Resolução do Conselho Monetário Nacional nº 3.922/2010,
+o FAPES somente poderá aplicar recursos em carteira administrada ou em cotas de fundo de
+investimento geridos por instituição financeira, demais instituições autorizadas a funcionar
+pelo Banco Central do Brasil ou pessoas jurídicas autorizadas pela Comissão de Valores
+Mobiliários para o exercício profissional de administração de carteira considerada, pelos
+responsáveis pela gestão de recursos do regime próprio de previdência social, com base, dentre
+outros critérios, em classificação efetuada por agência classificadora de risco em
+funcionamento no País, como: I – de baixo risco de crédito. II – de boa qualidade de gestão e
+de ambiente de controle de investimento.
+12. CLASSIFICAÇÃO DE CONTROLE DOS RISCOS DE GESTÃO
+Qualquer que seja o modelo de gestão, os riscos a que está sujeita estão classificados abaixo e
+é preocupação constante do FAPES o seu continuado monitoramento.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 28
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+12.1 Risco de Mercado
+É o risco que todas as modalidades de aplicações financeiras estão sujeitas. Derivam das
+incertezas quanto ao resultado de um investimento dadas as oscilações nas taxas e preços, em
+decorrência das mudanças nas condições de mercado.
+Para o seu controle, são apuradas as volatitilidades das diferentes classes de ativos a que a
+carteira do FAPES está exposta.
+Com base neste critério, podem ser monitorados, além dos fatores de risco com maior impacto
+na carteira, os valores financeiros envolvidos.
+12.2 Risco de Crédito
+É o risco conhecido como institucional ou de contraparte. É quando há a possibilidade de que
+o emissor ou garantidor de determinado ativo, não honre as condições e prazos pactuados e
+contratados com o investidor.
+Para avaliar o risco de crédito a que o FAPES estará sujeito nos investimentos que realizar,
+fundamentará as suas decisões em avaliações de crédito (ratings) elaboradas por agências de
+certificação e classificação de riscos que sejam de notório e expressivo conhecimento do
+mercado financeiro e de capitais.
+Na hipótese de que determinado investimento realizado pelo FAPES exija classificação de
+risco de crédito, será considerado aquele que tenha baixo risco conforme os padrões de
+avaliação das agências de classificação de riscos.
+12.3 Risco de Liquidez
+É o risco associado à exigência de compradores e vendedores de determinado ativo ao longo
+do tempo. Em mercados de baixa liquidez, para que haja a possibilidade de negociação de
+determinado ativo pode ser necessário abrir mão do preço pretendido.
+Para mitigar este risco, o FAPES mantém percentual adequado de seus recursos financeiros
+em ativos de liquidez imediata, tendo em vista os seus compromissos no curto e médio prazo.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 29
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+13. DA TRANSPARÊNCIA
+O Fundo de Aposentadorias e Pensões dos Servidores Públicos Municipais de Toledo busca,
+por meio da sua Política de Investimentos, estabelecer critérios de transparência e governança
+em seus processos internos de investimentos. Desta forma, foram definidos procedimentos
+para divulgação das informações relativas aos investimentos do FAPES.
+13.1 Disponibilização das Informações
+(cid:1) Publicar, no Sítio Eletrônico do Município de Toledo, a íntegra desta Política de
+Investimentos, bem como quaisquer alterações que vierem a ser efetuadas, em até 30 dias após
+a aprovação, conforme Portaria MPS nº 519, de 24 de agosto de 2011;
+(cid:1) Publicar, no Sítio Eletrônico do Município de Toledo, no prazo de até 30 dias após o
+encerramento do mês, a composição da carteira de investimentos do FAPES;
+(cid:1) Trimestralmente, publicar no Sítio Eletrônico do Município de Toledo e enviar ao
+Conselho de Administração, o relatório de gestão que evidencie detalhadamente a
+rentabilidade, os riscos das diversas modalidades de operações realizadas nas aplicações dos
+recursos do RPPS e a aderência à política anual de investimentos e suas revisões.
+(cid:1) Disponibilizar as informações contidas nos formulários APR – Autorização de
+Aplicação e Resgate, no prazo de até trinta dias, contados da respectiva aplicação ou resgate;
+(cid:1) Disponibilizar os Atestados de Credenciamento das Instituições credenciadas para
+receber as aplicações dos recursos do FAPES;
+(cid:1) Disponiblizar relação das instituições credenciadas para atuar com o FAPES e
+respectiva data de atualização do credenciamento;
+(cid:1) Disponibilizar informações sobre as datas e locais das reuniões dos órgãos de
+deliberação colegiada e do Comitê de Investimentos;
+(cid:1) Disponibilizar Atas das reuniões do Comitê de Investimentos e do Conselho de
+Administração.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 30
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+14. DISPOSIÇÕES GERAIS
+A presente Política de Investimentos foi elaborada e planejada para orientar as aplicações de
+investimentos para o exercício de 2017, consideradas as projeções macro e microeconômicas
+no intervalo de doze meses. As revisões extraordinárias, quando houver necessidade de ajustes
+diante do comportamento/conjuntura do mercado e/ou alteração da legislação, deverão ser
+justificadas, aprovadas e publicadas. As estratégias macro definidas nesta Política deverão ser
+integralmente seguidas pela Coordenação do TOLEDOPREV que, segundo critérios técnicos,
+estabelecerá as diretrizes de alocação específicas, de curto e médio prazo, para a obtenção da
+meta atuarial. Serão levadas ao Conselho de Administração, para avaliação, as aplicações não
+claramente definidas neste documento, mas que tiverem sido formuladas em conformidade
+com as diretrizes de investimentos e a legislação aplicável. A Política de Investimentos do
+FAPES foi aprovada em 08 de dezembro de 2016 pelo Comitê de Investimentos do FAPES
+conforme ata 014/2016 e pelo Conselho de Administração através da Ata n° 008/2016, da
+Reunião Ordinária do Conselho de Administração, realizada em 15 de dezembro de 2016,
+disciplinada pela Resolução do Conselho Monetário Nacional nº 3.922/2010, e seu prazo de
+vigência compreende o período de 01/01/2017 até 31/12/2017.
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 31
+MUNICÍPIO DE TOLEDO
+Estado do Paraná
+Coordenação de Previdência – TOLEDOPREV
+15. ASSINATURAS
+COMITÊ DE INVESTIMENTOS
+DAVID CALÇA
+Representante dos Servidores
+CPA – 10 ANBIMA – 01/07/2017
+JALDIR ANHOLETO
+Presidente do Conselho de Administração – FAPES
+CPA -10 ANBIMA – 10/06/2017
+EDIMILSON LOPES DA SILVEIRA
+Presidente do Conselho de Fiscal – FAPES
+CPA -10 ANBIMA – 05/05/2018
+WILMAR DA SILVA
+Contador do FAPES
+CPA -10 ANBIMA – 06/05/2019
+ROSELI FABRIS DALLA COSTA
+Coordenadora do TOLEDOPREV
+CPA -10 ANBIMA – 10/06/2017
+CONSELHO DE ADMINISTRAÇÃO
+Titular: Jaldir Anholeto
+Representante do
+Presidente do Conselho de Administração
+Executivo
+Suplente: Sérgio Gonçalves Costa
+Representante do Titular: Luiz Gilberto Birck
+Executivo
+Suplente: Franz Menegasso
+Representante do Titular: Marta Fath
+Executivo
+Suplente: Lucélia Giaretta Mattiello
+Representante dos Titular: David Calça
+Segurados em Atividade
+Suplente: Sirlei Theves Galvão
+Representante dos Titular: Misael Giane Avanci
+Segurados em Atividade
+Suplente: Rosi Meri Casagrande Poersch
+Representante dos Titular: Inês Jasinski
+Segurados Aposentados e
+Beneficiários Suplente: Juarez Polachini
+Política Anual de Investimentos – TOLEDOPREV 2017 Página 32
